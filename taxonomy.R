@@ -2,9 +2,8 @@
 # remotes::install_github("stibu81/simpleTaxonomy")
 
 library(simpleTaxonomy)
-here::i_am("taxonomy.R")
 
-taxonomy <- read_taxonomy(here::here("taxonomy.csv"))
+taxonomy <- read_taxonomy("taxonomy.csv")
 plot_taxonomy(taxonomy,
               show = c(),
               full_expand = c(),
