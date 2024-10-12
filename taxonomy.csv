@@ -424,7 +424,35 @@ Neuweltaffen,Kapuzinerartige,Cebidae,Familie
 Kapuzinerartige,Haubenkapuzineraffe,Sapajus apella,Art
 Kapuzinerartige,Totenkopfaffen,Saimiri,Gattung
 Totenkopfaffen,Bolivianischer Totenkopfaffe,Saimiri boliviensis,Art
+Neuweltaffen,Klammerschwanzaffen ,Atelidae,Familie
+Klammerschwanzaffen ,Braunkopfklammeraffe,Ateles fusciceps,Art
+Klammerschwanzaffen ,Brüllaffen,Alouatta,Gattung
 Affen,Altweltaffen,Catarrhini,ohne Rang
+Altweltaffen,Menschenaffen,Hominidae,Familie
+Menschenaffen,Gorillas,Gorilla,Gattung
+Gorillas,Westlicher Gorilla,Gorilla gorilla,Art
+Gorillas,Östlicher Gorilla,Gorilla beringei,Art
+Menschenaffen,Orang-Utans,Pongo,Gattung
+Orang-Utans,Sumatra-Orang-Utan ,Pongo abelii,Art
+Orang-Utans,Tapanuli-Orang-Utan,Pongo tapanuliensis,Art
+Orang-Utans,Borneo-Orang-Utan,Pongo pygmaeus,Art
+Menschenaffen,Schimpansen,Pan,Gattung
+Schimpansen,Bonobo,Pan paniscus,Art
+Schimpansen,Gemeiner Schimpanse,Pan troglodytes,Art
+Menschenaffen,Homo,Homo,Gattung
+Homo,Mensch,Homo Sapiens,Art
+Altweltaffen,Gibbons,Hylobatidae,Familie
+Gibbons,Weisshandgibbon,Hylobates lar,Art
+Altweltaffen,Meerkatzenverwandte,Cercopithecidae,Familie
+Meerkatzenverwandte,Nasenaffe,Nasalis larvatus,Art
+Meerkatzenverwandte,Makaken,Macaca,Gattung
+Makaken,Rhesusaffe,Macaca mulatta,Art
+Makaken,Berberaffe,Macaca sylvanus,Art
+Meerkatzenverwandte,Paviane,Papio,Gattung
+Meerkatzenverwandte,Mandrillartige,Mandrillus,Gattung
+Mandrillartige,Mandrill,Mandrillus sphinx,Art
+Mandrillartige,Drill,Mandrillus leucophaeus,Art
+Meerkatzenverwandte,Meerkatzen,Cercopithecus,Gattung
 Trockennasenprimaten,Koboldmakis,Tarsiidae,Familie
 Euarchontoglires,Hasenartige,Lagomorpha,Ordnung
 Hasenartige,Pfeifhasen,Ochotona,Familie
