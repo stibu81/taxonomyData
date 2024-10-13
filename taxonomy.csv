@@ -565,6 +565,73 @@ Uhus,Schneeeule,Bubo scandiacus,Art
 Eigentliche Eulen,Raufusskauz,Aegolius funereus,Art
 Eulen,Schleiereulen,Tytonidae,Familie
 Schleiereulen,Schleiereule,Tyto alba,Art
+Neukiefervögel,Falkenartige (O),Falconiformes,Ordnung
+Falkenartige (O),Falkenartige,Falconidae,Familie
+Falkenartige,Falken,Falco,Gattung
+Falken,Turmfalke,Falco tinnunculus,Art
+Falken,Baumfalke,Falco subbuteo,Art
+Falken,Wanderfalke,Falco peregrinus,Art
+Falken,Merlin,Falco columbarius,Art
+Neukiefervögel,Hühnervögel,Galliformes,Ordnung
+Hühnervögel,Fasanartige,Phasianidae,Familie
+Fasanartige,Auerhuhn,Tetrao urogallus,Art
+Fasanartige,Birkhuhn,Lyrurus tetrix,Art
+Fasanartige,Truthuhn,Meleagris gallopavo,Art
+Fasanartige,Fasan,Phasianus colchicus,Art
+Fasanartige,Goldfasan,Chrysolophus pictus,Art
+Fasanartige,Rebhuhn,Perdix perdix,Art
+Fasanartige,Wachtel,Coturnix coturnix,Art
+Fasanartige,Blauer Pfau,Pavo cristatus,Art
+Fasanartige,Bankivahuhn,Gallus gallus,Art
+Bankivahuhn,Burma-Bankivahuhn,Gallus gallus spadiceus,Unterart
+Bankivahuhn,Haushuhn,Gallus gallus domesticus,Unterart
+Hühnervögel,Perlhühner,Numididae,Familie
+Perlhühner,Helmperlhuhn,Numida meleagris,Art
+Neukiefervögel,Gänsevögel,Anseriformes,Ordnung
+Gänsevögel,Entenvögel,Anatidae,Familie
+Entenvögel,Ruderenten (UF),Oxyurinae,Unterfamilie
+Ruderenten (UF),Ruderenten,Oxyura,Gattung
+Ruderenten,Weisskopf-Ruderente,Oxyura leucocephala,Art
+Ruderenten,Schwarzkopf-Ruderente,Oxyura jamaicensis,Art
+Entenvögel,Gänse,Anserinae,Unterfamilie
+Gänse,Echte Schwäne,Cygnus,Gattung
+Echte Schwäne,Schwarzschwan,Cygnus atratus,Art
+Echte Schwäne,Höckerschwan,Cygnus olor,Art
+Echte Schwäne,Singschwan,Cygnus cygnus,Art
+Gänse,Feldgänse,Anser,Gattung
+Feldgänse,Graugans,Anser anser,Art
+Feldgänse,Waldsaatgans,Anser fabalis,Art
+Gänse,Meergänse,Branta,Gattung
+Meergänse,Kanadagans,Branta canadensis,Art
+Entenvögel,Halbgänse,Tadorninae,Unterfamilie
+Halbgänse,Nilgans,Alopochen aegyptiaca,Art
+Halbgänse,Kasarkas,Tadorna,Gattung
+Kasarkas,Brandgans,Tadorna tadorna,Art
+Kasarkas,Rostgans,adorna ferruginea,Art
+Entenvögel,Anatinae,Anatinae,Unterfamilie
+Anatinae,Schwimmenten,Anatini,Tribus
+Schwimmenten,Aix,Aix,Gattung
+Aix,Brautente,Aix sponsa,Art
+Aix,Mandarinente,Aix galericulata,Art
+Schwimmenten,Löffelente,Spatula clypeata,Art
+Schwimmenten,Mareca,Mareca,Gattung
+Mareca,Pfeifente,Mareca penelope,Art
+Mareca,Schnatterente,Mareca strepera,Art
+Schwimmenten,Eigentliche Enten,Anas platyrhynchos,Gattung
+Eigentliche Enten,Stockente,Anas platyrhynchos,Art
+Eigentliche Enten,Spiessente,Anas acuta,Art
+Eigentliche Enten,Krickente,Anas crecca,Art
+Anatinae,Tauchenten,Aythyini,Tribus
+Tauchenten,Kolbenente,Netta rufina,Art
+Tauchenten,Aythya,Aythya,Gattung
+Aythya,Reiherente,Aythya fuligula,Art
+Aythya,Tafelente,Aythya ferina,Art
+Aythya,Moorente,Aythya nyroca,Art
+Anatinae,Meerenten und Säger,Mergini,Tribus
+Meerenten und Säger,Eiderente,Somateria mollissima,Art
+Meerenten und Säger,Säger,Mergus,Gattung
+Säger,Gänsesäger,Mergus merganser,Art
+Säger,Mittelsäger,Mergus serrator,Art
 Vögel,Urkiefervögel,Palaeognathae,Unterklasse
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
