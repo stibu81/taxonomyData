@@ -520,12 +520,42 @@ Chlamyphoridae,Borstengürteltiere,Chaetophractus,Gattung
 Chlamyphoridae,Nacktschwanzgürteltiere,Cabassous,Gattung
 Chlamyphoridae,Kugelgürteltiere,Tolypeutes,Gattung
 Wirbeltiere,Vögel,Aves,Klasse
-Vögel,Greifvögel,Accipitriformes,Ordnung
+Vögel,Neukiefervögel,Neognathae,Unterklasse
+Neukiefervögel,Greifvögel,Accipitriformes,Ordnung
 Greifvögel,Habichtartige,Accipitridae,Familie
-Habichtartige,Echte Adler,Aquila,Gattung
+Habichtartige,Aquilinae,Aquilinae,Unterfamilie
+Aquilinae,Echte Adler,Aquila,Gattung
 Echte Adler,Steinadler,Aquila chrysaetos,Art
-Habichtartige,Seeadler,Haliaeetus,Gattung
-Seeadler,Weisskopfseeadler,Haliaeetus leucocephalus,Art
+Habichtartige,Bussardartige,Buteoninae,Unterfamilie
+Bussardartige,Seeadler (G),Haliaeetus,Gattung
+Seeadler (G),Weisskopfseeadler,Haliaeetus leucocephalus,Art
+Seeadler (G),Seeadler,Haliaeetus albicilla,Art
+Bussardartige,Milane,Milvus,Gattung
+Milane,Rotmilan,Milvus milvus,Art
+Milane,Schwarzmilan,Milvus migrans,Art
+Bussardartige,Bussarde,Buteo,Gattung
+Bussarde,Mäussebussard,Buteo buteo,Art
+Habichtartige,Wespenbussarde,Perninae,Unterfamilie
+Wespenbussarde,Wespenbussard,Pernis apivorus,Art
+Habichtartige,Habichte und Sperber,Accipitrinae,Unterfamilie
+Habichte und Sperber,Habicht,Astur gentilis,Art
+Habichte und Sperber,Sperber,Accipiter nisus,Art
+Habichte und Sperber,Weihen,Circus,Gattung
+Weihen,Kornweihe,Circus cyaneus,Art
+Weihen,Rohrweihe,Circus aeruginosus ,Art
+Habichtartige,Gypaetinae,Gypaetinae,Unterfamilie
+Gypaetinae,Bartgeier,Gypaetus barbatus,Art
+Habichtartige,Altweltgeier,Aegypiinae,Unterfamilie
+Altweltgeier,Gänsegeier,Gyps fulvus,Art
+Altweltgeier,Mönchsgeier,Aegypius monachus,Art
+Greifvögel,Fischadler (F),Pandionidae,Familie
+Fischadler (F),Fischadler,Pandion haliaetus,Art
+Greifvögel,Sagittariidae,Sagittariidae,Familie
+Sagittariidae,Sekretär,Sagittarius serpentarius,Art
+Greifvögel,Neuweltgeier,Cathartidae,Familie
+Neuweltgeier,Andenkondor,Vultur gryphus,Art
+Neuweltgeier,Kalifornienkondor,Gymnogyps californianus,Art
+Vögel,Urkiefervögel,Palaeognathae,Unterklasse
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
 Eukaryoten,Stramenopilen,Chromista,Reich
