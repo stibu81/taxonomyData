@@ -66,7 +66,7 @@ Braunbär,Grizzlybär,Ursus arctos horribilis,Unterart
 Braunbär,Kodiakbär,Ursus arctos middendorffi,Unterart
 Eigentliche Bären,Eisbär,Ursus maritimus,Art
 Eigentliche Bären,Kragenbär,Ursus thibetanus,Art
-Bären,Großer Panda ,Ailuropoda melanoleuca,Art
+Bären,Grosser Panda ,Ailuropoda melanoleuca,Art
 Bären,Brillenbär,Tremarctos ornatus,Art
 Bären,Malaienbär,Helarctos malayanus,Art
 Bären,Lippenbär,Melursus ursinus,Art
@@ -100,8 +100,8 @@ Altweltotter,Eurasischer Fischotter,Lutra lutra,Art
 Marder,Honigdachs,Mellivora capensis,Art
 Marderverwandte,Skunks,Mephitidae,Familie
 Skunks,Streifenskunk,Mephitis mephitis,Art
-Marderverwandte,Ailuridae ,Ailuridae ,Familie
-Ailuridae ,Kleine Pandas,Ailurus,Gattung
+Marderverwandte,Ailuridae,Ailuridae,Familie
+Ailuridae,Kleine Pandas,Ailurus,Gattung
 Marderverwandte,Kleinbären,Procyonidae,Familie
 Kleinbären,Waschbär,Procyon lotor,Art
 Kleinbären,Nasenbären,Nasua,Gattung
@@ -521,58 +521,8 @@ Chlamyphoridae,Nacktschwanzgürteltiere,Cabassous,Gattung
 Chlamyphoridae,Kugelgürteltiere,Tolypeutes,Gattung
 Wirbeltiere,Vögel,Aves,Klasse
 Vögel,Neukiefervögel,Neognathae,Unterklasse
-Neukiefervögel,Greifvögel,Accipitriformes,Ordnung
-Greifvögel,Habichtartige,Accipitridae,Familie
-Habichtartige,Aquilinae,Aquilinae,Unterfamilie
-Aquilinae,Echte Adler,Aquila,Gattung
-Echte Adler,Steinadler,Aquila chrysaetos,Art
-Habichtartige,Bussardartige,Buteoninae,Unterfamilie
-Bussardartige,Seeadler (G),Haliaeetus,Gattung
-Seeadler (G),Weisskopfseeadler,Haliaeetus leucocephalus,Art
-Seeadler (G),Seeadler,Haliaeetus albicilla,Art
-Bussardartige,Milane,Milvus,Gattung
-Milane,Rotmilan,Milvus milvus,Art
-Milane,Schwarzmilan,Milvus migrans,Art
-Bussardartige,Bussarde,Buteo,Gattung
-Bussarde,Mäussebussard,Buteo buteo,Art
-Habichtartige,Wespenbussarde,Perninae,Unterfamilie
-Wespenbussarde,Wespenbussard,Pernis apivorus,Art
-Habichtartige,Habichte und Sperber,Accipitrinae,Unterfamilie
-Habichte und Sperber,Habicht,Astur gentilis,Art
-Habichte und Sperber,Sperber,Accipiter nisus,Art
-Habichte und Sperber,Weihen,Circus,Gattung
-Weihen,Kornweihe,Circus cyaneus,Art
-Weihen,Rohrweihe,Circus aeruginosus ,Art
-Habichtartige,Gypaetinae,Gypaetinae,Unterfamilie
-Gypaetinae,Bartgeier,Gypaetus barbatus,Art
-Habichtartige,Altweltgeier,Aegypiinae,Unterfamilie
-Altweltgeier,Gänsegeier,Gyps fulvus,Art
-Altweltgeier,Mönchsgeier,Aegypius monachus,Art
-Greifvögel,Fischadler (F),Pandionidae,Familie
-Fischadler (F),Fischadler,Pandion haliaetus,Art
-Greifvögel,Sagittariidae,Sagittariidae,Familie
-Sagittariidae,Sekretär,Sagittarius serpentarius,Art
-Greifvögel,Neuweltgeier,Cathartidae,Familie
-Neuweltgeier,Andenkondor,Vultur gryphus,Art
-Neuweltgeier,Kalifornienkondor,Gymnogyps californianus,Art
-Neukiefervögel,Eulen,Strigiformes,Ordnung
-Eulen,Eigentliche Eulen,Strigidae,Familie
-Eigentliche Eulen,Steinkauz,Athene noctua,Art
-Eigentliche Eulen,Waldohreule,Asio otus,Art
-Eigentliche Eulen,Uhus,Bubo,Gattung
-Uhus,Uhu,Bubo bubo,Art
-Uhus,Schneeeule,Bubo scandiacus,Art
-Eigentliche Eulen,Raufusskauz,Aegolius funereus,Art
-Eulen,Schleiereulen,Tytonidae,Familie
-Schleiereulen,Schleiereule,Tyto alba,Art
-Neukiefervögel,Falkenartige (O),Falconiformes,Ordnung
-Falkenartige (O),Falkenartige,Falconidae,Familie
-Falkenartige,Falken,Falco,Gattung
-Falken,Turmfalke,Falco tinnunculus,Art
-Falken,Baumfalke,Falco subbuteo,Art
-Falken,Wanderfalke,Falco peregrinus,Art
-Falken,Merlin,Falco columbarius,Art
-Neukiefervögel,Hühnervögel,Galliformes,Ordnung
+Neukiefervögel,Galloanserae,Galloanserae,Überordnung
+Galloanserae,Hühnervögel,Galliformes,Ordnung
 Hühnervögel,Fasanartige,Phasianidae,Familie
 Fasanartige,Auerhuhn,Tetrao urogallus,Art
 Fasanartige,Birkhuhn,Lyrurus tetrix,Art
@@ -587,7 +537,7 @@ Bankivahuhn,Burma-Bankivahuhn,Gallus gallus spadiceus,Unterart
 Bankivahuhn,Haushuhn,Gallus gallus domesticus,Unterart
 Hühnervögel,Perlhühner,Numididae,Familie
 Perlhühner,Helmperlhuhn,Numida meleagris,Art
-Neukiefervögel,Gänsevögel,Anseriformes,Ordnung
+Galloanserae,Gänsevögel,Anseriformes,Ordnung
 Gänsevögel,Entenvögel,Anatidae,Familie
 Entenvögel,Ruderenten (UF),Oxyurinae,Unterfamilie
 Ruderenten (UF),Ruderenten,Oxyura,Gattung
@@ -632,6 +582,181 @@ Meerenten und Säger,Eiderente,Somateria mollissima,Art
 Meerenten und Säger,Säger,Mergus,Gattung
 Säger,Gänsesäger,Mergus merganser,Art
 Säger,Mittelsäger,Mergus serrator,Art
+Neukiefervögel,Neoaves,Neoaves,ohne Rang
+Neoaves,Mirandornithes,Mirandornithes,ohne Rang
+Mirandornithes,Flamingos (O),Phoenicopteriformes,Ordnung
+Flamingos (O),Flamingos,Phoenicopteridae,Familie
+Flamingos,Rosaflamingo,Phoenicopterus roseus,Art
+Mirandornithes,Lappentaucher (O),Podicipediformes,Ordnung
+Lappentaucher (O),Lappentaucher,Podicipedidae,Familie
+Lappentaucher,Podiceps,Podiceps,Gattung
+Podiceps,Haubentaucher,Podiceps cristatus,Art
+Podiceps,Rothalstaucher,Podiceps grisegena,Art
+Podiceps,Schwarzhalstaucher,Podiceps nigricollis,Art
+Lappentaucher,Zwergtaucher,Tachybaptus ruficollis,Art
+Neoaves,Columbaves,Columbaves,ohne Rang
+Columbaves,Kuckucksvögel,Cuculiformes,Ordnung
+Kuckucksvögel,Kuckucke,Cuculidae,Familie
+Kuckucke,Kuckuck,Cuculus canorus,Art
+Kuckucke,Häherkuckuck,Clamator glandarius,Art
+Columbaves,Taubenvögel,Columbiformes,Ordnung
+Taubenvögel,Tauben,Columbidae,Familie
+Tauben,Feldtauben,Columba,Gattung
+Feldtauben,Hohltaube,Columba oenas,Art
+Feldtauben,Ringeltaube,Columba palumbus,Art
+Feldtauben,Felsentaube,Columba livia,Art
+Felsentaube,Stadttaube,Columba livia domesticus,Unterart
+Tauben,Turteltauben,Streptopelia,Gattung
+Turteltauben,Türkentaube,Streptopelia decaocto,Art
+Turteltauben,Turteltaube,Streptopelia turtur,Art
+Neoaves,Elementaves,Elementaves,ohne Rang
+Elementaves,Kranichvögel,Gruiformes,Ordnung
+Kranichvögel,Kraniche,Gruidae,Familie
+Kraniche,Kranich,Grus grus,Art
+Kraniche,Kronenkranich,Balearica pavonina,Art
+Kranichvögel,Rallen,Rallidae,Familie
+Rallen,Teichhuhn,Gallinula chloropus,Art
+Rallen,Blässhuhn,Fulica atra,Art
+Rallen,Purpurhuhn,Porphyrio porphyrio,Art
+Rallen,Tüpfelsumpfhuhn,Porzana porzana,Art
+Rallen,Wachtelkönig,Crex crex,Art
+Rallen,Wasserralle,Rallus aquaticus,Art
+Elementaves,Regenpfeiferartige,Charadriiformes,Ordnung
+Regenpfeiferartige,Möwenverwandte,Laridae,Familie
+Möwenverwandte,Möwen,Larinae,Unterfamilie
+Möwen,Lachmöwe,Chroicocephalus ridibundus,Art
+Möwen,Sturmmöwe,Larus canus,Art
+Möwen,Schwarzkopfmöwe,Ichthyaetus melanocephalus,Art
+Möwen,Mittelmeermöwe,Larus michahellis,Art
+Möwen,Steppenmöwe,Larus cachinnans,Art
+Möwen,Silbermöwe,Larus argentatus,Art
+Möwen,Mantelmöwe,Larus marinus,Art
+Möwen,Heringsmöwe,Larus fuscus,Art
+Möwenverwandte,Seeschwalben,Sterninae,Unterfamilie
+Seeschwalben,Trauerseeschwalbe,Chlidonias niger,Art
+Seeschwalben,Lachseeschwalbe,Gelochelidon nilotica,Art
+Regenpfeiferartige,Schnepfenvögel,Scolopacidae,Familie
+Schnepfenvögel,Bekassine,Gallinago gallinago,Art
+Schnepfenvögel,Uferschnepfe,Limosa limosa,Art
+Schnepfenvögel,Waldschnepfe,Scolopax rusticola,Art
+Regenpfeiferartige,Regenpfeifer,Charadriidae,Familie
+Regenpfeifer,Kiebitz,Vanellus vanellus,Art
+Regenpfeifer,Flussregenpfeifer,Charadrius dubius,Art
+Regenpfeiferartige,Pluvianidae,Pluvianidae,Familie
+Pluvianidae,Krokodilwächter,Pluvianus aegyptius,Art
+Regenpfeiferartige,Alkenvögel,Alcidae,Familie
+Alkenvögel,Lunde,Fratercula,Gattung
+Lunde,Papageitaucher,Fratercula arctica,Art
+Alkenvögel,Lummen,Uria,Gattung
+Lummen,Trotellumme,Uria aalge,Art
+Lummen,Dickschnabellumme,Uria lomvia,Art
+Neoaves,Aequornithes,Aequornithes,ohne Rang
+Aequornithes,Ciconiiformes,Ciconiiformes,Ordnung
+Ciconiiformes,Störche,Ciconiidae,Familie
+Störche,Eigentliche Störche,Ciconia,Gattung
+Eigentliche Störche,Weissstorch,Ciconia ciconia,Art
+Eigentliche Störche,Schwarzstorch,Ciconia nigra,Art
+Störche,Marabu,Leptoptilos crumeniferus,Art
+Störche,Nimmersatt,Mycteria ibis,Art
+Aequornithes,Suliformes,Suliformes,Ordnung
+Suliformes,Tölpel,Sulidae,Familie
+Tölpel,Basstölpel,Morus bassanus,Art
+Tölpel,Blaufusstölpel,Sula nebouxii,Art
+Suliformes,Fregattvögel,Fregatidae,Familie
+Fregattvögel,Prachfregattvogel,Fregata magnificens,Art
+Suliformes,Kormorane,Phalacrocoracidae,Familie
+Kormorane,Kormoran,Phalacrocorax carbo,Art
+Kormorane,Krähenscharbe,Gulosus aristotelis,Art
+Suliformes,Schlangenhalsvögel,Anhingidae,Familie
+Schlangenhalsvögel,Amerika Schlangenhalsvogel,Anhinga anhinga,Art
+Aequornithes,Pelikanverwandte,Pelecaniformes,Ordnung
+Pelikanverwandte,Ibisse und Löffler,Threskiornithidae,Familie
+Ibisse und Löffler,Waldrapp,Geronticus eremita,Art
+Ibisse und Löffler,Löffler (G),Platalea,Gattung
+Löffler (G),Rosalöffler,Platalea ajaja,Art
+Löffler (G),Löffler,Platalea leucorodia,Art
+Ibisse und Löffler,Brauner Sichler,Plegadis falcinellus,Art
+Ibisse und Löffler,Pharaonenibis ,Threskiornis aethiopicus,Art
+Pelikanverwandte,Reiher,Ardeidae,Familie
+Reiher,Graureiher,Ardea cinerea,Art
+Reiher,Zwergdommel,Ixobrychus minutus,Art
+Reiher,Rohrdommel,Botaurus stellaris,Art
+Pelikanverwandte,Schuhschnäbel,Balaenicipitidae,Familie
+Schuhschnäbel,Schuhschnabel,Balaeniceps rex,Art
+Pelikanverwandte,Pelikane (G),Pelecanidae,Familie
+Pelikane (G),Pelikane,Pelecanus,Gattung
+Pelikane,Krauskopfpelikan,Pelecanus crispus,Art
+Pelikane,Braunpelikan,Pelecanus occidentalis,Art
+Pelikane,Rosapelikan,Pelecanus onocrotalus,Art
+Pelikane,Nashornpelikan,Pelecanus erythrorhynchos,Art
+Aequornithes,Pinguine (O),Sphenisciformes,Ordnung
+Pinguine (O),Pinguine,Spheniscidae,Familie
+Pinguine,Grosspinguine,Aptenodytes,Gattung
+Grosspinguine,Königspinguin,Aptenodytes patagonicus,Art
+Grosspinguine,Kaiserpinguin,Aptenodytes forsteri,Art
+Pinguine,Langschwanzpinguine,Pygoscelis,Gattung
+Langschwanzpinguine,Eselspinguin,Pygoscelis papua,Art
+Pinguine,Schopfpinguine,Eudyptes,Gattung
+Schopfpinguine,Tristanpinguin,Eudyptes moseleyi,Art
+Pinguine,Brillenpinguine,Spheniscus,Gattung
+Brillenpinguine,Brillenpinguin,Spheniscus demersus,Art
+Brillenpinguine,Galápagos-Pinguin,Spheniscus mendiculus,Art
+Aequornithes,Röhrennasen,Procellariiformes,Ordnung
+Röhrennasen,Albatrosse,Diomedeidae,Familie
+Albatrosse,Wanderalbatross,Diomedea exulans,Art
+Albatrosse,Galapagosalbatross,Phoebastria irrorata,Art
+Neoaves,Telluraves,Telluraves,ohne Rang
+Telluraves,Greifvögel,Accipitriformes,Ordnung
+Greifvögel,Habichtartige,Accipitridae,Familie
+Habichtartige,Aquilinae,Aquilinae,Unterfamilie
+Aquilinae,Echte Adler,Aquila,Gattung
+Echte Adler,Steinadler,Aquila chrysaetos,Art
+Habichtartige,Bussardartige,Buteoninae,Unterfamilie
+Bussardartige,Seeadler (G),Haliaeetus,Gattung
+Seeadler (G),Weisskopfseeadler,Haliaeetus leucocephalus,Art
+Seeadler (G),Seeadler,Haliaeetus albicilla,Art
+Bussardartige,Milane,Milvus,Gattung
+Milane,Rotmilan,Milvus milvus,Art
+Milane,Schwarzmilan,Milvus migrans,Art
+Bussardartige,Bussarde,Buteo,Gattung
+Bussarde,Mäussebussard,Buteo buteo,Art
+Habichtartige,Wespenbussarde,Perninae,Unterfamilie
+Wespenbussarde,Wespenbussard,Pernis apivorus,Art
+Habichtartige,Habichte und Sperber,Accipitrinae,Unterfamilie
+Habichte und Sperber,Habicht,Astur gentilis,Art
+Habichte und Sperber,Sperber,Accipiter nisus,Art
+Habichte und Sperber,Weihen,Circus,Gattung
+Weihen,Kornweihe,Circus cyaneus,Art
+Weihen,Rohrweihe,Circus aeruginosus ,Art
+Habichtartige,Gypaetinae,Gypaetinae,Unterfamilie
+Gypaetinae,Bartgeier,Gypaetus barbatus,Art
+Habichtartige,Altweltgeier,Aegypiinae,Unterfamilie
+Altweltgeier,Gänsegeier,Gyps fulvus,Art
+Altweltgeier,Mönchsgeier,Aegypius monachus,Art
+Greifvögel,Fischadler (F),Pandionidae,Familie
+Fischadler (F),Fischadler,Pandion haliaetus,Art
+Greifvögel,Sagittariidae,Sagittariidae,Familie
+Sagittariidae,Sekretär,Sagittarius serpentarius,Art
+Greifvögel,Neuweltgeier,Cathartidae,Familie
+Neuweltgeier,Andenkondor,Vultur gryphus,Art
+Neuweltgeier,Kalifornienkondor,Gymnogyps californianus,Art
+Telluraves,Eulen,Strigiformes,Ordnung
+Eulen,Eigentliche Eulen,Strigidae,Familie
+Eigentliche Eulen,Steinkauz,Athene noctua,Art
+Eigentliche Eulen,Waldohreule,Asio otus,Art
+Eigentliche Eulen,Uhus,Bubo,Gattung
+Uhus,Uhu,Bubo bubo,Art
+Uhus,Schneeeule,Bubo scandiacus,Art
+Eigentliche Eulen,Raufusskauz,Aegolius funereus,Art
+Eulen,Schleiereulen,Tytonidae,Familie
+Schleiereulen,Schleiereule,Tyto alba,Art
+Telluraves,Falkenartige (O),Falconiformes,Ordnung
+Falkenartige (O),Falkenartige,Falconidae,Familie
+Falkenartige,Falken,Falco,Gattung
+Falken,Turmfalke,Falco tinnunculus,Art
+Falken,Baumfalke,Falco subbuteo,Art
+Falken,Wanderfalke,Falco peregrinus,Art
+Falken,Merlin,Falco columbarius,Art
 Vögel,Urkiefervögel,Palaeognathae,Unterklasse
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
