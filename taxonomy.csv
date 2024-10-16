@@ -705,6 +705,11 @@ Aequornithes,Röhrennasen,Procellariiformes,Ordnung
 Röhrennasen,Albatrosse,Diomedeidae,Familie
 Albatrosse,Wanderalbatross,Diomedea exulans,Art
 Albatrosse,Galapagosalbatross,Phoebastria irrorata,Art
+Aequornithes,Seglervögel,Apodiformes,Ordnung
+Seglervögel,Segler,Apodidae,Familie
+Segler,Mauersegler,Apus apus,Art
+Segler,Alpensegler,Tachymarptis melba,Art
+Seglervögel,Kolibris,Trochilidae,Familie
 Neoaves,Telluraves,Telluraves,ohne Rang
 Telluraves,Greifvögel,Accipitriformes,Ordnung
 Greifvögel,Habichtartige,Accipitridae,Familie
@@ -750,6 +755,39 @@ Uhus,Schneeeule,Bubo scandiacus,Art
 Eigentliche Eulen,Raufusskauz,Aegolius funereus,Art
 Eulen,Schleiereulen,Tytonidae,Familie
 Schleiereulen,Schleiereule,Tyto alba,Art
+Telluraves,Trogone (O),Trogoniformes,Ordnung
+Trogone (O),Trogone,Trogonidae,Familie
+Trogone,Quetzal,Pharomachrus mocinno,Art
+Telluraves,Hornvögel und Hopfe,Bucerotiformes,Ordnung
+Hornvögel und Hopfe,Wiedehopfe,Upupidae,Familie
+Wiedehopfe,Wiedehopf,Upupa epops,Art
+Hornvögel und Hopfe,Nashornvögel,Bucerotidae,Familie
+Nashornvögel,Grosse Nashornvögel,Buceros,Gattung
+Grosse Nashornvögel,Doppelhornvogel,Buceros bicornis,Art
+Grosse Nashornvögel,Rhinozerosvogel,Buceros rhinoceros,Art
+Telluraves,Rackenvögel,Coraciiformes,Ordnung
+Rackenvögel,Eisvögel,Alcedinidae,Familie
+Eisvögel,Eisvogel,Alcedo atthis,Art
+Rackenvögel,Bienenfresser (F),Meropidae,Familie
+Bienenfresser (F),Bienenfresser,Merops apiaster,Art
+Telluraves,Spechtvögel,Piciformes,Ordnung
+Spechtvögel,Tukane (F),Ramphastidae,Familie
+Tukane (F),Tukane,Ramphastos,Gattung
+Tukane,Riesentukan,Ramphastos toco,Art
+Tukane,Fischertukan,Ramphastos sulfuratus,Art
+Spechtvögel,Honiganzeiger,Indicatoridae,Familie
+Honiganzeiger,Grosser Honiganzeiger,Indicator indicator,Art
+Spechtvögel,Spechte,Picidae,Familie
+Spechte,Echte Spechte,Picinae,Unterfamilie
+Echte Spechte,Buntspecht,Dendrocopos major,Art
+Echte Spechte,Picus,Picus,Gattung
+Picus,Grünspecht,Picus viridis,Art
+Picus,Grauspecht,Picus Canus,Art
+Echte Spechte,Mittelspecht,Dendrocoptes medius,Art
+Echte Spechte,Kleinspecht,Dryobates minor,Art
+Echte Spechte,Schwarzspecht,Dryocopus martius,Art
+Spechte,Wendehälse,Jynginae,Unterfamilie
+Wendehälse,Wendehals,Jynx torquilla,Art
 Telluraves,Falkenartige (O),Falconiformes,Ordnung
 Falkenartige (O),Falkenartige,Falconidae,Familie
 Falkenartige,Falken,Falco,Gattung
@@ -757,6 +795,32 @@ Falken,Turmfalke,Falco tinnunculus,Art
 Falken,Baumfalke,Falco subbuteo,Art
 Falken,Wanderfalke,Falco peregrinus,Art
 Falken,Merlin,Falco columbarius,Art
+Telluraves,Papageien,Psittaciformes,Ordnung
+Papageien,Strigopidae,Strigopidae,Familie
+Strigopidae,Kaka,Nestor meridionalis,Art
+Strigopidae,Kakapo,Strigops habroptila,Art
+Papageien,Kakadus,Cacatuidae,Familie
+Kakadus,Nymphensittich,Nymphicus hollandicus,Art
+Kakadus,Eigentliche Kakadus,Cacatua,Gattung
+Eigentliche Kakadus,Weisshaubenkakadu,Cacatua alba,Art
+Eigentliche Kakadus,Orangehaubenkakadu,Cacatua citrinocristata,Art
+Eigentliche Kakadus,Gelbhaubenkakadu,Cacatua galerita,Art
+Papageien,Altweltpapageien,Psittaculidae,Familie
+Altweltpapageien,Regenbogenlori,Trichoglossus moluccanus,Art
+Altweltpapageien,Wellensittich,Melopsittacus undulatus,Art
+Altweltpapageien,Unzertrennliche,Agapornis,Gattung
+Unzertrennliche,Pfirsichköpchen,Agapornis fischeri,Art
+Unzertrennliche,Russköpfchen,Agapornis nigrigenis,Art
+Papageien,Eigentliche Papageien,Psittacidae,Familie
+Eigentliche Papageien,Graupapagei,Psittacus erithacus,Art
+Eigentliche Papageien,Blauaras,Anodorhynchus,Gattung
+Blauaras,Hyazinthara,Anodorhynchus hyacinthinus,Art
+Eigentliche Papageien,Eigentliche Aras,Ara,Gattung
+Eigentliche Aras,Gelbbrustara,Ara ararauna,Art
+Eigentliche Aras,Scharlachara,Ara macao,Art
+Eigentliche Aras,Soldatenara,Ara militaris,Art
+Eigentliche Aras,Grünflügelara,Ara chloroptera,Art
+Telluraves,Sperlingsvögel,Passeriformes,Ordnung
 Vögel,Urkiefervögel,Palaeognathae,Unterklasse
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
