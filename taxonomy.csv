@@ -609,6 +609,7 @@ Felsentaube,Stadttaube,Columba livia domesticus,Unterart
 Tauben,Turteltauben,Streptopelia,Gattung
 Turteltauben,Türkentaube,Streptopelia decaocto,Art
 Turteltauben,Turteltaube,Streptopelia turtur,Art
+Tauben,Dodo,Raphu cucullatus,Art
 Neoaves,Elementaves,Elementaves,ohne Rang
 Elementaves,Kranichvögel,Gruiformes,Ordnung
 Kranichvögel,Kraniche,Gruidae,Familie
@@ -821,7 +822,140 @@ Eigentliche Aras,Scharlachara,Ara macao,Art
 Eigentliche Aras,Soldatenara,Ara militaris,Art
 Eigentliche Aras,Grünflügelara,Ara chloroptera,Art
 Telluraves,Sperlingsvögel,Passeriformes,Ordnung
+Sperlingsvögel,Schreivögel,Tyranni,Unterordnung
+Schreivögel,Töpfervögel,Furnariidae,Familie
+Töpfervögel,Rosttöpfer,Furnarius rufus,Art
+Sperlingsvögel,Singvögel,Passeri,Unterordnung
+Singvögel,Corvides,Corvides,Teilordnung
+Corvides,Pirole,Oriolidae,Familie
+Pirole,Pirol,Oriolus oriolus,Art
+Corvides,Würger (F),Laniidae,Familie
+Würger (F),Würger,Laniuse,Gattung
+Würger,Neuntöter,Lanius collurio,Art
+Würger,Raubwürger,Lanius excubitor,Art
+Corvides,Rabenvögel,Corvidae,Familie
+Rabenvögel,Bergkrähen,Pyrrhocorax,Gattung
+Bergkrähen,Alpenkrähe,Pyrrhocorax pyrrhocorax,Art
+Bergkrähen,Alpendohle,Pyrrhocorax graculus,Art
+Rabenvögel,Echte Elstern,Pica,Gattung
+Echte Elstern,Elster,Pica pica,Art
+Echte Elstern,Gelbschnabelelster,Pica nuttalli,Art
+Rabenvögel,Raben und Krähen,Corvus,Gattung
+Raben und Krähen,Dohle,Corvus monedula,Art
+Raben und Krähen,Erzrabe,Corvus crassirostris,Art
+Raben und Krähen,Kolkrabe,Corvus corax,Art
+Raben und Krähen,Nebelkrähe,Corvus cornix,Art
+Raben und Krähen,Rabenkrähe,Corvus corone,Art
+Raben und Krähen,Saatkrähe,Corvus frugilegus,Art
+Rabenvögel,Eichelhäher,Garrulus glandarius,Art
+Rabenvögel,Nussknacker,Nucifraga,Gattung
+Nussknacker,Tannenhäher,Nucifraga caryocatactes,Art
+Corvides,Paradiesvögel,Paradisaeidae,Familie
+Singvögel,Passerides,Passerides,Teilordnung
+Passerides,Sylviida,Sylviida,ohne Rang
+Sylviida,Meisen,Paridae,Familie
+Meisen,Tannenmeise,Periparus ater,Art
+Meisen,Haubenmeise,Lophophanes cristatus,Art
+Meisen,Kohlmeise,Parus major,Art
+Meisen,Blaumeise,Cyanistes caeruleus,Art
+Sylviida,Beutelmeisen,Remizidae,Familie
+Beutelmeisen,Beutelmeise,Remiz pendulinus,Art
+Sylviida,Lerchen,Alaudidae,Familie
+Lerchen,Feldlerche,Alauda arvensis,Art
+Lerchen,Heidelerche,Lullula arborea,Art
+Sylviida,Rohrsängerartige,Acrocephalidae,Familie
+Rohrsängerartige,Rohrsänger,Acrocephalus,Gattung
+Rohrsänger,Schilfrohrsänger,Acrocephalus schoenobaenus,Art
+Rohrsänger,Teichrohrsänger,Acrocephalus scirpaceus,Art
+Rohrsänger,Sumpfrohrsänger,Acrocephalus palustris,Art
+Rohrsängerartige,Spötter,Hippolais,Gattung
+Spötter,Orpheusspötter,Hippolais polyglotta,Art
+Sylviida,Schwirlverwandte ,Locustellidae,Familie
+Schwirlverwandte ,Feldschwirl,Locustella naevia,Art
+Sylviida,Schwalben,Hirundinidae,Familie
+Schwalben,Mehlschwalbe,Delichon urbicum,Art
+Schwalben,Rauchschwalbe,Hirundo rustica,Art
+Schwalben,Uferschwalbe,Riparia riparia,Art
+Sylviida,Grasmückenartige,Sylviidae,Familie
+Grasmückenartige,Grasmücken,Sylvia,Gattung
+Grasmücken,Mönchsgrasmücke,Sylvia atricapilla,Art
+Grasmücken,Gartengrasmücke,Sylvia borin,Art
+Sylviida,Laubsängerartige,Phylloscopidae,Familie
+Laubsängerartige,Laubsänger,Phylloscopus,Gattung
+Laubsänger,Fitis,Phylloscopus trochilus,Art
+Laubsänger,Zilpzalp,Phylloscopus collybita,Art
+Laubsänger,Berglaubsänger,Phylloscopus bonelli,Art
+Laubsänger,Waldlaubsänger,Phylloscopus sibilatrix,Art
+Sylviida,Schwanzmeisen,Aegithalidae,Familie
+Schwanzmeisen,Schwanzmeise,Aegithalos caudatus,Art
+Sylviida,Seidensängerverwandte,Cettiidae,Familie
+Seidensängerverwandte,Seidensänger,Cettia cetti,Art
+Passerides,Muscicapida,Muscicapida,ohne Rang
+Muscicapida,Baumläufer (F),Certhiidae,Familie
+Baumläufer (F),Baumläufer,Certhia,Gattung
+Baumläufer,Waldbaumläufer,Certhia brachydactyla,Art
+Baumläufer,Gartenbaumläufer,Certhia familiaris,Art
+Muscicapida,Sittidae ,Sittidae ,Familie
+Sittidae ,Kleiber,Sitta europaea,Art
+Muscicapida,Zaunkönige,Troglodytidae,Familie
+Zaunkönige,Zaunkönig,Troglodytes troglodytes,Art
+Muscicapida,Stare,Sturnidae,Familie
+Stare,Star,Sturnus vulgaris,Art
+Stare,Bergbeo,Gracula religiosa,Art
+Muscicapida,Drosseln,Turdidae,Familie
+Drosseln,Echte Drosseln,Turdus,Gattung
+Echte Drosseln,Singdrossel,Turdus philomelos,Art
+Echte Drosseln,Wacholderdrossel,Turdus pilaris,Art
+Echte Drosseln,Amsel,Turdus merula,Art
+Echte Drosseln,Misteldrossel,Turdus viscivorus,Art
+Muscicapida,Fliegenschnäpper,Saxicolinae,Familie
+Fliegenschnäpper,Rotkehlchen,Erithacus rubecula,Art
+Fliegenschnäpper,Luscinia,Luscinia,Gattung
+Luscinia,Blaukehlchen,Luscinia svecica,Art
+Luscinia,Nachtigal,Luscinia megarhynchos,Art
+Fliegenschnäpper,Schwarzkehlchen,Saxicola rubicola,Art
+Passerides,Passerida,Passerida,ohne Rang
+Passerida,Webervögel,Ploceidae,Familie
+Webervögel,Siedelweber,Philetairus socius,Art
+Passerida,Prachtfinken,Estrildidae,Familie
+Prachtfinken,Zebrafinken,Taeniopygia,Gattung
+Passerida,Sperlinge,Passeridae ,Familie
+Sperlinge,Passer,Passer,Gattung
+Passer,Haussperling,Passer domesticus,Art
+Passer,Feldsperling,Passer montanus,Art
+Sperlinge,Schneesperling,Montifringilla nivalis,Art
+Passerida,Stelzen und Pieper,Motacillidae,Familie
+Stelzen und Pieper,Bachstelze,Motacilla alba,Art
+Stelzen und Pieper,Bergpieper,Anthus spinoletta,Art
+Passerida,Finken,Fringillidae,Familie
+Finken,Erlenzeisig,Spinus spinus,Art
+Finken,Buchfink,Fringilla coelebs,Art
+Finken,Gimpel,Pyrrhula pyrrhula,Art
+Finken,Stieglitz,Carduelis carduelis,Art
+Finken,Kernbeisser,Coccothraustes coccothraustes,Art
+Finken,Grünfink,Chloris chloris,Art
+Passerida,Ammern,Emberizidae,Familie
+Ammern,Goldammer,Emberiza citrinella,Art
+Passerida,Tangaren,Thraupidae,Familie
+Tangaren,Darwinfinken,Geospizini,ohne Rang
 Vögel,Urkiefervögel,Palaeognathae,Unterklasse
+Urkiefervögel,Struthioniformes,Struthioniformes,Ordnung
+Struthioniformes,Strausse (F),Struthionidae,Familie
+Strausse (F),Strausse,Struthio,Gattung
+Strausse,Afrikanischer Strauss,Struthio camelus,Art
+Strausse,Somalistrauss,Struthio molybdophanes,Art
+Urkiefervögel,Rheiformes,Rheiformes,Ordnung
+Rheiformes,Nandus (F),Rheidae,Familie
+Nandus (F),Nandus,Rhea,Gattung
+Nandus,Nandu,Rhea americana,Art
+Nandus,Darwinnandu,Rhea pennata,Art
+Urkiefervögel,Apterygiformes,Apterygiformes,Ordnung
+Apterygiformes,Kiwis (F),Apterygidae,Familie
+Kiwis (F),Kiwis,Apteryx,Gattung
+Urkiefervögel,Casuariiformes,Casuariiformes,Ordnung
+Casuariiformes,Casuariidae,Casuariidae,Familie
+Casuariidae,Helmkasuar,Casuarius casuarius,Art
+Casuariidae,Grosser Emu,Dromaius novaehollandiae,Art
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
 Eukaryoten,Stramenopilen,Chromista,Reich
