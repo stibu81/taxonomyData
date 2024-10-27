@@ -957,6 +957,82 @@ Urkiefervögel,Casuariiformes,Casuariiformes,Ordnung
 Casuariiformes,Casuariidae,Casuariidae,Familie
 Casuariidae,Helmkasuar,Casuarius casuarius,Art
 Casuariidae,Grosser Emu,Dromaius novaehollandiae,Art
+Wirbeltiere,Reptilien,Reptilia,Klasse
+Reptilien,Schuppenkriechtiere,Squamata,Ordnung
+Schuppenkriechtiere,Schlangen,Serpentes ,Unterordnung
+Schlangen,Blindschlangenartige,Typhlopoidea,Überfamilie
+Blindschlangenartige,Blindschlangen,Typhlopidae,Familie
+Blindschlangen,Blödauge,Xerotyphlops vermicularis,Art
+Schlangen,Echte Schlangen,Alethinophidia,Teilordnung
+Echte Schlangen,Rollschlangen,Aniliidae,Familie
+Rollschlangen,Korallenrollschlange,Anilius scytale,Art
+Echte Schlangen,Boaartige,Booidea,Überfamilie
+Boaartige,Boas,Boidae,Familie
+Boas,Abgottschlange,Boa constrictor,Art
+Boas,Grosse Anakonda,Eunectes murinus,Art
+Boas,Hundskopfboa,Corallus hortulanus,Art
+Echte Schlangen,Pythonartige,Pythonoidea,Überfamilie
+Pythonartige,Pythons,Pythonidae,Familie
+Pythons,Eigentliche Pythons,Pyhton,Gattung
+Eigentliche Pythons,Heller Tigerpython,Python molurus,Art
+Eigentliche Pythons,Dunkler Tigerpython,Python bivittatus,Art
+Eigentliche Pythons,Königspython,Python regius,Art
+Pythons,Rautenpythons,Morelia,Gattung
+Rautenpythons,Grüner Baumpython,Morelia viridis,Art
+Pythons,Amethystpythons,Simalia,Gattung
+Amethystpythons,Boelen-Python,Simalia boeleni,Art
+Pythons,Südpythons,Antaresia,Gattung
+Südpythons,Fleckenpython,Antaresia maculosa,Art
+Pythonartige,Erdschlangen,Xenopeltidae,Familie
+Erdschlangen,Regenbogen-Schlange,Xenopeltis unicolor,Art
+Echte Schlangen,Vipern,Viperidae ,Familie
+Vipern,Grubenottern,Crotalinae,Unterfamilie
+Grubenottern,Nordamerikanischer Kupferkopf,Agkistrodon contortrix,Art
+Grubenottern,Klapperschlangen,Crotalus,Gattung
+Klapperschlangen,Diamant-Klapperschlange,Crotalus adamanteus,Art
+Klapperschlangen,Seitenwinder-Klapperschlange,Crotalus cerastes,Art
+Grubenottern,Greifschwanz-Lanzenotter,Bothriechis schlegelii,Art
+Grubenottern,Grossaugen-Bambusotter,Trimeresurus macrops,Art
+Vipern,Echte Vipern,Viperinae,Unterfamilie
+Echte Vipern,Nashornviper,Bitis nasicornis,Art
+Echte Vipern,Wüsten-Hornviper,Cerastes cerastes,Art
+Echte Vipern,Gemeine Sandrasselotter,Echis carinatus,Art
+Echte Vipern,Echte Ottern,Vipera,Gattung
+Echte Ottern,Kreuzotter,Vipera berus,Art
+Echte Ottern,Aspisviper,Vipera aspis,Art
+Echte Vipern,Spinnenschwanzviper,Pseudocerastes urarachnoides,Art
+Echte Schlangen,Elapoidea,Elapoidea,Überfamilie
+Elapoidea,Giftnattern,Elapidae,Familie
+Giftnattern,Echte Giftnattern,Elapinae,Unterfamilie
+Echte Giftnattern,Korallenottern,Micrurus,Gattung
+Korallenottern,Texas-Korallenotter,Micrurus tener,Art
+Echte Giftnattern,Königskobra,Ophiophagus hannah,Art
+Echte Giftnattern,Echte Kobras,Naja,Gattung
+Echte Kobras,Brillenschlange,Naja naja,Art
+Echte Kobras,Uräusschlange,Naja haje,Art
+Echte Kobras,Kapkobra,Naja nivea,Art
+Echte Giftnattern,Mambas,Dendroaspis,Gattung
+Mambas,Schwarze Mamba,Dendroaspis polylepis,Art
+Mambas,Grüne Mamba,Dendroaspis viridis,Art
+Giftnattern,Seeschlangen,Hydrophiinae,Unterfamilie
+Seeschlangen,Plättchenseeschlange,Hydrophis platurus,Art
+Giftnattern,Plattschwanz-Seeschlangen,Laticaudinae,Unterfamilie
+Plattschwanz-Seeschlangen,Gewöhnlicher Plattschwanz,Laticauda laticaudata,Art
+Elapoidea,Pseudoxyrhophiidae,Pseudoxyrhophiidae,Familie
+Pseudoxyrhophiidae,Blattnasennattern,Langaha,Gattung
+Echte Schlangen,Colubroidea,Colubroidea,Überfamilie
+Colubroidea,Nattern,Colubridae,Familie
+Nattern,Wassernattern,Natricinae,Unterfamilie
+Wassernattern,Europäische Wassernattern,Natrix,Gattung
+Europäische Wassernattern,Ringelnatter,Natrix natrix,Art
+Europäische Wassernattern,Vipernatter,Natrix maura,Art
+Europäische Wassernattern,Würfelnatter,Natrix tesselata,Art
+Nattern,Eigentliche Nattern,Colubrinae,Unterfamilie
+Eigentliche Nattern,Schlingnatter,Coronella austriaca,Art
+Eigentliche Nattern,Gelbgrüne Zornnatter,Hierophis viridiflavus,Art
+Eigentliche Nattern,Äskulapnatter,Zamenis longissimus,Art
+Reptilien,Schildkröten,Testudinata,Ordnung
+Reptilien,Krokodile,Crocodylia ,Ordnung
 Eukaryoten,Pilze,Fungi,Reich
 Eukaryoten,Pflanzen,Plantae,Reich
 Eukaryoten,Stramenopilen,Chromista,Reich
