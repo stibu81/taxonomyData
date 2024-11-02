@@ -448,7 +448,7 @@ Menschenaffen,Schimpansen,Pan,Gattung,https://upload.wikimedia.org/wikipedia/com
 Schimpansen,Bonobo,Pan paniscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pan_paniscus12.jpg/100px-Pan_paniscus12.jpg
 Schimpansen,Gemeiner Schimpanse,Pan troglodytes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/100px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg
 Menschenaffen,Homo,Homo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/100px-Da_Vinci_Vitruve_Luc_Viatour.jpg
-Homo,Mensch,Homo Sapiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carl_von_Linn%C3%A9.png/100px-Carl_von_Linn%C3%A9.png
+Homo,Mensch,Homo sapiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carl_von_Linn%C3%A9.png/100px-Carl_von_Linn%C3%A9.png
 Altweltaffen,Gibbons,Hylobatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lar_Gibbon_%2846946767992%29.jpg/100px-Lar_Gibbon_%2846946767992%29.jpg
 Gibbons,Weisshandgibbon,Hylobates lar,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hylobates_lar_pair_of_white_and_black_01.jpg/100px-Hylobates_lar_pair_of_white_and_black_01.jpg
 Altweltaffen,Meerkatzenverwandte,Cercopithecidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Here%27s_trouble%21_%2848050586312%29.jpg/100px-Here%27s_trouble%21_%2848050586312%29.jpg
@@ -562,7 +562,7 @@ Entenvögel,Halbgänse,Tadorninae,Unterfamilie,https://upload.wikimedia.org/wiki
 Halbgänse,Nilgans,Alopochen aegyptiaca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alopochen-aegyptiacus.jpg/100px-Alopochen-aegyptiacus.jpg
 Halbgänse,Kasarkas,Tadorna,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Brandgans.jpg/100px-Brandgans.jpg
 Kasarkas,Brandgans,Tadorna tadorna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Common.shelduck.2.arp.750pix.jpg/100px-Common.shelduck.2.arp.750pix.jpg
-Kasarkas,Rostgans,adorna ferruginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rostgans.jpg/100px-Rostgans.jpg
+Kasarkas,Rostgans,Adorna ferruginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rostgans.jpg/100px-Rostgans.jpg
 Entenvögel,Anatinae,Anatinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ducks_in_plymouth%2C_massachusetts.jpg/100px-Ducks_in_plymouth%2C_massachusetts.jpg
 Anatinae,Schwimmenten,Anatini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ducks_in_plymouth%2C_massachusetts.jpg/100px-Ducks_in_plymouth%2C_massachusetts.jpg
 Schwimmenten,Aix,Aix,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mandarinente_2008.jpg/100px-Mandarinente_2008.jpg
@@ -572,7 +572,7 @@ Schwimmenten,Löffelente,Spatula clypeata,Art,https://upload.wikimedia.org/wikip
 Schwimmenten,Mareca,Mareca,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mareca_penelope_kuribo_cropped.jpg/100px-Mareca_penelope_kuribo_cropped.jpg
 Mareca,Pfeifente,Mareca penelope,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurasian_Wigeon_-_male.jpg/100px-Eurasian_Wigeon_-_male.jpg
 Mareca,Schnatterente,Mareca strepera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gadwall-Anas-strepera.jpg/100px-Gadwall-Anas-strepera.jpg
-Schwimmenten,Eigentliche Enten,Anas platyrhynchos,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anas_acuta15.jpg/100px-Anas_acuta15.jpg
+Schwimmenten,Eigentliche Enten,Anas,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anas_acuta15.jpg/100px-Anas_acuta15.jpg
 Eigentliche Enten,Stockente,Anas platyrhynchos,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mallard_male_female.jpg/100px-Mallard_male_female.jpg
 Eigentliche Enten,Spiessente,Anas acuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg/100px-Northern_Pintails_%28Male_%26_Female%29_I_IMG_0911.jpg
 Eigentliche Enten,Krickente,Anas crecca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurasian_teal.jpg/100px-Eurasian_teal.jpg
