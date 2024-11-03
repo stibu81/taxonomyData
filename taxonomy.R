@@ -10,8 +10,10 @@ plot_taxonomy(taxonomy,
               show = c(),
               full_expand = c(),
               focus = c(),
+              highlight = c(),
               expand_rank = c("Gattung", "Art"),
-              show_images = TRUE
+              show_images = TRUE,
+              image_size = 200
               )
 
 
