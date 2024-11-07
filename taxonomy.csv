@@ -1,5 +1,5 @@
 parent,name,scientific,rank,image_url
-NA,Lebewesen,NA,Lebewesen,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
+,Lebewesen,,Lebewesen,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Lebewesen,Eukaryoten,Eukaryota,Domäne,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Eukaryoten,Tiere,Animalia,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/100px-Animal_diversity.png
 Tiere,Chordatiere,Chordata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
@@ -173,7 +173,7 @@ Schwielensohler,Kamele,Camelidae,Familie,https://upload.wikimedia.org/wikipedia/
 Kamele,Altweltkamele,Camelus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Camelus_dromedarius_in_Singapore_Zoo.JPG/100px-Camelus_dromedarius_in_Singapore_Zoo.JPG
 Altweltkamele,Dromedar,Camelus dromedarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Camelcalf-feeding.jpg/100px-Camelcalf-feeding.jpg
 Altweltkamele,Trampeltier,Camelus bactrianus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Trampeltier_1528.JPG/100px-2011_Trampeltier_1528.JPG
-Kamele,Lamas,Lama,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lama3.jpg/100px-Lama3.jpg
+Kamele,Lamas,Lama,Gattung,not_found
 Lamas,Lama,Lama glama,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lloyd_the_Llama.jpg/100px-Lloyd_the_Llama.jpg
 Lamas,Guanako,Lama guanicoe,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Guanaco_09.24.jpg/100px-Guanaco_09.24.jpg
 Kamele,Vicugna,Vicugna,Gattung,not_found
@@ -963,7 +963,8 @@ Casuariidae,Helmkasuar,Casuarius casuarius,Art,https://upload.wikimedia.org/wiki
 Casuariidae,Grosser Emu,Dromaius novaehollandiae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/100px-Emu_1_-_Tidbinbilla.jpg
 Wirbeltiere,Reptilien,Reptilia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Extant_reptilia.jpg/100px-Extant_reptilia.jpg
 Reptilien,Schuppenkriechtiere,Squamata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Squamata-01.jpg/100px-Squamata-01.jpg
-Schuppenkriechtiere,Schlangen,Serpentes,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Snakes_Diversity.jpg/100px-Snakes_Diversity.jpg
+Schuppenkriechtiere,Toxicofera,Toxicofera,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mexican-Beaded-Lizard.jpg/100px-Mexican-Beaded-Lizard.jpg
+Toxicofera,Schlangen,Serpentes,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Snakes_Diversity.jpg/100px-Snakes_Diversity.jpg
 Schlangen,Blindschlangenartige,Typhlopoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leptotyphlops_humilis_-_head.jpg/100px-Leptotyphlops_humilis_-_head.jpg
 Blindschlangenartige,Blindschlangen,Typhlopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Typhlops_vermicularis_9.jpg/100px-Typhlops_vermicularis_9.jpg
 Blindschlangen,Blödauge,Xerotyphlops vermicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Typhlops_vermicularis2.jpg/100px-Typhlops_vermicularis2.jpg
@@ -1035,6 +1036,97 @@ Nattern,Eigentliche Nattern,Colubrinae,Unterfamilie,https://upload.wikimedia.org
 Eigentliche Nattern,Schlingnatter,Coronella austriaca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/CoronellaAustriaca3.jpg/100px-CoronellaAustriaca3.jpg
 Eigentliche Nattern,Gelbgrüne Zornnatter,Hierophis viridiflavus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Western_Whip_Snake_%28Hierophis_viridiflavus%29_female_%28Found_by_Jean_NICOLAS%29_%2814062814522%29.jpg/100px-Western_Whip_Snake_%28Hierophis_viridiflavus%29_female_%28Found_by_Jean_NICOLAS%29_%2814062814522%29.jpg
 Eigentliche Nattern,Äskulapnatter,Zamenis longissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zamenis_longissimus.jpg/100px-Zamenis_longissimus.jpg
+Toxicofera,Schleichenartige,Anguimorpha,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Anguis_fragilis_%28curled_up%29.jpg/100px-Anguis_fragilis_%28curled_up%29.jpg
+Schleichenartige,Krustenechsen,Helodermatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gila-Krustenechse_in_Arizona.jpg/100px-Gila-Krustenechse_in_Arizona.jpg
+Krustenechsen,Gila-Krustenechse,Heloderma suspectum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Reticulate_Gila_Monster.jpg/100px-Reticulate_Gila_Monster.jpg
+Schleichenartige,Schleichen,Anguidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Anguidae.jpg/100px-Anguidae.jpg
+Schleichen,Blindschleiche,Anguis fragilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AnguisFragilis_Collage.jpg/100px-AnguisFragilis_Collage.jpg
+Schleichenartige,Warane (F),Varanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Malayan_water_monitor.jpg/100px-Malayan_water_monitor.jpg
+Warane (F),Warane,Varanus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Malayan_water_monitor.jpg/100px-Malayan_water_monitor.jpg
+Warane,Mitchells Waran,Varanus mitchelli,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Varanus_mitchelli.jpg/100px-Varanus_mitchelli.jpg
+Warane,Glauerts Felsenwaran,Varanus glauerti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kimberley-Felsenwaran_%28Varanus_glauerti%29.jpg/100px-Kimberley-Felsenwaran_%28Varanus_glauerti%29.jpg
+Warane,Reisingers Baumwaran,Varanus reisingeri,Art,not_found
+Warane,Komodowaran,Varanus komodoensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Komodo_Dragons_in_the_wild_on_Rinca_island_Indonesia..jpg/100px-Komodo_Dragons_in_the_wild_on_Rinca_island_Indonesia..jpg
+Toxicofera,Leguanartige,Iguania,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Collared_and_chuckwallah_lizards_arp.jpg/100px-Collared_and_chuckwallah_lizards_arp.jpg
+Leguanartige,Agamen,Agamidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MC_Siedleragame.jpg/100px-MC_Siedleragame.jpg
+Agamen,Krötenkopfagamen,Phrynocephalus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phrynocephalus_mystaceus.jpg/100px-Phrynocephalus_mystaceus.jpg
+Krötenkopfagamen,Bärtiger Krötenkopf,Phrynocephalus mystaceus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phrynocephalus_mystaceus.jpg/100px-Phrynocephalus_mystaceus.jpg
+Krötenkopfagamen,Gefleckter Krötenkopf,Phrynocephalus guttagus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Phrynocephalus_guttatus-animal-reader.ru_2.jpg/100px-Phrynocephalus_guttatus-animal-reader.ru_2.jpg
+Krötenkopfagamen,Sonnengucker,Phrynocephalus helioscopus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sunwatcher_Toadhead_Agama_%28Phrynocephalus_helioscopus%29_%288603768596%29.jpg/100px-Sunwatcher_Toadhead_Agama_%28Phrynocephalus_helioscopus%29_%288603768596%29.jpg
+Agamen,Grüner Nackenstachler,Acanthosaura capra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gr%C3%BCner_Nackenstachler_beim_Fressen_einer_Schabe_2013-07-08_14-48.jpg/100px-Gr%C3%BCner_Nackenstachler_beim_Fressen_einer_Schabe_2013-07-08_14-48.jpg
+Agamen,Flugdrachen,Draco,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Draco_taeniopterus_Gunther%2C_1861_from_Bulon.jpg/100px-Draco_taeniopterus_Gunther%2C_1861_from_Bulon.jpg
+Flugdrachen,Gemeiner Flugdrache,Draco volans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Draco_volans_01.JPG/100px-Draco_volans_01.JPG
+Flugdrachen,Timor-Flugdrache,Draco timoriensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Draco_timoriensis.jpg/100px-Draco_timoriensis.jpg
+Agamen,Kragenechse,Chlamydosaurus kingii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Frill-necked_lizard_%28Chlamydosaurus_kingii%29_camouflaged_within_its_natural_environment.jpg/100px-Frill-necked_lizard_%28Chlamydosaurus_kingii%29_camouflaged_within_its_natural_environment.jpg
+Agamen,Dornteufel,Moloch horridus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Thornydevil02.jpg/100px-Thornydevil02.jpg
+Agamen,Prachtschmetterlingsagame,Leiolepis belliana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Leiolepis_belliana_60472669.jpg/100px-Leiolepis_belliana_60472669.jpg
+Leguanartige,Chamäleons,Chamaeleonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cam%C3%A9l%C3%A9on_Madagascar_02.jpg/100px-Cam%C3%A9l%C3%A9on_Madagascar_02.jpg
+Chamäleons,Kurzhorn-Chamäleon,Calumma brevicorne,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Calumma_brevicorne_Seite.jpg/100px-Calumma_brevicorne_Seite.jpg
+Chamäleons,Chamaelo,Chamaelo,Gattung,not_found
+Chamaelo,Basiliskenchamäleon,Chamaelo africanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Benny_Trapp_Chamaeleo_africanus_kletterndes_Weibchen.jpg/100px-Benny_Trapp_Chamaeleo_africanus_kletterndes_Weibchen.jpg
+Chamaelo,Gewöhnliches Chamäleon,Chamaelo chamaelon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gew%C3%B6hnliches_Cham%C3%A4leon.jpg/100px-Gew%C3%B6hnliches_Cham%C3%A4leon.jpg
+Chamäleons,Furcifer,Furcifer,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chamaeleo_pardalis_050725_02w.jpg/100px-Chamaeleo_pardalis_050725_02w.jpg
+Furcifer,Pantherchamäleon,Furcifer pardalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg/100px-Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg
+Furcifer,Riesenchamäleon,Furcifer oustaleti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cam%C3%A9l%C3%A9on_Madagascar_02.jpg/100px-Cam%C3%A9l%C3%A9on_Madagascar_02.jpg
+Furcifer,Furcifer labordi,Furcifer labordi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Furcifer_labordi%2C_Kirindy%2C_Madagascar_%284568655085%29.jpg/100px-Furcifer_labordi%2C_Kirindy%2C_Madagascar_%284568655085%29.jpg
+Chamäleons,Dreihornchamäleon,Triocerus jacksonii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jackson%27s_Chameleon444.jpg/100px-Jackson%27s_Chameleon444.jpg
+Leguanartige,Leguane,Iguanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MC_GruenerLeguan.jpg/100px-MC_GruenerLeguan.jpg
+Leguane,Grüner Leguan,Iguana iguana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Iguana_iguana_Portoviejo_04.jpg/100px-Iguana_iguana_Portoviejo_04.jpg
+Leguane,Meerechse,Amblyrhynchus cristatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Marineiguana03.jpg/100px-Marineiguana03.jpg
+Leguane,Nashornleguan,Cycura cornuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Iguana_pauses_in_the_grass..jpg/100px-Iguana_pauses_in_the_grass..jpg
+Leguane,Drusenkopf,Conolophus sucristatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Conolophus_subcristatus_%28North_Seymour_4%29.jpg/100px-Conolophus_subcristatus_%28North_Seymour_4%29.jpg
+Leguanartige,Corytophanidae,Corytophanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Stirnlappenbasilisk3cele4.jpg/100px-Stirnlappenbasilisk3cele4.jpg
+Corytophanidae,Basilisken,Basiliscus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Striped_basilisk_lizard.jpg/100px-Striped_basilisk_lizard.jpg
+Basilisken,Stirnlappenbasilisk,Basiliscus plumifrons,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Basiliscus_plumifrons_%28Ca%C3%B1o_Negra%29_mirror.jpg/100px-Basiliscus_plumifrons_%28Ca%C3%B1o_Negra%29_mirror.jpg
+Basilisken,Helmbasilisk,Basiliscus basiliscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Common_basilisk_in_Costa_Rica.jpg/100px-Common_basilisk_in_Costa_Rica.jpg
+Basilisken,Streifenbasilisk,Basiliscus vittatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Basiliscus_vittatus_lizard_on_a_rock%2C_Costa_Rica_%282009%29.jpg/100px-Basiliscus_vittatus_lizard_on_a_rock%2C_Costa_Rica_%282009%29.jpg
+Leguanartige,Crotaphytidae,Crotaphytidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Crotaphytus_vestigium.jpg/100px-Crotaphytus_vestigium.jpg
+Crotaphytidae,Halsbandleguan,Crotaphytus collaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Collared_Lizard_1.jpg/100px-Collared_Lizard_1.jpg
+Schuppenkriechtiere,Lacertibaenia,Lacertibaenia,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Lacerta_agilis-Jaszczurka_zwnka.jpg/100px-Lacerta_agilis-Jaszczurka_zwnka.jpg
+Lacertibaenia,Doppelschleichen,Amphisbaenia,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iberian_worm_lizard.jpg/100px-Iberian_worm_lizard.jpg
+Doppelschleichen,Eigentliche Doppelschleichen,Amphisbaenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amphisbaena_alba03.jpg/100px-Amphisbaena_alba03.jpg
+Eigentliche Doppelschleichen,Rote Doppelschleiche,Amphisbaena alba,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amphisbaena_alba03.jpg/100px-Amphisbaena_alba03.jpg
+Doppelschleichen,Zweifuss-Doppelschleichen,Bipedidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bipes_biporus.jpg/100px-Bipes_biporus.jpg
+Zweifuss-Doppelschleichen,Fünffingerige Handwühle,Bipes biporus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bipes_biporus.jpg/100px-Bipes_biporus.jpg
+Doppelschleichen,Blanidae,Blanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iberian_worm_lizard.jpg/100px-Iberian_worm_lizard.jpg
+Blanidae,Maurische Netzwühle,Blanus cinereus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Iberian_worm_lizard.jpg/100px-Iberian_worm_lizard.jpg
+Doppelschleichen,Rhineuridae,Rhineuridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rhineura_floridana_60562933.jpg/100px-Rhineura_floridana_60562933.jpg
+Rhineuridae,Florida-Doppelschleiche,Rhineura floridana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rhineura_floridana_60562933.jpg/100px-Rhineura_floridana_60562933.jpg
+Lacertibaenia,Echte Eidechsen,Lacertidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Eidechse.1024.jpg/100px-Eidechse.1024.jpg
+Echte Eidechsen,Halsbandeidechsen,Lacerta,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zauneidechse3.jpg/100px-Zauneidechse3.jpg
+Halsbandeidechsen,Zauneidechse,Lacerta agilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/M_Zauneidechse1_Edit1.jpg/100px-M_Zauneidechse1_Edit1.jpg
+Halsbandeidechsen,Westliche Smaragdeidechse,Lacerta bilineata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lacerta_viridis02.jpg/100px-Lacerta_viridis02.jpg
+Echte Eidechsen,Waldeidechse,Zoodoca vivipara,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Lacerta_vivipara_2_hen_%28Marek_Szczepanek%29.jpg/100px-Lacerta_vivipara_2_hen_%28Marek_Szczepanek%29.jpg
+Echte Eidechsen,Mauereidechse,Podarcis muralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/WallLizard.jpg/100px-WallLizard.jpg
+Echte Eidechsen,Japanischer schnellläufer,Takydromus tachydromoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Takydromus_tachydromoides_%28long_tail%29.JPG/100px-Takydromus_tachydromoides_%28long_tail%29.JPG
+Schuppenkriechtiere,Geckoartige,Gekkota,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gecko_l%C3%A9opard_Ile_aux_Serpents_171108_1.jpg/100px-Gecko_l%C3%A9opard_Ile_aux_Serpents_171108_1.jpg
+Geckoartige,Geckos,Gekkonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gekko_gecko_%28rock%29_by_Robert_Michniewicz.jpg/100px-Gekko_gecko_%28rock%29_by_Robert_Michniewicz.jpg
+Geckos,Grosser Madagaskar-Taggecko,Phelsuma grandis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Taggecko_131977.jpg/100px-Taggecko_131977.jpg
+Geckos,Himmelblauer Zwergtaggecko,Lygodactylus williamsi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Lygodactylus-williamsi.jpg/100px-Lygodactylus-williamsi.jpg
+Geckos,Tokeh,Gekko gecko,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Tokay.jpg/100px-Tokay.jpg
+Geckos,Blattschwanzgeckos,Uroplatus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/UroplatusSikoraeSameiti.png/100px-UroplatusSikoraeSameiti.png
+Geckoartige,Flossenfüsse,Pygopodidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lialis_burtonis.jpg/100px-Lialis_burtonis.jpg
+Flossenfüsse,Burtons Spitzkopf-Flossenfuss,Lialis burtonis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lialis_burtonis.jpg/100px-Lialis_burtonis.jpg
+Geckoartige,Doppelfingergeckos,Diplodactylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Diplodactylus_vittatus.jpg/100px-Diplodactylus_vittatus.jpg
+Doppelfingergeckos,Höckerkopfgecko,Rhacodactylus auriculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Rhacodactylus_auriculatus2.jpg/100px-Rhacodactylus_auriculatus2.jpg
+Doppelfingergeckos,Kronengecko,Correlophus ciliatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gekkoninae_Rhacodactylus_ciliatus_orange.png/100px-Gekkoninae_Rhacodactylus_ciliatus_orange.png
+Geckoartige,Lidgeckos,Eublepharidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coleonyx_variegatus_abbotti.jpg/100px-Coleonyx_variegatus_abbotti.jpg
+Lidgeckos,Katezengecko,Aeluroscalabotes felinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aeluroscalabotes_felinus.jpg/100px-Aeluroscalabotes_felinus.jpg
+Lidgeckos,Leopardgecko,Eublepharis macularius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Gecko_1.jpg/100px-Gecko_1.jpg
+Schuppenkriechtiere,Skinkartige,Scincoidea,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Apothekerskink01.jpg/100px-Apothekerskink01.jpg
+Skinkartige,Skinke,Scincidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nihontokage060920-1.jpg/100px-Nihontokage060920-1.jpg
+Skinke,Apothekerskink,Scinus scinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Apothekerskink01.jpg/100px-Apothekerskink01.jpg
+Skinke,Gesprenkelter Schlangenskink,Ophiomorus punctatissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Benny_Trapp_Gesprenkelter_Schlangenskink_Ophiomorus_punctatissimus.jpg/100px-Benny_Trapp_Gesprenkelter_Schlangenskink_Ophiomorus_punctatissimus.jpg
+Skinke,Rotaugen-Buschkrokodil,Tribolonotus gracilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red-Eyed_Crocodile_Skink.jpg/100px-Red-Eyed_Crocodile_Skink.jpg
+Skinke,Tannenzapfenechse,Tiliqua rugosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shingleback_Skink_at_Sydney_Wildlife_World.jpg/100px-Shingleback_Skink_at_Sydney_Wildlife_World.jpg
+Skinke,Südlicher Kanarenskink,Chalcides coeruleopunctatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skink_von_Gomera.jpg/100px-Skink_von_Gomera.jpg
+Skinkartige,Gürtelschweife,Cordylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Riesenguertelschweif-21.jpg/100px-Riesenguertelschweif-21.jpg
+Gürtelschweife,Transvaal-Schlangenechse,Chamaesaura aenea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Coppery_Grass_Lizard_2013_10_25_2375.jpg/100px-Coppery_Grass_Lizard_2013_10_25_2375.jpg
+Gürtelschweife,Panzergürtelschweif,Ouroborus cataphractus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cordylus_cataphractus_by_OpenCage.jpg/100px-Cordylus_cataphractus_by_OpenCage.jpg
+Gürtelschweife,Riesen-Gürtelschweif,Smaug giganteus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cordylus_giganteus.jpg/100px-Cordylus_giganteus.jpg
+Gürtelschweife,Broadleys Plattechse,Platysaurus broadley,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Broadley%27s_Flat_Lizard_%28Platysaurus_broadleyi%29_male_%286857301934%29.jpg/100px-Broadley%27s_Flat_Lizard_%28Platysaurus_broadleyi%29_male_%286857301934%29.jpg
+Skinkartige,Schildechsen,Gerrhosauridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gerrhosaurus_major.jpg/100px-Gerrhosaurus_major.jpg
+Schildechsen,Sudan-Schildechse,Broadleysaurus major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gerrhosaurus_major.jpg/100px-Gerrhosaurus_major.jpg
 Reptilien,Schildkröten,Testudinata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emys_orbicularis_1.jpg/100px-Emys_orbicularis_1.jpg
 Reptilien,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
 Eukaryoten,Pilze,Fungi,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Clitocybe_odora_02.jpg/100px-Clitocybe_odora_02.jpg
