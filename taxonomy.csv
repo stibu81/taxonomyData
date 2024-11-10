@@ -1134,16 +1134,19 @@ Skinkartige,Schildechsen,Gerrhosauridae,Familie,https://upload.wikimedia.org/wik
 Schildechsen,Sudan-Schildechse,Broadleysaurus major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gerrhosaurus_major.jpg/100px-Gerrhosaurus_major.jpg
 Reptilien,Schildkröten,Testudinata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emys_orbicularis_1.jpg/100px-Emys_orbicularis_1.jpg
 Schildkröten,Halsberger-Schildkröten,Cryptodira,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Graeca0005.JPG/100px-Graeca0005.JPG
-Halsberger-Schildkröten,Meeresschildkröten,Cheloniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hawaii_turtle_2.JPG/100px-Hawaii_turtle_2.JPG
+Halsberger-Schildkröten,Chelonioidea,Chelonioidea,Überfamilie,not_found
+Chelonioidea,Meeresschildkröten,Cheloniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hawaii_turtle_2.JPG/100px-Hawaii_turtle_2.JPG
 Meeresschildkröten,Grüne Meeresschildkröte,Chelonia mydas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Turtle1_02.jpg/100px-Turtle1_02.jpg
 Meeresschildkröten,Echte Karettschildkröte,Eretmochelys imbricata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hawksbill_Sea_Turtle_Carey_de_Concha_%285840602412%29.jpg/100px-Hawksbill_Sea_Turtle_Carey_de_Concha_%285840602412%29.jpg
 Meeresschildkröten,Unechte Karettschildkröte,Caretta caretta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caretta_caretta_060417w2.jpg/100px-Caretta_caretta_060417w2.jpg
-Halsberger-Schildkröten,Lederschildkröten,Dermochelyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg/100px-Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg
+Chelonioidea,Lederschildkröten,Dermochelyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg/100px-Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg
 Lederschildkröten,Lederschildkröte,Dermochelys coriacea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg/100px-Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg
-Halsberger-Schildkröten,Alligatorschildkröten,Chelydridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/100px-Alligator_snapping_turtle.jpg
+Halsberger-Schildkröten,Chelydroidea,Chelydroidea,Überfamilie,not_found
+Chelydroidea,Alligatorschildkröten,Chelydridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/100px-Alligator_snapping_turtle.jpg
 Alligatorschildkröten,Schnappschildkröte,Chelydra serpentina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chelydra_serpentina_PP_06.jpg/100px-Chelydra_serpentina_PP_06.jpg
 Alligatorschildkröten,Geierschildkröte,Macrochelys temminckii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/100px-Alligator_snapping_turtle.jpg
-Halsberger-Schildkröten,Neuwelt-Sumpfschildkröten,Emydidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chrysemys_picta_dorsalis_%28aka%29.jpg/100px-Chrysemys_picta_dorsalis_%28aka%29.jpg
+Halsberger-Schildkröten,Testudinoidea,Testudinoidea,Überfamilie,not_found
+Testudinoidea,Neuwelt-Sumpfschildkröten,Emydidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chrysemys_picta_dorsalis_%28aka%29.jpg/100px-Chrysemys_picta_dorsalis_%28aka%29.jpg
 Neuwelt-Sumpfschildkröten,Europäische Sumpfschildkröte,Emys orbicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Emys.jpg/100px-Emys.jpg
 Neuwelt-Sumpfschildkröten,Zierschildkröte,Chrysemys picta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Male_Painted_Turtle_Basking.JPG/100px-Male_Painted_Turtle_Basking.JPG
 Neuwelt-Sumpfschildkröten,Falsche Landkarten-Höckerschildkröte,Graptemys pseudogeographica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Graptemys_pseudogeographica_%2814166907729%29.jpg/100px-Graptemys_pseudogeographica_%2814166907729%29.jpg
@@ -1151,11 +1154,11 @@ Neuwelt-Sumpfschildkröten,Nordamerikanische Buchstaben-Schmuckschildkröte,Trac
 Nordamerikanische Buchstaben-Schmuckschildkröte,Rotwangen-Schmuckschildkröte,Trachemys scripta elegans,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2018-06-16_Aradosee_Rotwangen-Schmuckschildkr%C3%B6te.jpg/100px-2018-06-16_Aradosee_Rotwangen-Schmuckschildkr%C3%B6te.jpg
 Nordamerikanische Buchstaben-Schmuckschildkröte,Gelbwangen-Schmuckschildkröte,Trachemys scripta scripta,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yellow-bellied_Slider_2.jpg/100px-Yellow-bellied_Slider_2.jpg
 Neuwelt-Sumpfschildkröten,Gewöhnliche Schmuckschildkröte,Pseudemys concinna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Pseudemys_concinna_floridana_%28Everglades%29.jpg/100px-Pseudemys_concinna_floridana_%28Everglades%29.jpg
-Halsberger-Schildkröten,Altwelt-Sumpfschildkröten,Geoemydidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cuora_amboinensis.jpg/100px-Cuora_amboinensis.jpg
+Testudinoidea,Altwelt-Sumpfschildkröten,Geoemydidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cuora_amboinensis.jpg/100px-Cuora_amboinensis.jpg
 Altwelt-Sumpfschildkröten,Maurische Bachschildkröte,Mauremys leprosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mediterranean_Pond_Turtle_%28Mauremys_leprosa%29_%2832002850363%29.jpg/100px-Mediterranean_Pond_Turtle_%28Mauremys_leprosa%29_%2832002850363%29.jpg
-Halsberger-Schildkröten,Grosskopfschildkröten,Platysternidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Platysternon_megacephalum_Gifu.jpg/100px-Platysternon_megacephalum_Gifu.jpg
+Testudinoidea,Grosskopfschildkröten,Platysternidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Platysternon_megacephalum_Gifu.jpg/100px-Platysternon_megacephalum_Gifu.jpg
 Grosskopfschildkröten,Grosskopfschildkröte,Platysternon megacephalum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Platysternon_megacephalum_Gifu.jpg/100px-Platysternon_megacephalum_Gifu.jpg
-Halsberger-Schildkröten,Landschildkröten,Testudinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PardalisHabitatAdult1MProot.jpg/100px-PardalisHabitatAdult1MProot.jpg
+Testudinoidea,Landschildkröten,Testudinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/PardalisHabitatAdult1MProot.jpg/100px-PardalisHabitatAdult1MProot.jpg
 Landschildkröten,Aldabra-Riesenschildkröte,Aldabrachely gigantea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tortoise.aldabra.750pix.jpg/100px-Tortoise.aldabra.750pix.jpg
 Landschildkröten,Spornschildkröte,Centrochelys sulcata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Spornschildkroete-43.jpg/100px-Spornschildkroete-43.jpg
 Landschildkröten,Chelonoidis,Chelonoidis,Gattung,not_found
@@ -1168,13 +1171,25 @@ Landschildkröten,Eigentliche Landschildkröten,Testudo,Gattung,https://upload.w
 Eigentliche Landschildkröten,Griechische Landschildkröte,Testudo hermanni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Hermanni_boettgeri_Pag.jpg/100px-Hermanni_boettgeri_Pag.jpg
 Eigentliche Landschildkröten,Maurische Landschildkröte,Testudo graeca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Graeca_005.jpg/100px-Graeca_005.jpg
 Eigentliche Landschildkröten,Breitrandschildkröte,Testudo marginata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Testudo_marginata_sarda.jpg/100px-Testudo_marginata_sarda.jpg
-Halsberger-Schildkröten,Weichschildkröten,Trionychidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Trionyx_triunguis_Zoo_Rostock_15-08-2008_083.jpg/100px-Trionyx_triunguis_Zoo_Rostock_15-08-2008_083.jpg
+Halsberger-Schildkröten,Trionychoidea,Trionychoidea,Überfamilie,not_found
+Trionychoidea,Weichschildkröten,Trionychidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Trionyx_triunguis_Zoo_Rostock_15-08-2008_083.jpg/100px-Trionyx_triunguis_Zoo_Rostock_15-08-2008_083.jpg
 Weichschildkröten,Gefleckte Klappen-Weichschildkröte,Cyclanorbis elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Cyclanorbis_elegans_%2829569930902%29.jpg/100px-Cyclanorbis_elegans_%2829569930902%29.jpg
 Weichschildkröten,Knorpel-Weichschildkröte,Amyda cartilaginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Amyd_cartil_090818-11752_tsa.jpg/100px-Amyd_cartil_090818-11752_tsa.jpg
 Weichschildkröten,Florida-Weichschildkröte,Apalone ferox,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Floridasoftshellturtle-cropped.jpg/100px-Floridasoftshellturtle-cropped.jpg
-Halsberger-Schildkröten,Papua-Weichschildkröten,Carettochelyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Carettochelys_insculpta_2010.JPG/100px-Carettochelys_insculpta_2010.JPG
+Trionychoidea,Papua-Weichschildkröten,Carettochelyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Carettochelys_insculpta_2010.JPG/100px-Carettochelys_insculpta_2010.JPG
 Papua-Weichschildkröten,Papua-Weichschildkröte,Carettochelys insculpta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Carettochelys_insculpta_2010.JPG/100px-Carettochelys_insculpta_2010.JPG
 Schildkröten,Halswender-Schildkröten,Pleurodira,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eastern_long_neck_tortoise_-_chelodina_longicollis03.jpg/100px-Eastern_long_neck_tortoise_-_chelodina_longicollis03.jpg
+Halswender-Schildkröten,Schlangenhalsschildkröten,Chelidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chelodina_expansa.jpg/100px-Chelodina_expansa.jpg
+Schlangenhalsschildkröten,Australische Schlangenhalsschildkröten,Chelodina,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eastern_long_neck_tortoise_-_chelodina_longicollis02.jpg/100px-Eastern_long_neck_tortoise_-_chelodina_longicollis02.jpg
+Australische Schlangenhalsschildkröten,Riesen-Schlangenhalsschildkröte,Chelodina expansa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chelodina_expansa.jpg/100px-Chelodina_expansa.jpg
+Australische Schlangenhalsschildkröten,McCords Schlangenhalsschildkröte,Chelodina mccordi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chelodina_mccordi-Lisbon-upper_front_view_03.JPG/100px-Chelodina_mccordi-Lisbon-upper_front_view_03.JPG
+Schlangenhalsschildkröten,Rotbauch-Spitzkopfschildkröte,Emydura subglobosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rotbauchspitzkopfschildkroete-07.jpg/100px-Rotbauchspitzkopfschildkroete-07.jpg
+Schlangenhalsschildkröten,Fransenschildkröte,Chelus fimbriata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2009_Chelus_fimbriatus.JPG/100px-2009_Chelus_fimbriatus.JPG
+Halswender-Schildkröten,Pelomedusenschildkröten,Pelomedusidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pelomedusa_subrufa.JPG/100px-Pelomedusa_subrufa.JPG
+Pelomedusenschildkröten,Starrbrust-Pelomedusen,Pelomedusa,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Pelomedusa_subrufa.JPG/100px-Pelomedusa_subrufa.JPG
+Pelomedusenschildkröten,Okavango-Pelomeduse,Pelusios bechuanicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pelusios_bechuanicus_186795164.jpg/100px-Pelusios_bechuanicus_186795164.jpg
+Halswender-Schildkröten,Podocnemididae,Podocnemididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tortuga-arrau.jpg/100px-Tortuga-arrau.jpg
+Podocnemididae,Terekay-Schienenschildkröte,Podocnemis unifilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Podocnemis_unifilis.jpg/100px-Podocnemis_unifilis.jpg
 Reptilien,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
 Eukaryoten,Pilze,Fungi,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Clitocybe_odora_02.jpg/100px-Clitocybe_odora_02.jpg
 Eukaryoten,Pflanzen,Plantae,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plants_1.png/100px-Plants_1.png
