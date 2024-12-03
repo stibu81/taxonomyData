@@ -33,7 +33,7 @@ Fledertiere,Flughunde,Pteropodidae,Familie,https://upload.wikimedia.org/wikipedi
 Flughunde,Kalong-Flughund,Pteropus vampyrus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pteropus_vampyrus.jpg/100px-Pteropus_vampyrus.jpg
 Fledertiere,Rhinolophidae,Rhinolophidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gro%C3%9Fe_Hufeisennase_%2801%29.jpg/100px-Gro%C3%9Fe_Hufeisennase_%2801%29.jpg
 Rhinolophidae,Hufeisennasen,Rhinolophus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gro%C3%9Fe_Hufeisennase_%2801%29.jpg/100px-Gro%C3%9Fe_Hufeisennase_%2801%29.jpg
-Hufeisennasen,Große Hufeisennase,Rhinolophus ferrumequinum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gro%C3%9Fe_Hufeisennase_%2801%29.jpg/100px-Gro%C3%9Fe_Hufeisennase_%2801%29.jpg
+Hufeisennasen,Grosse Hufeisennase,Rhinolophus ferrumequinum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gro%C3%9Fe_Hufeisennase_%2801%29.jpg/100px-Gro%C3%9Fe_Hufeisennase_%2801%29.jpg
 Hufeisennasen,Kleine Hufeisennase,Rhinolophus hipposideros,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bat%2820070605%29.jpg/100px-Bat%2820070605%29.jpg
 Fledertiere,Glattnasen,Vespertilionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/100px-Big-eared-townsend-fledermaus.jpg
 Glattnasen,Zwergfledermäuse,Pipistrellus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pipistrellus_pipistrellus01.jpg/100px-Pipistrellus_pipistrellus01.jpg
@@ -419,7 +419,7 @@ Trockennasenprimaten,Affen,Anthropoidea,Teilordnung,https://upload.wikimedia.org
 Affen,Neuweltaffen,Platyrrhini,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cebus_capucinus%2C_Costa_Rica.JPG/100px-Cebus_capucinus%2C_Costa_Rica.JPG
 Neuweltaffen,Sakiaffen,Pitheciidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bearded_saki_%28Chiropotes_sp%29-8.jpg/100px-Bearded_saki_%28Chiropotes_sp%29-8.jpg
 Sakiaffen,Sakis,Pithecia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pithecia_irrorata_-Brazil-8b.jpg/100px-Pithecia_irrorata_-Brazil-8b.jpg
-Sakis,Weißkopfsaki,Pithecia pithecia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Singapore_Zoo_White_Faced_Monkey-1_%286593539663%29.jpg/100px-Singapore_Zoo_White_Faced_Monkey-1_%286593539663%29.jpg
+Sakis,Weisskopfsaki,Pithecia pithecia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Singapore_Zoo_White_Faced_Monkey-1_%286593539663%29.jpg/100px-Singapore_Zoo_White_Faced_Monkey-1_%286593539663%29.jpg
 Sakis,Goldgesichtsaki,Pithecia chrysocephala,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/White-faced_saki_monkey_%2813945304642%29.jpg/100px-White-faced_saki_monkey_%2813945304642%29.jpg
 Sakiaffen,Satansaffe,Chiropotes satanas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bearded_saki_%28Chiropotes_sp%29-8.jpg/100px-Bearded_saki_%28Chiropotes_sp%29-8.jpg
 Sakiaffen,Roter Uakari,Cacajao rubicundus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Male_uakari.jpg/100px-Male_uakari.jpg
@@ -1265,8 +1265,8 @@ Unken,Riesenunke,Bombina maxima,Art,https://upload.wikimedia.org/wikipedia/commo
 Froschlurche,Mesobatrachia,Mesobatrachia,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Knobi-Auge.jpg/100px-Knobi-Auge.jpg
 Mesobatrachia,Asiatische Krötenfrösche,Megophryidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leptob_hasselt_M_080208-4532_clobk.jpg/100px-Leptob_hasselt_M_080208-4532_clobk.jpg
 Asiatische Krötenfrösche,Zipfelkrötenfrosch,Pelobatrachus nasutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Megophrys.nasuta.7035.jpg/100px-Megophrys.nasuta.7035.jpg
-Mesobatrachia,Europäischen Schaufelfusskröten,Pelobatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Knoblauchkr%C3%B6te_1.jpg/100px-Knoblauchkr%C3%B6te_1.jpg
-Europäischen Schaufelfusskröten,Knoblauchkröte,Pelobates fuscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PelobatesFuscus.jpg/100px-PelobatesFuscus.jpg
+Mesobatrachia,Europäische Schaufelfusskröten,Pelobatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Knoblauchkr%C3%B6te_1.jpg/100px-Knoblauchkr%C3%B6te_1.jpg
+Europäische Schaufelfusskröten,Knoblauchkröte,Pelobates fuscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PelobatesFuscus.jpg/100px-PelobatesFuscus.jpg
 Mesobatrachia,Zungenlose,Pipidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Xenopus_laevis_1.jpg/100px-Xenopus_laevis_1.jpg
 Zungenlose,Glatter Krallenfrosch,Xenopus laevis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xenopus_laevis_02.jpg/100px-Xenopus_laevis_02.jpg
 Zungenlose,Grosse Wabenkröte,Pipa pipa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pipa_pipa_1.jpg/100px-Pipa_pipa_1.jpg
