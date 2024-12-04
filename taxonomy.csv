@@ -1333,6 +1333,55 @@ Schleichenlurche,Fischwühlen,Ichthyophiidae,Familie,https://upload.wikimedia.or
 Fischwühlen,Ceylonwühle,Ichthyophis glutinosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CaecilianNHM.png/100px-CaecilianNHM.png
 Schleichenlurche,Naswenühlen,Rhinatrematidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Epicrionops_sp.jpg/100px-Epicrionops_sp.jpg
 Schleichenlurche,Grabwühlen,Scolecomorphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Scolecomorphus_kirkii_%28cropped%29.jpg/100px-Scolecomorphus_kirkii_%28cropped%29.jpg
+Wirbeltiere,Knorpelfische,Chondrichthyes,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
+Knorpelfische,Plattenkiemer,Elasmobranchii,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blauhai_%28128648419%29.jpeg/100px-Blauhai_%28128648419%29.jpeg
+Plattenkiemer,Haie,Selachii,Teilklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
+Haie,Grundhaie,Carcharhiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schwarzspitzen-Riffhai_%28Carcharhinus_melanopterus%29.jpg/100px-Schwarzspitzen-Riffhai_%28Carcharhinus_melanopterus%29.jpg
+Grundhaie,Katzenhaie,Scyliorhinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Scyliorhinus_stellaris_aquarium.jpg/100px-Scyliorhinus_stellaris_aquarium.jpg
+Katzenhaie,Gefleckte Katzenhaie,Scyliorhinus,Gattung,not_found
+Gefleckte Katzenhaie,Kleingefleckter Katzenhai,Scyliorhinus canicula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kleingefleckter_Katzenhai.jpg/100px-Kleingefleckter_Katzenhai.jpg
+Gefleckte Katzenhaie,Grossgefleckter Katzenhai,Scyliorhinus stellaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Katzenhai-01.jpg/100px-Katzenhai-01.jpg
+Grundhaie,Tigerhaie (F),Galeocerdonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/100px-Tiger_shark.jpg
+Tigerhaie (F),Tigerhaie,Galeocerdo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/100px-Tiger_shark.jpg
+Tigerhaie,Tigerhai,Galeocerdo cuvier,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tiger_shark.jpg/100px-Tiger_shark.jpg
+Grundhaie,Hammerhaie,Sphyrnidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hammerhead_shark.jpg/100px-Hammerhead_shark.jpg
+Hammerhaie,Grosser Hammerhai,Sphyrna mokarran,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Great_hammerhead2.jpg/100px-Great_hammerhead2.jpg
+Grundhaie,Glatthaie,Triakidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leopard_shark_in_kelp.jpg/100px-Leopard_shark_in_kelp.jpg
+Glatthaie,Leopardenhai,Triakis semifasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leopard_shark_in_kelp.jpg/100px-Leopard_shark_in_kelp.jpg
+Glatthaie,Hundshai,Galeorhinus galeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Galeorhinus_galeus_SI3.jpg/100px-Galeorhinus_galeus_SI3.jpg
+Grundhaie,Requiemhaie,Carcharhinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carcharhinus_melanopterus_mirihi.jpg/100px-Carcharhinus_melanopterus_mirihi.jpg
+Requiemhaie,Carcharhinus,Carcharhinus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Carcharhinus_melanopterus_261420865.jpg/100px-Carcharhinus_melanopterus_261420865.jpg
+Carcharhinus,Bullenhai,Carcharhinus leucas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bullshark_Bahamas.jpg/100px-Bullshark_Bahamas.jpg
+Carcharhinus,Blauhai,Carcharhinus glaucus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Prionace_glauca_1.jpg/100px-Prionace_glauca_1.jpg
+Carcharhinus,Schwarzspitzen-Riffhai,Carcharhinus melanopterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carcharhinus_melanopterus_mirihi.jpg/100px-Carcharhinus_melanopterus_mirihi.jpg
+Carcharhinus,Seidenhai,Carcharhinus falciformis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carcharhinus_falciformis_off_Cuba.jpg/100px-Carcharhinus_falciformis_off_Cuba.jpg
+Requiemhaie,Flusshaie,Glyphis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Carcharias_glyphis.png/100px-Carcharias_glyphis.png
+Flusshaie,Gangeshai,Glyphis gangeticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Carcharias_gangeticus_by_muller_and_henle.png/100px-Carcharias_gangeticus_by_muller_and_henle.png
+Haie,Makrelenhaiartige,Lamniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Isurus_oxyrinchus_by_mark_conlin3.jpg/100px-Isurus_oxyrinchus_by_mark_conlin3.jpg
+Makrelenhaiartige,Riesenhaie,Cetorhinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Basking_Shark.jpg/100px-Basking_Shark.jpg
+Riesenhaie,Riesenhai,Cetorhinus maximus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Basking_Shark.jpg/100px-Basking_Shark.jpg
+Makrelenhaiartige,Makrelenhaie,Lamnidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
+Makrelenhaie,Weisser Hai,Carcharodon carcharias,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
+Makrelenhaie,Kurzflossen-Mako,Isurus oxyrinchus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Isurus_oxyrinchus_by_mark_conlin2.JPG/100px-Isurus_oxyrinchus_by_mark_conlin2.JPG
+Makrelenhaiartige,Fuchshaie,Alopiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Threshershark.jpg/100px-Threshershark.jpg
+Fuchshaie,Gemeiner Fuchshai,Alopias vulpinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Thresher_shark.jpg/100px-Thresher_shark.jpg
+Haie,Ammenhaiartige,Orectolobiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Leopard_shark.jpg/100px-Leopard_shark.jpg
+Ammenhaiartige,Walhaie,Rhincodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dharavandhoo_Thila_-_Whale_Shark.jpg/100px-Dharavandhoo_Thila_-_Whale_Shark.jpg
+Walhaie,Walhai,Rhincodon typus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dharavandhoo_Thila_-_Whale_Shark.jpg/100px-Dharavandhoo_Thila_-_Whale_Shark.jpg
+Ammenhaiartige,Zebrahaie,Stegostomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stegostoma_fasciatum_thailand.jpg/100px-Stegostoma_fasciatum_thailand.jpg
+Zebrahaie,Zebrahai,Stegostoma tigrinum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Stegostoma_fasciatum_thailand.jpg/100px-Stegostoma_fasciatum_thailand.jpg
+Ammenhaiartige,Teppichhaie,Orectolobidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spotted_wobbegong.jpg/100px-Spotted_wobbegong.jpg
+Teppichhaie,Fransenteppichhai,Eucrossorhinus dasypogon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Tasseled_wobbegong_shark.jpg/100px-Tasseled_wobbegong_shark.jpg
+Teppichhaie,Gemeiner Teppichhai,Orectolobus maculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Orectolobus_maculatus.jpg/100px-Orectolobus_maculatus.jpg
+Haie,Sägehaiartige,Pristiophoriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pristiophorus_japonicus.jpg/100px-Pristiophorus_japonicus.jpg
+Sägehaiartige,Sägehaie,Pristiophoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pristiophorus_japonicus.jpg/100px-Pristiophorus_japonicus.jpg
+Sägehaie,Japanischer Sägehai,Pristiophorus japonicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Pristiophorus_japonicus.jpg/100px-Pristiophorus_japonicus.jpg
+Haie,Engelhaiartige,Squatiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Squatina_angelus_-_Gervais.jpg/100px-Squatina_angelus_-_Gervais.jpg
+Engelhaiartige,Engelhaie (F),Squatinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Squatina_angelus_-_Gervais.jpg/100px-Squatina_angelus_-_Gervais.jpg
+Engelhaie (F),Engelhaie,Squatina,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Squatina_angelus_-_Gervais.jpg/100px-Squatina_angelus_-_Gervais.jpg
+Engelhaie,Meerengel,Squatina squatina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Squatina_squatina_254848662.jpg/100px-Squatina_squatina_254848662.jpg
+Engelhaie,Australischer Engelhai,Squatina australis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Squatina_australis.jpg/100px-Squatina_australis.jpg
+Plattenkiemer,Rochen,Batomorphi,Teilklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Taeniura_lymma2a.jpg/100px-Taeniura_lymma2a.jpg
 Eukaryoten,Pilze,Fungi,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Clitocybe_odora_02.jpg/100px-Clitocybe_odora_02.jpg
 Eukaryoten,Pflanzen,Plantae,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plants_1.png/100px-Plants_1.png
 Eukaryoten,Stramenopilen,Chromista,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dictyocha_speculum.jpg/100px-Dictyocha_speculum.jpg
