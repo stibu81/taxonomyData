@@ -828,7 +828,7 @@ Papageien,Altweltpapageien,Psittaculidae,Familie,https://upload.wikimedia.org/wi
 Altweltpapageien,Regenbogenlori,Trichoglossus moluccanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rainbow_lorikeet.jpg/100px-Rainbow_lorikeet.jpg
 Altweltpapageien,Wellensittich,Melopsittacus undulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wellensittich_wild_aus_australien.jpg/100px-Wellensittich_wild_aus_australien.jpg
 Altweltpapageien,Unzertrennliche,Agapornis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Pap_Pfirsichk%C3%B6pfchen_Agapornis_fischeri_070608_1.jpg/100px-Pap_Pfirsichk%C3%B6pfchen_Agapornis_fischeri_070608_1.jpg
-Unzertrennliche,Pfirsichköpchen,Agapornis fischeri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fischer%27s_Lovebird_%28Agapornis_fischeri%29_%2824041406070%29_%28cropped%29.jpg/100px-Fischer%27s_Lovebird_%28Agapornis_fischeri%29_%2824041406070%29_%28cropped%29.jpg
+Unzertrennliche,Pfirsichköpfchen,Agapornis fischeri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fischer%27s_Lovebird_%28Agapornis_fischeri%29_%2824041406070%29_%28cropped%29.jpg/100px-Fischer%27s_Lovebird_%28Agapornis_fischeri%29_%2824041406070%29_%28cropped%29.jpg
 Unzertrennliche,Russköpfchen,Agapornis nigrigenis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Osnabr%C3%BCck_-_Zoo_-_Russk%C3%B6pfchen_01.jpg/100px-Osnabr%C3%BCck_-_Zoo_-_Russk%C3%B6pfchen_01.jpg
 Papageien,Eigentliche Papageien,Psittacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Psittacus_erithacus_qtl1.jpg/100px-Psittacus_erithacus_qtl1.jpg
 Eigentliche Papageien,Graupapagei,Psittacus erithacus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Psittacus_erithacus_qtl1.jpg/100px-Psittacus_erithacus_qtl1.jpg
@@ -908,6 +908,10 @@ Sylviida,Schwanzmeisen,Aegithalidae,Familie,https://upload.wikimedia.org/wikiped
 Schwanzmeisen,Schwanzmeise,Aegithalos caudatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Long-tailed_Tit_Aegithalos_caudatus.jpg/100px-Long-tailed_Tit_Aegithalos_caudatus.jpg
 Sylviida,Seidensängerverwandte,Cettiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg/100px-37-090505-cettis-warbler-at-Kalloni-east-river.jpg
 Seidensängerverwandte,Seidensänger,Cettia cetti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/37-090505-cettis-warbler-at-Kalloni-east-river.jpg/100px-37-090505-cettis-warbler-at-Kalloni-east-river.jpg
+Sylviida,Bülbüls,Pycnonotidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red-whiskered_Bulbul-web.jpg/100px-Red-whiskered_Bulbul-web.jpg
+Bülbüls,Rotohrbülbül,Pycnonotus jocosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red-whiskered_Bulbul-web.jpg/100px-Red-whiskered_Bulbul-web.jpg
+Bülbüls,Seychellen-Rotschnabelbülbül,Hypsipetes crassirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Seychelles_bulbul.jpg/100px-Seychelles_bulbul.jpg
+Bülbüls,Gelbbauchbülbül,Chlorocichla flaviventris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chlorocichla_flaviventris_-_Yellow-bellied_greenbul.jpg/100px-Chlorocichla_flaviventris_-_Yellow-bellied_greenbul.jpg
 Passerides,Muscicapida,Muscicapida,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Muscicapa_Collage.png/100px-Muscicapa_Collage.png
 Muscicapida,Baumläufer (F),Certhiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Short-toed_Treecreeper_%28Certhia_brachydactyla%29cropped.jpg/100px-Short-toed_Treecreeper_%28Certhia_brachydactyla%29cropped.jpg
 Baumläufer (F),Baumläufer,Certhia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Short-toed_Treecreeper_%28Certhia_brachydactyla%29cropped.jpg/100px-Short-toed_Treecreeper_%28Certhia_brachydactyla%29cropped.jpg
