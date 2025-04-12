@@ -1509,9 +1509,15 @@ Karpfenartige,Weissfische,Leuciscidae,Familie,https://upload.wikimedia.org/wikip
 Weissfische,Nase,Chondrostoma nasus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Chondrostoma_nasus_%28aka%29.jpg/100px-Chondrostoma_nasus_%28aka%29.jpg
 Weissfische,Rotauge,Rutilus rutilus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blausteinsee_Tierwelt_03.jpg/100px-Blausteinsee_Tierwelt_03.jpg
 Weissfische,Elritze,Phoxinus phoxinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Phoxinus_phoxinus_img_33486.jpg/100px-Phoxinus_phoxinus_img_33486.jpg
+Weissfische,Rotfeder,Scardinius erythrophthalmus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Scardinius_erythropthalmus_2009_G1.jpg/120px-Scardinius_erythropthalmus_2009_G1.jpg
+Weissfische,Brachse,Abramis brama,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Carp_bream.jpg/120px-Carp_bream.jpg
 Karpfenartige,Karpfenfische,Cyprinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Linienbarbe-puntius-lineatus.jpg/100px-Linienbarbe-puntius-lineatus.jpg
 Karpfenfische,Barbe,Barbus barbus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Barbe_Tiergarten_Schoenbrunn_%28cropped%29.jpg/100px-Barbe_Tiergarten_Schoenbrunn_%28cropped%29.jpg
 Karpfenfische,Karpfen,Cyprinus carpio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Common_carp.jpg/100px-Common_carp.jpg
+Karpfenfische,Schönflossige Rüsselbarbe,Epalzeorhynchos kalopterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Epalzeorhynchos_kalopterus.jpg/120px-Epalzeorhynchos_kalopterus.jpg
+Karpfenfische,Karausche,Carassius carassius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M%C3%A4nnliche_Karausche.jpg/120px-M%C3%A4nnliche_Karausche.jpg
+Karpfenartige,Tincidae,Tincidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tinca_tinca_Prague_Vltava_1.jpg/120px-Tinca_tinca_Prague_Vltava_1.jpg
+Tincidae,Schleie,Tinca tinca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tinca_tinca_Prague_Vltava_1.jpg/120px-Tinca_tinca_Prague_Vltava_1.jpg
 Karpfenartige,Gründlingsverwandte,Gobionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Riviergrondel.jpg/100px-Riviergrondel.jpg
 Gründlingsverwandte,Gründling,Gobio gobio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/LS_09776a_gruendling.jpg/100px-LS_09776a_gruendling.jpg
 Karpfenartige,Kardinalfische,Tanichthyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/White_Cloud_Mountain_Minnow_1.jpg/100px-White_Cloud_Mountain_Minnow_1.jpg
@@ -1580,6 +1586,12 @@ Lachsfische,Saiblinge,Salvelinus,Gattung,https://upload.wikimedia.org/wikipedia/
 Saiblinge,Bachsaibling,Salvelinus fontinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Native_brook_trout.jpg/100px-Native_brook_trout.jpg
 Saiblinge,Seesaibling,Salvelinus umbla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salvelinus_umbla_IMG_5130.jpg/100px-Salvelinus_umbla_IMG_5130.jpg
 Saiblinge,Tiefseesaibling,Salvelinus profundus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unsere_S%C3%BC%C3%9Fwasserfische_%28Tafel_24%29_%286102600905%29.jpg/100px-Unsere_S%C3%BC%C3%9Fwasserfische_%28Tafel_24%29_%286102600905%29.jpg
+Lachsfische,Felchen,Coregonus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sik%2C_Iduns_kokbok.jpg/120px-Sik%2C_Iduns_kokbok.jpg
+Felchen,Sandfelchen,Coregonus arenicolus,Art,not_found
+Felchen,Bodenseefechen,Coregonus wartmanni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ichthyologie%3B_ou%2C_Histoire_naturelle_des_poissons_%28Plate_105%29_%287064450681%29.jpg/120px-Ichthyologie%3B_ou%2C_Histoire_naturelle_des_poissons_%28Plate_105%29_%287064450681%29.jpg
+Felchen,Bondelle,Coregonus candidus,Art,not_found
+Felchen,Albeli,Coregonus muelleri,Art,not_found
+Lachsfische,Huchen,Hucho hucho,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Danube_Salmon_-_Huchen_%28Hucho_hucho%29.jpg/120px-Danube_Salmon_-_Huchen_%28Hucho_hucho%29.jpg
 Euteleosteomorpha,Hechtartige,Esociformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg/100px-Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg
 Hechtartige,Esocidae,Esocidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Esox_lucius_ZOO_1.jpg/100px-Esox_lucius_ZOO_1.jpg
 Esocidae,Hechte,Esox,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hecht.jpg/100px-Hecht.jpg
