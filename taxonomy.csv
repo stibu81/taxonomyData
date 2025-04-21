@@ -1610,12 +1610,323 @@ Eidechsenfischartige,Alepisauridae,Alepisauridae,Familie,https://upload.wikimedi
 Alepisauridae,Langnasen-Lanzenfisch,Alepisaurus ferox,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/100px-Alepisaurus_ferox_on_deck.jpg
 Alepisauridae,Hammerkieferfisch,Omosudis lowii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Omosudis_noaa.jpg/100px-Omosudis_noaa.jpg
 Eidechsenfischartige,Eidechsenfische,Synodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Synodus_intermedius.jpg/100px-Synodus_intermedius.jpg
-Eidechsenfische,Synodus,Synodus,Gattung,not_found
+Eidechsenfische,Synodus,Synodus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HitosujiES.jpg/100px-HitosujiES.jpg
 Synodus,Synodus variegatus,Synodus variegatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Synodus_variegatus.jpg/100px-Synodus_variegatus.jpg
 Synodus,Atlantischer Eidechsenfisch,Synodus saurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Synodus_saurus1.JPG/100px-Synodus_saurus1.JPG
 Euteleosteomorpha,Laternenfischartige,Myctophiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg/100px-Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg
 Laternenfischartige,Laternenfische,Myctophidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
 Laternenfische,Schlankschwänziger Laternenfisch,Myctophum punctatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
+Euteleosteomorpha,Glanzfische,Lampriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KusaAJ.jpg/100px-KusaAJ.jpg
+Glanzfische,Lampridae,Lampridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lampris_guttatus_NOAA2.jpg/100px-Lampris_guttatus_NOAA2.jpg
+Lampridae,Gotteslachse,Lampris,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lampris_guttatus_NOAA2.jpg/100px-Lampris_guttatus_NOAA2.jpg
+Glanzfische,Sensenfische,Trachipteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Trachipterus_trachypterus_1.jpg/100px-Trachipterus_trachypterus_1.jpg
+Sensenfische,Bandfisch,Trachipterus arcticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trachipterus_arcticus.jpg/100px-Trachipterus_arcticus.jpg
+Glanzfische,Riemenfische,Regalecidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg/100px-Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
+Riemenfische,Regalecus,Regalecus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg/100px-Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
+Regalecus,Regalecus glesne,Regalecus glesne,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Giant_Oarfish.jpg/100px-Giant_Oarfish.jpg
+Regalecus,Regalecus russelii,Regalecus russelii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Regalicus_russelii_juvenile_3.jpg/100px-Regalicus_russelii_juvenile_3.jpg
+Euteleosteomorpha,Barschlachsartige,Percopsiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Amphiplaga_brachyptera.jpg/100px-Amphiplaga_brachyptera.jpg
+Barschlachsartige,Blindfische,Amblyopsidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Amblyopsis_rosae.jpg/100px-Amblyopsis_rosae.jpg
+Barschlachsartige,Piratenbarsche,Aphredoderidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aphredoderus_sayanus_sayanus.jpg/100px-Aphredoderus_sayanus_sayanus.jpg
+Piratenbarsche,Piratenbarsch,Aphredoderus sayanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aphredoderus_sayanus_sayanus.jpg/100px-Aphredoderus_sayanus_sayanus.jpg
+Euteleosteomorpha,Petersfischartige,Zeiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
+Petersfischartige,Petersfische,Zeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
+Petersfische,Petersfisch,Zeus faber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
+Euteleosteomorpha,Dorschartige,Gadiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atlantic-cod-1.jpg/100px-Atlantic-cod-1.jpg
+Dorschartige,Quappen,Lotidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tr%C3%BCsche_Walchensee.jpg/100px-Tr%C3%BCsche_Walchensee.jpg
+Quappen,Quappe,Lota lota,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tr%C3%BCsche_Z%C3%BCrichsee.jpg/100px-Tr%C3%BCsche_Z%C3%BCrichsee.jpg
+Dorschartige,Dorsche,Gadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atlantic-cod-1.jpg/100px-Atlantic-cod-1.jpg
+Dorsche,Gadus,Gadus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gadus_morhua_Cod-2b-Atlanterhavsparken-Norway.JPG/100px-Gadus_morhua_Cod-2b-Atlanterhavsparken-Norway.JPG
+Gadus,Pazifischer Kabeljau,Gadus macrocephalus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gadus_macrocephalus.png/100px-Gadus_macrocephalus.png
+Gadus,Atlantischer Kabeljau,Gadus morhua,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg/100px-Atlantic_Cod%2C_Atlantischer_Kabeljau_%28Gadus_morhua%29.jpg
+Dorsche,Schellfisch,Melanogrammus aeglefinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Haddock%2C_Boston_Aquarium.JPG/100px-Haddock%2C_Boston_Aquarium.JPG
+Dorsche,Köhler,Pollachius virens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pollachius_virens_01.jpg/100px-Pollachius_virens_01.jpg
+Dorsche,Blauer Wittling,Micromesistius poutassou,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Micromesistius_poutassou_318948995.jpg/100px-Micromesistius_poutassou_318948995.jpg
+Dorschartige,Seehechte (F),Merlucciidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG/100px-Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG
+Seehechte (F),Seehechte,Merluccius,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG/100px-Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG
+Seehechte,Hechtdorsch,Merluccius merluccius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Merluccius_merluccius_207798547.jpg/100px-Merluccius_merluccius_207798547.jpg
+Seehechte,Pazifischer Seehecht,Merluccius productus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Merluccius_productus1.jpg/100px-Merluccius_productus1.jpg
+Euteleosteomorpha,Stachelflosser,Acanthopterygii,Division,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pterois_volitans_Manado-e.jpg/100px-Pterois_volitans_Manado-e.jpg
+Stachelflosser,Grundelartige,Gobiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cryptocentrus_cinctus.JPG/100px-Cryptocentrus_cinctus.JPG
+Grundelartige,Oxudercidae,Oxudercidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Clariger_taiwanensis_paratype_-_ZooKeys-199-013-g002-a.jpeg/100px-Clariger_taiwanensis_paratype_-_ZooKeys-199-013-g002-a.jpeg
+Oxudercidae,Afrikanischer Schlammspringer,Periophthalmus barbarus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GambianMudskippers.jpg/100px-GambianMudskippers.jpg
+Grundelartige,Grundeln,Gobiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Neogobius_melanostomus1.jpg/100px-Neogobius_melanostomus1.jpg
+Grundeln,Gelbe Symbiosegrundel,Cryptocentrus cinctus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cryptocentrus_cinctus.JPG/100px-Cryptocentrus_cinctus.JPG
+Grundeln,Braunstreifengrundel,Amblygobius phalaena,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Amblygobius_phalaena.jpg/100px-Amblygobius_phalaena.jpg
+Stachelflosser,Seenadelartige,Syngnathiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Phyllopteryx_taeniolatus1.jpg/100px-Phyllopteryx_taeniolatus1.jpg
+Seenadelartige,Seenadeln,Syngnathidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Short-pouch_pygmy_pipehorse.jpg/100px-Short-pouch_pygmy_pipehorse.jpg
+Seenadeln,Grosse Schlangennadel,Entelurus aequoreus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Entelurus_aequoreus_by_Line1.jpg/100px-Entelurus_aequoreus_by_Line1.jpg
+Seenadeln,Seedrache,Phyllopteryx taeniolatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Phyllopteryx_taeniolatus1.jpg/100px-Phyllopteryx_taeniolatus1.jpg
+Seenadeln,Seepferdchen,Hippocampus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Seepferd.jpg/100px-Seepferd.jpg
+Seepferdchen,Dickbauchseepferdchen,Hippocampus abdominalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hippocampus_abdominalis%2C_pareja.jpg/100px-Hippocampus_abdominalis%2C_pareja.jpg
+Seepferdchen,Zwerg-Seepferdchen,Hippocampus bargibanti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hippocampus_bargabanti.jpg/100px-Hippocampus_bargabanti.jpg
+Seepferdchen,Kurzschnäuziges Seepferdchen,Hippocampus hippocampus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg/100px-Hippocampus_hippocampus_%28on_Ascophyllum_nodosum%29.jpg
+Seepferdchen,Dorniges Seepferdchen,Hippocampus histrix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Hippocampus_hystrix_%28Spiny_seahorse%29.jpg/100px-Hippocampus_hystrix_%28Spiny_seahorse%29.jpg
+Seenadeln,Fetzen-Seenadel,Haliichthys taeniophorus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Haliichthys_taeniophorus_Gray.jpg/100px-Haliichthys_taeniophorus_Gray.jpg
+Seenadeln,Grosser Fetzenfisch,Phycodurus eques,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fetzenfisch.jpg/100px-Fetzenfisch.jpg
+Seenadelartige,Leierfische,Callionymidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Callionymus_lyra.jpg/100px-Callionymus_lyra.jpg
+Leierfische,Mandarinfisch,Synchiropus splendidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Synchiropus_splendidus_2_Luc_Viatour_Edit3_MichaLR.jpg/100px-Synchiropus_splendidus_2_Luc_Viatour_Edit3_MichaLR.jpg
+Leierfische,Gestreifter Leierfisch,Callionymus lyra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Callionymus_lyra.jpg/100px-Callionymus_lyra.jpg
+Seenadelartige,Schnepfenfische,Centriscidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SagiHEyb.jpg/100px-SagiHEyb.jpg
+Schnepfenfische,Schlanker Schnepfenfisch,Macroramphosus gracilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Macroramphosus_gracilis_NOAA.jpg/100px-Macroramphosus_gracilis_NOAA.jpg
+Seenadelartige,Trompetenfische (F),Aulostomidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Atlantic_cornetfish.jpg/100px-Atlantic_cornetfish.jpg
+Trompetenfische (F),Trompetenfische,Aulostomus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Atlantic_cornetfish.jpg/100px-Atlantic_cornetfish.jpg
+Seenadelartige,Flötenfische (F),Fistulariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cornetfish.jpg/100px-Cornetfish.jpg
+Flötenfische (F),Flötenfische,Fistularia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cornetfish.jpg/100px-Cornetfish.jpg
+Flötenfische,Glatter Flötenfisch,Fistularia commersonii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_sea-reef_3769.jpg/100px-Red_sea-reef_3769.jpg
+Flötenfische,Blaupunkt-Flötenfisch,Fistularia tabacaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Abrolhos_Marine_National_ParkRobertoCostaPinto21.jpg/100px-Abrolhos_Marine_National_ParkRobertoCostaPinto21.jpg
+Stachelflosser,Scombriformes,Scombriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scomber_scombrus.jpg/100px-Scomber_scombrus.jpg
+Scombriformes,Makrelen und Thunfische,Scombridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gelbflossen-thunfisch.jpg/100px-Gelbflossen-thunfisch.jpg
+Makrelen und Thunfische,Makrele,Scomber scombrus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scomber_scombrus.jpg/100px-Scomber_scombrus.jpg
+Makrelen und Thunfische,Thunfische,Thunnus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Thunnus_obesus_%28bigeye_tuna%29.jpg/100px-Thunnus_obesus_%28bigeye_tuna%29.jpg
+Thunfische,Gelbflossen-Thunfisch,Thunnus albacares,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Al_mcglashan_tuna.jpg/100px-Al_mcglashan_tuna.jpg
+Thunfische,Schwarzflossen-Thunfisch,Thunnus atlanticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Blackfin_tuna%2C_Duane_Raver_Jr.jpg/100px-Blackfin_tuna%2C_Duane_Raver_Jr.jpg
+Thunfische,Roter Thun,Thunnus thynnus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bluefin-big.jpg/100px-Bluefin-big.jpg
+Makrelen und Thunfische,Echter Bonito,Katsuwonus pelamis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Katsuwonus_pelamis_Java.jpg/100px-Katsuwonus_pelamis_Java.jpg
+Stachelflosser,Carangiformes,Carangiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Trevally_Nick_Hobgood.jpg/100px-Trevally_Nick_Hobgood.jpg
+Carangiformes,Barrakudas,Sphyraenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/100px-Barracuda_laban.jpg
+Barrakudas,Grosser Barrakuda,Sphyraena barracuda,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Barracuda_laban.jpg/100px-Barracuda_laban.jpg
+Carangiformes,Plattfische,Pleuronectoideo,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Psetta_maxima_Luc_Viatour.jpg/100px-Psetta_maxima_Luc_Viatour.jpg
+Plattfische,Steinbutte,Scophthalmidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Psetta_maxima_Luc_Viatour.jpg/100px-Psetta_maxima_Luc_Viatour.jpg
+Steinbutte,Steinbutt,Scophthalmus maxima,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Psetta_maxima_Luc_Viatour.jpg/100px-Psetta_maxima_Luc_Viatour.jpg
+Plattfische,Butte (F),Bothidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flounder_hawaii.jpg/100px-Flounder_hawaii.jpg
+Butte (F),Lammzunge,Arnoglossus laterna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Arnoglossus_laterna_2.jpg/100px-Arnoglossus_laterna_2.jpg
+Butte (F),Bothus,Bothus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flower_flounder_in_Kona_may_2010.jpg/100px-Flower_flounder_in_Kona_may_2010.jpg
+Bothus,Fasanbutt,Bothus mancus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flounder_hawaii.jpg/100px-Flounder_hawaii.jpg
+Bothus,Weitaugenbutt,Bothus podas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Bothus_podas_Corse.JPG/100px-Bothus_podas_Corse.JPG
+Plattfische,Schollen,Pleuronectidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Platichthys_flesus_1.jpg/100px-Platichthys_flesus_1.jpg
+Schollen,Hundszunge,Glyptocephalus cynoglossus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glyptocephalus_cynoglossus.jpg/100px-Glyptocephalus_cynoglossus.jpg
+Schollen,Rotzunge,Microstomus kitt,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Microstomus_kitt_1.jpg/100px-Microstomus_kitt_1.jpg
+Schollen,Heilbutt,Hippoglossus hippoglossus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Halibut_DSC02249.JPG/100px-Halibut_DSC02249.JPG
+Schollen,Scholle,Pleuronectes platessa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Goldbutt_2009.JPG/100px-Goldbutt_2009.JPG
+Schollen,Flunder,Platichthys flesus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Platichthys_flesus_1.jpg/100px-Platichthys_flesus_1.jpg
+Plattfische,Seezungen,Soleidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Seezunge2007.jpg/100px-Seezunge2007.jpg
+Seezungen,Seezunge,Solea solea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Solea_solea_1.jpg/100px-Solea_solea_1.jpg
+Seezungen,Sandzunge,Pegusa lascaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pegusa_lascaris.jpg/100px-Pegusa_lascaris.jpg
+Carangiformes,Schützenfische,Toxotidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toxotes_jaculatrix.jpg/100px-Toxotes_jaculatrix.jpg
+Schützenfische,Schützenfisch,Toxotes jaculatrix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toxotes_jaculatrix.jpg/100px-Toxotes_jaculatrix.jpg
+Carangiformes,Schwertfischverwandte,Xiphioidea,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/White_Marlin_in_North_Carolina_1394318584.jpg/100px-White_Marlin_in_North_Carolina_1394318584.jpg
+Schwertfischverwandte,Schwertfische (F),Xiphiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Xiphias_gladius_stuffed.jpg/100px-Xiphias_gladius_stuffed.jpg
+Schwertfische (F),Schwertfisch,Xiphias gladius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Xiphias_gladius_stuffed.jpg/100px-Xiphias_gladius_stuffed.jpg
+Schwertfischverwandte,Speerfische,Istiophoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/White_Marlin_in_North_Carolina_1394318584.jpg/100px-White_Marlin_in_North_Carolina_1394318584.jpg
+Speerfische,Fächerfisch,Istiophorus platypterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Fastest-fish.jpg/100px-Fastest-fish.jpg
+Speerfische,Weisser Marlin,Kajikia albida,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/White_Marlin_in_North_Carolina_1394318584.jpg/100px-White_Marlin_in_North_Carolina_1394318584.jpg
+Speerfische,Blauer Marlin,Makaira nigricans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Atlantic_blue_marlin.jpg/100px-Atlantic_blue_marlin.jpg
+Speerfische,Mittelmeer-Speerfisch,Tetrapturus belone,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Histoire_naturelle_des_poissons_%2810438702206%29.jpg/100px-Histoire_naturelle_des_poissons_%2810438702206%29.jpg
+Carangiformes,Schiffshalter,Echeneidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Echeneis_naucrates.jpg/100px-Echeneis_naucrates.jpg
+Schiffshalter,Gestreifter Schiffshalter,Echeneis naucrates,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Remora_Belize_Reef.jpg/100px-Remora_Belize_Reef.jpg
+Schiffshalter,Gemeiner Schiffshalter,Remora remora,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Remora_remora.jpg/100px-Remora_remora.jpg
+Carangiformes,Stachelmakrelen,Carangidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/100px-Caranx_ignobilis.jpg
+Stachelmakrelen,Dickkopf-Makrele,Caranx ignobilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/100px-Caranx_ignobilis.jpg
+Stachelmakrelen,Pilotfisch,Naucrates ductor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Naucrates_ductor.jpg/100px-Naucrates_ductor.jpg
+Stachelflosser,Hornhechtartige,Beloniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beloniformes.jpg/100px-Beloniformes.jpg
+Hornhechtartige,Fliegende Fische,Exocoetidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cheilopogon_melanurusPCCA20070623-3956B.jpg/100px-Cheilopogon_melanurusPCCA20070623-3956B.jpg
+Fliegende Fische,Schwalbenfisch,Exocoetus volitans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Exocoetus_volitans.jpg/100px-Exocoetus_volitans.jpg
+Hornhechtartige,Hornhechte,Belonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tylosurus_crocodilus_crocodilus_R%C3%A9union.jpg/100px-Tylosurus_crocodilus_crocodilus_R%C3%A9union.jpg
+Hornhechte,Gewöhnlicher Hornhecht,Belone belone,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Garfish%2C_Peloponnese%2C_Peloponnese%2C_Western_Greece_and_the_Ionian_Islands%2C_GR_imported_from_iNaturalist_photo_222165464.jpg/100px-Garfish%2C_Peloponnese%2C_Peloponnese%2C_Western_Greece_and_the_Ionian_Islands%2C_GR_imported_from_iNaturalist_photo_222165464.jp
+Hornhechtartige,Halbschnäbler,Zenarchopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dermogenys_sumatrana_02.jpg/100px-Dermogenys_sumatrana_02.jpg
+Halbschnäbler,Halbschnabelhecht,Dermogenys pusilla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dermogenys_pusilla_by_OpenCage.jpg/100px-Dermogenys_pusilla_by_OpenCage.jpg
+Stachelflosser,Zahnkärpflinge,Cyprinodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pachypanchax_omalonotus_01.jpg/100px-Pachypanchax_omalonotus_01.jpg
+Zahnkärpflinge,Anablepidae,Anablepidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vieraugen_001.jpg/100px-Vieraugen_001.jpg
+Anablepidae,Vieraugen,Anableps,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Anableps_anableps_qtl1.jpg/100px-Anableps_anableps_qtl1.jpg
+Stachelflosser,Buntbarschartige,Cichliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cichlimorphae.jpg/100px-Cichlimorphae.jpg
+Buntbarschartige,Buntbarsche,Cichlidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Archocentrus_nigrofasciatus_female.jpg/120px-Archocentrus_nigrofasciatus_female.jpg
+Buntbarsche,Skalare,Pterophyllum,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freshwater_angelfish_biodome.jpg/120px-Freshwater_angelfish_biodome.jpg
+Skalare,Skalar,Pterophyllum scalare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freshwater_angelfish_biodome.jpg/120px-Freshwater_angelfish_biodome.jpg
+Skalare,Hoher Segelflosser,Pterophyllum altum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pterophyllum_altum.jpg/100px-Pterophyllum_altum.jpg
+Skalare,Leopolds Skalar,Pterophyllum leopoldi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pterophyllum_leopoldi.jpg/120px-Pterophyllum_leopoldi.jpg
+Buntbarsche,Zebrabuntbarsch,Amatitlania nigrofasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Archocentrus_nigrofasciatus_female.jpg/120px-Archocentrus_nigrofasciatus_female.jpg
+Buntbarsche,Diskusfische,Symphysodon,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_01.jpg/100px-Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_01.jpg
+Buntbarsche,Gestreifter Buntbarsch,Etroplus suratensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Etroplus_suratensis.jpg/100px-Etroplus_suratensis.jpg
+Buntbarschartige,Pholidichthyidae,Pholidichthyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pholidichthys_leucotaenia_1.jpg/120px-Pholidichthys_leucotaenia_1.jpg
+Pholidichthyidae,Weissstreifen-Aalgrundel,Pholidichthys leucotaenia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pholidichthys_leucotaenia_1.jpg/120px-Pholidichthys_leucotaenia_1.jpg
+Buntbarschartige,Vielstachler,Polycentridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Monocirrhus_polyacanthus.jpg/100px-Monocirrhus_polyacanthus.jpg
+Vielstachler,Blattfisch,Monocirrhus polyacanthus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Monocirrhus_polyacanthus%2C_Tapaj%C3%B3s.jpg/100px-Monocirrhus_polyacanthus%2C_Tapaj%C3%B3s.jpg
+Stachelflosser,Schleimfischartige,Blenniiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg/100px-Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg
+Schleimfischartige,Aalbarsche,Congrogadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Congrogadus_subducens.jpg/120px-Congrogadus_subducens.jpg
+Aalbarsche,Grüner Aalbarsch,Congrogadus subducens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Congrogadus_subducens.jpg/120px-Congrogadus_subducens.jpg
+Schleimfischartige,Riffbarsche,Pomacentridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chromis_cyanea_Gratwicke.jpg/100px-Chromis_cyanea_Gratwicke.jpg
+Riffbarsche,Garibaldifisch,Hypsypops rubicundus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hypsypops_rubicundus_adult.jpg/120px-Hypsypops_rubicundus_adult.jpg
+Riffbarsche,Anemonenfische,Amphiprion,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Amphiprion_ephippium.jpg/120px-Amphiprion_ephippium.jpg
+Anemonenfische,Echter Clownfisch,Amphiprion percula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gelege_pflegende_perculas.png/120px-Gelege_pflegende_perculas.png
+Anemonenfische,Falscher Clownfisch,Amphiprion ocellaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/100px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg
+Anemonenfische,Clarks Anemonenfisch,Amphiprion clarkii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2015_01_Koh_Lanta_30_littlr_teeth_%2816423924129%29.jpg/120px-2015_01_Koh_Lanta_30_littlr_teeth_%2816423924129%29.jpg
+Anemonenfische,Halsband-Anemonenfisch,Amphiprion perideraion,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Amphiprion_perideraion_in_Anemone.jpg/100px-Amphiprion_perideraion_in_Anemone.jpg
+Anemonenfische,Sattelfleck-Anemonenfisch,Amphiprion polymnus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Amphiprion_Species.JPG/120px-Amphiprion_Species.JPG
+Anemonenfische,Oranger Anemonenfisch,Amphiprion sandaracinos,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Amphiprion_sandaracinos.jpg/120px-Amphiprion_sandaracinos.jpg
+Riffbarsche,Preussenfische,Dascyllus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Humbug_dascyllus_%28Dascyllus_aruanus%29_%2848652156722%29.jpg/100px-Humbug_dascyllus_%28Dascyllus_aruanus%29_%2848652156722%29.jpg
+Preussenfische,Dreibinden-Preussenfisch,Dascyllus aruanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pocillopora_meandrina_y_Dascyllus.jpg/120px-Pocillopora_meandrina_y_Dascyllus.jpg
+Preussenfische,Strasburgs Preussenfisch,Dascyllus strasburgi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dascyllus_strasburgi.jpg/120px-Dascyllus_strasburgi.jpg
+Preussenfische,Dreifleck-Preussenfisch,Dascyllus trimaculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dascyllus_trimaculatus_R%C3%A9union.jpg/120px-Dascyllus_trimaculatus_R%C3%A9union.jpg
+Schleimfischartige,Schleimfische,Blenniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Blennius_ocellaris_Messina.jpg/120px-Blennius_ocellaris_Messina.jpg
+Schleimfische,Seeschmetterling,Blennius ocellaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Blennius_ocellaris_Messina.jpg/120px-Blennius_ocellaris_Messina.jpg
+Schleimfische,Dreistreifen-Säbelzahnschleimfisch,Meiacanthus grammistes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Meiacanthus_grammistes.JPG/100px-Meiacanthus_grammistes.JPG
+Schleimfische,Gestreifter Schleimfisch,Parablennius gattorugine,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parablenniusgattorugine.JPG/120px-Parablenniusgattorugine.JPG
+Stachelflosser,Barschartige,Perciformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Barsche_im_See_%28Jungfische%29.jpg/100px-Barsche_im_See_%28Jungfische%29.jpg
+Barschartige,Zackenbarsche,Epinephelidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Chocolate_grouper_%28Cephalopholis_boenak%29_%2840701425812%29.jpg/100px-Chocolate_grouper_%28Cephalopholis_boenak%29_%2840701425812%29.jpg
+Zackenbarsche,Epinephelus,Epinephelus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Georgia_Aquarium_-_Giant_Grouper_edit2.jpg/120px-Georgia_Aquarium_-_Giant_Grouper_edit2.jpg
+Epinephelus,Dunkler Riesenzackenbarsch,Epinephelus lanceolatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Georgia_Aquarium_-_Giant_Grouper_edit2.jpg/120px-Georgia_Aquarium_-_Giant_Grouper_edit2.jpg
+Epinephelus,Pantherfisch,Epinephelus altivelis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cromileptes_altivelis_skansen_2006.jpg/100px-Cromileptes_altivelis_skansen_2006.jpg
+Zackenbarsche,Cephalopholis,Cephalopholis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blue-spotted.grouper.arp.jpg/120px-Blue-spotted.grouper.arp.jpg
+Cephalopholis,Pfauen-Zackenbarsch,Cephalopholis argus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cephalopholis_argus_333025915.jpg/100px-Cephalopholis_argus_333025915.jpg
+Cephalopholis,Juwelen-Zackenbarsch,Cephalopholis miniata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Redgrouper.jpg/120px-Redgrouper.jpg
+Barschartige,Petermännchen,Trachinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Trachinus_draco.jpg/120px-Trachinus_draco.jpg
+Petermännchen,Strahlen-Petermännchen,Trachinus radiatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Trachinus_radiatus_showy_Kato_Koufonissi.jpg/100px-Trachinus_radiatus_showy_Kato_Koufonissi.jpg
+Barschartige,Echte Barsche,Percidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Perca_fluviatilis_-_Perche_commune_-_European_perch.jpg/100px-Perca_fluviatilis_-_Perche_commune_-_European_perch.jpg
+Echte Barsche,Flussbarsch,Perca fluviatilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Perca_fluviatilis.jpg/100px-Perca_fluviatilis.jpg
+Echte Barsche,Kaulbarsch,Gymnocephalus cernua,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gymnocephalus_cernuus_P%C3%A4rnu_River_Estonia_2010-01-06.jpg/100px-Gymnocephalus_cernuus_P%C3%A4rnu_River_Estonia_2010-01-06.jpg
+Echte Barsche,Zander,Sander lucioperca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zander.jpg/120px-Zander.jpg
+Barschartige,Plattköpfe,Platycephalidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Platycephalus_fuscus_1.jpg/120px-Platycephalus_fuscus_1.jpg
+Plattköpfe,Alligatorfisch,Cociella crocodila,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/NaamaCrocodile.jpg/120px-NaamaCrocodile.jpg
+Plattköpfe,Braunkopf-Plattkopf,Cymbacephalus beauforti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cymbacephalus_beauforti_2.jpg/100px-Cymbacephalus_beauforti_2.jpg
+Barschartige,Drachenköpfe,Scorpaenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Scorpaena_scrofa.jpg/120px-Scorpaena_scrofa.jpg
+Drachenköpfe,Skorpionfische,Scorpaeninae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Scorpaena_scrofa.jpg/120px-Scorpaena_scrofa.jpg
+Skorpionfische,Grosser Roter Drachenkopf,Scorpaena scrofa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Grosserdrachenkopf-02.jpg/120px-Grosserdrachenkopf-02.jpg
+Skorpionfische,Ambon-Drachenkopf,Pteroidichthys amboinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ambon_Scorpionfish_5.jpg/100px-Ambon_Scorpionfish_5.jpg
+Skorpionfische,Schaukelfisch,Taenianotus triacanthus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pez_escorpi%C3%B3n_de_vela_%28Taenianotus_triacanthus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_17.jpg/100px-Pez_escorpi%C3%B3n_de_vela_%28Taenianotus_triacanthus%29%2C_Zanz%C3%ADbar%2C_Tanzania%2C_2024-05-29%2C_DD_17.jpg
+Drachenköpfe,Feuerfische,Pteroinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MC_Rotfeuerfisch.jpg/100px-MC_Rotfeuerfisch.jpg
+Feuerfische,Zebra-Zwergfeuerfisch,Dendrochirus zebra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Zebra_Lionfish_%28Dendrochirus_zebra%29_%2845552894282%29.jpg/100px-Zebra_Lionfish_%28Dendrochirus_zebra%29_%2845552894282%29.jpg
+Feuerfische,Pfauenaugen-Zwergfeuerfisch,Nemapterois biocellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dendrochirus_biocellatus1.JPG/100px-Dendrochirus_biocellatus1.JPG
+Feuerfische,Blauflossen-Feuerfisch,Parapterois heterura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Parapterois_heterura_-_Blackfoot_Lionfish_-_Blauflossen-Feuerfisch_%28detail%29.jpg/120px-Parapterois_heterura_-_Blackfoot_Lionfish_-_Blauflossen-Feuerfisch_%28detail%29.jpg
+Feuerfische,Pterois,Pterois,Gattung,not_found
+Pterois,Indischer Rotfeuerfisch,Pterois miles,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rotfeuerfisch_aegypten.JPG/120px-Rotfeuerfisch_aegypten.JPG
+Pterois,Pazifischer Rotfeuerfisch,Pterois volitans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pterois_volitans_Manado-e.jpg/120px-Pterois_volitans_Manado-e.jpg
+Feuerfische,Strahlenfeuerfisch,Pteropterus radiatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Clearfin_lionfish_%28Pterois_radiata%29.JPG/120px-Clearfin_lionfish_%28Pterois_radiata%29.JPG
+Barschartige,Knurrhähne,Triglidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fish3884_-_Flickr_-_NOAA_Photo_Library.jpg/100px-Fish3884_-_Flickr_-_NOAA_Photo_Library.jpg
+Knurrhähne,Gestreifter Knurrhahn,Trigloporus lastoviza,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chelidonichthys_lastoviza2.jpg/100px-Chelidonichthys_lastoviza2.jpg
+Knurrhähne,Roter Knurrhahn,Chelidonichthys lucerna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chelidonichthys_lucernus_1_Luc_viatour.jpg/120px-Chelidonichthys_lucernus_1_Luc_viatour.jpg
+Barschartige,Synanceiidae,Synanceiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Synanceia_nana.JPG/120px-Synanceia_nana.JPG
+Synanceiidae,Roter Samtfisch,Gnathanacanthus goetzeei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gnathanacanthus_goetzeei_3.jpg/100px-Gnathanacanthus_goetzeei_3.jpg
+Synanceiidae,Echter Steinfisch,Synanceia verrucosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/M.E._Blochii_Systema_ichthyologiae_iconibus_CX_illustratum_%281801%29_%2814766409395%29.jpg/120px-M.E._Blochii_Systema_ichthyologiae_iconibus_CX_illustratum_%281801%29_%2814766409395%29.jpg
+Barschartige,Stichlinge,Gasterosteidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gasterosteus_aculeatus.jpg/120px-Gasterosteus_aculeatus.jpg
+Stichlinge,Dreistachliger Stichling,Gasterosteus aculeatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dreistachliger_Stichling.jpg/100px-Dreistachliger_Stichling.jpg
+Stichlinge,Neunstachliger Stichling,Pungitius pungitius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pungitius_pungitius.jpg/120px-Pungitius_pungitius.jpg
+Stichlinge,Seestichling,Spinachia spinachia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spinachia_spinachia_01.jpg/100px-Spinachia_spinachia_01.jpg
+Barschartige,Seewölfe,Anarhichadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anarrhichthys_ocellatus.jpg/120px-Anarrhichthys_ocellatus.jpg
+Seewölfe,Anarhichas,Anarhichas,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anarrhichthys_ocellatus.jpg/120px-Anarrhichthys_ocellatus.jpg
+Anarhichas,Blauer Seewolf,Anarhichas denticulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Seewolf.JPG/100px-Seewolf.JPG
+Anarhichas,Gestreifter Seewolf,Anarhichas lupus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Akvariet_i_Bergen16.jpg/100px-Akvariet_i_Bergen16.jpg
+Seewölfe,Pazifischer Seewolf,Anarrhichtys ocellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wolf_eel.png/100px-Wolf_eel.png
+Barschartige,Panzergroppen,Algonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/100px-Agonus_cataphractus.jpg
+Panzergroppen,Steinpicker,Agonus cataphractus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/100px-Agonus_cataphractus.jpg
+Barschartige,Groppen,Kottidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CottusGobioSpreadingFins.JPG/120px-CottusGobioSpreadingFins.JPG
+Groppen,Groppe,Kottus gobio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CottusGobioSpreadingFins.JPG/120px-CottusGobioSpreadingFins.JPG
+Barschartige,Dickkopf-Groppen,Psychrolutidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Psychrolutes_phrictus_1.jpg/120px-Psychrolutes_phrictus_1.jpg
+Dickkopf-Groppen,Blobfisch,Psychrolutes phrictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Psychrolutes_phrictus_1.jpg/120px-Psychrolutes_phrictus_1.jpg
+Barschartige,Seehasen,Cyclopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cyclopterus_lumpus_2.JPG/100px-Cyclopterus_lumpus_2.JPG
+Seehasen,Seehase,Cyclopterus lumpus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hrognkelsi.jpg/120px-Hrognkelsi.jpg
+Stachelflosser,Himmelsguckerartige,Uranoscopiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Uranoscopus_scaber_Rab.JPG/120px-Uranoscopus_scaber_Rab.JPG
+Himmelsguckerartige,Himmelsgucker (F),Uranoscopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
+Himmelsgucker (F),Nördlicher Elektrischer Sterngucker,Astroscopus guttatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
+Himmelsgucker (F),Himmelsgucker,Uranoscopus scaber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
+Stachelflosser,Lippfischartige,Labriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hemigymnus_fasciatus.jpg/120px-Hemigymnus_fasciatus.jpg
+Lippfischartige,Lippfische,Labridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Female_Thalassoma_pavo.JPG/100px-Female_Thalassoma_pavo.JPG
+Lippfische,Napoleon-Lippfisch,Cheilinus undunatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cheilinus_undulatus_by_Patryk_Krzyzak.jpg/120px-Cheilinus_undulatus_by_Patryk_Krzyzak.jpg
+Lippfische,Harlekin-Lippfisch,Choerodon fasciatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Choerodon_fasciatus.jpg/100px-Choerodon_fasciatus.jpg
+Lippfische,Masken-Papageifisch,Cetoscarus bicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Spotted_parrotfishWB.jpg/120px-Spotted_parrotfishWB.jpg
+Lippfische,Mitternachts-Papageifisch,Scarus coelestinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Midnight-parrotfish.png/120px-Midnight-parrotfish.png
+Stachelflosser,Doktorfischartige,Acanthuriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ctenochaetus_tominiensis.jpg/100px-Ctenochaetus_tominiensis.jpg
+Doktorfischartige,Kaiserfische,Pomacanthidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blaukopf-Kaiserfisch_%28Pomacanthus_xantometopon%29_01.jpg/120px-Blaukopf-Kaiserfisch_%28Pomacanthus_xantometopon%29_01.jpg
+Kaiserfische,Blaugelber Zwergkaiserfisch,Centropyge bicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Centropyge_bicolor.jpg/100px-Centropyge_bicolor.jpg
+Kaiserfische,Kalifornischer Engelfisch,Holocanthus passer,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holacanthus_passer_1.jpg/120px-Holacanthus_passer_1.jpg
+Kaiserfische,Imperator-Kaiserfisch,Pomacantus Imperator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Emperor_Angelfish%2C_Western_form_-_Pomacanthus_imperator_1.jpg/100px-Emperor_Angelfish%2C_Western_form_-_Pomacanthus_imperator_1.jpg
+Kaiserfische,Pfauen-Kaiserfisch,Pygoplites diacanthus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Angelfish_Nick_Hobgood.jpg/100px-Angelfish_Nick_Hobgood.jpg
+Doktorfischartige,Falterfische,Faetodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ornate_Butterflyfish.jpg/120px-Ornate_Butterflyfish.jpg
+Falterfische,Kupferstreifen-Pinzettfisch,Chelmon rostratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Chelmon_rostratus_Luc_Viatour.jpg/100px-Chelmon_rostratus_Luc_Viatour.jpg
+Falterfische,Gelber Masken-Pinzettfisch,Forcipiger flavissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Longnose_Butterflyfish_-_Forcipiger_flavissimus.jpg/120px-Longnose_Butterflyfish_-_Forcipiger_flavissimus.jpg
+Falterfische,Gelber Pyramidenfalterfisch,Hemitaurichtys Polyleptis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hemitaurichthys_polylepis.jpg/100px-Hemitaurichthys_polylepis.jpg
+Falterfische,Gemeiner Wimpelfisch,Heniochus acuminatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pennant_coralfish_melb_aquarium_edit2.jpg/100px-Pennant_coralfish_melb_aquarium_edit2.jpg
+Falterfische,Barbier-Falterfisch,Johnrandalla nigrirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Johnrandallia_nigrirostris.jpg/120px-Johnrandallia_nigrirostris.jpg
+Falterfische,Vieraugen-Falterfisch,Caetodon capistratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chaetodon_capistratus_-_Vieraugen-Falterfisch_154084156.jpg/120px-Chaetodon_capistratus_-_Vieraugen-Falterfisch_154084156.jpg
+Doktorfischartige,Kaninchenfische,Siganidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Siganus_vulpinus_2.jpg/120px-Siganus_vulpinus_2.jpg
+Kaninchenfische,Fuchsgesicht,Siganus vulpinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Siganus_vulpinus_2.jpg/120px-Siganus_vulpinus_2.jpg
+Doktorfischartige,Zanclidae,Zanclidae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zanclus_cornutus_1.jpg/100px-Zanclus_cornutus_1.jpg
+Zanclidae,Halfterfisch,Zanclus cornutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zanclus_cornutus_1.jpg/100px-Zanclus_cornutus_1.jpg
+Doktorfischartige,Doktorfische,Acanthuridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Acanthurussohal-ArabischerDoktor.jpg/120px-Acanthurussohal-ArabischerDoktor.jpg
+Doktorfische,Echte Doktorfische,Acanthurus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Acanthurussohal-ArabischerDoktor.jpg/120px-Acanthurussohal-ArabischerDoktor.jpg
+Echte Doktorfische,Achilles-Doktorfisch,Acanthurus achilles,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Acanthuridae_-_Acanthurus_achilles.JPG/120px-Acanthuridae_-_Acanthurus_achilles.JPG
+Echte Doktorfische,Blauer Doktorfisch,Acanthurus coeruleus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Atlantic_blue_tang_surgeonfish_%28%22Acanthurus_coeruleus%22%29_-13092009a.jpg/120px-Atlantic_blue_tang_surgeonfish_%28%22Acanthurus_coeruleus%22%29_-13092009a.jpg
+Echte Doktorfische,Augenstreifen-Doktorfisch,Acanthurus dussumieri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Acanthurus_dussumieri.jpg/100px-Acanthurus_dussumieri.jpg
+Echte Doktorfische,Japanischer Doktorfisch,Acanthurus japonicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Acanthurus_japonicus.jpg/120px-Acanthurus_japonicus.jpg
+Echte Doktorfische,Weisskehl-Doktorfisch,Acanthurus leucosternon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Acanthurus_leucosternon_01.JPG/120px-Acanthurus_leucosternon_01.JPG
+Echte Doktorfische,Blaustreifen-Doktorfisch,Acanthurus lineatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Striped_surgeonfish_%28Acanthurus_lineatus%29_%2846864395325%29.jpg/120px-Striped_surgeonfish_%28Acanthurus_lineatus%29_%2846864395325%29.jpg
+Echte Doktorfische,Arabischer Doktorfisch,Acanthurus sohal,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%B0-%D1%85%D0%B8%D1%80%D1%83%D1%80%D0%B3._Acanthurus_sohal_DSCF5782WI.jpg/100px-%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%B0-%D1%85%D0%B8%D1%80%D1%83%D1%80%D0%B3._Acanthurus_sohal_DSCF5782WI.jpg
+Echte Doktorfische,Sträflings-Doktorfisch,Acanthurus triostegus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Acanthurus_triostegus_and_Labroides_phthirophagus.jpg/100px-Acanthurus_triostegus_and_Labroides_phthirophagus.jpg
+Doktorfische,Borstenzahndoktorfische,Ctenochaetus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ctenochaetus_strigosus_1.jpg/120px-Ctenochaetus_strigosus_1.jpg
+Borstenzahndoktorfische,Goldring-Borstenzahndoktorfisch,Ctenochaetus strigosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ctenochaetus_strigosus_1.jpg/120px-Ctenochaetus_strigosus_1.jpg
+Borstenzahndoktorfische,Hawaii-Borstenzahndoktorfisch,Ctenochaetus hawaiiensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ctenochaetus_hawaiiensis_-_Hawaii-Borstenzahndoktorfisch.jpg/120px-Ctenochaetus_hawaiiensis_-_Hawaii-Borstenzahndoktorfisch.jpg
+Doktorfische,Paletten-Doktorfisch,Paracanthurus hepatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG/120px-Paletten-Doktorfisch_M%C3%BCnster.JPG
+Doktorfische,Segelflossendoktorfische,Zebrasoma,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zebrasoma_flavescens.jpg/100px-Zebrasoma_flavescens.jpg
+Segelflossendoktorfische,Gelber Segelflossendoktor,Zebrasoma flavescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Poissonchirurgienjaune_%28cropped%29.jpg/100px-Poissonchirurgienjaune_%28cropped%29.jpg
+Segelflossendoktorfische,Weissdorn-Segelflossendoktor,Zebrasoma scopas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zebrasoma_scopas.jpg/120px-Zebrasoma_scopas.jpg
+Doktorfische,Nasendoktorfische,Naso,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nasendoktor.jpg/120px-Nasendoktor.jpg
+Nasendoktorfische,Kurznasendoktorfisch,Naso unicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Naso_unicornis_051117.jpg/120px-Naso_unicornis_051117.jpg
+Nasendoktorfische,Langnasen-Nasendoktorfisch,Naso brevirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naso_brevirostris_%26_Labroides_dimidiatus.jpg/120px-Naso_brevirostris_%26_Labroides_dimidiatus.jpg
+Nasendoktorfische,Weissband-Nashornfisch,Naso annulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Naso_annulatus2.JPG/120px-Naso_annulatus2.JPG
+Doktorfische,Wolfsbarsche,Moronidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dicentrarchus_labrax_%28Belgium%29.jpg/120px-Dicentrarchus_labrax_%28Belgium%29.jpg
+Wolfsbarsche,Europäischer Wolfsbarsch,Dicentrarchus labrax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dicentrarchus_labrax01.jpg/120px-Dicentrarchus_labrax01.jpg
+Stachelflosser,Armflosser,Lophiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Expl1855_%289734085633%29.jpg/120px-Expl1855_%289734085633%29.jpg
+Armflosser,Seeteufel (F),Lophioidei,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Seeteufel.jpg/120px-Seeteufel.jpg
+Seeteufel (F),Lophius,Lophius,Gattung,not_found
+Lophius,Seeteufel,Lophius piscatorius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Seeteufel.jpg/120px-Seeteufel.jpg
+Lophius,Schwarzer Seeteufel,Lophius budegassa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Lophius_budegassa.jpg/120px-Lophius_budegassa.jpg
+Armflosser,Seefledermäuse,Ogcocephalidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ogcocephalus_parvus.jpg/120px-Ogcocephalus_parvus.jpg
+Seefledermäuse,Raurücken-Seefledermaus,Ogcocephalus parvus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/OgcocephalusParvus.jpg/120px-OgcocephalusParvus.jpg
+Armflosser,Antennariidae,Antennariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Antennarius_striatus_D.jpg/120px-Antennarius_striatus_D.jpg
+Antennariidae,Antennarius,Antennarius,Gattung,not_found
+Antennarius,Commersons Anglerfisch,Antennarius commerson,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Giant_Frogfish_%28Antennarius_commerson%29_%288460557595%29.jpg/120px-Giant_Frogfish_%28Antennarius_commerson%29_%288460557595%29.jpg
+Antennarius,Warzen-Anglerfisch,Antennarius maculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Antennarius_maculatus_%28Desjardins%2C_1840%29_2283129219.jpg/120px-Antennarius_maculatus_%28Desjardins%2C_1840%29_2283129219.jpg
+Antennarius,Gemalter Anglerfisch,Antennarius pictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Antennarius_pictus_2.JPG/120px-Antennarius_pictus_2.JPG
+Antennariidae,Gestreifter Anglerfisch,Antennarius striatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Antennarius_striatus_%288492976355%29.jpg/120px-Antennarius_striatus_%288492976355%29.jpg
+Antennariidae,Sargassofisch,Histrio histrio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Antennariidae_Histrio_histrio_1.jpg/120px-Antennariidae_Histrio_histrio_1.jpg
+Armflosser,Rhycheridae,Rhycheridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tassled_Angler_Fish.jpg/120px-Tassled_Angler_Fish.jpg
+Rhycheridae,Quasten-Anglerfisch,Rhycherus filamentosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tassled_Angler_Fish.jpg/120px-Tassled_Angler_Fish.jpg
+Armflosser,Histiophrynidae,Histiophrynidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Psychedelic_frogfish_08Am7A1b.jpg/120px-Psychedelic_frogfish_08Am7A1b.jpg
+Histiophrynidae,Psychedelischer Anglerfisch,Histiophryne psychedelica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Psychedelic_frogfish_08Am7A1b.jpg/120px-Psychedelic_frogfish_08Am7A1b.jpg
+Armflosser,Fächerflosser,Caulophrynidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Caulophryne_pelagica.jpg/120px-Caulophryne_pelagica.jpg
+Fächerflosser,Caulophryne jordani,Caulophryne jordani,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/C_jordani.JPG/120px-C_jordani.JPG
+Armflosser,Himantolophidae,Himantolophidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Himantolophus_groenlandicus_by_OpenCage.jpg/120px-Himantolophus_groenlandicus_by_OpenCage.jpg
+Himantolophidae,Peitschenangler,Himantolophus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Himantolophus_groenlandicus_by_OpenCage.jpg/120px-Himantolophus_groenlandicus_by_OpenCage.jpg
+Armflosser,Schwarzangler,Melanocetidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humpback_anglerfish.png/120px-Humpback_anglerfish.png
+Schwarzangler,Buckliger Anglerfisch,Melanocetus johnsonii,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humpback_anglerfish.png/120px-Humpback_anglerfish.png
+Armflosser,Thaumatichthyidae,Thaumatichthyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L_amphirhamphus.jpg/120px-L_amphirhamphus.jpg
+Thaumatichthyidae,Lasiognathus amphirhamphus,Lasiognathus amphirhamphus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L_amphirhamphus.jpg/120px-L_amphirhamphus.jpg
+Stachelflosser,Kugelfischartige,Tetraodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tetraodontiformes.jpg/120px-Tetraodontiformes.jpg
+Kugelfischartige,Drückerfische,Balistidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/120px-Picasso.triggerfish.arp.jpg
+Drückerfische,Orangenstreifen-Drückerfisch,Balistapus undulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Balistapus_undulatus.jpg/120px-Balistapus_undulatus.jpg
+Drückerfische,Riesen-Drückerfisch,Balistoides viridescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Balistoides_viridescens.jpg/120px-Balistoides_viridescens.jpg
+Drückerfische,Witwen-Drückerfisch,Melichthys vidua,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Melichthys_vidua.jpg/120px-Melichthys_vidua.jpg
+Drückerfische,Picasso-Drückerfisch,Rhinecanthus aculeatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/120px-Picasso.triggerfish.arp.jpg
+Drückerfische,Sargasso-Drückerfisch,Xanthichthys ringens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sargassum_triggerfish_Xanthichthys_ringens.jpg/120px-Sargassum_triggerfish_Xanthichthys_ringens.jpg
+Kugelfischartige,Feilenfische,Monacanthidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cantherhines_macrocerus_juvenil.jpg/120px-Cantherhines_macrocerus_juvenil.jpg
+Feilenfische,Schrift-Feilenfisch,Aluterus scriptus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/31-EastTimor-Early-Dive_Tasi-Tolu_19_%28Scribbled_Filefish%29-APiazza.JPG/120px-31-EastTimor-Early-Dive_Tasi-Tolu_19_%28Scribbled_Filefish%29-APiazza.JPG
+Feilenfische,Schmuckfeilenfisch,Chaetodermis penicilligerus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chaetodermis_penicilligerus.405_-_Aquarium_Finisterrae.jpg/120px-Chaetodermis_penicilligerus.405_-_Aquarium_Finisterrae.jpg
+Feilenfische,Kleiner Feilenfisch,Rudarius minutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rudarius_minutus.jpg/120px-Rudarius_minutus.jpg
+Kugelfischartige,Schmuck-Kofferfische,Aracanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aracana_ornata.jpg/120px-Aracana_ornata.jpg
+Schmuck-Kofferfische,Schmuck-Kofferfisch,Aracana ornata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aracana_ornata.jpg/120px-Aracana_ornata.jpg
+Kugelfischartige,Kofferfische,Ostraciidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Smooth_Trunkfish_Lactophrys_Triqueter_%28252728203%29.jpeg/120px-Smooth_Trunkfish_Lactophrys_Triqueter_%28252728203%29.jpeg
+Kofferfische,Horn-Kofferfisch,Acanthostracion quadricornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seattle_Aquarium_060_-_Tropical_Pacific_-_Cowfish_%2816222249147%29.jpg/120px-Seattle_Aquarium_060_-_Tropical_Pacific_-_Cowfish_%2816222249147%29.jpg
+Kofferfische,Perlen-Kofferfisch,Lactophrys triqueter,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Smooth_Trunkfish_Lactophrys_Triqueter_%28252728203%29.jpeg/120px-Smooth_Trunkfish_Lactophrys_Triqueter_%28252728203%29.jpeg
+Kofferfische,Kuhfisch,Lactoria cornuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Lactoria_cornuta.002_-_Aquarium_Finisterrae.JPG/120px-Lactoria_cornuta.002_-_Aquarium_Finisterrae.JPG
+Kofferfische,Weisspunkt-Kofferfisch,Ostracion meleagris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Whitespotted_boxfish_-_Ostracion_meleagris.jpg/120px-Whitespotted_boxfish_-_Ostracion_meleagris.jpg
+Kugelfischartige,Triodontidae,Triodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Triodon_macropterus_JNC2989.JPG/120px-Triodon_macropterus_JNC2989.JPG
+Triodontidae,Dreizahn-Kugelfisch,Triodon macropterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Triodon_macropterus_JNC2989.JPG/120px-Triodon_macropterus_JNC2989.JPG
+Kugelfischartige,Mondfische,Molidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mola_mola.jpg/120px-Mola_mola.jpg
+Mondfische,Mondfisch,Mola mola,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunfish2.jpg/120px-Sunfish2.jpg
+Mondfische,Schlanker Sonnenfisch,Ranzania laevis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ranzania_laevis2.jpg/120px-Ranzania_laevis2.jpg
+Kugelfischartige,Igelfische,Diodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Diodon_holocanthus.jpg/120px-Diodon_holocanthus.jpg
+Igelfische,Gelbflecken-Igelfisch,Cyclichthys spilostylus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cyclichthys_spilostylus.jpg/120px-Cyclichthys_spilostylus.jpg
+Igelfische,Braunflecken-Igelfisch,Diodon holocanthus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Puffed_up_Pufferfish.jpg/120px-Puffed_up_Pufferfish.jpg
+Kugelfischartige,Kugelfische,Tetraodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Black-spotted.puffer.arp.jpg/120px-Black-spotted.puffer.arp.jpg
+Kugelfische,Arothron,Arothron,Gattung,not_found
+Arothron,Riesen-Kugelfisch,Arothron stellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arothron_stellatus_1.jpg/120px-Arothron_stellatus_1.jpg
+Arothron,Weissflecken-Kugelfisch,Arothron hispidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Whitespotted_puffer.JPG/120px-Whitespotted_puffer.JPG
+Arothron,Landkarten-Kugelfisch,Arothron mappa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Arothron_mappa_colour_corrected.jpg/120px-Arothron_mappa_colour_corrected.jpg
+Arothron,Perlhuhn-Kugelfisch,Arothron meleagris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arothron_meleagris_by_NPS.jpg/120px-Arothron_meleagris_by_NPS.jpg
+Arothron,Schwarzflecken-Kugelfisch,Arothron nigropunctatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/20160530_-_Arothron_nigropunctatus_-_2.jpg/120px-20160530_-_Arothron_nigropunctatus_-_2.jpg
+Kugelfische,Grüner Kugelfisch,Dichotomyctere nigroviridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tetraodon_nigroviridis_%28Wroclaw_zoo%29.JPG/120px-Tetraodon_nigroviridis_%28Wroclaw_zoo%29.JPG
+Kugelfische,Zwerg-Kugelfisch,Carinotetraodon travancoricus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carinotetraodon_travancoricus_1.JPG/120px-Carinotetraodon_travancoricus_1.JPG
+Kugelfische,Goldringel-Kugelfisch,Tetraodon mbu,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Goldringel-Kugelfisch.JPG/120px-Goldringel-Kugelfisch.JPG
 Eukaryoten,Pilze,Fungi,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Clitocybe_odora_02.jpg/100px-Clitocybe_odora_02.jpg
 Eukaryoten,Pflanzen,Plantae,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Plants_1.png/100px-Plants_1.png
 Eukaryoten,Stramenopilen,Chromista,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dictyocha_speculum.jpg/100px-Dictyocha_speculum.jpg
