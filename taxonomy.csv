@@ -4,7 +4,13 @@ Lebewesen,Eukaryoten,Eukaryota,Domäne,https://upload.wikimedia.org/wikipedia/co
 Eukaryoten,Tiere,Animalia,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/100px-Animal_diversity.png
 Tiere,Chordatiere,Chordata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
 Chordatiere,Wirbeltiere,Vertebrata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vertebrates.png/100px-Vertebrates.png
-Wirbeltiere,Säugetiere,Mammalia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mammal_Diversity_2011.png/100px-Mammal_Diversity_2011.png
+Wirbeltiere,Kiefermäuler,Gnathostomata,Teilstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flusspferd.mit.offenem.Maul_jazz-face.jpg/120px-Flusspferd.mit.offenem.Maul_jazz-face.jpg
+Kiefermäuler,Fleischflosser,Sarcopterygii,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Australian-Lungfish.jpg/120px-Australian-Lungfish.jpg
+Fleischflosser,Landwirbeltiere,Tetrapoda,Reihe,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Extant_tetrapoda.jpg/120px-Extant_tetrapoda.jpg
+Landwirbeltiere,Nabeltiere,Amniota,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tortoise-Hatchling.jpg/120px-Tortoise-Hatchling.jpg
+Nabeltiere,Sauropsiden,Sauropsida,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tortoise_and_the_duck.jpg/120px-Tortoise_and_the_duck.jpg
+Nabeltiere,Synapsiden,Synapsida,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Edaphosaurus_pogonias.jpg/120px-Edaphosaurus_pogonias.jpg
+Synapsiden,Säugetiere,Mammalia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mammal_Diversity_2011.png/100px-Mammal_Diversity_2011.png
 Säugetiere,Höhere Säugetiere,Eutheria,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Eutheria.png/100px-Eutheria.png
 Höhere Säugetiere,Nebengelenktiere,Xenarthra,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Myrmecophaga_tridactyla%2C_Pantanal_region%2C_Brazil_%28cropped%29.jpg/100px-Myrmecophaga_tridactyla%2C_Pantanal_region%2C_Brazil_%28cropped%29.jpg
 Höhere Säugetiere,Afrotheria,Afrotheria,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Afrotheria.jpg/100px-Afrotheria.jpg
@@ -536,7 +542,7 @@ Chlamyphoridae,Zwerggürteltier,Zaedyus pichiy,Art,https://upload.wikimedia.org/
 Chlamyphoridae,Borstengürteltiere,Chaetophractus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chaetophractus_vellerosus3.jpg/100px-Chaetophractus_vellerosus3.jpg
 Chlamyphoridae,Nacktschwanzgürteltiere,Cabassous,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Reserva_Guaycolec_Formosa.jpg/100px-Reserva_Guaycolec_Formosa.jpg
 Chlamyphoridae,Kugelgürteltiere,Tolypeutes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Southern_Three_Banded_Armadillo_001-2.jpg/100px-Southern_Three_Banded_Armadillo_001-2.jpg
-Wirbeltiere,Vögel,Aves,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Crested_Tern_Tasmania_%28edit%29.jpg/100px-Crested_Tern_Tasmania_%28edit%29.jpg
+Sauropsiden,Vögel,Aves,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Crested_Tern_Tasmania_%28edit%29.jpg/100px-Crested_Tern_Tasmania_%28edit%29.jpg
 Vögel,Neukiefervögel,Neognathae,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/100px-Neognathae.jpg
 Neukiefervögel,Galloanserae,Galloanserae,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galloanserae.jpg/100px-Galloanserae.jpg
 Galloanserae,Hühnervögel,Galliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Orrtuppen.jpg/100px-Orrtuppen.jpg
@@ -990,8 +996,7 @@ Urkiefervögel,Casuariiformes,Casuariiformes,Ordnung,https://upload.wikimedia.or
 Casuariiformes,Casuariidae,Casuariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Southern_Cassowary_7071.jpg/100px-Southern_Cassowary_7071.jpg
 Casuariidae,Helmkasuar,Casuarius casuarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Southern_Cassowary_7071.jpg/100px-Southern_Cassowary_7071.jpg
 Casuariidae,Grosser Emu,Dromaius novaehollandiae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/100px-Emu_1_-_Tidbinbilla.jpg
-Wirbeltiere,Reptilien,Reptilia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Extant_reptilia.jpg/100px-Extant_reptilia.jpg
-Reptilien,Schuppenkriechtiere,Squamata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Squamata-01.jpg/100px-Squamata-01.jpg
+Sauropsiden,Schuppenkriechtiere,Squamata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Squamata-01.jpg/100px-Squamata-01.jpg
 Schuppenkriechtiere,Toxicofera,Toxicofera,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mexican-Beaded-Lizard.jpg/100px-Mexican-Beaded-Lizard.jpg
 Toxicofera,Schlangen,Serpentes,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Snakes_Diversity.jpg/100px-Snakes_Diversity.jpg
 Schlangen,Blindschlangenartige,Typhlopoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leptotyphlops_humilis_-_head.jpg/100px-Leptotyphlops_humilis_-_head.jpg
@@ -1156,7 +1161,7 @@ Gürtelschweife,Riesen-Gürtelschweif,Smaug giganteus,Art,https://upload.wikimed
 Gürtelschweife,Broadleys Plattechse,Platysaurus broadley,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Broadley%27s_Flat_Lizard_%28Platysaurus_broadleyi%29_male_%286857301934%29.jpg/100px-Broadley%27s_Flat_Lizard_%28Platysaurus_broadleyi%29_male_%286857301934%29.jpg
 Skinkartige,Schildechsen,Gerrhosauridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gerrhosaurus_major.jpg/100px-Gerrhosaurus_major.jpg
 Schildechsen,Sudan-Schildechse,Broadleysaurus major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gerrhosaurus_major.jpg/100px-Gerrhosaurus_major.jpg
-Reptilien,Schildkröten,Testudinata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emys_orbicularis_1.jpg/100px-Emys_orbicularis_1.jpg
+Sauropsiden,Schildkröten,Testudinata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emys_orbicularis_1.jpg/100px-Emys_orbicularis_1.jpg
 Schildkröten,Halsberger-Schildkröten,Cryptodira,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Graeca0005.JPG/100px-Graeca0005.JPG
 Halsberger-Schildkröten,Chelonioidea,Chelonioidea,Überfamilie,not_found
 Chelonioidea,Meeresschildkröten,Cheloniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hawaii_turtle_2.JPG/100px-Hawaii_turtle_2.JPG
@@ -1214,7 +1219,7 @@ Pelomedusenschildkröten,Starrbrust-Pelomedusen,Pelomedusa,Gattung,https://uploa
 Pelomedusenschildkröten,Okavango-Pelomeduse,Pelusios bechuanicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pelusios_bechuanicus_186795164.jpg/100px-Pelusios_bechuanicus_186795164.jpg
 Halswender-Schildkröten,Podocnemididae,Podocnemididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tortuga-arrau.jpg/100px-Tortuga-arrau.jpg
 Podocnemididae,Terekay-Schienenschildkröte,Podocnemis unifilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Podocnemis_unifilis.jpg/100px-Podocnemis_unifilis.jpg
-Reptilien,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
+Sauropsiden,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
 Krokodile,Echte Krokodile,Crocodylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crocodile_in_Kachikali_kevinzim.jpg/100px-Crocodile_in_Kachikali_kevinzim.jpg
 Echte Krokodile,Crocodylus,Crocodylus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilkrokodile.jpg/100px-Nilkrokodile.jpg
 Crocodylus,Leistenkrokodil,Crocodylus porosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg/100px-SaltwaterCrocodile%28%27Maximo%27%29.jpg
@@ -1232,7 +1237,7 @@ Echte Kaimane,Brillenkaiman,Caiman yacare,Art,https://upload.wikimedia.org/wikip
 Echte Kaimane,Breitschnauzenkaiman,Caiman latirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Caiman_latirostris_%28AU%29-top-front.JPG/100px-Caiman_latirostris_%28AU%29-top-front.JPG
 Krokodile,Gaviale,Gavialidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
 Gaviale,Gangesgavial,Gavialis gangeticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
-Wirbeltiere,Amphibien,Lissamphibia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bufo_periglenes1.jpg/100px-Bufo_periglenes1.jpg
+Landwirbeltiere,Amphibien,Lissamphibia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bufo_periglenes1.jpg/100px-Bufo_periglenes1.jpg
 Amphibien,Schwanzlurche,Caudata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Salamandra_salamandra_MHNT_1_%28cropped%29.jpg/100px-Salamandra_salamandra_MHNT_1_%28cropped%29.jpg
 Schwanzlurche,Riesensalamander,Cryptobranchidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Andrias_japonicus_cropped.jpg/100px-Andrias_japonicus_cropped.jpg
 Riesensalamander,Chinesischer Riesensalamander,Andrias davidianus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2009_Andrias_davidianus.JPG/100px-2009_Andrias_davidianus.JPG
@@ -1346,7 +1351,7 @@ Schleichenlurche,Fischwühlen,Ichthyophiidae,Familie,https://upload.wikimedia.or
 Fischwühlen,Ceylonwühle,Ichthyophis glutinosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CaecilianNHM.png/100px-CaecilianNHM.png
 Schleichenlurche,Naswenühlen,Rhinatrematidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Epicrionops_sp.jpg/100px-Epicrionops_sp.jpg
 Schleichenlurche,Grabwühlen,Scolecomorphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Scolecomorphus_kirkii_%28cropped%29.jpg/100px-Scolecomorphus_kirkii_%28cropped%29.jpg
-Wirbeltiere,Knorpelfische,Chondrichthyes,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
+Kiefermäuler,Knorpelfische,Chondrichthyes,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
 Knorpelfische,Plattenkiemer,Elasmobranchii,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blauhai_%28128648419%29.jpeg/100px-Blauhai_%28128648419%29.jpeg
 Plattenkiemer,Haie,Selachii,Teilklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/100px-White_shark.jpg
 Haie,Grundhaie,Carcharhiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Schwarzspitzen-Riffhai_%28Carcharhinus_melanopterus%29.jpg/100px-Schwarzspitzen-Riffhai_%28Carcharhinus_melanopterus%29.jpg
@@ -1450,7 +1455,7 @@ Holocephali,Seekatzen,Chimaeriformes,Ordnung,https://upload.wikimedia.org/wikipe
 Seekatzen,Kurznasenchimären,Chimaeridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hydrolagus_colliei_03.jpg/100px-Hydrolagus_colliei_03.jpg
 Kurznasenchimären,Seekatze,Chimaera monstrosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Chimaera_monstrosa_Sardinia.jpg/100px-Chimaera_monstrosa_Sardinia.jpg
 Kurznasenchimären,Gefleckte Seeratte,Hydrolagus colliei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hydrolagus_colliei_01.jpg/100px-Hydrolagus_colliei_01.jpg
-Wirbeltiere,Strahlenflosser,Actinopterygii,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Actinopterygii-0001.jpg/100px-Actinopterygii-0001.jpg
+Kiefermäuler,Strahlenflosser,Actinopterygii,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Actinopterygii-0001.jpg/100px-Actinopterygii-0001.jpg
 Strahlenflosser,Cladistia,Cladistia,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Polyterus_Senegalus_2.jpg/100px-Polyterus_Senegalus_2.jpg
 Cladistia,Polypteriformes,Polypteriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Polyterus_Senegalus_2.jpg/100px-Polyterus_Senegalus_2.jpg
 Polypteriformes,Flösselhechte,Polypteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Polyterus_Senegalus_2.jpg/100px-Polyterus_Senegalus_2.jpg
@@ -1559,15 +1564,16 @@ Serrasalmus,Schwarzband-Sägesalmler,Serrasalmus spilopleura,Art,https://upload.
 Sägesalmler,Schwarzer Pacu,Colossoma macropomum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Colossoma_macropomum_01.jpg/100px-Colossoma_macropomum_01.jpg
 Salmlerartige,Kopfsteher,Chilodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chilodus_punctatus.jpg/100px-Chilodus_punctatus.jpg
 Echte Knochenfische,Euteleosteomorpha,Euteleosteomorpha,Kohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bachforelle_Zeichnung.jpg/100px-Bachforelle_Zeichnung.jpg
-Euteleosteomorpha,Galaxiiformes,Galaxiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canterbury_galaxias%2C_Galaxias_vulgaris.jpg/100px-Canterbury_galaxias%2C_Galaxias_vulgaris.jpg
+Euteleosteomorpha,Protacanthopterygii,Protacanthopterygii,Unterkohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bachforelle_Zeichnung.jpg/120px-Bachforelle_Zeichnung.jpg
+Protacanthopterygii,Galaxiiformes,Galaxiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canterbury_galaxias%2C_Galaxias_vulgaris.jpg/100px-Canterbury_galaxias%2C_Galaxias_vulgaris.jpg
 Galaxiiformes,Galaxien,Galaxiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canterbury_galaxias%2C_Galaxias_vulgaris.jpg/100px-Canterbury_galaxias%2C_Galaxias_vulgaris.jpg
 Galaxien,Galaxias gollumoides,Galaxias gollumoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/MA_I256811_Galaxias_gollumoides.jpg/100px-MA_I256811_Galaxias_gollumoides.jpg
-Euteleosteomorpha,Goldlachsartige,Argentiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Atlantic_argentine_%28_Argentina_silus_%29.jpg/100px-Atlantic_argentine_%28_Argentina_silus_%29.jpg
+Protacanthopterygii,Goldlachsartige,Argentiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Atlantic_argentine_%28_Argentina_silus_%29.jpg/100px-Atlantic_argentine_%28_Argentina_silus_%29.jpg
 Goldlachsartige,Goldlachse,Argentinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Atlantic_argentine_%28_Argentina_silus_%29.jpg/100px-Atlantic_argentine_%28_Argentina_silus_%29.jpg
 Goldlachse,Goldlachs,Argentina silus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Atlantic_argentine_%28_Argentina_silus_%29.jpg/100px-Atlantic_argentine_%28_Argentina_silus_%29.jpg
 Goldlachsartige,Gespensterfische,Opisthoproctidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Opisthoproctus_soleatus.png/100px-Opisthoproctus_soleatus.png
 Gespensterfische,Glaskopffisch,Macropinna microstoma,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Macropinna_microstoma_illustration.png/100px-Macropinna_microstoma_illustration.png
-Euteleosteomorpha,Lachsartige,Salmoniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salvelinus_fontinalis.jpg/100px-Salvelinus_fontinalis.jpg
+Protacanthopterygii,Lachsartige,Salmoniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salvelinus_fontinalis.jpg/100px-Salvelinus_fontinalis.jpg
 Lachsartige,Lachsfische,Salmonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salvelinus_fontinalis.jpg/100px-Salvelinus_fontinalis.jpg
 Lachsfische,Äschen,Thymallus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Underwater_Arctic_Grayling.jpg/100px-Underwater_Arctic_Grayling.jpg
 Äschen,Arktische Äsche,Thymallus arcticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Underwater_Arctic_Grayling.jpg/100px-Underwater_Arctic_Grayling.jpg
@@ -1592,7 +1598,7 @@ Felchen,Bodenseefechen,Coregonus wartmanni,Art,https://upload.wikimedia.org/wiki
 Felchen,Bondelle,Coregonus candidus,Art,not_found
 Felchen,Albeli,Coregonus muelleri,Art,not_found
 Lachsfische,Huchen,Hucho hucho,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Danube_Salmon_-_Huchen_%28Hucho_hucho%29.jpg/120px-Danube_Salmon_-_Huchen_%28Hucho_hucho%29.jpg
-Euteleosteomorpha,Hechtartige,Esociformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg/100px-Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg
+Protacanthopterygii,Hechtartige,Esociformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg/100px-Parc_aquarium_du_Qu%C3%A9bec_-_brochet.jpg
 Hechtartige,Esocidae,Esocidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Esox_lucius_ZOO_1.jpg/100px-Esox_lucius_ZOO_1.jpg
 Esocidae,Hechte,Esox,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hecht.jpg/100px-Hecht.jpg
 Hechte,Europäischer Hecht,Esox lucius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Europ%C3%A4ischer_Hecht.jpg/100px-Europ%C3%A4ischer_Hecht.jpg
@@ -1600,12 +1606,14 @@ Hechte,Italienischer Hecht,Esox cisalpinus,Art,https://upload.wikimedia.org/wiki
 Hechte,Amerikanischer Hecht,Esox americanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Esox_americanus_americanus.jpg/100px-Esox_americanus_americanus.jpg
 Hechte,Muskellunge,Esox masquinongy,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Esox_masquinongyeditcrop.jpg/100px-Esox_masquinongyeditcrop.jpg
 Hechte,Kettenhecht,Esox niger,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Esox_niger.jpg/100px-Esox_niger.jpg
-Euteleosteomorpha,Maulstachler,Stomiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fish4262_-_Flickr_-_NOAA_Photo_Library.jpg/100px-Fish4262_-_Flickr_-_NOAA_Photo_Library.jpg
+Euteleosteomorpha,Stomiati,Stomiati,Unterkohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stomias_boa.jpg/120px-Stomias_boa.jpg
+Stomiati,Maulstachler,Stomiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fish4262_-_Flickr_-_NOAA_Photo_Library.jpg/100px-Fish4262_-_Flickr_-_NOAA_Photo_Library.jpg
 Maulstachler,Stomiidae,Stomiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Antarctic_Stareater.PNG/100px-Antarctic_Stareater.PNG
 Stomiidae,Viperfische,Chauliodus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Head_of_a_pacific_Viperfish_4037.jpg/100px-Head_of_a_pacific_Viperfish_4037.jpg
 Viperfische,Pazifischer Viperfisch,Chauliodus macouni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Head_of_a_pacific_Viperfish_4037.jpg/100px-Head_of_a_pacific_Viperfish_4037.jpg
 Stomiidae,Schwarze Drachenfische,Idiacanthus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Idiacanthus.jpg/100px-Idiacanthus.jpg
-Euteleosteomorpha,Eidechsenfischartige,Aulopiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reef_Lizardfish.jpg/100px-Reef_Lizardfish.jpg
+Euteleosteomorpha,Neoteleostei,Neoteleostei,Unterkohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Striped_Sandperches.jpg/120px-Striped_Sandperches.jpg
+Neoteleostei,Eidechsenfischartige,Aulopiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reef_Lizardfish.jpg/100px-Reef_Lizardfish.jpg
 Eidechsenfischartige,Alepisauridae,Alepisauridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/100px-Alepisaurus_ferox_on_deck.jpg
 Alepisauridae,Langnasen-Lanzenfisch,Alepisaurus ferox,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alepisaurus_ferox_on_deck.jpg/100px-Alepisaurus_ferox_on_deck.jpg
 Alepisauridae,Hammerkieferfisch,Omosudis lowii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Omosudis_noaa.jpg/100px-Omosudis_noaa.jpg
@@ -1613,26 +1621,26 @@ Eidechsenfischartige,Eidechsenfische,Synodontidae,Familie,https://upload.wikimed
 Eidechsenfische,Synodus,Synodus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HitosujiES.jpg/100px-HitosujiES.jpg
 Synodus,Synodus variegatus,Synodus variegatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Synodus_variegatus.jpg/100px-Synodus_variegatus.jpg
 Synodus,Atlantischer Eidechsenfisch,Synodus saurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Synodus_saurus1.JPG/100px-Synodus_saurus1.JPG
-Euteleosteomorpha,Laternenfischartige,Myctophiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg/100px-Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg
+Neoteleostei,Laternenfischartige,Myctophiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg/100px-Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg
 Laternenfischartige,Laternenfische,Myctophidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
 Laternenfische,Schlankschwänziger Laternenfisch,Myctophum punctatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
-Euteleosteomorpha,Glanzfische,Lampriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KusaAJ.jpg/100px-KusaAJ.jpg
-Glanzfische,Lampridae,Lampridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lampris_guttatus_NOAA2.jpg/100px-Lampris_guttatus_NOAA2.jpg
+Neoteleostei,Glanzfischartige,Lampriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KusaAJ.jpg/100px-KusaAJ.jpg
+Glanzfischartige,Lampridae,Lampridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lampris_guttatus_NOAA2.jpg/100px-Lampris_guttatus_NOAA2.jpg
 Lampridae,Gotteslachse,Lampris,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lampris_guttatus_NOAA2.jpg/100px-Lampris_guttatus_NOAA2.jpg
-Glanzfische,Sensenfische,Trachipteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Trachipterus_trachypterus_1.jpg/100px-Trachipterus_trachypterus_1.jpg
+Glanzfischartige,Sensenfische,Trachipteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Trachipterus_trachypterus_1.jpg/100px-Trachipterus_trachypterus_1.jpg
 Sensenfische,Bandfisch,Trachipterus arcticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Trachipterus_arcticus.jpg/100px-Trachipterus_arcticus.jpg
-Glanzfische,Riemenfische,Regalecidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg/100px-Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
+Glanzfischartige,Riemenfische,Regalecidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg/100px-Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
 Riemenfische,Regalecus,Regalecus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg/100px-Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
 Regalecus,Regalecus glesne,Regalecus glesne,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Giant_Oarfish.jpg/100px-Giant_Oarfish.jpg
 Regalecus,Regalecus russelii,Regalecus russelii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Regalicus_russelii_juvenile_3.jpg/100px-Regalicus_russelii_juvenile_3.jpg
-Euteleosteomorpha,Barschlachsartige,Percopsiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Amphiplaga_brachyptera.jpg/100px-Amphiplaga_brachyptera.jpg
+Neoteleostei,Barschlachsartige,Percopsiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Amphiplaga_brachyptera.jpg/100px-Amphiplaga_brachyptera.jpg
 Barschlachsartige,Blindfische,Amblyopsidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Amblyopsis_rosae.jpg/100px-Amblyopsis_rosae.jpg
 Barschlachsartige,Piratenbarsche,Aphredoderidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aphredoderus_sayanus_sayanus.jpg/100px-Aphredoderus_sayanus_sayanus.jpg
 Piratenbarsche,Piratenbarsch,Aphredoderus sayanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aphredoderus_sayanus_sayanus.jpg/100px-Aphredoderus_sayanus_sayanus.jpg
-Euteleosteomorpha,Petersfischartige,Zeiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
+Neoteleostei,Petersfischartige,Zeiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
 Petersfischartige,Petersfische,Zeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
 Petersfische,Petersfisch,Zeus faber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Zeus.faber_2.jpg/100px-Zeus.faber_2.jpg
-Euteleosteomorpha,Dorschartige,Gadiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atlantic-cod-1.jpg/100px-Atlantic-cod-1.jpg
+Neoteleostei,Dorschartige,Gadiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atlantic-cod-1.jpg/100px-Atlantic-cod-1.jpg
 Dorschartige,Quappen,Lotidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tr%C3%BCsche_Walchensee.jpg/100px-Tr%C3%BCsche_Walchensee.jpg
 Quappen,Quappe,Lota lota,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Tr%C3%BCsche_Z%C3%BCrichsee.jpg/100px-Tr%C3%BCsche_Z%C3%BCrichsee.jpg
 Dorschartige,Dorsche,Gadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atlantic-cod-1.jpg/100px-Atlantic-cod-1.jpg
@@ -1646,7 +1654,9 @@ Dorschartige,Seehechte (F),Merlucciidae,Familie,https://upload.wikimedia.org/wik
 Seehechte (F),Seehechte,Merluccius,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG/100px-Merluccius_merluccius.002_-_Aquarium_Finisterrae.JPG
 Seehechte,Hechtdorsch,Merluccius merluccius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Merluccius_merluccius_207798547.jpg/100px-Merluccius_merluccius_207798547.jpg
 Seehechte,Pazifischer Seehecht,Merluccius productus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Merluccius_productus1.jpg/100px-Merluccius_productus1.jpg
-Euteleosteomorpha,Stachelflosser,Acanthopterygii,Division,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pterois_volitans_Manado-e.jpg/100px-Pterois_volitans_Manado-e.jpg
+Neoteleostei,Stachelflosser,Acanthopterygii,Division,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pterois_volitans_Manado-e.jpg/100px-Pterois_volitans_Manado-e.jpg
+Stachelflosser,Ovalentaria,Ovalentaria,Serie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Gelege_pflegende_perculas.jpg/120px-Gelege_pflegende_perculas.jpg
+Stachelflosser,Eupercaria,Eupercaria,Serie,not_found
 Stachelflosser,Grundelartige,Gobiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cryptocentrus_cinctus.JPG/100px-Cryptocentrus_cinctus.JPG
 Grundelartige,Oxudercidae,Oxudercidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Clariger_taiwanensis_paratype_-_ZooKeys-199-013-g002-a.jpeg/100px-Clariger_taiwanensis_paratype_-_ZooKeys-199-013-g002-a.jpeg
 Oxudercidae,Afrikanischer Schlammspringer,Periophthalmus barbarus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GambianMudskippers.jpg/100px-GambianMudskippers.jpg
@@ -1719,17 +1729,17 @@ Schiffshalter,Gemeiner Schiffshalter,Remora remora,Art,https://upload.wikimedia.
 Carangiformes,Stachelmakrelen,Carangidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/100px-Caranx_ignobilis.jpg
 Stachelmakrelen,Dickkopf-Makrele,Caranx ignobilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caranx_ignobilis.jpg/100px-Caranx_ignobilis.jpg
 Stachelmakrelen,Pilotfisch,Naucrates ductor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Naucrates_ductor.jpg/100px-Naucrates_ductor.jpg
-Stachelflosser,Hornhechtartige,Beloniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beloniformes.jpg/100px-Beloniformes.jpg
+Ovalentaria,Hornhechtartige,Beloniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beloniformes.jpg/100px-Beloniformes.jpg
 Hornhechtartige,Fliegende Fische,Exocoetidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cheilopogon_melanurusPCCA20070623-3956B.jpg/100px-Cheilopogon_melanurusPCCA20070623-3956B.jpg
 Fliegende Fische,Schwalbenfisch,Exocoetus volitans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Exocoetus_volitans.jpg/100px-Exocoetus_volitans.jpg
 Hornhechtartige,Hornhechte,Belonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tylosurus_crocodilus_crocodilus_R%C3%A9union.jpg/100px-Tylosurus_crocodilus_crocodilus_R%C3%A9union.jpg
 Hornhechte,Gewöhnlicher Hornhecht,Belone belone,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Garfish%2C_Peloponnese%2C_Peloponnese%2C_Western_Greece_and_the_Ionian_Islands%2C_GR_imported_from_iNaturalist_photo_222165464.jpg/100px-Garfish%2C_Peloponnese%2C_Peloponnese%2C_Western_Greece_and_the_Ionian_Islands%2C_GR_imported_from_iNaturalist_photo_222165464.jp
 Hornhechtartige,Halbschnäbler,Zenarchopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dermogenys_sumatrana_02.jpg/100px-Dermogenys_sumatrana_02.jpg
 Halbschnäbler,Halbschnabelhecht,Dermogenys pusilla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dermogenys_pusilla_by_OpenCage.jpg/100px-Dermogenys_pusilla_by_OpenCage.jpg
-Stachelflosser,Zahnkärpflinge,Cyprinodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pachypanchax_omalonotus_01.jpg/100px-Pachypanchax_omalonotus_01.jpg
+Ovalentaria,Zahnkärpflinge,Cyprinodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pachypanchax_omalonotus_01.jpg/100px-Pachypanchax_omalonotus_01.jpg
 Zahnkärpflinge,Anablepidae,Anablepidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Vieraugen_001.jpg/100px-Vieraugen_001.jpg
 Anablepidae,Vieraugen,Anableps,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Anableps_anableps_qtl1.jpg/100px-Anableps_anableps_qtl1.jpg
-Stachelflosser,Buntbarschartige,Cichliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cichlimorphae.jpg/100px-Cichlimorphae.jpg
+Ovalentaria,Buntbarschartige,Cichliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cichlimorphae.jpg/100px-Cichlimorphae.jpg
 Buntbarschartige,Buntbarsche,Cichlidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Archocentrus_nigrofasciatus_female.jpg/120px-Archocentrus_nigrofasciatus_female.jpg
 Buntbarsche,Skalare,Pterophyllum,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freshwater_angelfish_biodome.jpg/120px-Freshwater_angelfish_biodome.jpg
 Skalare,Skalar,Pterophyllum scalare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Freshwater_angelfish_biodome.jpg/120px-Freshwater_angelfish_biodome.jpg
@@ -1742,7 +1752,7 @@ Buntbarschartige,Pholidichthyidae,Pholidichthyidae,Familie,https://upload.wikime
 Pholidichthyidae,Weissstreifen-Aalgrundel,Pholidichthys leucotaenia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pholidichthys_leucotaenia_1.jpg/120px-Pholidichthys_leucotaenia_1.jpg
 Buntbarschartige,Vielstachler,Polycentridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Monocirrhus_polyacanthus.jpg/100px-Monocirrhus_polyacanthus.jpg
 Vielstachler,Blattfisch,Monocirrhus polyacanthus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Monocirrhus_polyacanthus%2C_Tapaj%C3%B3s.jpg/100px-Monocirrhus_polyacanthus%2C_Tapaj%C3%B3s.jpg
-Stachelflosser,Schleimfischartige,Blenniiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg/100px-Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg
+Ovalentaria,Schleimfischartige,Blenniiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg/100px-Striped_fangblenny_%28Meiacanthus_grammistes%29_%2846842559335%29.jpg
 Schleimfischartige,Aalbarsche,Congrogadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Congrogadus_subducens.jpg/120px-Congrogadus_subducens.jpg
 Aalbarsche,Grüner Aalbarsch,Congrogadus subducens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Congrogadus_subducens.jpg/120px-Congrogadus_subducens.jpg
 Schleimfischartige,Riffbarsche,Pomacentridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Chromis_cyanea_Gratwicke.jpg/100px-Chromis_cyanea_Gratwicke.jpg
@@ -1762,7 +1772,7 @@ Schleimfischartige,Schleimfische,Blenniidae,Familie,https://upload.wikimedia.org
 Schleimfische,Seeschmetterling,Blennius ocellaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Blennius_ocellaris_Messina.jpg/120px-Blennius_ocellaris_Messina.jpg
 Schleimfische,Dreistreifen-Säbelzahnschleimfisch,Meiacanthus grammistes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Meiacanthus_grammistes.JPG/100px-Meiacanthus_grammistes.JPG
 Schleimfische,Gestreifter Schleimfisch,Parablennius gattorugine,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parablenniusgattorugine.JPG/120px-Parablenniusgattorugine.JPG
-Stachelflosser,Barschartige,Perciformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Barsche_im_See_%28Jungfische%29.jpg/100px-Barsche_im_See_%28Jungfische%29.jpg
+Eupercaria,Barschartige,Perciformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Barsche_im_See_%28Jungfische%29.jpg/100px-Barsche_im_See_%28Jungfische%29.jpg
 Barschartige,Zackenbarsche,Epinephelidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Chocolate_grouper_%28Cephalopholis_boenak%29_%2840701425812%29.jpg/100px-Chocolate_grouper_%28Cephalopholis_boenak%29_%2840701425812%29.jpg
 Zackenbarsche,Epinephelus,Epinephelus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Georgia_Aquarium_-_Giant_Grouper_edit2.jpg/120px-Georgia_Aquarium_-_Giant_Grouper_edit2.jpg
 Epinephelus,Dunkler Riesenzackenbarsch,Epinephelus lanceolatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Georgia_Aquarium_-_Giant_Grouper_edit2.jpg/120px-Georgia_Aquarium_-_Giant_Grouper_edit2.jpg
@@ -1815,17 +1825,17 @@ Barschartige,Dickkopf-Groppen,Psychrolutidae,Familie,https://upload.wikimedia.or
 Dickkopf-Groppen,Blobfisch,Psychrolutes phrictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Psychrolutes_phrictus_1.jpg/120px-Psychrolutes_phrictus_1.jpg
 Barschartige,Seehasen,Cyclopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cyclopterus_lumpus_2.JPG/100px-Cyclopterus_lumpus_2.JPG
 Seehasen,Seehase,Cyclopterus lumpus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hrognkelsi.jpg/120px-Hrognkelsi.jpg
-Stachelflosser,Himmelsguckerartige,Uranoscopiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Uranoscopus_scaber_Rab.JPG/120px-Uranoscopus_scaber_Rab.JPG
+Eupercaria,Himmelsguckerartige,Uranoscopiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Uranoscopus_scaber_Rab.JPG/120px-Uranoscopus_scaber_Rab.JPG
 Himmelsguckerartige,Himmelsgucker (F),Uranoscopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
 Himmelsgucker (F),Nördlicher Elektrischer Sterngucker,Astroscopus guttatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
 Himmelsgucker (F),Himmelsgucker,Uranoscopus scaber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Northern_Stargazer.JPG/120px-Northern_Stargazer.JPG
-Stachelflosser,Lippfischartige,Labriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hemigymnus_fasciatus.jpg/120px-Hemigymnus_fasciatus.jpg
+Eupercaria,Lippfischartige,Labriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hemigymnus_fasciatus.jpg/120px-Hemigymnus_fasciatus.jpg
 Lippfischartige,Lippfische,Labridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Female_Thalassoma_pavo.JPG/100px-Female_Thalassoma_pavo.JPG
 Lippfische,Napoleon-Lippfisch,Cheilinus undunatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cheilinus_undulatus_by_Patryk_Krzyzak.jpg/120px-Cheilinus_undulatus_by_Patryk_Krzyzak.jpg
 Lippfische,Harlekin-Lippfisch,Choerodon fasciatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Choerodon_fasciatus.jpg/100px-Choerodon_fasciatus.jpg
 Lippfische,Masken-Papageifisch,Cetoscarus bicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Spotted_parrotfishWB.jpg/120px-Spotted_parrotfishWB.jpg
 Lippfische,Mitternachts-Papageifisch,Scarus coelestinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Midnight-parrotfish.png/120px-Midnight-parrotfish.png
-Stachelflosser,Doktorfischartige,Acanthuriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ctenochaetus_tominiensis.jpg/100px-Ctenochaetus_tominiensis.jpg
+Eupercaria,Doktorfischartige,Acanthuriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ctenochaetus_tominiensis.jpg/100px-Ctenochaetus_tominiensis.jpg
 Doktorfischartige,Kaiserfische,Pomacanthidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Blaukopf-Kaiserfisch_%28Pomacanthus_xantometopon%29_01.jpg/120px-Blaukopf-Kaiserfisch_%28Pomacanthus_xantometopon%29_01.jpg
 Kaiserfische,Blaugelber Zwergkaiserfisch,Centropyge bicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Centropyge_bicolor.jpg/100px-Centropyge_bicolor.jpg
 Kaiserfische,Kalifornischer Engelfisch,Holocanthus passer,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holacanthus_passer_1.jpg/120px-Holacanthus_passer_1.jpg
@@ -1865,7 +1875,7 @@ Nasendoktorfische,Langnasen-Nasendoktorfisch,Naso brevirostris,Art,https://uploa
 Nasendoktorfische,Weissband-Nashornfisch,Naso annulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Naso_annulatus2.JPG/120px-Naso_annulatus2.JPG
 Doktorfische,Wolfsbarsche,Moronidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dicentrarchus_labrax_%28Belgium%29.jpg/120px-Dicentrarchus_labrax_%28Belgium%29.jpg
 Wolfsbarsche,Europäischer Wolfsbarsch,Dicentrarchus labrax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Dicentrarchus_labrax01.jpg/120px-Dicentrarchus_labrax01.jpg
-Stachelflosser,Armflosser,Lophiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Expl1855_%289734085633%29.jpg/120px-Expl1855_%289734085633%29.jpg
+Eupercaria,Armflosser,Lophiiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Expl1855_%289734085633%29.jpg/120px-Expl1855_%289734085633%29.jpg
 Armflosser,Seeteufel (F),Lophioidei,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Seeteufel.jpg/120px-Seeteufel.jpg
 Seeteufel (F),Lophius,Lophius,Gattung,not_found
 Lophius,Seeteufel,Lophius piscatorius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Seeteufel.jpg/120px-Seeteufel.jpg
@@ -1891,7 +1901,7 @@ Armflosser,Schwarzangler,Melanocetidae,Familie,https://upload.wikimedia.org/wiki
 Schwarzangler,Buckliger Anglerfisch,Melanocetus johnsonii,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humpback_anglerfish.png/120px-Humpback_anglerfish.png
 Armflosser,Thaumatichthyidae,Thaumatichthyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L_amphirhamphus.jpg/120px-L_amphirhamphus.jpg
 Thaumatichthyidae,Lasiognathus amphirhamphus,Lasiognathus amphirhamphus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/L_amphirhamphus.jpg/120px-L_amphirhamphus.jpg
-Stachelflosser,Kugelfischartige,Tetraodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tetraodontiformes.jpg/120px-Tetraodontiformes.jpg
+Eupercaria,Kugelfischartige,Tetraodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tetraodontiformes.jpg/120px-Tetraodontiformes.jpg
 Kugelfischartige,Drückerfische,Balistidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Picasso.triggerfish.arp.jpg/120px-Picasso.triggerfish.arp.jpg
 Drückerfische,Orangenstreifen-Drückerfisch,Balistapus undulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Balistapus_undulatus.jpg/120px-Balistapus_undulatus.jpg
 Drückerfische,Riesen-Drückerfisch,Balistoides viridescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Balistoides_viridescens.jpg/120px-Balistoides_viridescens.jpg
