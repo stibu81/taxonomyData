@@ -2,6 +2,12 @@ parent,name,scientific,rank,image_url
 ,Lebewesen,,Lebewesen,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Lebewesen,Eukaryoten,Eukaryota,Domäne,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Eukaryoten,Tiere,Animalia,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/100px-Animal_diversity.png
+Tiere,Stachelhäuter,Echinodermata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Echinodermata.png/120px-Echinodermata.png
+Stachelhäuter,Seelilien und Haarsterne,Crinoidea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Crinoid_in_West_Rota_caldera_%28expl0043_5114735036%29.jpg/120px-Crinoid_in_West_Rota_caldera_%28expl0043_5114735036%29.jpg
+Stachelhäuter,Seesterne,Asteroidea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Astropecten_aranciacus_in_Tenerife.jpg/120px-Astropecten_aranciacus_in_Tenerife.jpg
+Stachelhäuter,Schlangensterne,Ophiuroidea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Greenbrittlestar.jpg/120px-Greenbrittlestar.jpg
+Stachelhäuter,Seewalzen,Holothuroidea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Synapta_maculata_%26_Holothuria_leucospilota.jpg/120px-Synapta_maculata_%26_Holothuria_leucospilota.jpg
+Stachelhäuter,Seeigel,Echinoidea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tripneustes_ventricosus_%28West_Indian_Sea_Egg-top%29_and_Echinometra_viridis_%28Reef_Urchin_-_bottom%29.jpg/120px-Tripneustes_ventricosus_%28West_Indian_Sea_Egg-top%29_and_Echinometra_viridis_%28Reef_Urchin_-_bottom%29.jpg
 Tiere,Chordatiere,Chordata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
 Chordatiere,Schädellose,Cephalochordata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
 Schädellose,Leptocardii,Leptocardii,Klasse,not_found
