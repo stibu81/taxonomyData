@@ -3,9 +3,65 @@ parent,name,scientific,rank,image_url
 Lebewesen,Eukaryoten,Eukaryota,Domäne,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Eukaryoten,Tiere,Animalia,Reich,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/100px-Animal_diversity.png
 Tiere,Chordatiere,Chordata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
+Chordatiere,Schädellose,Cephalochordata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
+Schädellose,Leptocardii,Leptocardii,Klasse,not_found
+Leptocardii,Lanzettfischchen,Branchiostomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
+Chordatiere,Manteltiere,Tunicata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/120px-Bluebell_tunicates_Nick_Hobgood.jpg
+Manteltiere,Seescheiden,Ascidiae,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BU_Bio2.jpg/120px-BU_Bio2.jpg
+Seescheiden,Stolidobranchia,Stolidobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Triphyllozoon_inornatum_%28Bryozoan%29_and_Polycarpa_aurata_%28Sea_quirt%29.jpg/120px-Triphyllozoon_inornatum_%28Bryozoan%29_and_Polycarpa_aurata_%28Sea_quirt%29.jpg
+Stolidobranchia,Styelidae,Styelidae,Familie,not_found
+Styelidae,Gold-Seescheide,Polycarpa aurata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tunicate_komodo.jpg/120px-Tunicate_komodo.jpg
+Stolidobranchia,Pyuridae,Pyuridae,Familie,not_found
+Pyuridae,Rote Seescheide,Halocynthia papillosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BU_Bio.jpg/120px-BU_Bio.jpg
+Seescheiden,Phlebobranchia,Phlebobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Diplosoma_virens_Didemnidae.jpg/120px-Diplosoma_virens_Didemnidae.jpg
+Phlebobranchia,Cionidae,Cionidae,Familie,not_found
+Cionidae,Schlauchseescheide,Ciona intestinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cionaintestinalis.jpg/120px-Cionaintestinalis.jpg
+Seescheiden,Aplousobranchia,Aplousobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_Squirts_Didemnum_molle.jpg/120px-Sea_Squirts_Didemnum_molle.jpg
+Aplousobranchia,Clavelinidae,Clavelinidae,Familie,not_found
+Clavelinidae,Clavelina moluccensis,Clavelina moluccensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/120px-Bluebell_tunicates_Nick_Hobgood.jpg
+Clavelinidae,Pilz-Seescheide,Nephtheis fascicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg/120px-Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg
+Aplousobranchia,Didemnidae,Didemnidae,Familie,not_found
+Didemnidae,Grüne Riffseescheide,Didemnum molle,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_Squirts_Didemnum_molle.jpg/120px-Sea_Squirts_Didemnum_molle.jpg
+Manteltiere,Salpen,Thaliacea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/23_salpchain_frierson_odfw_%288253212250%29.jpg/120px-23_salpchain_frierson_odfw_%288253212250%29.jpg
+Salpen,Doliolida,Doliolida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cyclomyaria.jpg/120px-Cyclomyaria.jpg
+Doliolida,Tonnensalpen,Doliolidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cyclomyaria.jpg/120px-Cyclomyaria.jpg
+Salpen,Pyrosomida,Pyrosomida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
+Pyrosomida,Pyrosomatidae,Pyrosomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
+Pyrosomatidae,Feuerwalzen,Pyrosoma,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
+Salpen,Salpida,Salpida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Salp.jpg/120px-Salp.jpg
+Salpida,Salpidae,Salpidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Salp.jpg/120px-Salp.jpg
 Chordatiere,Wirbeltiere,Vertebrata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vertebrates.png/100px-Vertebrates.png
+Wirbeltiere,Rundmäuler,Cyclostomata,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Petromyzon_marinus.002_-_Aquarium_Finisterrae.JPG/120px-Petromyzon_marinus.002_-_Aquarium_Finisterrae.JPG
+Rundmäuler,Schleimaale (K),Myxini,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eptatretus_hexatrema_15727711.jpg/120px-Eptatretus_hexatrema_15727711.jpg
+Schleimaale (K),Schleimaale (O),Myxiniformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eptatretus_hexatrema_15727711.jpg/120px-Eptatretus_hexatrema_15727711.jpg
+Schleimaale (O),Schleimaale (F),Myxinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Eptatretus_hexatrema_15727711.jpg/120px-Eptatretus_hexatrema_15727711.jpg
+Rundmäuler,Neunaugen (K),Petromyzontida,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lampreys.jpg/120px-Lampreys.jpg
+Neunaugen (K),Neunaugen (O),Petromyzontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lampreys.jpg/120px-Lampreys.jpg
+Neunaugen (O),Neunaugen (F),Petromyzontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lampreys.jpg/120px-Lampreys.jpg
+Neunaugen (F),Meerneunauge,Petromyzon marinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Petromyzon-marinus2_gedreht.jpg/120px-Petromyzon-marinus2_gedreht.jpg
+Neunaugen (F),Lampetra,Lampetra,Gattung,not_found
+Lampetra,Flussneunauge,Lampetra fluviatilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lampetra_fluviatilis.jpg/120px-Lampetra_fluviatilis.jpg
+Lampetra,Bachneunauge,Lampetra planeri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Beekprik_%28Lampetra_planeri%29.png/120px-Beekprik_%28Lampetra_planeri%29.png
+Neunaugen (F),Donauneunauge,Eudontomyzon danfordi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Eudontomyzon_danfordi_Tiszai_ingola.jpg/120px-Eudontomyzon_danfordi_Tiszai_ingola.jpg
 Wirbeltiere,Kiefermäuler,Gnathostomata,Teilstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Flusspferd.mit.offenem.Maul_jazz-face.jpg/120px-Flusspferd.mit.offenem.Maul_jazz-face.jpg
 Kiefermäuler,Fleischflosser,Sarcopterygii,Überklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Australian-Lungfish.jpg/120px-Australian-Lungfish.jpg
+Fleischflosser,Quastenflosser,Coelacanthi,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Latimeria_Paris.jpg/120px-Latimeria_Paris.jpg
+Quastenflosser,Quastenflosser (O),Coelacanthiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Latimeria_Paris.jpg/120px-Latimeria_Paris.jpg
+Quastenflosser (O),Latimeriidae,Latimeriidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Latimeria_Chalumnae_-_Coelacanth_-_NHMW.jpg/120px-Latimeria_Chalumnae_-_Coelacanth_-_NHMW.jpg
+Latimeriidae,Latimeria,Latimeria,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Latimeria_Chalumnae_-_Coelacanth_-_NHMW.jpg/120px-Latimeria_Chalumnae_-_Coelacanth_-_NHMW.jpg
+Latimeria,Komoren-Quastenfloser,Latimeria chalumnae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Comoran_Coelacanth_Latimeria_chalumnae_Comoros_Pavilion_Expo_2020_Dubai_Photo_by_Prof_Dr_Norman_Ali_Khalaf.jpg/120px-Comoran_Coelacanth_Latimeria_chalumnae_Comoros_Pavilion_Expo_2020_Dubai_Photo_by_Prof_Dr_Norman_Ali_Khalaf.jpg
+Latimeria,Manado-Quastenflosser,Latimeria menadoensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Latimeria_menadoensis.jpg/120px-Latimeria_menadoensis.jpg
+Fleischflosser,Lungenfische,Dipneusti,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Australian-Lungfish.jpg/120px-Australian-Lungfish.jpg
+Lungenfische,Lungenfische (O),Ceratodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Australian-Lungfish.jpg/120px-Australian-Lungfish.jpg
+Lungenfische (O),Neoceratodontidae,Neoceratodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Neoceratodus_forsteri%2C_2014-09-19.JPG/120px-Neoceratodus_forsteri%2C_2014-09-19.JPG
+Neoceratodontidae,Australischer Lungenfisch,Neoceratodus forsteri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Neoceratodus_forsteri%2C_2014-09-19.JPG/120px-Neoceratodus_forsteri%2C_2014-09-19.JPG
+Lungenfische (O),Lepidosirenidae,Lepidosirenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lepidosiren_paradoxa_0.jpg/120px-Lepidosiren_paradoxa_0.jpg
+Lepidosirenidae,Südamerikanischer Lungenfisch,Lepidosiren paradoxa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lepidosiren_paradoxa_0.jpg/120px-Lepidosiren_paradoxa_0.jpg
+Lungenfische (O),Afrikanische Lungenfische (F),Protopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/VancouverZooEel.JPG/120px-VancouverZooEel.JPG
+Afrikanische Lungenfische (F),Afrikanische Lungenfische,Protopterus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/VancouverZooEel.JPG/120px-VancouverZooEel.JPG
+Afrikanische Lungenfische,Äthiopischer Lungenfisch,Protopterus aethiopicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Marbled_lungfish_1.jpg/120px-Marbled_lungfish_1.jpg
+Afrikanische Lungenfische,Ostafrikanischer Lungenfisch,Protopterus amphibius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/East_African_lungfish.jpg/120px-East_African_lungfish.jpg
+Afrikanische Lungenfische,Westafrikanischer Lungenfisch,Protopterus annectens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Protopterus_annectens_-_dipneuste_africain_-_Aqua_Porte_Dor%C3%A9e_01.JPG/120px-Protopterus_annectens_-_dipneuste_africain_-_Aqua_Porte_Dor%C3%A9e_01.JPG
 Fleischflosser,Landwirbeltiere,Tetrapoda,Reihe,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Extant_tetrapoda.jpg/120px-Extant_tetrapoda.jpg
 Landwirbeltiere,Nabeltiere,Amniota,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Tortoise-Hatchling.jpg/120px-Tortoise-Hatchling.jpg
 Nabeltiere,Sauropsiden,Sauropsida,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tortoise_and_the_duck.jpg/120px-Tortoise_and_the_duck.jpg
