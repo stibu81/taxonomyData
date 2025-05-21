@@ -56,25 +56,19 @@ Leptocardii,Lanzettfischchen,Branchiostomatidae,Familie,https://upload.wikimedia
 Chordatiere,Manteltiere,Tunicata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/120px-Bluebell_tunicates_Nick_Hobgood.jpg
 Manteltiere,Seescheiden,Ascidiae,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BU_Bio2.jpg/120px-BU_Bio2.jpg
 Seescheiden,Stolidobranchia,Stolidobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Triphyllozoon_inornatum_%28Bryozoan%29_and_Polycarpa_aurata_%28Sea_quirt%29.jpg/120px-Triphyllozoon_inornatum_%28Bryozoan%29_and_Polycarpa_aurata_%28Sea_quirt%29.jpg
-Stolidobranchia,Styelidae,Styelidae,Familie,not_found
-Styelidae,Gold-Seescheide,Polycarpa aurata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tunicate_komodo.jpg/120px-Tunicate_komodo.jpg
-Stolidobranchia,Pyuridae,Pyuridae,Familie,not_found
-Pyuridae,Rote Seescheide,Halocynthia papillosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BU_Bio.jpg/120px-BU_Bio.jpg
+Stolidobranchia,Gold-Seescheide,Polycarpa aurata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tunicate_komodo.jpg/120px-Tunicate_komodo.jpg
+Stolidobranchia,Rote Seescheide,Halocynthia papillosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BU_Bio.jpg/120px-BU_Bio.jpg
 Seescheiden,Phlebobranchia,Phlebobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Diplosoma_virens_Didemnidae.jpg/120px-Diplosoma_virens_Didemnidae.jpg
-Phlebobranchia,Cionidae,Cionidae,Familie,not_found
-Cionidae,Schlauchseescheide,Ciona intestinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cionaintestinalis.jpg/120px-Cionaintestinalis.jpg
+Phlebobranchia,Schlauchseescheide,Ciona intestinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cionaintestinalis.jpg/120px-Cionaintestinalis.jpg
 Seescheiden,Aplousobranchia,Aplousobranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_Squirts_Didemnum_molle.jpg/120px-Sea_Squirts_Didemnum_molle.jpg
-Aplousobranchia,Clavelinidae,Clavelinidae,Familie,not_found
-Clavelinidae,Clavelina moluccensis,Clavelina moluccensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/120px-Bluebell_tunicates_Nick_Hobgood.jpg
-Clavelinidae,Pilz-Seescheide,Nephtheis fascicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg/120px-Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg
-Aplousobranchia,Didemnidae,Didemnidae,Familie,not_found
-Didemnidae,Grüne Riffseescheide,Didemnum molle,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_Squirts_Didemnum_molle.jpg/120px-Sea_Squirts_Didemnum_molle.jpg
+Aplousobranchia,Clavelina moluccensis,Clavelina moluccensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bluebell_tunicates_Nick_Hobgood.jpg/120px-Bluebell_tunicates_Nick_Hobgood.jpg
+Aplousobranchia,Pilz-Seescheide,Nephtheis fascicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg/120px-Tunicado_%28Nephtheis_fascicularis%29%2C_Anilao%2C_Filipinas%2C_2023-08-25%2C_DD_07.jpg
+Aplousobranchia,Grüne Riffseescheide,Didemnum molle,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sea_Squirts_Didemnum_molle.jpg/120px-Sea_Squirts_Didemnum_molle.jpg
 Manteltiere,Salpen,Thaliacea,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/23_salpchain_frierson_odfw_%288253212250%29.jpg/120px-23_salpchain_frierson_odfw_%288253212250%29.jpg
 Salpen,Doliolida,Doliolida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cyclomyaria.jpg/120px-Cyclomyaria.jpg
 Doliolida,Tonnensalpen,Doliolidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cyclomyaria.jpg/120px-Cyclomyaria.jpg
 Salpen,Pyrosomida,Pyrosomida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
-Pyrosomida,Pyrosomatidae,Pyrosomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
-Pyrosomatidae,Feuerwalzen,Pyrosoma,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
+Pyrosomida,Feuerwalzen,Pyrosoma,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Tunicate_off_Atauro_island.jpg/120px-Tunicate_off_Atauro_island.jpg
 Salpen,Salpida,Salpida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Salp.jpg/120px-Salp.jpg
 Salpida,Salpidae,Salpidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Salp.jpg/120px-Salp.jpg
 Chordatiere,Wirbeltiere,Vertebrata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Vertebrates.png/100px-Vertebrates.png
