@@ -102,6 +102,46 @@ Seeigel,Cidaroida,Cidaroida,Ordnung,not_found
 Cidaroida,Lanzenseeigel,Cidaridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Eucidaris_tribuloides_%28Slate-pencil_Urchin%29.jpg/120px-Eucidaris_tribuloides_%28Slate-pencil_Urchin%29.jpg
 Seeigel,Arbacioida,Arbacioida,Ordnung,not_found
 Arbacioida,Schwarzer Seeigel,Arbacia lixula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Arbacia_lixula_am_Mittelmeer.jpg/120px-Arbacia_lixula_am_Mittelmeer.jpg
+Tiere,Gliederfüsser,Arthropoda,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arthropoda.jpg/120px-Arthropoda.jpg
+Gliederfüsser,Krebstiere,Crustacea,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Crustacea.jpg/120px-Crustacea.jpg
+Gliederfüsser,Sechsfüsser,Hexapoda,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apis_mellifera_-_Prunus_padus_-_Keila.jpg/120px-Apis_mellifera_-_Prunus_padus_-_Keila.jpg
+Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
+Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
+Asselspinnen,Knotige Asselspinne,Pycnogonum litorale,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pycnogonum_litorale_%28dorsal%29.jpg/120px-Pycnogonum_litorale_%28dorsal%29.jpg
+Asselspinnen,Zierliche Asselspinne,Nymphon rubrum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pycnogonida_Nymphon_s_Sars.png/120px-Pycnogonida_Nymphon_s_Sars.png
+Asselspinnen,Nymphon maculatum,Nymphon maculatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nymphon_maculatum_2011-721_%281%29_%28cropped%29.jpg/330px-Nymphon_maculatum_2011-721_%281%29_%28cropped%29.jpg
+Asselspinnen,Pseudopallene pachycheira,Pseudopallene pachycheira,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pseudopallene_pachycheira.jpeg/100px-Pseudopallene_pachycheira.jpeg
+Kieferklauenträger,Spinnentiere,Arachnida,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Araneus_quadratus_070825.jpg/120px-Araneus_quadratus_070825.jpg
+Spinnentiere,Milben,Acari,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peacock_mite%2C_Tuckerella_sp.jpg/120px-Peacock_mite%2C_Tuckerella_sp.jpg
+Milben,Trombidiformes,Trombidiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Trombidium_holosericeum_%28aka%29.jpg/120px-Trombidium_holosericeum_%28aka%29.jpg
+Trombidiformes,Gallmilben,Eriophyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eriophyes_tilae_tilae_detail.JPG/120px-Eriophyes_tilae_tilae_detail.JPG
+Gallmilben,Ahorn-Gallmilbe,Aceria macrorhynchus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg/120px-Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg
+Gallmilben,Apfelrostmilbe,Aculus schlechtendali,Art,not_found
+Gallmilben,Lindengallmilbe,Eriophyes tiliae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Galle_Lindengallmilbe_Eriophyes_tiliae.JPG/120px-Galle_Lindengallmilbe_Eriophyes_tiliae.JPG
+Trombidiformes,Rote Samtmilbe,Trombidium holosericeum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trombidium_holosericeum_LC0127.jpg/120px-Trombidium_holosericeum_LC0127.jpg
+Milben,Mesostigmata,Mesostigmata,Ordnung,not_found
+Mesostigmata,Varroamilbe,Varroa destructor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Varroamilbe.jpg/120px-Varroamilbe.jpg
+Mesostigmata,Gemeine Käfermilbe,Parasitus coleoptratum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruhland%2C_Grenzstr.%2C_Kompostgrube_am_Wald_hinter_Hausnr._3%2C_Waldmistk%C3%A4fer_mit_Milben%2C_Fr%C3%BChling%2C_01.jpg/120px-Ruhland%2C_Grenzstr.%2C_Kompostgrube_am_Wald_hinter_Hausnr._3%2C_Waldmistk%C3%A4fer_mit_Milben%2C_Fr%C3%BChling%2C_01.jpg
+Milben,Sarcoptiformes,Sarcoptiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
+Sarcoptiformes,Hausstaubmilben,Dermatophagoides,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/House_Dust_Mite.jpg/120px-House_Dust_Mite.jpg
+Sarcoptiformes,Grabmilben,Sarcoptes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
+Grabmilben,Milzbrand-Milbe,Sarcoptes anthracis,Art,not_found
+Grabmilben,Krätzemilbe,Sarcoptes scabiei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
+Milben,Zecken,Ixodida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
+Zecken,Lederzecken,Argasidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Argas_reflexus.jpg/120px-Argas_reflexus.jpg
+Lederzecken,Taubenzecke,Argas reflexus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Argas_reflexus.jpg/120px-Argas_reflexus.jpg
+Zecken,Schildzecken,Ixodidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
+Schildzecken,Ixodes,Ixodes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ixodus_ricinus_5x.jpg/120px-Ixodus_ricinus_5x.jpg
+Ixodes,Gemeiner Holzbock,Ixodes ricinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ixodes_ricinus_on_dry_grass.jpg/120px-Ixodes_ricinus_on_dry_grass.jpg
+Ixodes,Hirschzecke,Ixodes scapularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Adult_deer_tick.jpg/120px-Adult_deer_tick.jpg
+Ixodes,Igelzecke,Ixodes hexagonus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
+Ixodes,Fuchszecke,Ixodes canisuga,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ixodes_canisuga_109056782.jpg/120px-Ixodes_canisuga_109056782.jpg
+Schildzecken,Buntzecken,Dermacentor,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dermacentor_reticulatus_M_070825.jpg/120px-Dermacentor_reticulatus_M_070825.jpg
+Buntzecken,Schafzecken,Dermacentor marginatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dermacentor_marginatus.JPG/120px-Dermacentor_marginatus.JPG
+Buntzecken,Wiesenzecke,Dermacentor reticulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dermacentor_reticulatus_M_070825.jpg/120px-Dermacentor_reticulatus_M_070825.jpg
+Schildzecken,Lone-Star-Zecke,Amblyomma americanum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amblyomma_americanum_tick.jpg/120px-Amblyomma_americanum_tick.jpg
+Schildzecken,Braune Hundezecke,Rhipicephalus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhipicephalus_sanguineus.jpg/120px-Rhipicephalus_sanguineus.jpg
+Gliederfüsser,Tausendfüsser,Myriapoda,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Doppelf%C3%BCsser.JPG/120px-Doppelf%C3%BCsser.JPG
 Tiere,Chordatiere,Chordata,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
 Chordatiere,Schädellose,Cephalochordata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
 Schädellose,Leptocardii,Leptocardii,Klasse,not_found
