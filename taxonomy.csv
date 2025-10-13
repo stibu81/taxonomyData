@@ -822,20 +822,31 @@ Klammerschwanzaffen,Brüllaffen,Alouatta,Gattung,https://upload.wikimedia.org/wi
 Affen,Altweltaffen,Catarrhini,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Drill_and_Gorilla_.jpg/100px-Drill_and_Gorilla_.jpg
 Altweltaffen,Menschenartige,Hominoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Seated_Siamang_%2819528033410%29.jpg/120px-Seated_Siamang_%2819528033410%29.jpg
 Menschenartige,Menschenaffen,Hominidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Orang_utan_and_man.jpg/100px-Orang_utan_and_man.jpg
-Menschenaffen,Gorillas,Gorilla,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Western_Lowland_Gorilla_%28192%29.jpg/100px-Western_Lowland_Gorilla_%28192%29.jpg
+Menschenaffen,Homininae,Homininae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Secretary_Leonard_Carmichael.jpg/120px-Secretary_Leonard_Carmichael.jpg
+Homininae,Gorillas,Gorilla,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Western_Lowland_Gorilla_%28192%29.jpg/100px-Western_Lowland_Gorilla_%28192%29.jpg
 Gorillas,Westlicher Gorilla,Gorilla gorilla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lowland_Gorilla_%288973697544%29.jpg/100px-Lowland_Gorilla_%288973697544%29.jpg
 Gorillas,Östlicher Gorilla,Gorilla beringei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gorilla_mother_and_baby_at_Volcans_National_Park.jpg/100px-Gorilla_mother_and_baby_at_Volcans_National_Park.jpg
-Menschenaffen,Orang-Utans,Pongo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg/100px-Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg
+Homininae,Schimpansen,Pan,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bonobo_cincyzoo.jpg/100px-Bonobo_cincyzoo.jpg
+Schimpansen,Bonobo,Pan paniscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pan_paniscus12.jpg/100px-Pan_paniscus12.jpg
+Schimpansen,Gemeiner Schimpanse,Pan troglodytes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/100px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg
+Homininae,Homo,Homo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/100px-Da_Vinci_Vitruve_Luc_Viatour.jpg
+Homo,Mensch,Homo sapiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carl_von_Linn%C3%A9.png/100px-Carl_von_Linn%C3%A9.png
+Menschenaffen,Ponginae,Ponginae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg/120px-Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg
+Ponginae,Orang-Utans,Pongo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg/100px-Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg
 Orang-Utans,Sumatra-Orang-Utan,Pongo abelii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Orangutan_01.jpg/100px-Orangutan_01.jpg
 Orang-Utans,Tapanuli-Orang-Utan,Pongo tapanuliensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Pongo_tapanuliensis.jpg/100px-Pongo_tapanuliensis.jpg
 Orang-Utans,Borneo-Orang-Utan,Pongo pygmaeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg/100px-Bornean_orangutan_%28Pongo_pygmaeus%29%2C_Tanjung_Putting_National_Park_08.jpg
-Menschenaffen,Schimpansen,Pan,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bonobo_cincyzoo.jpg/100px-Bonobo_cincyzoo.jpg
-Schimpansen,Bonobo,Pan paniscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Pan_paniscus12.jpg/100px-Pan_paniscus12.jpg
-Schimpansen,Gemeiner Schimpanse,Pan troglodytes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/100px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg
-Menschenaffen,Homo,Homo,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/100px-Da_Vinci_Vitruve_Luc_Viatour.jpg
-Homo,Mensch,Homo sapiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Carl_von_Linn%C3%A9.png/100px-Carl_von_Linn%C3%A9.png
 Menschenartige,Gibbons,Hylobatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lar_Gibbon_%2846946767992%29.jpg/100px-Lar_Gibbon_%2846946767992%29.jpg
-Gibbons,Weisshandgibbon,Hylobates lar,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hylobates_lar_pair_of_white_and_black_01.jpg/100px-Hylobates_lar_pair_of_white_and_black_01.jpg
+Gibbons,Kleine Gibbons,Hylobates,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Weisshandgibbon_tierpark_berlin.jpg/120px-Weisshandgibbon_tierpark_berlin.jpg
+Kleine Gibbons,Weisshandgibbon,Hylobates lar,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hylobates_lar_pair_of_white_and_black_01.jpg/100px-Hylobates_lar_pair_of_white_and_black_01.jpg
+Kleine Gibbons,Kappengibbon,Hylobates pileatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Female_crowned_gibbon_on_the_tree.jpg/120px-Female_crowned_gibbon_on_the_tree.jpg
+Kleine Gibbons,Müller-Gibbon,Hylobates muelleri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MuellersGibbon.jpg/120px-MuellersGibbon.jpg
+Gibbons,Siamang,Symphalangus syndactylus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Siamang_2014.jpg/120px-Siamang_2014.jpg
+Gibbons,Schopfgibbons,Nomascus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hylobates_concolor1.jpg/120px-Hylobates_concolor1.jpg
+Schopfgibbons,Nördliche Weisswangen-Schopfgibbon,Nomascus leucogenys,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Nomascus_leucogenys_female_and_male.jpg/120px-Nomascus_leucogenys_female_and_male.jpg
+Schopfgibbons,Südliche Gelbwangengibbon,Nomascus gabriellae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ape-530759.jpg/120px-Ape-530759.jpg
+Gibbons,Weissbrauengibbons,Hoolock,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hoolock_hoolock_001.jpg/120px-Hoolock_hoolock_001.jpg
+Weissbrauengibbons,Westlicher Weissbrauengibbon,Hoolock hoolock,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hoolock_hoolock_001.jpg/120px-Hoolock_hoolock_001.jpg
 Altweltaffen,Meerkatzenverwandte,Cercopithecidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Here%27s_trouble%21_%2848050586312%29.jpg/100px-Here%27s_trouble%21_%2848050586312%29.jpg
 Meerkatzenverwandte,Meerkatzenartige,Cercopithecini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Samango_Monkey_%28Cercopithecus_albogularis%29_%2831694955257%29.jpg/120px-Samango_Monkey_%28Cercopithecus_albogularis%29_%2831694955257%29.jpg
 Meerkatzenartige,Meerkatzen,Cercopithecus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cercopithecus_neglectus_37533010.jpg/100px-Cercopithecus_neglectus_37533010.jpg
