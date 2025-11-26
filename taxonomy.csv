@@ -2037,6 +2037,8 @@ Eidechsenfischartige,Eidechsenfische,Synodontidae,Familie,https://upload.wikimed
 Eidechsenfische,Synodus,Synodus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HitosujiES.jpg/100px-HitosujiES.jpg
 Synodus,Synodus variegatus,Synodus variegatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Synodus_variegatus.jpg/100px-Synodus_variegatus.jpg
 Synodus,Atlantischer Eidechsenfisch,Synodus saurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Synodus_saurus1.JPG/100px-Synodus_saurus1.JPG
+Eidechsenfischartige,Netzaugenfische,Ipnopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tripod_fish1.jpg/120px-Tripod_fish1.jpg
+Netzaugenfische,Dreibeinfisch,Bathypterois grallator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Campagne_BIOZAIRE_2_-_Poisson_tr%C3%A9pied_ou_poisson_tripode_%28Ifremer_00574-68561%29_1.jpg/120px-Campagne_BIOZAIRE_2_-_Poisson_tr%C3%A9pied_ou_poisson_tripode_%28Ifremer_00574-68561%29_1.jpg
 Neoteleostei,Laternenfischartige,Myctophiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg/100px-Horned_lanternfish_%28_Diaphus_splendidus_%29.jpg
 Laternenfischartige,Laternenfische,Myctophidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
 Laternenfische,Schlankschwänziger Laternenfisch,Myctophum punctatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Messina_Straits_Myctophum_punctatum.jpg/100px-Messina_Straits_Myctophum_punctatum.jpg
@@ -2101,6 +2103,11 @@ Seenadelartige,Flötenfische (F),Fistulariidae,Familie,https://upload.wikimedia.
 Flötenfische (F),Flötenfische,Fistularia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cornetfish.jpg/100px-Cornetfish.jpg
 Flötenfische,Glatter Flötenfisch,Fistularia commersonii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Red_sea-reef_3769.jpg/100px-Red_sea-reef_3769.jpg
 Flötenfische,Blaupunkt-Flötenfisch,Fistularia tabacaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Abrolhos_Marine_National_ParkRobertoCostaPinto21.jpg/100px-Abrolhos_Marine_National_ParkRobertoCostaPinto21.jpg
+Seenadelartige,Geisterpfeifenfische (F),Solenostomidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29_in_Sinlaria_sp._%28Soft_coral%29.jpg/120px-Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29_in_Sinlaria_sp._%28Soft_coral%29.jpg
+Geisterpfeifenfische (F),Geisterpfeifenfische,Solenostomus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29_in_Sinlaria_sp._%28Soft_coral%29.jpg/120px-Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29_in_Sinlaria_sp._%28Soft_coral%29.jpg
+Geisterpfeifenfische,Robuster Geisterpfeifenfisch,Solenostomus cyanopterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Robust_Ghost_Pipefish.jpg/120px-Robust_Ghost_Pipefish.jpg
+Geisterpfeifenfische,Zarter Geisterpfeifenfisch,Solenostomus leptosoma,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Solenostomus_leptosomus_%28Delicate_ghost_pipefish%29.jpg/120px-Solenostomus_leptosomus_%28Delicate_ghost_pipefish%29.jpg
+Geisterpfeifenfische,Schmuck-Geisterpfeifenfisch,Solenostomus paradoxus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29.jpg/120px-Solenostomus_paradoxus_%28Harlequin_ghost_pipefish%29.jpg
 Stachelflosser,Scombriformes,Scombriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scomber_scombrus.jpg/100px-Scomber_scombrus.jpg
 Scombriformes,Makrelen und Thunfische,Scombridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gelbflossen-thunfisch.jpg/100px-Gelbflossen-thunfisch.jpg
 Makrelen und Thunfische,Makrele,Scomber scombrus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Scomber_scombrus.jpg/100px-Scomber_scombrus.jpg
@@ -2164,6 +2171,7 @@ Skalare,Leopolds Skalar,Pterophyllum leopoldi,Art,https://upload.wikimedia.org/w
 Buntbarsche,Zebrabuntbarsch,Amatitlania nigrofasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Archocentrus_nigrofasciatus_female.jpg/120px-Archocentrus_nigrofasciatus_female.jpg
 Buntbarsche,Diskusfische,Symphysodon,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_01.jpg/100px-Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_01.jpg
 Buntbarsche,Gestreifter Buntbarsch,Etroplus suratensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Etroplus_suratensis.jpg/100px-Etroplus_suratensis.jpg
+Buntbarsche,Schulterfleck-Buntbarsch,Amphilophus trimaculatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Trimac_F1_male_three_spot.jpg/120px-Trimac_F1_male_three_spot.jpg
 Buntbarschartige,Pholidichthyidae,Pholidichthyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pholidichthys_leucotaenia_1.jpg/120px-Pholidichthys_leucotaenia_1.jpg
 Pholidichthyidae,Weissstreifen-Aalgrundel,Pholidichthys leucotaenia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pholidichthys_leucotaenia_1.jpg/120px-Pholidichthys_leucotaenia_1.jpg
 Buntbarschartige,Vielstachler,Polycentridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Monocirrhus_polyacanthus.jpg/100px-Monocirrhus_polyacanthus.jpg
