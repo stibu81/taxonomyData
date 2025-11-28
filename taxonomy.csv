@@ -104,6 +104,151 @@ Seeigel,Arbacioida,Arbacioida,Ordnung,https://upload.wikimedia.org/wikipedia/com
 Arbacioida,Schwarzer Seeigel,Arbacia lixula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Arbacia_lixula_am_Mittelmeer.jpg/120px-Arbacia_lixula_am_Mittelmeer.jpg
 Tiere,Gliederfüsser,Arthropoda,Stamm,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arthropoda.jpg/120px-Arthropoda.jpg
 Gliederfüsser,Krebstiere,Crustacea,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Crustacea.jpg/120px-Crustacea.jpg
+Krebstiere,Kiemenfusskrebse,Branchiopoda,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LepidurusApus.jpg/120px-LepidurusApus.jpg
+Kiemenfusskrebse,Kiemenfüsser,Anostraca,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Artemia_salina_3.jpg/120px-Artemia_salina_3.jpg
+Kiemenfüsser,Salinenkrebs,Artemia salina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Artemia_salina_2.jpg/120px-Artemia_salina_2.jpg
+Kiemenfusskrebse,Rückenschaler,Notostraca,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LepidurusApus.jpg/120px-LepidurusApus.jpg
+Rückenschaler,Triops,Triops,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Triops_longicaudatus.jpg/120px-Triops_longicaudatus.jpg
+Kiemenfusskrebse,Krallenschwänze,Onychura,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Daphnia_spec.jpg/120px-Daphnia_spec.jpg
+Krallenschwänze,Grosser Wasserfloh,Daphnia magna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Daphnia_magna_asexual.jpg/120px-Daphnia_magna_asexual.jpg
+Krallenschwänze,Kristall-Wasserfloh,Sida crystallina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bosmina_i_Sida_crystallina.jpg/120px-Bosmina_i_Sida_crystallina.jpg
+Krebstiere,Höhere Krebse,Malacostraca,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lobster_300.jpg/120px-Lobster_300.jpg
+Höhere Krebse,Zehnfusskrebse,Decapoda,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cancer_bellianus_Johnston_1861_stuffed_museum_La_Rochelle.jpg/120px-Cancer_bellianus_Johnston_1861_stuffed_museum_La_Rochelle.jpg
+Zehnfusskrebse,Dendrobranchiata,Dendrobranchiata,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Penaeus_monodon.jpg/120px-Penaeus_monodon.jpg
+Dendrobranchiata,Weissfussgarnele,Litopenaeus vannamei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Litopenaeus_vannamei_specimen.jpg/120px-Litopenaeus_vannamei_specimen.jpg
+Dendrobranchiata,Schwarze Tigergarnele,Penaeus monodon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CSIRO_ScienceImage_2992_The_Giant_Tiger_Prawn.jpg/120px-CSIRO_ScienceImage_2992_The_Giant_Tiger_Prawn.jpg
+Zehnfusskrebse,Pleocyemata,Pleocyemata,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Xantho_poressa_2009_G6.jpg/120px-Xantho_poressa_2009_G6.jpg
+Pleocyemata,Langustenartige,Achelata,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Jasus_edwardsii.jpg/120px-Jasus_edwardsii.jpg
+Langustenartige,Bärenkrebse,Scyllaridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Scyllarides_latus.jpg/120px-Scyllarides_latus.jpg
+Bärenkrebse,Grosser Bärenkrebs,Scyllarides latus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Scyllarides_latus.jpg/120px-Scyllarides_latus.jpg
+Bärenkrebse,Kleiner Bärenkrebs,Scyllarus arctus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Scyllarus_arctus_2_by_Line1.jpg/120px-Scyllarus_arctus_2_by_Line1.jpg
+Langustenartige,Langusten,Palinuridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Caribbean_Spiny_Lobster_1_-_Blackbird_Caye_-_Belize_2016_%2824239777714%29.jpg/120px-Caribbean_Spiny_Lobster_1_-_Blackbird_Caye_-_Belize_2016_%2824239777714%29.jpg
+Langusten,Gewöhnliche Languste,Palinurus elephas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Palinurus_vulgaris%2801%29.jpg/120px-Palinurus_vulgaris%2801%29.jpg
+Langusten,Panulirus,Panulirus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/PanulirusJaponicus.jpg/120px-PanulirusJaponicus.jpg
+Panulirus,Karibik-Languste,Panulirus argus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Caribbean_Spiny_Lobster_1_-_Blackbird_Caye_-_Belize_2016_%2824239777714%29.jpg/120px-Caribbean_Spiny_Lobster_1_-_Blackbird_Caye_-_Belize_2016_%2824239777714%29.jpg
+Panulirus,Grüne Languste,Panulirus gracilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Panulirus_gracilis_33766224.jpg/120px-Panulirus_gracilis_33766224.jpg
+Panulirus,Kalifornische Languste,Panulirus interruptus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lobster_300.jpg/120px-Lobster_300.jpg
+Panulirus,Vielfarbige Languste,Panulirus versicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Painted_lobster_on_Pom_Pom_Island%2C_Celebes_resort%2C_Sabah.JPG/120px-Painted_lobster_on_Pom_Pom_Island%2C_Celebes_resort%2C_Sabah.JPG
+Pleocyemata,Mittelkrebse,Anomura,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Munida_quadrispina_1.jpg/120px-Munida_quadrispina_1.jpg
+Mittelkrebse,Springkrebse,Galatheidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Three-toothed_squat_lobster%2C_Munidopsis_tridentata.jpg/120px-Three-toothed_squat_lobster%2C_Munidopsis_tridentata.jpg
+Mittelkrebse,Porzellankrebse,Porcellanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Porcelain_crab_600.jpg/120px-Porcelain_crab_600.jpg
+Mittelkrebse,Stein- und Königskrabben,Lithodidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Spiny_king_crab_md.jpg/120px-Spiny_king_crab_md.jpg
+Mittelkrebse,Einsiedlerkrebse,Paguroidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Calliactis_and_Dardanus_001.JPG/120px-Calliactis_and_Dardanus_001.JPG
+Einsiedlerkrebse,Landeinsiedlerkrebse,Coenobitidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Landeinsiedlerkrebs_a_01.jpg/120px-Landeinsiedlerkrebs_a_01.jpg
+Landeinsiedlerkrebse,Karibik-Landeinsiedlerkrebs,Coenobita clypeatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Caribbean_hermit_crab.JPG/120px-Caribbean_hermit_crab.JPG
+Landeinsiedlerkrebse,Palmendieb,Birgus latro,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Birgus_latro_climbing.jpg/120px-Birgus_latro_climbing.jpg
+Einsiedlerkrebse,Linkshändige Einsiedlerkrebse,Diogenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Calcinus_laevimanus.JPG/120px-Calcinus_laevimanus.JPG
+Einsiedlerkrebse,Rechtshändige Einsiedlerkrebse,Paguridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pagurus_bernhardus.jpg/120px-Pagurus_bernhardus.jpg
+Rechtshändige Einsiedlerkrebse,Gemeiner Einsiedlerkrebs,Pagurus bernhardus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pagurus_bernhardus.jpg/120px-Pagurus_bernhardus.jpg
+Pleocyemata,Grosskrebse,Astacidea,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BogavanteSpainTarifa.JPG/120px-BogavanteSpainTarifa.JPG
+Grosskrebse,Flusskrebse,Astacoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ecrevisse_pattes_rouges.jpg/120px-Ecrevisse_pattes_rouges.jpg
+Flusskrebse,Edelkrebs,Astacus astacus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astacus_astacus_male.jpg/120px-Astacus_astacus_male.jpg
+Flusskrebse,Steinkrebs,Austropotamobius torrentium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Steinkrebs1.jpg/120px-Steinkrebs1.jpg
+Flusskrebse,Roter Amerikanischer Sumpfkrebs,Procambarus clarkii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Procambarus_clarkii.jpg/120px-Procambarus_clarkii.jpg?download
+Flusskrebse,Blauer Floridakrebs,Procambarus alleni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Blauer_Floridakrebs_B007.jpg/120px-Blauer_Floridakrebs_B007.jpg
+Grosskrebse,Hummerartige,Nephropidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Metanephrops_japonicus_edit.jpg/120px-Metanephrops_japonicus_edit.jpg
+Hummerartige,Hummer,Homarus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/120px-KreeftbijDenOsse.jpg
+Hummer,Europäischer Hummer,Homarus gammarus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/120px-KreeftbijDenOsse.jpg
+Hummer,Amerikanischer Hummer,Homarus americanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Bugre_americanu.jpg/120px-Bugre_americanu.jpg
+Hummerartige,Japanischer Hummer,Metanephrops japonicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Metanephrops_japonicus_edit.jpg/120px-Metanephrops_japonicus_edit.jpg
+Hummerartige,Kaisergranat,Nephrops norvegicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Langoustine_Nephrops_norvegicus_07062010_2.jpg/120px-Langoustine_Nephrops_norvegicus_07062010_2.jpg
+Grosskrebse,Enoplometopidae,Enoplometopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Enoplometopus_antillensis01.jpg/120px-Enoplometopus_antillensis01.jpg
+Enoplometopidae,Riffhummer,Enoplometopus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Enoplometopus_antillensis01.jpg/120px-Enoplometopus_antillensis01.jpg
+Pleocyemata,Krabben,Brachyura,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brachyura_montage.jpg/120px-Brachyura_montage.jpg
+Krabben,Schwammkrabben,Dromiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dromia_personata_%28habitus%29.jpg/120px-Dromia_personata_%28habitus%29.jpg
+Schwammkrabben,Dromia,Dromia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Dromia_personata_%28habitus%29.jpg/120px-Dromia_personata_%28habitus%29.jpg
+Krabben,Boxerkrabben,Calappidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flame_Box_Crab_Calappa_flammea_St_Lucia_1031.jpg/120px-Flame_Box_Crab_Calappa_flammea_St_Lucia_1031.jpg
+Boxerkrabben,Flammen-Schamkrabbe,Calappa flammea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flame_Box_Crab_Calappa_flammea_St_Lucia_1031.jpg/120px-Flame_Box_Crab_Calappa_flammea_St_Lucia_1031.jpg
+Krabben,Taschenkrebse,Cancridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cancer_pagurus.jpg/120px-Cancer_pagurus.jpg
+Taschenkrebse,Taschenkrebs,Cancer pagurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cancer_pagurus.jpg/120px-Cancer_pagurus.jpg
+Krabben,Majoidea,Majoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maja_squinado.jpg/120px-Maja_squinado.jpg
+Majoidea,Grosse Seespinne,Maja squinado,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maja_squinado.jpg/120px-Maja_squinado.jpg
+Majoidea,Japanische Riesenkrabbe,Macrocheira kaempferi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Japanische_Riesenkrabbe_Deutsches_Meeresmuseum_Stralsund.jpg/120px-Japanische_Riesenkrabbe_Deutsches_Meeresmuseum_Stralsund.jpg
+Krabben,Portunoidea,Portunoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
+Portunoidea,Blaukrabbe,Callinectes sapidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg/120px-The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg
+Portunoidea,Grosse Pazifische Schwimmkrabbe,Portunus pelagicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
+Portunoidea,Gemeine Strandkrabbe,Carcinus maenas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Common_shore_crab_1.JPG/120px-Common_shore_crab_1.JPG
+Krabben,Potamidae,Potamidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Potamon_fluviatile02.jpg/120px-Potamon_fluviatile02.jpg
+Potamidae,Gemeine Flusskrabbe,Potamon fluviatile,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Potamon_fluviatile02.jpg/120px-Potamon_fluviatile02.jpg
+Krabben,Pseudocarcinidae,Pseudocarcinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cua_Tasmania.jpg/120px-Cua_Tasmania.jpg
+Pseudocarcinidae,Tasmanische Riesenkrabbe,Pseudocarcinus gigas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cua_Tasmania.jpg/120px-Cua_Tasmania.jpg
+Krabben,Ocypodoidea,Ocypodoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BBayCrab.jpg/120px-BBayCrab.jpg
+Ocypodoidea,Gehörnte Geisterkrabbe,Ocypode ceratophthalmus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ocypode-ceratophthalma-horned-ghost-crab-krabi-thailand.jpg/120px-Ocypode-ceratophthalma-horned-ghost-crab-krabi-thailand.jpg
+Ocypodoidea,Blaue Soldatenkrabbe,Mictyris longicarpus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Aus_soldier_Crab_%28lightened%29.jpg/120px-Aus_soldier_Crab_%28lightened%29.jpg
+Krabben,Quadratkrabben,Grapsidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Grapsus_grapsus.JPG/120px-Grapsus_grapsus.JPG
+Quadratkrabben,Rote Klippenkrabbe,Grapsus grapsus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Zayapa_%28Grapsus_grapsus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_30.jpg/120px-Zayapa_%28Grapsus_grapsus%29%2C_Las_Bachas%2C_isla_Santa_Cruz%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_30.jpg
+Krabben,Rundkrabben,Xanthidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Xantho_poressa_2009_G2.jpg/120px-Xantho_poressa_2009_G2.jpg
+Rundkrabben,Jaguar-Rundkrabbe,Xantho poressa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Xantho_poressa_2008_G1.jpg/120px-Xantho_poressa_2008_G1.jpg
+Pleocyemata,Caridea,Caridea,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coonstripe_shrimp.jpg/120px-Coonstripe_shrimp.jpg
+Caridea,Knallkrebse,Alpheidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alpheus_distinguendus.jpg/120px-Alpheus_distinguendus.jpg
+Knallkrebse,Augenfleck-Knallkrebs,Alpheus soror,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alpheus_soror_2.JPG/120px-Alpheus_soror_2.JPG
+Knallkrebse,Synalpheus pinkfloydi,Synalpheus pinkfloydi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Synalpheus_pinkfloydi_%28full_res%29_by_Arthur_Anker.jpg/120px-Synalpheus_pinkfloydi_%28full_res%29_by_Arthur_Anker.jpg
+Caridea,Putzer- und Marmorgarnelen,Hippolytidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lysmata_amboinensis.jpg/120px-Lysmata_amboinensis.jpg
+Putzer- und Marmorgarnelen,Lysmata,Lysmata,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lysmata_debelius.JPG/120px-Lysmata_debelius.JPG
+Lysmata,Indopazifische Weissband-Putzergarnele,Lysmata amboinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cleaner_Shrimp_on_zoanthus_macro.jpg/120px-Cleaner_Shrimp_on_zoanthus_macro.jpg
+Lysmata,Kardinals-Putzergarnele,Lysmata debelius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lysmata_debelius.JPG/120px-Lysmata_debelius.JPG
+Lysmata,Mittelmeer-Putzergarnele,Lysmata seticaudata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lysmata_seticaudata.jpg/120px-Lysmata_seticaudata.jpg
+Putzer- und Marmorgarnelen,Hohlkreuzgarnele,Thor amboinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Squat_shrimp_Nick_Hobgood.jpg/120px-Squat_shrimp_Nick_Hobgood.jpg
+Putzer- und Marmorgarnelen,Gemeine Marmorgarnele,Saron marmoratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Saron_marmoratus_m%C3%A2le_-_2.JPG/120px-Saron_marmoratus_m%C3%A2le_-_2.JPG
+Caridea,Süsswassergarnelen,Atyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Yamatonuma-Garnele_Caridina_japonica_060311_6.jpg/120px-Yamatonuma-Garnele_Caridina_japonica_060311_6.jpg
+Süsswassergarnelen,Blaue Monsterfächergarnele,Atya gabonensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Atya.PNG/120px-Atya.PNG
+Süsswassergarnelen,Molukken-Fächergarnele,Atyopsis moluccensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bambooshrimpdriftwd.JPG/120px-Bambooshrimpdriftwd.JPG
+Süsswassergarnelen,Caridina,Caridina,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Caridina-multidentata-ingestion.jpg/120px-Caridina-multidentata-ingestion.jpg
+Caridina,Bienengarnele,Caridina logemanni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/GarneleCrystalRed20.jpg/120px-GarneleCrystalRed20.jpg
+Caridina,Tigergarnele,Caridina mariae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tiger-Garnele2.jpg/120px-Tiger-Garnele2.jpg
+Caridina,Kardinalsgarnele,Caridina dennerli,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Caridina-dennerli.jpg/120px-Caridina-dennerli.jpg
+Caridina,Yamatonuma-Garnele,Caridina multidentata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Caridina_multidentata%28Hamamatsu%2CShizuoka%2CJapan%2C2007%29.jpg/120px-Caridina_multidentata%28Hamamatsu%2CShizuoka%2CJapan%2C2007%29.jpg
+Süsswassergarnelen,Rückenstrichgarnele,Neocaridina davidi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pl_Caridea_red_fire.jpg/120px-Pl_Caridea_red_fire.jpg
+Caridea,Felsen- und Partnergarnelen,Palaemonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Spotted_cleaner_shrimp.jpg/120px-Spotted_cleaner_shrimp.jpg
+Felsen- und Partnergarnelen,Harlekingarnele,Hymenocera picta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hymenocera_picta.jpg/120px-Hymenocera_picta.jpg
+Felsen- und Partnergarnelen,Rosenberggarnele,Macrobrachium rosenbergii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Machrobrachium_rosenbergii.jpg/120px-Machrobrachium_rosenbergii.jpg
+Felsen- und Partnergarnelen,Felsengarnelen,Palaemon,Gattung,not_found
+Felsengarnelen,Kleine Felsengarnele,Palaemon elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palaemon_elegans1.jpg/120px-Palaemon_elegans1.jpg
+Felsengarnelen,Ostseegarnele,Palaemon adspersus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostseekrabbe_%28Leander_adspessus%29.jpg/120px-Ostseekrabbe_%28Leander_adspessus%29.jpg
+Felsengarnelen,Sägegarnele,Palaemon serratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Palaemon_serratus_gsm.jpg/120px-Palaemon_serratus_gsm.jpg
+Caridina,Tiefseegarnelen,Pandalidae,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/%E3%83%88%E3%83%A4%E3%83%9E%E3%82%A8%E3%83%93_%2815441349511%29.jpg/120px-%E3%83%88%E3%83%A4%E3%83%9E%E3%82%A8%E3%83%93_%2815441349511%29.jpg
+Tiefseegarnelen,Eismeergarnele,Pandalus borealis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pandborealisind.jpg/120px-Pandborealisind.jpg
+Caridina,Crangonidae,Crangonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Crangon_crangon.jpg/120px-Crangon_crangon.jpg
+Crangonidae,Nordseegarnele,Crangon crangon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Crangon_crangon_%28dorsal%29.jpg/120px-Crangon_crangon_%28dorsal%29.jpg
+Höhere Krebse,Leuchtgarnelen,Euphausiacea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Meganyctiphanes_norvegica.jpg/120px-Meganyctiphanes_norvegica.jpg
+Höhere Krebse,Asseln,Isopoda,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kellerassel_02.jpg/120px-Kellerassel_02.jpg
+Asseln,Flabellifera,Flabellifera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Eurydice_affinis.jpg/120px-Eurydice_affinis.jpg
+Flabellifera,Riesenasseln,Bathynomus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Giant_isopod.jpg/120px-Giant_isopod.jpg
+Asseln,Landasseln,Oniscidea,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oniscus_asellus_-_female_side_2_%28aka%29.jpg/120px-Oniscus_asellus_-_female_side_2_%28aka%29.jpg
+Landasseln,Zwergasseln,Trichoniscidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Trichoniscus_pusillus.jpg/120px-Trichoniscus_pusillus.jpg
+Zwergasseln,Ufer-Assel,Hyloniscus riparius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg/120px-Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg
+Landasseln,Rollasseln,Armadillidiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Woodlouse_poster.jpg/120px-Woodlouse_poster.jpg
+Rollasseln,Armadillidium,Armadillidium,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Armadillidium_pictum_69914400.jpg/120px-Armadillidium_pictum_69914400.jpg
+Armadillidium,Gemeine Rollassel,Armadillidium vulgare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg/120px-Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg
+Armadillidium,Wechselfärbige Rollassel,Armadillidium versicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Armadillidium_versicolor01.jpg/120px-Armadillidium_versicolor01.jpg
+Landasseln,Kellerasseln,Porcellionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porcellio-scaber-29-04-2008-083.jpg/120px-Porcellio-scaber-29-04-2008-083.jpg
+Kellerasseln,Porcellio,Porcellio,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porcellio-scaber-29-04-2008-083.jpg/120px-Porcellio-scaber-29-04-2008-083.jpg
+Porcellio,Kellerassel,Porcellio scaber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Porcellio_scaber_180421322.jpg/120px-Porcellio_scaber_180421322.jpg
+Porcellio,Flinke Kellerassel,Porcellio laevis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Porcellio_laevis_Rufino_cropped.jpg/120px-Porcellio_laevis_Rufino_cropped.jpg
+Porcellio,Dornfühlerassel,Porcellio spinicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg/120px-Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg
+Landasseln,Platyarthridae,Platyarthridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Platyarthrus_hoffmannseggii.JPG/120px-Platyarthrus_hoffmannseggii.JPG
+Platyarthridae,Ameisenassel,Platyarthrus hoffmansseggii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Platyarthrus_hoffmannseggii.JPG/120px-Platyarthrus_hoffmannseggii.JPG
+Höhere Krebse,Flohkrebse,Amphipoda,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amphipodredkils.jpg/120px-Amphipodredkils.jpg
+Flohkrebse,Grosser Höckerflohkrebs,Dikerogammarus villosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dikerogammarus_villosus_%288740859563%29.jpg/120px-Dikerogammarus_villosus_%288740859563%29.jpg
+Flohkrebse,Bachflohkrebs,Gammarus fossarum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg/120px-Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg
+Flohkrebse,Schlickkrebs,Corophium volutator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Friedrichskoog_Wattenmeer_Schlickkrebse_August-2010_SL275046.JPG/120px-Friedrichskoog_Wattenmeer_Schlickkrebse_August-2010_SL275046.JPG
+Flohkrebse,Strandfloh,Talitrus saltator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Talitrus_saltator_2c.jpg/120px-Talitrus_saltator_2c.jpg
+Höhere Krebse,Fangschreckenkrebse,Stomatopoda,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/OdontodactylusScyllarus2.jpg/120px-OdontodactylusScyllarus2.jpg
+Fangschreckenkrebse,Squilla mantis,Squilla mantis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Squilla_mantis.jpg/120px-Squilla_mantis.jpg
+Fangschreckenkrebse,Lysiosquilla scabricauda,Lysiosquilla scabricauda,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Neogonodactylus_%28scaly-tailed_mantis_shrimp%29_%28San_Salvador_Island%2C_Bahamas%29_%2815996271769%29.jpg/120px-Neogonodactylus_%28scaly-tailed_mantis_shrimp%29_%28San_Salvador_Island%2C_Bahamas%29_%2815996271769%29.jpg
+Fangschreckenkrebse,Odontodactylus scyllarus,Odontodactylus scyllarus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg/120px-Odontodactylus_scyllarus_R%C3%A9union.jpg
+Krebstiere,Muschelkrebse,Ostracoda,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ostracod3.jpg/120px-Ostracod3.jpg
+Muschelkrebse,Zebra-Muschelkrebs,Cypridopsis vidua,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cypridopsis_vidua.jpg/120px-Cypridopsis_vidua.jpg
+Krebstiere,Rankenfusskrebse,Cirripedia,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Haeckel_Cirripedia.jpg/120px-Haeckel_Cirripedia.jpg
+Rankenfusskrebse,Entenmuscheln,Pedunculata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Entenmuscheln.jpg/120px-Entenmuscheln.jpg
+Entenmuscheln,Bojenbildende Entenmuschel,Dosima fascicularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dosima_fascicularis_%28single%29.jpg/120px-Dosima_fascicularis_%28single%29.jpg
+Entenmuscheln,Pollicipes pollicipes,Pollicipes pollicipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pouce-pied_Raz_01.jpg/120px-Pouce-pied_Raz_01.jpg
+Entenmuscheln,Lepas anatifera,Lepas anatifera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lepas_anatifera_1.jpg/120px-Lepas_anatifera_1.jpg
+Rankenfusskrebse,Seepocken,Sessilia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Thoracida_Sessilia_Balanina_20090305.jpg/120px-Thoracida_Sessilia_Balanina_20090305.jpg
+Seepocken,Chthamalus stellatus,Chthamalus stellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chthamalus_stellatus.jpg/120px-Chthamalus_stellatus.jpg
+Seepocken,Chelonibia testudinaria,Chelonibia testudinaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Chelonibia_testudinaria.jpg/120px-Chelonibia_testudinaria.jpg
+Seepocken,Tetraclita squamosa,Tetraclita squamosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tetraclita_squamosa_milleporosa_25539121.jpg/120px-Tetraclita_squamosa_milleporosa_25539121.jpg
+Seepocken,Amphibalanus amphitrite,Amphibalanus amphitrite,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Balanus_amphitrite_7631.JPG/120px-Balanus_amphitrite_7631.JPG
 Gliederfüsser,Sechsfüsser,Hexapoda,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Apis_mellifera_-_Prunus_padus_-_Keila.jpg/120px-Apis_mellifera_-_Prunus_padus_-_Keila.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
