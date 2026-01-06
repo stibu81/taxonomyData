@@ -414,6 +414,8 @@ Neuflügler,Tierläuse,Phthiraptera,Ordnung,https://upload.wikimedia.org/wikiped
 Tierläuse,Kletterfussläuslinge,Ischnocera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Felicola-louse-plus-egg-on-hair-of-cat-2.jpg/120px-Felicola-louse-plus-egg-on-hair-of-cat-2.jpg
 Kletterfussläuslinge,Katzenhaarling,Felicola subrostratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Felicola-louse-plus-egg-on-hair-of-cat-2.jpg/120px-Felicola-louse-plus-egg-on-hair-of-cat-2.jpg
 Kletterfussläuslinge,Hundehaarling,Trichodectes canis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trichodectes_canis.jpg/120px-Trichodectes_canis.jpg
+Kletterfussläuslinge,Taubenfederling,Columbicola columbae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Louse_%28265_05%29_Columbicola_columbae_%28Mallophaga%29.jpg/120px-Louse_%28265_05%29_Columbicola_columbae_%28Mallophaga%29.jpg
+Kletterfussläuslinge,Strigiphilus garylarsoni,Strigiphilus garylarsoni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg/120px-Strigiphilus_garylarsoni_Clayton_1990_NHMUK010693502_zoom_1.jpg
 Tierläuse,Echte Tierläuse,Anoplura,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Male_human_head_louse.jpg/120px-Male_human_head_louse.jpg
 Echte Tierläuse,Menschenläuse,Pediculidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pediculus_humanus_capitis.png/120px-Pediculus_humanus_capitis.png
 Menschenläuse,Menschenlaus,Pediculus humanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pediculus_humanus_capitis.png/120px-Pediculus_humanus_capitis.png
@@ -429,6 +431,49 @@ Haematopinus,Schweinelaus,Haematopinus suis,Art,https://upload.wikimedia.org/wik
 Haematopinus,Pferdelaus,Haematopinus asini equi,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Haematopinus_asini.jpg/120px-Haematopinus_asini.jpg
 Tierläuse,Rüsselläuse,Rhynchophthirina,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haematomyzus_elephantis_%289197687258%29.jpg/120px-Haematomyzus_elephantis_%289197687258%29.jpg
 Rüsselläuse,Elefantenlaus,Haematomyzus elephantis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haematomyzus_elephantis_%289197687258%29.jpg/120px-Haematomyzus_elephantis_%289197687258%29.jpg
+Neuflügler,Fransenflügler,Thysanoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Thrips_tabaci%2C_Frankliniella_occidentalis.jpg/120px-Thrips_tabaci%2C_Frankliniella_occidentalis.jpg
+Fransenflügler,Tabakblasenfuss,Thrips tabaci,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Thrips_tabaci%2C_Frankliniella_occidentalis.jpg/120px-Thrips_tabaci%2C_Frankliniella_occidentalis.jpg
+Fransenflügler,Kalifornischer Blütenthrips,Frankliniella occidentalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankliniella_occidentalis_7798.jpg/120px-Frankliniella_occidentalis_7798.jpg
+Neuflügler,Schnabelkerfe,Hemiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg
+Schnabelkerfe,Rundkopfzikaden,Cicadomorpha,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Graphocephala_fennahi_-_front_%28aka%29.jpg/120px-Graphocephala_fennahi_-_front_%28aka%29.jpg
+Rundkopfzikaden,Blutzikaden,Cercopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gemeine_Blutzikade_Cercopis_vulnerata_01_%28MK%29.jpg/120px-Gemeine_Blutzikade_Cercopis_vulnerata_01_%28MK%29.jpg
+Blutzikaden,Gemeine Blutzikade,Cercopis vulnerata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cercopidae_-_Cercopis_vulnerata.JPG/120px-Cercopidae_-_Cercopis_vulnerata.JPG
+Blutzikaden,Bindenblutzikade,Cercopis sanguinolenta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cercopidae_-_Cercopis_sanguinolenta.JPG/120px-Cercopidae_-_Cercopis_sanguinolenta.JPG
+Rundkopfzikaden,Singzikaden,Cicadidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Neotibicen_linnei.jpg/120px-Neotibicen_linnei.jpg
+Singzikaden,Schwarze Zikade,Cicadatra atra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cicadatra_atra_%28Olivier_1790%29_-_5016876555.jpg/120px-Cicadatra_atra_%28Olivier_1790%29_-_5016876555.jpg
+Singzikaden,Bergsingzikade,Cicadetta montana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/%D0%A6%D0%B8%D0%BA%D0%B0%D0%B4%D0%B0_%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_-_Cicadetta_montana_-_Mountain_cicadas_%2819531484665%29.jpg/120px-%D0%A6%D0%B8%D0%BA%D0%B0%D0%B4%D0%B0_%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_-_Cicadetta_montana_-_Mountain_cicadas_%2819531484665%29.jpg
+Singzikaden,Hühnerzikade,Oligoglena tibialis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Oligoglena_tibialis_%2810.3897-BDJ.8.e54424%29_Figure_55_.jpg/120px-Oligoglena_tibialis_%2810.3897-BDJ.8.e54424%29_Figure_55_.jpg
+Singzikaden,Gemeine Singzikade,Tibicen plebejus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lyristes_2019_10.jpg/120px-Lyristes_2019_10.jpg
+Singzikaden,Weinzwirner,Tibicina haematodes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tibicina_haematodes.jpg/120px-Tibicina_haematodes.jpg
+Rundkopfzikaden,Buckelzirpen,Membracidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%28MHNT%29_Stictocephala_bisonia.jpg/120px-%28MHNT%29_Stictocephala_bisonia.jpg
+Buckelzirpen,Dornzikade,Centrotus cornutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Centrotus_cornutus01.jpg/120px-Centrotus_cornutus01.jpg
+Buckelzirpen,Büffelzikade,Stictocephala bisonia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/(MHNT)_Stictocephala_bisonia.jpg/120px-(MHNT)_Stictocephala_bisonia.jpg
+Buckelzirpen,Ginsterzikade,Gargara genistae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gargara.genistae.jpg/120px-Gargara.genistae.jpg
+Rundkopfzikaden,Schaumzikaden,Aphrophoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aphrophora_major.jpg/120px-Aphrophora_major.jpg
+Schaumzikaden,Wiesenschaumzikade,Philaenus spumarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aphrophoridae_spec.02.jpg/120px-Aphrophoridae_spec.02.jpg
+Schaumzikaden,Alpenschaumzikade,Aphrophora major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aphrophoramajor2.jpg/120px-Aphrophoramajor2.jpg
+Schaumzikaden,Grasschaumzikade,Neophilaenus lineatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Neophilaenus_lineatus2.jpg/120px-Neophilaenus_lineatus2.jpg
+Rundkopfzikaden,Zwergzikaden,Cicadellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cicada_spec.jpg/120px-Cicada_spec.jpg
+Zwergzikaden,Wiesenschmuckzikade,Evacanthus interruptus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cicada_spec.jpg/120px-Cicada_spec.jpg
+Zwergzikaden,Rhododendronzikade,Graphocephala fennahi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Graphocephala_fennahi_%28aka%29.jpg/120px-Graphocephala_fennahi_%28aka%29.jpg
+Zwergzikaden,Binsenschmuckzikade,Cicadella viridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cicadella_viridis01.jpg/120px-Cicadella_viridis01.jpg
+Schnabelkerfe,Spitzkopfzikaden,Fulgoromorpha,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pyrops_candelaria.jpg/120px-Pyrops_candelaria.jpg
+Spitzkopfzikaden,Glasflügelzikaden,Cixiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hyalesthes_obsoletus1.jpg/120px-Hyalesthes_obsoletus1.jpg
+Glasflügelzikaden,Winden-Glasflügelzikade,Hyalesthes obsoletus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hyalesthes_obsoletus1.jpg/120px-Hyalesthes_obsoletus1.jpg
+Spitzkopfzikaden,Spornzikaden,Delphacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/HEMI_Delphacidae_Sulix_tasmani.png/120px-HEMI_Delphacidae_Sulix_tasmani.png
+Spornzikaden,Schaufel-Spornzikade,Asiraca clavicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2018_04_06_Asiraca_clavicornis.jpg/120px-2018_04_06_Asiraca_clavicornis.jpg
+Spornzikaden,Wanderspornzikade,Laodelphax striatellus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2018_06_08_Laodelphax_striatellus.jpg/120px-2018_06_08_Laodelphax_striatellus.jpg
+Spornzikaden,Gestreifte Spornzikade,Stenocranus minutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2017_03_15_Stenocranus_minutus.jpg/120px-2017_03_15_Stenocranus_minutus.jpg
+Spitzkopfzikaden,Walzenzikaden,Caliscelidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/OmmadissW.jpg/120px-OmmadissW.jpg
+Walzenzikaden,Moorkäferzikaden,Ommatidiotus dissimilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/OmmadissW.jpg/120px-OmmadissW.jpg
+Spitzkopfzikaden,Käferzikaden,Issidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Auchenorrhyncha_fg01_20060709_Nied.JPG/120px-Auchenorrhyncha_fg01_20060709_Nied.JPG
+Käferzikaden,Echte Käferzikade,Issus coleoptratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Auchenorrhyncha_fg01_20060709_Nied.JPG/120px-Auchenorrhyncha_fg01_20060709_Nied.JPG
+Käferzikaden,Gelbe Käferzikade,Agalmatium flavescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2020_09_08_Agalmatium_flavescens.png/120px-2020_09_08_Agalmatium_flavescens.png
+Spitzkopfzikaden,Schmetterlingszikaden,Flatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flatid_leaf_bugs_and_nymphs_%28Phromnia_rosea%29.jpg/120px-Flatid_leaf_bugs_and_nymphs_%28Phromnia_rosea%29.jpg
+Schmetterlingszikaden,Bläulingszikade,Metcalfa pruinosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Metcalfa_pruinosa_MHNT.jpg/120px-Metcalfa_pruinosa_MHNT.jpg
+Spitzkopfzikaden,Echte Laternenträger,Fulgoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pyrops_candelaria.jpg/120px-Pyrops_candelaria.jpg
+Echte Laternenträger,Pyrops candelaria,Pyrops candelaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pyrops_candelaria.jpg/120px-Pyrops_candelaria.jpg
+Echte Laternenträger,Fulgora laternaria,Fulgora laternaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fulgora_laternaria.JPG/120px-Fulgora_laternaria.JPG
 Sechsfüsser,Sackkiefler,Entognatha,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/120px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
