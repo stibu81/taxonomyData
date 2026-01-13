@@ -301,15 +301,16 @@ Teichjungfern,Weidenjungfer,Chalcolestes viridis,Art,https://upload.wikimedia.or
 Kleinlibellen,Federlibellen,Platycnemididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/XN_Platycnemis_pennipes_10.jpg/120px-XN_Platycnemis_pennipes_10.jpg
 Federlibellen,Blaue Federlibelle,Platycnemis pennipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Platycnemis_pennipes_1%28loz%29.JPG/120px-Platycnemis_pennipes_1%28loz%29.JPG
 Libellen,Urlibellen,Anisozygoptera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Epiophlebia_superstes_by_OpenCage.jpg/120px-Epiophlebia_superstes_by_OpenCage.jpg
-Fluginsekten,Neuflügler,Neoptera,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bombus_pascuorum_female_2_%28aka%29.jpg/120px-Bombus_pascuorum_female_2_%28aka%29.jpg
-Neuflügler,Steinfliegen,Plecoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nemoura.cinerea.jpg/120px-Nemoura.cinerea.jpg
+Fluginsekten,Neuflügler,Neoptera,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bombus_pascuorum_female_2_%28aka%29.jpg/120px-Bombus_pascuorum_female_2_%28aka%29.jpg
+Neuflügler,Polyneoptera,Polyneoptera,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Insectes_%3B_Orthopt%C3%A8res._%281841-1849%29.jpg/120px-Insectes_%3B_Orthopt%C3%A8res._%281841-1849%29.jpg
+Polyneoptera,Steinfliegen,Plecoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nemoura.cinerea.jpg/120px-Nemoura.cinerea.jpg
 Steinfliegen,Gerandete Steinfliege,Perla marginata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Perla_marginata_T69.1.jpg/120px-Perla_marginata_T69.1.jpg
-Neuflügler,Ohrwürmer,Dermaptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Forficula_auricularia.jpg/120px-Forficula_auricularia.jpg
+Polyneoptera,Ohrwürmer,Dermaptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Forficula_auricularia.jpg/120px-Forficula_auricularia.jpg
 Ohrwürmer,Sandohrwurm,Labidura riparia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Labidura_riparia_070819.jpg/120px-Labidura_riparia_070819.jpg
 Ohrwürmer,Gemeiner Ohrwurm,Forficula auricularia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Forficula_auricularia-Male-1.jpg/120px-Forficula_auricularia-Male-1.jpg
 Ohrwürmer,Wald-Ohrwurm,Chelidurella acanthopygia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Waldohrwurm_%28Chelidurella_acanthopygia_Syn._Chelidurella_guentheri%29.jpg/120px-Waldohrwurm_%28Chelidurella_acanthopygia_Syn._Chelidurella_guentheri%29.jpg
 Ohrwürmer,Kleiner Ohrwurm,Labia minor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Labia_minor_male_02.jpg/120px-Labia_minor_male_02.jpg
-Neuflügler,Fangschrecken,Mantodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Praying_Mantis_Mating_European-35.jpg/120px-Praying_Mantis_Mating_European-35.jpg
+Polyneoptera,Fangschrecken,Mantodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Praying_Mantis_Mating_European-35.jpg/120px-Praying_Mantis_Mating_European-35.jpg
 Fangschrecken,Mantidae,Mantidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mantis-greece-alonisos-0a.jpg/120px-Mantis-greece-alonisos-0a.jpg
 Mantidae,Europäische Gottesanbeterin,Mantis religiosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mantid_August_2007-2.jpg/120px-Mantid_August_2007-2.jpg
 Mantidae,Afrikanische Riesengottesanbeterin,Sphodromantis viridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sphodromantis_viridis._female._Mantidae_-_Flickr_-_gailhampshire.jpg/120px-Sphodromantis_viridis._female._Mantidae_-_Flickr_-_gailhampshire.jpg
@@ -326,7 +327,7 @@ Fangschrecken,Empusidae,Empusidae,Familie,https://upload.wikimedia.org/wikipedia
 Empusidae,Teufelsblume,Idolomantis diabolica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Idolomantis_diabolica_-_0063.jpg/120px-Idolomantis_diabolica_-_0063.jpg
 Empusidae,Kleine Teufelsblume,Blepharopsis mendica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blepharopsis_mendica.jpg/120px-Blepharopsis_mendica.jpg
 Empusidae,Wandelnde Geige,Gongylus gongylodes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/..._mantis_--_Gongylus_gongylodes_%286188831702%29.jpg/120px-..._mantis_--_Gongylus_gongylodes_%286188831702%29.jpg
-Neuflügler,Schaben,Blattodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gromphadorhina_portentosa_%28outside%29.jpg/120px-Gromphadorhina_portentosa_%28outside%29.jpg
+Polyneoptera,Schaben,Blattodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gromphadorhina_portentosa_%28outside%29.jpg/120px-Gromphadorhina_portentosa_%28outside%29.jpg
 Schaben,Blaberoidea,Blaberoidea,Überfamilie,not_found
 Blaberoidea,Deutsche Schabe,Blatella germanica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blatella_germanica_p1160206.jpg/120px-Blatella_germanica_p1160206.jpg
 Blaberoidea,Dunkle Waldschabe,Ectobius sylvestris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ectobius_sylvestris_202243519.jpg/120px-Ectobius_sylvestris_202243519.jpg
@@ -340,7 +341,7 @@ Blattoidea,Termiten,Termitoidae,Epifamilie,https://upload.wikimedia.org/wikipedi
 Termiten,Gelbhalsholztermite,Kalotermes flavicollis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/KalotermesFlavicollisColony2_Corsica2014.jpg/120px-KalotermesFlavicollisColony2_Corsica2014.jpg
 Termiten,Lichtscheue Bodentermite,Reticulitermes lucifugus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2010_Insecto_Valverde_Vilarromar%C3%ADs_Oroso.jpg/120px-2010_Insecto_Valverde_Vilarromar%C3%ADs_Oroso.jpg
 Termiten,Gelbfüssige Bodentermite,Reticulitermes flavipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Reticulitermes_flavipes_K8085-6.jpg/120px-Reticulitermes_flavipes_K8085-6.jpg
-Neuflügler,Gespensterschrecken,Phasmatodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Phasmatodea_overview.jpg/120px-Phasmatodea_overview.jpg
+Polyneoptera,Gespensterschrecken,Phasmatodea,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Phasmatodea_overview.jpg/120px-Phasmatodea_overview.jpg
 Gespensterschrecken,Wandelnde Blätter,Phylliidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mimetismo_ps1.jpg/120px-Mimetismo_ps1.jpg
 Wandelnde Blätter,Grosses Wandelndes Blatt,Pulchriphyllium giganteum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pulchriphyllium_giganteum%2C_adult_femal_from_dorsal.jpg/120px-Pulchriphyllium_giganteum%2C_adult_femal_from_dorsal.jpg
 Wandelnde Blätter,Philippinisches Wandelndes Blatt,Phyllium philippinicum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Phyllium_siccifolium_-_Weibchen.JPG/120px-Phyllium_siccifolium_-_Weibchen.JPG
@@ -368,7 +369,7 @@ Phasmatidae,Indische Stabschrecke,Carausius morosus,Art,https://upload.wikimedia
 Gespensterschrecken,Bacillidae,Bacillidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Clonopsis_gallica01.jpg/120px-Clonopsis_gallica01.jpg
 Bacillidae,Mittelmeerstabschrecke,Bacillus rossius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bacillus_rossius_Livorno.jpg/120px-Bacillus_rossius_Livorno.jpg
 Bacillidae,Gallische Mittelmeerstabschrecke,Clonopsis gallica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Clonopsis_gallica01.jpg/120px-Clonopsis_gallica01.jpg
-Neuflügler,Heuschrecken,Orthoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Heupferd_fg01.jpg/120px-Heupferd_fg01.jpg
+Polyneoptera,Heuschrecken,Orthoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Heupferd_fg01.jpg/120px-Heupferd_fg01.jpg
 Heuschrecken,Langfühlerschrecken,Ensifera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Warzenbei%C3%9Fer_%28Decticus_verrucivorus%29_m_02_%28HS%29.jpg/120px-Warzenbei%C3%9Fer_%28Decticus_verrucivorus%29_m_02_%28HS%29.jpg
 Langfühlerschrecken,Laubheuschrecken,Tettigoniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Warzenbei%C3%9Fer_%28Decticus_verrucivorus%29_m_02_%28HS%29.jpg/120px-Warzenbei%C3%9Fer_%28Decticus_verrucivorus%29_m_02_%28HS%29.jpg
 Laubheuschrecken,Steppen-Sattelschrecke,Ephippiger ephippiger,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sattelschrecke.jpg/120px-Sattelschrecke.jpg
@@ -410,7 +411,8 @@ Kurzfühlerschrecken,Dornschrecken,Tetrigidae,Familie,https://upload.wikimedia.o
 Dornschrecken,Gemeine Dornschrecke,Tetrix undulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tetrix_undulata_-_Gemeine_Dornschrecke_180571781.jpg/120px-Tetrix_undulata_-_Gemeine_Dornschrecke_180571781.jpg
 Kurzfühlerschrecken,Grabschrecken,Tridactylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tridactylidae_IMG_1563m.JPG/120px-Tridactylidae_IMG_1563m.JPG
 Grabschrecken,Pfaendlers Grabschrecke,Xya pfaendleri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Xya_pfaendleri_-_2021-07-20%281%29.jpg/120px-Xya_pfaendleri_-_2021-07-20%281%29.jpg
-Neuflügler,Tierläuse,Phthiraptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pediculus_humanus_capitis.png/120px-Pediculus_humanus_capitis.png
+Neuflügler,Eumetabola,Eumetabola,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gaint_Honey_Bee_%28Apis_dorsata%29_on_Tribulus_terrestris_W_IMG_1020.jpg/120px-Gaint_Honey_Bee_%28Apis_dorsata%29_on_Tribulus_terrestris_W_IMG_1020.jpg
+Eumetabola,Tierläuse,Phthiraptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pediculus_humanus_capitis.png/120px-Pediculus_humanus_capitis.png
 Tierläuse,Kletterfussläuslinge,Ischnocera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Felicola-louse-plus-egg-on-hair-of-cat-2.jpg/120px-Felicola-louse-plus-egg-on-hair-of-cat-2.jpg
 Kletterfussläuslinge,Katzenhaarling,Felicola subrostratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Felicola-louse-plus-egg-on-hair-of-cat-2.jpg/120px-Felicola-louse-plus-egg-on-hair-of-cat-2.jpg
 Kletterfussläuslinge,Hundehaarling,Trichodectes canis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Trichodectes_canis.jpg/120px-Trichodectes_canis.jpg
@@ -431,10 +433,10 @@ Haematopinus,Schweinelaus,Haematopinus suis,Art,https://upload.wikimedia.org/wik
 Haematopinus,Pferdelaus,Haematopinus asini equi,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Haematopinus_asini.jpg/120px-Haematopinus_asini.jpg
 Tierläuse,Rüsselläuse,Rhynchophthirina,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haematomyzus_elephantis_%289197687258%29.jpg/120px-Haematomyzus_elephantis_%289197687258%29.jpg
 Rüsselläuse,Elefantenlaus,Haematomyzus elephantis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Haematomyzus_elephantis_%289197687258%29.jpg/120px-Haematomyzus_elephantis_%289197687258%29.jpg
-Neuflügler,Fransenflügler,Thysanoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Thrips_tabaci%2C_Frankliniella_occidentalis.jpg/120px-Thrips_tabaci%2C_Frankliniella_occidentalis.jpg
+Eumetabola,Fransenflügler,Thysanoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Thrips_tabaci%2C_Frankliniella_occidentalis.jpg/120px-Thrips_tabaci%2C_Frankliniella_occidentalis.jpg
 Fransenflügler,Tabakblasenfuss,Thrips tabaci,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Thrips_tabaci%2C_Frankliniella_occidentalis.jpg/120px-Thrips_tabaci%2C_Frankliniella_occidentalis.jpg
 Fransenflügler,Kalifornischer Blütenthrips,Frankliniella occidentalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankliniella_occidentalis_7798.jpg/120px-Frankliniella_occidentalis_7798.jpg
-Neuflügler,Schnabelkerfe,Hemiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg
+Eumetabola,Schnabelkerfe,Hemiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg
 Schnabelkerfe,Rundkopfzikaden,Cicadomorpha,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Graphocephala_fennahi_-_front_%28aka%29.jpg/120px-Graphocephala_fennahi_-_front_%28aka%29.jpg
 Rundkopfzikaden,Blutzikaden,Cercopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gemeine_Blutzikade_Cercopis_vulnerata_01_%28MK%29.jpg/120px-Gemeine_Blutzikade_Cercopis_vulnerata_01_%28MK%29.jpg
 Blutzikaden,Gemeine Blutzikade,Cercopis vulnerata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cercopidae_-_Cercopis_vulnerata.JPG/120px-Cercopidae_-_Cercopis_vulnerata.JPG
