@@ -1519,18 +1519,39 @@ Vögel,Neukiefervögel,Neognathae,Unterklasse,https://upload.wikimedia.org/wikip
 Neukiefervögel,Galloanserae,Galloanserae,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galloanserae.jpg/100px-Galloanserae.jpg
 Galloanserae,Hühnervögel,Galliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Orrtuppen.jpg/100px-Orrtuppen.jpg
 Hühnervögel,Fasanartige,Phasianidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Common_pheasant_%28Phasianus_colchicus%29_male_2.jpg/100px-Common_pheasant_%28Phasianus_colchicus%29_male_2.jpg
-Fasanartige,Auerhuhn,Tetrao urogallus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tetrao_urogallus_Richard_Bartz.jpg/100px-Tetrao_urogallus_Richard_Bartz.jpg
-Fasanartige,Birkhuhn,Lyrurus tetrix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Black_Grouse.jpg/100px-Black_Grouse.jpg
-Fasanartige,Truthuhn,Meleagris gallopavo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wild_turkey_eastern_us.jpg/100px-Wild_turkey_eastern_us.jpg
-Fasanartige,Fasan,Phasianus colchicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Pheasant_Phasianus_Colchicus_flipped.jpg/100px-Common_Pheasant_Phasianus_Colchicus_flipped.jpg
-Fasanartige,Goldfasan,Chrysolophus pictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Goldfasan.jpg/100px-Goldfasan.jpg
-Fasanartige,Rebhuhn,Perdix perdix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Perdix_perdix_2_%28Marek_Szczepanek%29.jpg/100px-Perdix_perdix_2_%28Marek_Szczepanek%29.jpg
-Fasanartige,Wachtel,Coturnix coturnix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quaglia.jpg/100px-Quaglia.jpg
-Fasanartige,Blauer Pfau,Pavo cristatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pfauenk%C3%BCken.jpg/100px-Pfauenk%C3%BCken.jpg
-Fasanartige,Bankivahuhn,Gallus gallus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Red_Junglefowl.jpg/100px-Red_Junglefowl.jpg
+Fasanartige,Phasianinae,Phasianinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pheasant.jpg/120px-Pheasant.jpg
+Phasianinae,Raufusshühner,Tetraonini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tetrao_urogallus_Richard_Bartz.jpg/120px-Tetrao_urogallus_Richard_Bartz.jpg
+Raufusshühner,Auerhuhn,Tetrao urogallus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tetrao_urogallus_Richard_Bartz.jpg/100px-Tetrao_urogallus_Richard_Bartz.jpg
+Raufusshühner,Birkhuhn,Lyrurus tetrix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Black_Grouse.jpg/100px-Black_Grouse.jpg
+Raufusshühner,Alpenschneehuhn,Lagopus muta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rock_Ptarmigan_%28Lagopus_Muta%29.jpg/100px-Rock_Ptarmigan_%28Lagopus_Muta%29.jpg
+Raufusshühner,Präriehuhn,Tympanuchus cupido,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tympanuchus_cupido_-Illinois%2C_USA_-male_displaying-8_%281%29.jpg/120px-Tympanuchus_cupido_-Illinois%2C_USA_-male_displaying-8_%281%29.jpg
+Raufusshühner,Tannenhuhn,Canachites canadensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Falcipennis-canadensis-002.jpg/120px-Falcipennis-canadensis-002.jpg
+Raufusshühner,Haselhuhn,Tetrastes bonasia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Haselhuhn-01.jpg/120px-Haselhuhn-01.jpg
+Phasianinae,Truthuhn,Meleagris gallopavo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Wild_turkey_eastern_us.jpg/100px-Wild_turkey_eastern_us.jpg
+Phasianinae,Bulwerfasan,Lophura bulweri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lophura_bulweri2.JPG/120px-Lophura_bulweri2.JPG
+Phasianinae,Edelfasanen,Phasianus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Phasianus_colchicus_gidzy.jpg/120px-Phasianus_colchicus_gidzy.jpg
+Edelfasanen,Fasan,Phasianus colchicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Common_Pheasant_Phasianus_Colchicus_flipped.jpg/100px-Common_Pheasant_Phasianus_Colchicus_flipped.jpg
+Edelfasanen,Buntfasan,Phasianus versicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Phasianus_versicolor_-Japan_-male-8.jpg/120px-Phasianus_versicolor_-Japan_-male-8.jpg
+Phasianinae,Himalaya-Glanzfasan,Lophophorus impejanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lophophorus_impejanus_LC0387.jpg/120px-Lophophorus_impejanus_LC0387.jpg
+Phasianinae,Kragenfasanen,Chrysolophus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chrysolophus_amherstiae_18092009.jpg/120px-Chrysolophus_amherstiae_18092009.jpg
+Kragenfasanen,Goldfasan,Chrysolophus pictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Goldfasan.jpg/100px-Goldfasan.jpg
+Kragenfasanen,Diamantfasan,Chrysolophus amherstiae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Chrysolophus_amherstiae%2C_Garz%C3%AA_Tibetan_AP%2C_Sichuan_9S3A2567.jpg/120px-Chrysolophus_amherstiae%2C_Garz%C3%AA_Tibetan_AP%2C_Sichuan_9S3A2567.jpg
+Phasianinae,Rebhuhn,Perdix perdix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Perdix_perdix_2_%28Marek_Szczepanek%29.jpg/100px-Perdix_perdix_2_%28Marek_Szczepanek%29.jpg
+Fasanartige,Pavoninae,Pavoninae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pheasant.jpg/120px-Pheasant.jpg
+Pavoninae,Wachtel,Coturnix coturnix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Quaglia.jpg/100px-Quaglia.jpg
+Pavoninae,Steinhuhn,Alectoris graeca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Steinhuhn.jpg/120px-Steinhuhn.jpg
+Pavoninae,Zwergwachtel,Synoicus chinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Excalfactoria_chinensis_%28aka%29.jpg/120px-Excalfactoria_chinensis_%28aka%29.jpg
+Pavoninae,Kongopfau,Afropavo congensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Afropavo_congensis_-Antwerp_Zoo_-pair-8a.jpg/120px-Afropavo_congensis_-Antwerp_Zoo_-pair-8a.jpg
+Pavoninae,Asiatische Pfauen,Pavo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pfau_imponierend.jpg/120px-Pfau_imponierend.jpg
+Asiatische Pfauen,Blauer Pfau,Pavo cristatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Peacockbench.jpg/100px-Peacockbench.jpg
+Asiatische Pfauen,Ährenträgerpfau,Pavo muticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Looks_like_lots_of_eyes_%281202949668%29.jpg/120px-Looks_like_lots_of_eyes_%281202949668%29.jpg
+Pavoninae,Kammhühner,Gallus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Gallus_sonneratii_-_female_%28Thattekad%29%2C_crop.jpg/100px-Gallus_sonneratii_-_female_%28Thattekad%29%2C_crop.jpg
+Kammhühner,Bankivahuhn,Gallus gallus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Red_Junglefowl.jpg/100px-Red_Junglefowl.jpg
 Bankivahuhn,Burma-Bankivahuhn,Gallus gallus spadiceus,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Red_jungle_fowl.png/120px-Red_jungle_fowl.png
 Bankivahuhn,Haushuhn,Gallus gallus domesticus,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Braekel.jpg/100px-Braekel.jpg
-Fasanartige,Alpenschneehuhn,Lagopus muta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rock_Ptarmigan_%28Lagopus_Muta%29.jpg/100px-Rock_Ptarmigan_%28Lagopus_Muta%29.jpg
+Kammhühner,Ceylonhuhn,Gallus lafayettii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flickr_-_Rainbirder_-_Ceylon_Junglefowl_%28Gallus_lafayetii%29_Male.jpg/120px-Flickr_-_Rainbirder_-_Ceylon_Junglefowl_%28Gallus_lafayetii%29_Male.jpg
+Kammhühner,Gabelschwanzhuhn,Gallus varius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Green_Junglefowl_-_Baluran_NP_-_East_Java_MG_7948_%2829183361863%29_%28cropped%29.jpg/120px-Green_Junglefowl_-_Baluran_NP_-_East_Java_MG_7948_%2829183361863%29_%28cropped%29.jpg
+Kammhühner,Sonnerathuhn,Gallus sonneratii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gallus_sonneratii_%28Bandipur%29.jpg/120px-Gallus_sonneratii_%28Bandipur%29.jpg
 Hühnervögel,Perlhühner,Numididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Helmeted_Guineafowl_and_chicks_2247191680.jpg/100px-Helmeted_Guineafowl_and_chicks_2247191680.jpg
 Perlhühner,Helmperlhuhn,Numida meleagris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Helmeted_Guineafowl_%28Numida_meleagris%29.jpg/100px-Helmeted_Guineafowl_%28Numida_meleagris%29.jpg
 Galloanserae,Gänsevögel,Anseriformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Anser_anser_%28aka%29.jpg/100px-Anser_anser_%28aka%29.jpg
