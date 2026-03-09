@@ -455,6 +455,7 @@ Rundkopfzikaden,Buckelzirpen,Membracidae,Familie,https://upload.wikimedia.org/wi
 Buckelzirpen,Dornzikade,Centrotus cornutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Centrotus_cornutus01.jpg/120px-Centrotus_cornutus01.jpg
 Buckelzirpen,Büffelzikade,Stictocephala bisonia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/(MHNT)_Stictocephala_bisonia.jpg/120px-(MHNT)_Stictocephala_bisonia.jpg
 Buckelzirpen,Ginsterzikade,Gargara genistae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gargara.genistae.jpg/120px-Gargara.genistae.jpg
+Buckelzirpen,Umbonia crassicornis,Umbonia crassicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Umbonia_crassicornis_%28F._Membracidae%29_%282532975946%29.jpg/120px-Umbonia_crassicornis_%28F._Membracidae%29_%282532975946%29.jpg
 Rundkopfzikaden,Schaumzikaden,Aphrophoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aphrophora_major.jpg/120px-Aphrophora_major.jpg
 Schaumzikaden,Wiesenschaumzikade,Philaenus spumarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aphrophoridae_spec.02.jpg/120px-Aphrophoridae_spec.02.jpg
 Schaumzikaden,Alpenschaumzikade,Aphrophora major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Aphrophoramajor2.jpg/120px-Aphrophoramajor2.jpg
@@ -652,6 +653,412 @@ Ameisenjungfern,Geflecktflüglige Ameisenjungfer,Euroleon nostras,Art,https://up
 Ameisenjungfern,Riesen-Ameisenjungfer,Palpares libelluloides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fourmilion.jpg/120px-Fourmilion.jpg
 Netzflügler,Fadenhafte,Nemopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg/120px-Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg
 Fadenhafte,Schwalbenschwanzhaft,Nemoptera sinuata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nemoptera_sinuata_Nazilli.jpg/120px-Nemoptera_sinuata_Nazilli.jpg
+Neuflügler,Käfer,Coleoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
+Käfer,Adephaga,Adephaga,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
+Adephaga,Schwimmkäfer,Dytiscidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dytiscidae.png/120px-Dytiscidae.png
+Schwimmkäfer,Gelbrandkäfer,Dytiscus marginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dytiscus_marginalis_male-female.png/120px-Dytiscus_marginalis_male-female.png
+Schwimmkäfer,Schmalbindiger Breitflügel-Tauchkäfer,Graphoderus bilineatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Graphoderus_bilineatus_SLO.jpg/120px-Graphoderus_bilineatus_SLO.jpg
+Schwimmkäfer,Glatter Kugelschwimmer,Hyphydrus ovatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg/120px-Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg
+Schwimmkäfer,Gaukler,Cybister lateralimarginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Moderne_Gauklerin.jpg/120px-Moderne_Gauklerin.jpg
+Adephaga,Laufkäfer,Carabidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carabus_auratus.jpg/120px-Carabus_auratus.jpg
+Laufkäfer,Carabinae,Carabinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Carabus_glabratus.jpg/120px-Carabus_glabratus.jpg
+Carabinae,Echte Laufkäfer,Carabus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
+Echte Laufkäfer,Blauvioletter Waldlaufkäfer,Carabus problematicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Carabus_problematicus_Herbst%2C_1786_%282971073187%29.jpg/120px-Carabus_problematicus_Herbst%2C_1786_%282971073187%29.jpg
+Echte Laufkäfer,Glatter Laufkäfer,Carabus glabratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Carabus_glabratus.jpg/120px-Carabus_glabratus.jpg
+Echte Laufkäfer,Goldlaufkäfer,Carabus auratus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Carabe_dor%C3%A9_dos.jpg/120px-Carabe_dor%C3%A9_dos.jpg
+Echte Laufkäfer,Lederlaufkäfer,Carabus coriaceus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Carabus_coriaceus1.jpg/120px-Carabus_coriaceus1.jpg
+Echte Laufkäfer,Hainlaufkäfer,Carabus nemoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Carabus_nemoralis.jpg/120px-Carabus_nemoralis.jpg
+Carabinae,Grosser Puppenräuber,Calosoma sycophanta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Calosoma_sycophanta%2BSardinien-2009-Thomas_Huntke.jpg/120px-Calosoma_sycophanta%2BSardinien-2009-Thomas_Huntke.jpg
+Carabinae,Riesenlaufkäfer,Procerus gigas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Carabus_%28Procerus%29_gigas_duponcheli_Taygetos.jpg/120px-Carabus_%28Procerus%29_gigas_duponcheli_Taygetos.jpg
+Carabinae,Zweigefleckter Eilkäfer,Notiophilus biguttatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Notiophilus_biguttatus_%2841417976991%29.jpg/120px-Notiophilus_biguttatus_%2841417976991%29.jpg
+Laufkäfer,Sandlaufkäfer,Cicindelinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D%C3%BCnen-Sandlaufk%C3%A4fer.jpg/120px-D%C3%BCnen-Sandlaufk%C3%A4fer.jpg
+Sandlaufkäfer,Cicindela,Cicindela,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cicindela_silvatica.jpg/120px-Cicindela_silvatica.jpg
+Cicindela,Dünen-Sandlaufkäfer,Cicindela hybrida,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/D%C3%BCnen-Sandlaufk%C3%A4fer.jpg/120px-D%C3%BCnen-Sandlaufk%C3%A4fer.jpg
+Cicindela,Feld-Sandlaufkäfer,Cicindela campestris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cicindela_campestris_Woblitz01.jpg/120px-Cicindela_campestris_Woblitz01.jpg
+Cicindela,Berg-Sandlaufkäfer,Cicindela sylvicola,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cicindela_sylvicola04.jpg/120px-Cicindela_sylvicola04.jpg
+Cicindela,Sechspunktiger Sandlaufkäfer,Cicindela sexguttata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cicindela_sexguttata_Fabricius_1.jpg/120px-Cicindela_sexguttata_Fabricius_1.jpg
+Sandlaufkäfer,Deutscher Sandlaufkäfer,Cylindera germanica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cylindera_germanica_side.JPG/120px-Cylindera_germanica_side.JPG
+Sandlaufkäfer,Manticora,Manticora,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Monster_Tiger_Beetle_%28Manticora_scabra%29_male_%2811734886986%29.jpg/120px-Monster_Tiger_Beetle_%28Manticora_scabra%29_male_%2811734886986%29.jpg
+Laufkäfer,Harpalinae,Harpalinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IKAl_20100808_Abax_parallelepipedus.jpg/120px-IKAl_20100808_Abax_parallelepipedus.jpg
+Harpalinae,Getreidelaufkäfer,Zabrus tenebrioides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zabrus_tenebrionides_%28Goeze%2C_1777%29_%282935442808%29.jpg/120px-Zabrus_tenebrionides_%28Goeze%2C_1777%29_%282935442808%29.jpg
+Harpalinae,Mondflecklaufkäfer,Callistus lunatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Callistus_lunatus_up.jpg/120px-Callistus_lunatus_up.jpg
+Harpalinae,Sechspunktiger Putzläufer,Agonum sexpunctatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Agonum_sexpunctatum01.jpg/120px-Agonum_sexpunctatum01.jpg
+Harpalinae,Grosser Breitkäfer,Abax parallelepipedus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Abax.parallelepipedus.jpg/120px-Abax.parallelepipedus.jpg
+Harpalinae,Erzfarbener Kanalkäfer,Amara aenea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Amara_aenea01.jpg/120px-Amara_aenea01.jpg
+Harpalinae,Vierfleck-Rindenläufer,Dromius quadrimaculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dromius_quadrimaculatus_up.jpg/120px-Dromius_quadrimaculatus_up.jpg
+Laufkäfer,Bombardierkäfer,Brachininae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brachinus_spPCCA20060328-2821B.jpg/120px-Brachinus_spPCCA20060328-2821B.jpg
+Bombardierkäfer,Schwarzer Bombardierkäfer,Aptinus bombarda,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aptinus.bombarda.-.calwer.05.16.jpg/120px-Aptinus.bombarda.-.calwer.05.16.jpg
+Bombardierkäfer,Kleiner Bombardierkäfer,Brachinus explodens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Brachinus-explodens-01-fws.jpg/120px-Brachinus-explodens-01-fws.jpg
+Laufkäfer,Licininae,Licininae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Badister_P1390160a.jpg/120px-Badister_P1390160a.jpg
+Licininae,Gelbrand-Grünkäfer,Chlaeniellus vestitus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chlaeniellus_vestitus_up.jpg/120px-Chlaeniellus_vestitus_up.jpg
+Käfer,Polyphaga,Polyphaga,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Timarcha_01.jpg/120px-Timarcha_01.jpg
+Polyphaga,Staphyliniformia,Staphyliniformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Staphylinus.olens.jpg/120px-Staphylinus.olens.jpg
+Staphyliniformia,Aaskäfer,Silphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nicrophorus_vespilloides_wiki.jpg/120px-Nicrophorus_vespilloides_wiki.jpg
+Aaskäfer,Totengräber,Nicrophorus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nicrophorus_vespilloides_wiki.jpg/120px-Nicrophorus_vespilloides_wiki.jpg
+Totengräber,Gemeiner Totengräber,Nicrophorus vespillo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Nicrophorus.vespillo.jpg/120px-Nicrophorus.vespillo.jpg
+Totengräber,Schwarzhörniger Totengräber,Nicrophorus vespilloides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nicrophorus_vespilloides_wiki.jpg/120px-Nicrophorus_vespilloides_wiki.jpg
+Totengräber,Schwarzer Totengräber,Nicrophorus humator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nicrophorus_humator01.jpg/120px-Nicrophorus_humator01.jpg
+Aaskäfer,Schwarzer Schneckenjäger,Phosphuga atrata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phosphuga_atrata_%28Linn%C3%A9%2C_1758%29_%283389117445%29.jpg/120px-Phosphuga_atrata_%28Linn%C3%A9%2C_1758%29_%283389117445%29.jpg
+Aaskäfer,Ufer-Totengräber,Necrodes littoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Necrodes_littoralis_natur2.jpg/120px-Necrodes_littoralis_natur2.jpg
+Aaskäfer,Starkgerippte Geradschienen-Aaskäfer,Silpha carinata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Silpha_carinata_up.JPG/120px-Silpha_carinata_up.JPG
+Aaskäfer,Runzeliger Aaskäfer,Thanatophilus rugosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Thanatophilus_rugosus_bl.jpg/120px-Thanatophilus_rugosus_bl.jpg
+Aaskäfer,Amerikanischer Aaskäfer,Necrophila americana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Aaskaefer_Silpha_americana_fg01.jpg/120px-Aaskaefer_Silpha_americana_fg01.jpg
+Aaskäfer,Vierpunktiger Aaskäfer,Vierpunktiger Aaskäfer,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dendroxena_quadrimaculata_-_Col%C3%A9opt%C3%A8re.jpg/120px-Dendroxena_quadrimaculata_-_Col%C3%A9opt%C3%A8re.jpg
+Staphyliniformia,Kurzflügler,Staphylinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kurzfl%C3%BCgler.png/120px-Kurzfl%C3%BCgler.png
+Kurzflügler,Schwarzer Moderkäfer,Ocypus olens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ocypus_olens_qtl1.jpg/120px-Ocypus_olens_qtl1.jpg
+Kurzflügler,Gewürfelter Raubkäfer,Ontholestes tessellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/110704a1.JPG/120px-110704a1.JPG
+Kurzflügler,Roter Bunträuber,Oxyporus rufus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oxyporus_rufus_up.JPG/120px-Oxyporus_rufus_up.JPG
+Kurzflügler,Pilz-Kahnkäfer,Scaphisoma agaricinum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Scaphisoma_agaricinum_natur.jpg/120px-Scaphisoma_agaricinum_natur.jpg
+Kurzflügler,Uferkurzflügler,Paederus littoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Paederus_littoralis01.jpg/120px-Paederus_littoralis01.jpg
+Kurzflügler,Hornissenkäfer,Quedius dilatatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Velleius-dilatatus.jpg/120px-Velleius-dilatatus.jpg
+Kurzflügler,Hellbrauner Kurzflügler,Manda mandibularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Manda_mandibularis_%28Gyllenhal%2C_1827%29_%2823214557714%29.png/120px-Manda_mandibularis_%28Gyllenhal%2C_1827%29_%2823214557714%29.png
+Polyphaga,Scarabaeiformia,Scarabaeiformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lucanus_cervus.jpg/120px-Lucanus_cervus.jpg
+Scarabaeiformia,Schröter,Lucanidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lucanus_cervus.jpg/120px-Lucanus_cervus.jpg
+Schröter,Schwarzbrauner Kurzschröter,Aesalus scarabaeoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aesalus_scarabaeoides_1231025.jpg/120px-Aesalus_scarabaeoides_1231025.jpg
+Schröter,Kopfhornschröter,Sinodendron cylindricum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sinodendron_cylindricum_side.JPG/120px-Sinodendron_cylindricum_side.JPG
+Schröter,Hirschkäfer,Lucanus cervus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lucanus_cervus.jpg/120px-Lucanus_cervus.jpg
+Schröter,Balkenschröter,Dorcus parallelipipedus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dparallelipipedus.JPG/120px-Dparallelipipedus.JPG
+Schröter,Grosser Rehschröter,Platycerus caprea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Platycerus_caprea_%28DeGeer%2C_1774%29_%283024254157%29.jpg/120px-Platycerus_caprea_%28DeGeer%2C_1774%29_%283024254157%29.jpg
+Schröter,Kleiner Rehschröter,Platycerus caraboides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Platycerus_caraboides-pjt1.jpg/120px-Platycerus_caraboides-pjt1.jpg
+Schröter,Australischer Pracht-Hirschkäfer,Phalacrognathus muelleri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/P._muelleri.JPG/120px-P._muelleri.JPG
+Scarabaeiformia,Erdkäfer,Trogidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Trox.sabulosus.Reitter.jpg/120px-Trox.sabulosus.Reitter.jpg
+Erdkäfer,Geperlter Erdkäfer,Trox perlatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Trox_perlatus_front.jpg/120px-Trox_perlatus_front.jpg
+Scarabaeiformia,Mistkäfer,Geotrupidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/PXL_20210529_133229137.jpg/120px-PXL_20210529_133229137.jpg
+Mistkäfer,Waldmistkäfer,Anoplotrupes stercorosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Mistkaefer-JR-T20-4318-4278-2023-05-14.jpg/120px-Mistkaefer-JR-T20-4318-4278-2023-05-14.jpg
+Mistkäfer,Gemeiner Mistkäfer,Geotrupes stercorarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Geotrupes.jpg/120px-Geotrupes.jpg
+Mistkäfer,Stierkäfer,Typhaeus typhoeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Typhaeus_typhoeus_%28M%29%2C_France.jpg/120px-Typhaeus_typhoeus_%28M%29%2C_France.jpg
+Mistkäfer,Frühlingsmistkäfer,Trypocopris vernalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Fr%C3%BChlingsmistk%C3%A4fer_%28Geotrupes_vernalis%29.jpg/120px-Fr%C3%BChlingsmistk%C3%A4fer_%28Geotrupes_vernalis%29.jpg
+Scarabaeiformia,Blatthornkäfer,Scarabaeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cetonia-aurata.jpg/120px-Cetonia-aurata.jpg
+Blatthornkäfer,Aphodiinae,Aphodiinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Reitter-1908_table71.jpg/120px-Reitter-1908_table71.jpg
+Aphodiinae,Rotfuss,Acrossus rufipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Acrossus_rufipes01.jpg/120px-Acrossus_rufipes01.jpg
+Aphodiinae,Gemeiner Dungkäfer,Aphodius fimetarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Aphodius.fimetarius.jpg/120px-Aphodius.fimetarius.jpg
+Aphodiinae,Gefleckter Dungkäfer,Chilothorax distinctus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2017_04_03_Aphodius_distinctus_1.jpg/120px-2017_04_03_Aphodius_distinctus_1.jpg
+Blatthornkäfer,Scarabaeinae,Scarabaeinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Copris_lunaris._MHNT.jpg/120px-Copris_lunaris._MHNT.jpg
+Scarabaeinae,Schwarzglänzender spanischer Nashornkäfer,Copris hispanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Copris_hispanus.jpg/120px-Copris_hispanus.jpg
+Scarabaeinae,Heiliger Pillendreher,Scarabaeus sacer,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Scarabaeus.sacer.jpg/120px-Scarabaeus.sacer.jpg
+Scarabaeinae,Matter Pillenwälzer,Sisyphus schaefferi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sisyphus_schaefferi.JPG/120px-Sisyphus_schaefferi.JPG
+Scarabaeinae,Stierkopf-Dungkäfer,Onthophagus taurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Onthophagus_taurus.JPG/120px-Onthophagus_taurus.JPG
+Blatthornkäfer,Rutelinae,Rutelinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chrysinasp..JPG/120px-Chrysinasp..JPG
+Rutelinae,Kleiner Julikäfer,Anomala dubia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Anomala_dubia_on_finger.JPG/120px-Anomala_dubia_on_finger.JPG
+Rutelinae,Mediterraner Junikäfer,Mimela junii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2020_06_27_Mimela_junii.jpg/120px-2020_06_27_Mimela_junii.jpg
+Rutelinae,Gartenlaubkäfer,Phyllopertha horticola,Art,https://upload.wikimedia.org/wikipedia/de/thumb/4/4c/Gartenlaubk%C3%A4fer_%28Phyllopertha_horticola%29.jpg/120px-Gartenlaubk%C3%A4fer_%28Phyllopertha_horticola%29.jpg
+Rutelinae,Japankäfer,Popillia japonica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Popillia_japonica_%2859%29.jpg/120px-Popillia_japonica_%2859%29.jpg
+Rutelinae,Südlicher Getreide-Laubkäfer,Anisoplia austriaca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Anisoplia_austriaca_up.JPG/120px-Anisoplia_austriaca_up.JPG
+Blatthornkäfer,Melolonthinae,Melolonthinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%D0%9D%D0%B0%D1%81%D0%B5%D0%BA%D0%BE%D0%BC%D1%8B%D0%B5_154.jpg/120px-%D0%9D%D0%B0%D1%81%D0%B5%D0%BA%D0%BE%D0%BC%D1%8B%D0%B5_154.jpg
+Melolonthinae,Gerippter Brachkäfer,Amphimallon solstitiale,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Amphimallon_solstitialis_%282008-06-17%29.jpg/120px-Amphimallon_solstitialis_%282008-06-17%29.jpg
+Melolonthinae,Maikäfer,Melolontha,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Maybug.jpg/120px-Maybug.jpg
+Maikäfer,Feldmaikäfer,Melolontha melolontha,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Maybug.jpg/120px-Maybug.jpg
+Maikäfer,Waldmaikäfer,Melolontha hippocastani,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Melolontha-hippocastani.JPG/120px-Melolontha-hippocastani.JPG
+Maikäfer,Kaukasischer Maikäfer,Melolontha pectoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Melolontha_pectoralis_up.JPG/120px-Melolontha_pectoralis_up.JPG
+Melolonthinae,Walker,Polyphylla fullo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Polyphylla_fullo.jpg/120px-Polyphylla_fullo.jpg
+Melolonthinae,Behaarter Maikäfer,Anoxia villosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/2024_07_07_Anoxia_villosa.jpg/120px-2024_07_07_Anoxia_villosa.jpg
+Melolonthinae,Goldstaub-Laubkäfer,Hoplia argentea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hoplia_argentea_G1.JPG/120px-Hoplia_argentea_G1.JPG
+Melolonthinae,Manuka-Käfer,Pyronota festiva,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pyronota_festiva_5787974.jpg/120px-Pyronota_festiva_5787974.jpg
+Melolonthinae,Gelbbrauner Brachkäfer,Rhizotrogus aestivus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rhizotrogus_aestivus_7031M.jpg/120px-Rhizotrogus_aestivus_7031M.jpg
+Blatthornkäfer,Riesenkäfer,Dynastinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nosoroh.jpg/120px-Nosoroh.jpg
+Riesenkäfer,Nashornkäfer,Oryctes nasicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oryctes_nasicornis-002.jpg/120px-Oryctes_nasicornis-002.jpg
+Riesenkäfer,Herkuleskäfer,Dynastes hercules,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hercules.beetle.arp.jpg/120px-Hercules.beetle.arp.jpg
+Riesenkäfer,Atlaskäfer,Chalcosoma atlas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Atlas_beetle.jpg/120px-Atlas_beetle.jpg
+Riesenkäfer,Elefantenkäfer,Megasoma elephas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Elephant_Beetle_Megasoma_elephas_Male_Side_2699px_edit.jpg/120px-Elephant_Beetle_Megasoma_elephas_Male_Side_2699px_edit.jpg
+Riesenkäfer,Afrikanischer Herkuleskäfer,Augosoma centaurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Augosoma_centaurus_m2.jpg/120px-Augosoma_centaurus_m2.jpg
+Blatthornkäfer,Rosenkäfer,Cetoniinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cetonia-aurata.jpg/120px-Cetonia-aurata.jpg
+Rosenkäfer,Goldglänzender Rosenkäfer,Cetonia aurata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Rosenk%C3%A4fer_Cetonia_aurata.jpg/120px-Rosenk%C3%A4fer_Cetonia_aurata.jpg
+Rosenkäfer,Grosser Rosenkäfer,Protaetia aeruginosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aeruginosa_fg04.JPG/120px-Aeruginosa_fg04.JPG
+Rosenkäfer,Eremit,Osmoderma eremita,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Osmoderma_eremita_female.jpg/120px-Osmoderma_eremita_female.jpg
+Rosenkäfer,Uganda-Rosenkäfer,Mecynorhina torquata ugandensis,Unterart,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mecynorhina_torquata_ugandensis_%28blue_male%29.jpg/120px-Mecynorhina_torquata_ugandensis_%28blue_male%29.jpg
+Rosenkäfer,Goliathkäfer,Goliathus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Goliathus.regius.jpg/120px-Goliathus.regius.jpg
+Rosenkäfer,Südafrikanischer Fruchtkäfer,Pachnoda sinuata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pachnoda_sinuata_adult_1.jpg/120px-Pachnoda_sinuata_adult_1.jpg
+Rosenkäfer,Trauerrosenkäfer,Oxythyrea funesta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oxythyrea_funesta_-_Pedicularis_sceptrum-carolinum_-_Keila.jpg/120px-Oxythyrea_funesta_-_Pedicularis_sceptrum-carolinum_-_Keila.jpg
+Rosenkäfer,Gebänderter Pinselkäfer,Trichius fasciatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trichius_fasciatus_-_Succisa_pratensis_-_Keila.jpg/120px-Trichius_fasciatus_-_Succisa_pratensis_-_Keila.jpg
+Polyphaga,Elateriformia,Elateriformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Schnellkaefer_auf_Ast.jpg/120px-Schnellkaefer_auf_Ast.jpg
+Elateriformia,Prachtkäfer,Buprestidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wytsman.Genera.Insectorum.Buprestidae.02.jpg/120px-Wytsman.Genera.Insectorum.Buprestidae.02.jpg
+Prachtkäfer,Grosser Brombeer-Prachtkäfer,Coraebus rubi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Coraebus_rubi_nature.JPG/120px-Coraebus_rubi_nature.JPG
+Prachtkäfer,Blauer Kieferprachtkäfer,Phaenops cyanea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Phaenops_cyanea_up.JPG/120px-Phaenops_cyanea_up.JPG
+Prachtkäfer,Goldhalsiger Kleinprachtkäfer,Trachys troglodytiformis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Trachys_troglodytiformis_natur.jpg/120px-Trachys_troglodytiformis_natur.jpg
+Prachtkäfer,Kirschprachtkäfer,Anthaxia candens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Anthaxia_candens_bl.jpg/120px-Anthaxia_candens_bl.jpg
+Prachtkäfer,Schweizer Prachtkäfer,Anthaxia helvetica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Anthaxia_helvetica_bl.jpg/120px-Anthaxia_helvetica_bl.jpg
+Prachtkäfer,Achtpunktiger Kiefernprachtkäfer,Buprestis octoguttata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Buprestis_octoguttata_Greece.jpg/120px-Buprestis_octoguttata_Greece.jpg
+Prachtkäfer,Grosser Lindenprachtkäfer,Ovalisia rutilans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lamprodila_rutilans_pair.jpg/120px-Lamprodila_rutilans_pair.jpg
+Prachtkäfer,Ungarischer Prachtkäfer,Anthaxia hungarica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anthaxia_hungarica_bl.jpg/120px-Anthaxia_hungarica_bl.jpg
+Elateriformia,Pillenkäfer,Byrrhidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Byrrhus_pilula%2C_Cader_Idris%2C_North_Wales%2C_June_2010_%2823430599841%29.jpg/120px-Byrrhus_pilula%2C_Cader_Idris%2C_North_Wales%2C_June_2010_%2823430599841%29.jpg
+Pillenkäfer,Gemeiner Pillenkäfer,Byrrhus pilula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2017_03_27_Byrrhus_pilula_4.jpg/120px-2017_03_27_Byrrhus_pilula_4.jpg
+Elateriformia,Schnellkäfer,Elateridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Schnellkaefer_beim_Abflug.jpg/120px-Schnellkaefer_beim_Abflug.jpg
+Schnellkäfer,Saatschnellkäfer,Agriotes lineatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Agriotes_lineatus_bl2.JPG/120px-Agriotes_lineatus_bl2.JPG
+Schnellkäfer,Mausgrauer Schnellkäfer,Agrypnus murinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mausgrauer_Schnellk%C3%A4fer_02_%28MK%29.jpg/120px-Mausgrauer_Schnellk%C3%A4fer_02_%28MK%29.jpg
+Schnellkäfer,Blutroter Schnellkäfer,Ampedus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ampedus_sanguineus3.jpg/120px-Ampedus_sanguineus3.jpg
+Schnellkäfer,Purpurroter Schnellkäfer,Anostirus purpureus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Anostirus_purpureus_cross.JPG/120px-Anostirus_purpureus_cross.JPG
+Schnellkäfer,Glanzschnellkäfer,Selatosomus aeneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Selatosomus_aeneus_bl.JPG/120px-Selatosomus_aeneus_bl.JPG
+Elateriformia,Rotdeckenkäfer,Lycidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dictyoptera_aurora1.jpg/120px-Dictyoptera_aurora1.jpg
+Rotdeckenkäfer,Scharlachroter Netzkäfer,Dictyoptera aurora,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dictyoptera_aurora1.jpg/120px-Dictyoptera_aurora1.jpg
+Rotdeckenkäfer,Rüssel-Rotdeckenkäfer,Lygistopterus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lygistopterus_sanguineus_up.JPG/120px-Lygistopterus_sanguineus_up.JPG
+Rotdeckenkäfer,Kleiner Rotdeckenkäfer,Platycis minutus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Platycis_minutus4.JPG/120px-Platycis_minutus4.JPG
+Elateriformia,Federleuchtkäfer,Federleuchtkäfer,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Phengodes_species%2C_U%2C_Right%2C_U_2013-07-18-15.54.20_ZS_PMax_%289335901793%29.jpg/120px-Phengodes_species%2C_U%2C_Right%2C_U_2013-07-18-15.54.20_ZS_PMax_%289335901793%29.jpg
+Elateriformia,Leuchtkäfer,Lampyridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/LampyridaeSpec.png/120px-LampyridaeSpec.png
+Leuchtkäfer,Kleiner Leuchtkäfer,Lamprohiza splendidula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lamprohiza_splendidula01.jpg/120px-Lamprohiza_splendidula01.jpg
+Leuchtkäfer,Grosser Leuchtkäfer,Lampyris noctiluca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lampyris_noctiluca.jpg/120px-Lampyris_noctiluca.jpg
+Leuchtkäfer,Kurzflügel-Leuchtkäfer,Phosphaenus hemipterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Phosphaenus_hemipterus.jpg/120px-Phosphaenus_hemipterus.jpg
+Elateriformia,Weichkäfer,Cantharidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rhagonycha_fulva_%28on_Achillea_millefolium%29.jpg/120px-Rhagonycha_fulva_%28on_Achillea_millefolium%29.jpg
+Weichkäfer,Cantharis,Cantharis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Soldier_beetle_%28Cantharis_fusca%29_mating_P.jpg/120px-Soldier_beetle_%28Cantharis_fusca%29_mating_P.jpg
+Cantharis,Gemeiner Weichkäfer,Cantharis fusca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Cantharis_fusca_%282006-05-29%29.jpg/120px-Cantharis_fusca_%282006-05-29%29.jpg
+Cantharis,Variabler Weichkäfer,Cantharis livida,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cantharis_livida_%28Cantharidae_sp.%29%2C_Texel%2C_the_Netherlands.jpg/120px-Cantharis_livida_%28Cantharidae_sp.%29%2C_Texel%2C_the_Netherlands.jpg
+Cantharis,Dunkler Fliegenkäfer,Cantharis obscura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Dunkler_Fliegenk%C3%A4fer_4042.JPG/120px-Dunkler_Fliegenk%C3%A4fer_4042.JPG
+Cantharis,Roter Fliegenkäfer,Cantharis rufa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Coleoptera14062008.jpg/120px-Coleoptera14062008.jpg
+Weichkäfer,Gelblicher Fliegenkäfer,Malthinus flaveolus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Malthinus_flaveolus_22.jpg/120px-Malthinus_flaveolus_22.jpg
+Weichkäfer,Roter Weichkäfer,Rhagonycha fulva,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rote_Weichkafer_%28Rhagonycha_fulva%29.jpg/120px-Rote_Weichkafer_%28Rhagonycha_fulva%29.jpg
+Polyphaga,Bostrichiformia,Bostrichiformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Dermestes_lardarius.jpg/120px-Dermestes_lardarius.jpg
+Bostrichiformia,Speckkäfer,Dermestidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dermestes_lardarius_-_top_%28aka%29.jpg/120px-Dermestes_lardarius_-_top_%28aka%29.jpg
+Speckkäfer,Australischer Teppichkäfer,Anthrenocerus australis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Anthrenocerus_australis.jpg/120px-Anthrenocerus_australis.jpg
+Speckkäfer,Gemeiner Speckkäfer,Dermestes lardarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dermestes_lardarius_-_top_%28aka%29.jpg/120px-Dermestes_lardarius_-_top_%28aka%29.jpg
+Speckkäfer,Wollkrautblütenkäfer,Anthrenus verbasci,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Anthrenus.verbasci.7060.jpg/120px-Anthrenus.verbasci.7060.jpg
+Speckkäfer,Berlinkäfer,Trogoderma angustum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Trogoderma_angustum_natur1.jpg/120px-Trogoderma_angustum_natur1.jpg
+Bostrichiformia,Bohrkäfer,Bostrichidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rhyzopertha_dominica01.jpg/120px-Rhyzopertha_dominica01.jpg
+Bohrkäfer,Karminroter Kapuzinerkäfer,Bostrychus capucinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bostrichus_capucinus_Greece.jpg/120px-Bostrichus_capucinus_Greece.jpg
+Bohrkäfer,Getreidekapuziner,Rhyzopertha dominica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CSIRO_ScienceImage_10792_Rhyzopertha_dominica_Lesser_Grain_Borer.jpg/120px-CSIRO_ScienceImage_10792_Rhyzopertha_dominica_Lesser_Grain_Borer.jpg
+Bohrkäfer,Brauner Splintholzkäfer,Lyctus brunneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lyctus.brunneus.jpg/120px-Lyctus.brunneus.jpg
+Bohrkäfer,Geprägter Splintholzkäfer,Trogoxylon impressum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Trogoxylon_impressum_bl2.jpg/120px-Trogoxylon_impressum_bl2.jpg
+Bostrichiformia,Nagekäfer,Ptinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hedobia_imperialis_III.jpg/120px-Hedobia_imperialis_III.jpg
+Nagekäfer,Gemeiner Nagekäfer,Anobium punctatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Anobium_punctatum_above.jpg/120px-Anobium_punctatum_above.jpg
+Nagekäfer,Brotkäfer,Stegobium paniceum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drugstore_beetle_02.jpg/120px-Drugstore_beetle_02.jpg
+Nagekäfer,Trotzkopf,Hadrobregmus pertinax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hadrobregmus_pertinax_bl.jpg/120px-Hadrobregmus_pertinax_bl.jpg
+Nagekäfer,Schillerporling-Pochkäfer,Dorcatoma substriata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Dorcatoma_substriata_natur.jpg/120px-Dorcatoma_substriata_natur.jpg
+Nagekäfer,Hellfarbener Nagekäfer,Hedobia imperialis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hedobia_imperialis_III.jpg/120px-Hedobia_imperialis_III.jpg
+Nagekäfer,Gekämmter Nagekäfer,Ptilinus pectinicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ptilinus_pectinicornis_natur.jpg/120px-Ptilinus_pectinicornis_natur.jpg
+Nagekäfer,Kräuterdieb,Ptinus fur,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ptinus_fur_male.jpg/120px-Ptinus_fur_male.jpg
+Polyphaga,Cucujiformia,Cucujiformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/7-Spotted-Ladybug-Coccinella-septempunctata-sq1.jpg/120px-7-Spotted-Ladybug-Coccinella-septempunctata-sq1.jpg
+Cucujiformia,Werftkäfer,Lymexyloidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hylecoetus_dermestoides01.jpg/120px-Hylecoetus_dermestoides01.jpg
+Werftkäfer,Werftkäfer (F),Lymexylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hylecoetus_dermestoides01.jpg/120px-Hylecoetus_dermestoides01.jpg
+Werftkäfer (F),Sägehörniger Werftkäfer,Hylecoetus dermestoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hylecoetus_dermestoides01.jpg/120px-Hylecoetus_dermestoides01.jpg
+Werftkäfer (F),Schiffswertfkäfer,Lymexylon navale,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lymexylon_navale_IMG_20210711_151650.jpg/120px-Lymexylon_navale_IMG_20210711_151650.jpg
+Cucujiformia,Cleroidea,Cleroidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Clerid_beetle04.jpg/120px-Clerid_beetle04.jpg
+Cleroidea,Buntkäfer,Cleridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Trichodes_apiarius.jpg/120px-Trichodes_apiarius.jpg
+Buntkäfer,Zottiger Bienenkäfer,Trichodes alvearius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Trichodes_alvaerius_dos.jpg/120px-Trichodes_alvaerius_dos.jpg
+Buntkäfer,Ameisenbuntkäfer,Thanasimus formicarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Thanasimus_formicarius_316188324.jpg/120px-Thanasimus_formicarius_316188324.jpg
+Buntkäfer,Hellbindiger Holzbuntkäfer,Tilloidea unifasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tilloidea_unifasciata_up.JPG/120px-Tilloidea_unifasciata_up.JPG
+Cleroidea,Jagdkäfer,Trogossitidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Trogossitidae.jpg/120px-Trogossitidae.jpg
+Jagdkäfer,Nemozoma elongatum,Nemozoma elongatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nemosoma_elongatum_%28Linnaeus%2C_1761%29_%2831742283282%29.png/120px-Nemosoma_elongatum_%28Linnaeus%2C_1761%29_%2831742283282%29.png
+Jagdkäfer,Kleinkopf-Flachkäfer,Thymalus limbatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Thymalus_limbatus_up.JPG/120px-Thymalus_limbatus_up.JPG
+Jagdkäfer,Rotrandiger Flachkäfer,Peltis ferruginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ostoma_ferruginea_eol2.jpg/120px-Ostoma_ferruginea_eol2.jpg
+Cucujiformia,Cucujoidea,Cucujoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Reitter-1911-plate098.png/120px-Reitter-1911-plate098.png
+Cucujoidea,Marienkäfer,Coccinellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ladybird.jpg/120px-Ladybird.jpg
+Marienkäfer,Coccidulini,Coccidulini,Tribus,not_found
+Coccidulini,Einfarbiger Marienkäfer,Rhyzobius litura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rhyzobius_litura.jpg/120px-Rhyzobius_litura.jpg
+Coccidulini,Glänzender Schlankmarienkäfer,Coccidula rufa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Coccidula_rufa.jpg/120px-Coccidula_rufa.jpg
+Marienkäfer,Coccinellini,Coccinellini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phrynocaria_perfida.jpg/120px-Phrynocaria_perfida.jpg
+Coccinellini,Achtzehnfleckiger Marienkäfer,Myrrha octodecimguttata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/P1100358_Myrrha_octodecimguttata.jpg/120px-P1100358_Myrrha_octodecimguttata.jpg
+Coccinellini,Coccinella,Coccinella,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Coccinella_transversalis_2.jpg/120px-Coccinella_transversalis_2.jpg
+Coccinella,Ameisen-Siebenpunkt-Marienkäfer,Coccinella magnifica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Coccinella_magnifica01.jpg/120px-Coccinella_magnifica01.jpg
+Coccinella,Elfpunkt-Marienkäfer,Coccinella undecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elfstiplieveheersbeestje.jpg/120px-Elfstiplieveheersbeestje.jpg
+Coccinella,Fünfpunkt-Marienkäfer,Coccinella quinquepunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/5-stip_LHB_09.jpg/120px-5-stip_LHB_09.jpg
+Coccinella,Siebenpunkt-Marienkäfer,Coccinella septempunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coccinella.7-punctata.adult.jpg/120px-Coccinella.7-punctata.adult.jpg
+Coccinella,Heidekraut-Marienkäfer,Coccinella hieroglyphica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Coccinella_hieroglyphica_-_Snamont.jpg/120px-Coccinella_hieroglyphica_-_Snamont.jpg
+Coccinellini,Licht-Marienkäfer,Calvia decemguttata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Calvia_decemguttata01.jpg/120px-Calvia_decemguttata01.jpg
+Coccinellini,Nadelbaum-Marienkäfer,Aphidecta obliterata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aphidecta_obliterata02.jpg/120px-Aphidecta_obliterata02.jpg
+Coccinellini,Neunzehnpunkt-Marienkäfer,Anisosticta novemdecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Anisosticta_novemdecimpunctata01.jpg/120px-Anisosticta_novemdecimpunctata01.jpg
+Coccinellini,Trockenrasen-Marienkäfer,Coccinula quatuordecimpustulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Escaravello._Bastavales%2C_Bri%C3%B3n%2C_Galiza_1.jpg/120px-Escaravello._Bastavales%2C_Bri%C3%B3n%2C_Galiza_1.jpg
+Coccinellini,Vierpunkt-Marienkäfer,Harmonia quadripunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonia_quadripunctata01.jpg/120px-Harmonia_quadripunctata01.jpg
+Coccinellini,Vierzehnpunkt-Marienkäfer,Propylea quatuordecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Propylea_quatuordecimpunctata_beentree.jpg/120px-Propylea_quatuordecimpunctata_beentree.jpg
+Coccinellini,Zweipunkt-Marienkäfer,Adalia bipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Adalia_bipunctata01.jpg/120px-Adalia_bipunctata01.jpg
+Coccinellini,Sechzehnpunkt-Marienkäfer,Tytthaspis sedecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tytthaspis_sedecimpunctata01.jpg/120px-Tytthaspis_sedecimpunctata01.jpg
+Coccinellini,Zweiundzwanzigpunkt-Marienkäfer,Psyllobora vigintiduopunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Psyllobora.vigintiduopunctata.6920.jpg/120px-Psyllobora.vigintiduopunctata.6920.jpg
+Marienkäfer,Zwergmarienkäfer,Scymnini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stethorus_punctillum.jpg/120px-Stethorus_punctillum.jpg
+Zwergmarienkäfer,Schwarzer Kugelmarienkäfer,Stethorus punctillum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stethorus_pusillus.jpg/120px-Stethorus_pusillus.jpg
+Zwergmarienkäfer,Bogen-Zwergmarienkäfer,Clitostethus arcuatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Clitostethus_arcuatus.jpg/120px-Clitostethus_arcuatus.jpg
+Zwergmarienkäfer,Schrägbinden-Zwergmarienkäfer,Scymnus subvillosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Scymnus_subvillosus2.jpg/120px-Scymnus_subvillosus2.jpg
+Marienkäfer,Chilocorini,Chilocorini,Tribus,not_found
+Chilocorini,Rainfarn-Marienkäfer,Platynaspis luteorubra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Platynaspis_luteorubra2.jpg/120px-Platynaspis_luteorubra2.jpg
+Chilocorini,Vierfleckiger Kugelmarienkäfer,Exochomus quadripustulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Exochomus_quadripustulatus01.jpg/120px-Exochomus_quadripustulatus01.jpg
+Chilocorini,Nierenfleckiger Kugelmarienkäfer,Chilocorus renipustulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chilocorus_renipustulatus.jpg/120px-Chilocorus_renipustulatus.jpg
+Marienkäfer,Epilachnini,Epilachnini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Epilachna_guttatopustulata10.jpg/120px-Epilachna_guttatopustulata10.jpg
+Epilachnini,Vierundzwanzigpunkt-Marienkäfer,Subcoccinella vigintiquatuorpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Marusi%C3%B1a_en_Bastavales_2010-07-07-04.jpg/120px-Marusi%C3%B1a_en_Bastavales_2010-07-07-04.jpg
+Epilachnini,Mexikanischer Bohnenkäfer,Epilachna varivestis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Epilachna_varivestis.jpg/120px-Epilachna_varivestis.jpg
+Epilachnini,Gras-Marienkäfer,Cynegetis impunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cynegetis_impunctata_%2814396597837_cropped%29.jpg/120px-Cynegetis_impunctata_%2814396597837_cropped%29.jpg
+Cucujoidea,Plattkäfer,Cucujidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pediacus.depressus.Reitter.jpg/120px-Pediacus.depressus.Reitter.jpg
+Plattkäfer,Scharlachroter Plattkäfer,Cucujus cinnaberinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cucujus_coccinatus.JPG/120px-Cucujus_coccinatus.JPG
+Cucujoidea,Glanzkäfer,Nitidulidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Glischrochilus_quadrisignatus_up.jpg/120px-Glischrochilus_quadrisignatus_up.jpg
+Glanzkäfer,Picknickkäfer,Glischrochilus quadrisignatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Glischrochilus.quadrisignatus.jpg/120px-Glischrochilus.quadrisignatus.jpg
+Glanzkäfer,Rostroter Kiefernglanzkäfer,Pityophagus ferrugineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Pityophagus_ferrugineus_natur.jpg/120px-Pityophagus_ferrugineus_natur.jpg
+Glanzkäfer,Rapsglanzkäfer,Meligethes aeneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Meligethes_aeneus01.jpg/120px-Meligethes_aeneus01.jpg
+Glanzkäfer,Grosser Eichensaftflusskäfer,Soronia grisea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Soronia_grisea_natur.jpg/120px-Soronia_grisea_natur.jpg
+Cucujoidea,Stäublingskäfer,Endomychidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Endomychus_coccineus_couple.jpg/120px-Endomychus_coccineus_couple.jpg
+Stäublingskäfer,Scharlachroter Stäublingskäfer,Endomychus coccineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Endomychus_coccineus_couple.jpg/120px-Endomychus_coccineus_couple.jpg
+Stäublingskäfer,Kreuzbinden-Pilzkäfer,Mycetina cruciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mycetina_cruciata_natur.jpg/120px-Mycetina_cruciata_natur.jpg
+Stäublingskäfer,Behaarter Stäublingskäfer,Mycetaea subterranea,Art,not_found
+Cucujiformia,Tenebrionoidea,Tenebrionoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Synchroa_punctata_larva.jpg/120px-Synchroa_punctata_larva.jpg
+Tenebrionoidea,Fächerkäfer,Ripiphoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rhipiphorus_diadasiae_male.jpg/120px-Rhipiphorus_diadasiae_male.jpg
+Fächerkäfer,Ptilophorus dufouri,Ptilophorus dufouri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ptilophorus_dufouri.JPG/120px-Ptilophorus_dufouri.JPG
+Tenebrionoidea,Ölkäfer,Meloidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Meloe_proscarabaeus0.jpg/120px-Meloe_proscarabaeus0.jpg
+Ölkäfer,Spanische Fliege,Lytta vesicatoria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lytta-vesicatoria.jpg/120px-Lytta-vesicatoria.jpg
+Ölkäfer,Meloe,Meloe,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Oil_beetle_from_Wiener_Prater.jpg/120px-Oil_beetle_from_Wiener_Prater.jpg
+Meloe,Schwarzblauer Ölkäfer,Meloe proscarabaeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Schwarzer_Maiwurm.jpg/120px-Schwarzer_Maiwurm.jpg
+Meloe,Ruzeliger Ölkäfer,Meloe rugosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2020_10_22_Meloe_rugosus1c.jpg/120px-2020_10_22_Meloe_rugosus1c.jpg
+Meloe,Violetter Ölkäfer,Meloe violaceus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Meloe_violaceus_side.jpg/120px-Meloe_violaceus_side.jpg
+Ölkäfer,Vierpunktiger Ölkäfer,Mylabris quadripunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mylabris_quadripunctata01.jpg/120px-Mylabris_quadripunctata01.jpg
+Ölkäfer,Seidenbienen-Ölkäfer,Stenoria analis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2016_08_31_Stenoria_analis.jpg/120px-2016_08_31_Stenoria_analis.jpg
+Ölkäfer,Schmalflügliger Pelzbienenölkäfer,Sitaris muralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sitaris_muralis_TP02x.jpg/120px-Sitaris_muralis_TP02x.jpg
+Tenebrionoidea,Scheinrüssler,Salpingidae,Familie,https://upload.wikimedia.org/wikipedia/de/thumb/9/99/SalpingidaeSpec.png/120px-SalpingidaeSpec.png
+Scheinrüssler,Rothalsiger Scheinrüssler,Salpingus ruficollis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SalpingusRuficollis2.JPG/120px-SalpingusRuficollis2.JPG
+Scheinrüssler,Kastanienbrauner Scheinrüssler,Sphaeriestes castaneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sphaeriestes_castaneus_%28Panzer%2C_1796%29_%283028954159%29.jpg/120px-Sphaeriestes_castaneus_%28Panzer%2C_1796%29_%283028954159%29.jpg
+Tenebrionoidea,Scheinbockkäfer,Oedemeridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Reitter-1911-plate125.png/120px-Reitter-1911-plate125.png
+Scheinbockkäfer,Balkenbohrer,Calopus serraticornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calopus_serraticornis.jpg/120px-Calopus_serraticornis.jpg
+Scheinbockkäfer,Blauer Scheinbockkäfer,Ischnomera cyanea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ischnomera_cyanea01.jpg/120px-Ischnomera_cyanea01.jpg
+Scheinbockkäfer,Grüner Scheinbockkäfer,Oedemera nobilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oedemera_nobilis_%28male%29.jpg/120px-Oedemera_nobilis_%28male%29.jpg
+Tenebrionoidea,Feuerkäfer,Pyrochroidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pyrochroa_coccinea02.jpg/120px-Pyrochroa_coccinea02.jpg
+Feuerkäfer,Scharlachroter Feuerkäfer,Pyrochroa coccinea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pyrochroa_coccinea02.jpg/120px-Pyrochroa_coccinea02.jpg
+Feuerkäfer,Orangefarbener Feuerkäfer,Schizotus pectinicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Schizotus_pectinicornis_Woblitz01.jpg/120px-Schizotus_pectinicornis_Woblitz01.jpg
+Tenebrionoidea,Schwarzkäfer,Tenebrionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blaps_lethifera.jpg/120px-Blaps_lethifera.jpg
+Schwarzkäfer,Grosser Schwarzkäfer,Zophobas morio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zophobas_morio_adultsmall.jpg/120px-Zophobas_morio_adultsmall.jpg
+Schwarzkäfer,Schwefelkäfer,Cteniopus sulphureus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cteniopus_fg01.jpg/120px-Cteniopus_fg01.jpg
+Schwarzkäfer,Gelbbindiger Schwarzkäfer,Diaperis boleti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Diaperis_boleti_MHNT_Fronton.jpg/120px-Diaperis_boleti_MHNT_Fronton.jpg
+Schwarzkäfer,Gemeiner Staubkäfer,Opatrum sabulosum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Opatrum_sabulosum.jpg/120px-Opatrum_sabulosum.jpg
+Schwarzkäfer,Grosser Totenkäfer,Blaps mortisaga,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Blaps_fg01.jpg/120px-Blaps_fg01.jpg
+Schwarzkäfer,Mehlkäfer,Tenebrio molitor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tenebrio_molitor_MHNT.jpg/120px-Tenebrio_molitor_MHNT.jpg
+Schwarzkäfer,Gemeiner Wollkäfer,Lagria hirta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kaefer-JR-T3-I215-2024-07-06.jpg/120px-Kaefer-JR-T3-I215-2024-07-06.jpg
+Cucujiformia,Blattkäferartige,Chrysomeloidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Colorado_potato_beetle.jpg/120px-Colorado_potato_beetle.jpg
+Blattkäferartige,Bockkäfer,Cerambycidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Moschusbockm%C3%A4nnchen.jpg/120px-Moschusbockm%C3%A4nnchen.jpg
+Bockkäfer,Cerambycinae,Cerambycinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ClytusArietis2.jpg/120px-ClytusArietis2.jpg
+Cerambycinae,Alpenbock,Rosalia alpina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rosalia_Alpina_%28Alpenbock%29.jpg/120px-Rosalia_Alpina_%28Alpenbock%29.jpg
+Cerambycinae,Moschusbock,Aromia moschata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Moschusbockweibchen.jpg/120px-Moschusbockweibchen.jpg
+Cerambycinae,Scheibenböcke,Callidium,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Callidium.undatum.-.calwer.36.08.jpg/120px-Callidium.undatum.-.calwer.36.08.jpg
+Scheibenböcke,Blauvioletter Scheibenbock,Callidium violaceum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Callidium_violaceum_up2.jpg/120px-Callidium_violaceum_up2.jpg
+Scheibenböcke,Blaufarbener Scheibenbock,Callidium aeneum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Callidium_aeneum_bl.jpg/120px-Callidium_aeneum_bl.jpg
+Cerambycinae,Echter Widderbock,Clytus arietis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Clytus_arietis02.jpg/120px-Clytus_arietis02.jpg
+Cerambycinae,Grünlichgelber Wollkraut-Widderbock,Chlorophorus herbstii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Chlorophorus_herbsti_up.jpg/120px-Chlorophorus_herbsti_up.jpg
+Cerambycinae,Eichenwidderbock,Plagionotus arcuatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Plagionotus.arcuatus.7757.jpg/120px-Plagionotus.arcuatus.7757.jpg
+Cerambycinae,Sauerkirschen-Widderbock,Xylotrechus arvicola,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Xylotrechus_arvicola_TP01.jpg/120px-Xylotrechus_arvicola_TP01.jpg
+Cerambycinae,Hausbock,Hylotrupes bajulus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hylotrupes_bajulus_up.jpg/120px-Hylotrupes_bajulus_up.jpg
+Cerambycinae,Dunkelschenkliger Kurzdeckenbock,Molorchus minor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Molorchus_minor_bl.jpg/120px-Molorchus_minor_bl.jpg
+Cerambycinae,Schmaldeckenbock,Callimus angulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2019_04_29_Callimus_angulatus2.jpg/120px-2019_04_29_Callimus_angulatus2.jpg
+Cerambycinae,Grosser Eichenbock,Cerambyx cerdo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cerambyx_cerdo_male_b_090703.jpg/120px-Cerambyx_cerdo_male_b_090703.jpg
+Cerambycinae,Purpurbock,Purpuricenus kaehleri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Purpuricenus_kaehleri_natur.jpg/120px-Purpuricenus_kaehleri_natur.jpg
+Bockkäfer,Weberböcke,Lamiinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Acanthocinus_griseus_female_up.jpg/120px-Acanthocinus_griseus_female_up.jpg
+Weberböcke,Einfarbiger Langhornbock,Monochamus sutor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monochamus_sutor_male_up.JPG/120px-Monochamus_sutor_male_up.JPG
+Weberböcke,Zimmermannsbock,Acanthocinus aedilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AcanthocinusAedilis.jpg/120px-AcanthocinusAedilis.jpg
+Weberböcke,Getreidebock,Calamobius filum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Calamobius_filum_couple.jpg/120px-Calamobius_filum_couple.jpg
+Weberböcke,Weissstreifiger Distelbock,Agapanthia cardui,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Agapanthia_cardui_nature.JPG/120px-Agapanthia_cardui_nature.JPG
+Weberböcke,Weberbock,Lamia textor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lamia_textor2.jpg/120px-Lamia_textor2.jpg
+Weberböcke,Asiatischer Laubholzbockkäfer,Anoplophora glabripennis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Asian_Bockk%C3%A4fer_1.jpg/120px-Asian_Bockk%C3%A4fer_1.jpg
+Weberböcke,Weiden-Linienbock,Oberea oculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Oberea_oculata.jpg/120px-Oberea_oculata.jpg
+Weberböcke,Schwarzfüssiger Walzenhalsbock,Musaria affinis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Phytoecia_nigripes.jpg/120px-Phytoecia_nigripes.jpg
+Weberböcke,Saperda,Saperda,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cerambycidae_-_Saperda_punctata.JPG/120px-Cerambycidae_-_Saperda_punctata.JPG
+Saperda,Leiterbock,Saperda scalaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Saperda_scalaris_side.jpg/120px-Saperda_scalaris_side.jpg
+Saperda,Grosser Pappelbock,Saperda carcharias,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Saperda_carcharias-WGrabowski.jpg/120px-Saperda_carcharias-WGrabowski.jpg
+Saperda,Grüner Lindenbock,Saperda octopunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Saperda_octopunctata_up.jpg/120px-Saperda_octopunctata_up.jpg
+Saperda,Vielpunktierter Pappelbock,Saperda punctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2021_06_12_Saperda_punctata_1a.jpg/120px-2021_06_12_Saperda_punctata_1a.jpg
+Weberböcke,Metallfarbener Lindenbock,Stenostola dubia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Stenostola_dubia_up.JPG/120px-Stenostola_dubia_up.JPG
+Weberböcke,Harlekinbock,Acrocinus longimanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acrocinus_longimanus.jpg/120px-Acrocinus_longimanus.jpg
+Bockkäfer,Schmalböcke,Lepturinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stictoleptura_scutellata_male_up.JPG/120px-Stictoleptura_scutellata_male_up.JPG
+Schmalböcke,Schwarzgesaumter Schmalbock,Anastrangalia dubia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cerambycidae_-_Anastrangalia_dubia_dubia_%28female%29.jpg/120px-Cerambycidae_-_Anastrangalia_dubia_dubia_%28female%29.jpg
+Schmalböcke,Gefleckter Halsbock,Anoplodera sexguttata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Leptura_sexguttata_fg01.JPG/120px-Leptura_sexguttata_fg01.JPG
+Schmalböcke,Filzhaariger Halsbock,Etorufus pubescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pedostrangalia_pubescens.jpg/120px-Pedostrangalia_pubescens.jpg
+Schmalböcke,Leptura,Leptura,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Leptura_quadrifasciata_%28female%29.jpg/120px-Leptura_quadrifasciata_%28female%29.jpg
+Leptura,Schwarzer Halsbock,Leptura aethiops,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Leptura_aethiops_MDj2.jpg/120px-Leptura_aethiops_MDj2.jpg
+Leptura,Bogenförmiger Halsbock,Leptura annularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leptura_annularis_up.jpg/120px-Leptura_annularis_up.jpg
+Leptura,Goldhaariger Halsbock,Leptura aurulenta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leptura_aurulenta_up.JPG/120px-Leptura_aurulenta_up.JPG
+Leptura,Vierbindiger Schmalbock,Leptura quadrifasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Leptura_quadrifasciata_female_-_Keila.jpg/120px-Leptura_quadrifasciata_female_-_Keila.jpg
+Schmalböcke,Schwarzer Schmalbock,Stenurella nigra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Stenurella.nigra.jpg/120px-Stenurella.nigra.jpg
+Schmalböcke,Stictoleptura,Stictoleptura,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cerambycidae_-_Stictoleptura_rubra_%28female%29.JPG/120px-Cerambycidae_-_Stictoleptura_rubra_%28female%29.JPG
+Stictoleptura,Beherzter Halsbock,Stictoleptura cordigera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stictoleptura_cordigera_Greece.jpg/120px-Stictoleptura_cordigera_Greece.jpg
+Stictoleptura,Rothalsbock,Stictoleptura rubra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stictoleptura_rubra_W_070709.jpg/120px-Stictoleptura_rubra_W_070709.jpg
+Stictoleptura,Haarschildiger Halsbock,Stictoleptura scutellata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stictoleptura_scutellata_male_up.JPG/120px-Stictoleptura_scutellata_male_up.JPG
+Schmalböcke,Blaubock,Carilia virginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hippotragus_leucophaeus%2C_Naturhistorisches_Museum_Wien.jpg/120px-Hippotragus_leucophaeus%2C_Naturhistorisches_Museum_Wien.jpg
+Schmalböcke,Schwarzer Tiefaugenbock,Cortodera femorata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cortodera_femorata_%28Cerambycidae%29_%2810797479274%29.jpg/120px-Cortodera_femorata_%28Cerambycidae%29_%2810797479274%29.jpg
+Schmalböcke,Gelber Vierfleckbock,Pachyta quadrimaculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pachyta_quadrimaculata_%282011-06-02%29.jpg/120px-Pachyta_quadrimaculata_%282011-06-02%29.jpg
+Bockkäfer,Breitböcke,Prioninae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Prioninae_Wytsman.jpg/120px-Prioninae_Wytsman.jpg
+Breitböcke,Riesenbockkäfer,Titanus giganteus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Titanus_giganteus_MHNT_dos.jpg/120px-Titanus_giganteus_MHNT_dos.jpg
+Breitböcke,Körnerbock,Megopis scabricornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Aegosoma_scabricorne_up.jpg/120px-Aegosoma_scabricorne_up.jpg
+Breitböcke,Mulmbock,Ergates faber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ergates_faber_female_up.jpg/120px-Ergates_faber_female_up.jpg
+Breitböcke,Sägebock,Prionus coriarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Prionus_coriarius_080725.jpg/120px-Prionus_coriarius_080725.jpg
+Breitböcke,Huhu-Käfer,Prionoplus reticularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Prionoplus_reticularis_246264626.jpg/120px-Prionoplus_reticularis_246264626.jpg
+Breitböcke,Zottenbock,Tragosoma depsarium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tragosoma_depsarium_2.jpg/120px-Tragosoma_depsarium_2.jpg
+Bockkäfer,Necydalinae,Necydalinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Necydalis_major_1231091.jpg/120px-Necydalis_major_1231091.jpg
+Necydalinae,Panzers Wespenbock,Necydalis ulmi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Necydalis_ulmi_side.JPG/120px-Necydalis_ulmi_side.JPG
+Blattkäferartige,Blattkäfer,Chrysomelidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/ChrysomelidaeSpec.png/120px-ChrysomelidaeSpec.png
+Blattkäfer,Samenkäfer,Bruchinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruchus_pisorum01.jpg/120px-Bruchus_pisorum01.jpg
+Samenkäfer,Gemeiner Erbsenkäfer,Bruchus pisorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruchus_pisorum01.jpg/120px-Bruchus_pisorum01.jpg
+Samenkäfer,Speisebohnenkäfer,Acanthoscelides obtectus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Acanthoscelides_obtectus.jpg/120px-Acanthoscelides_obtectus.jpg
+Samenkäfer,Ginster-Samenkäfer,Bruchidius villosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bruchidius-villosus-01-fws.jpg/120px-Bruchidius-villosus-01-fws.jpg
+Blattkäfer,Schildkäfer,Cassidinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cassida_viridis_20050518_394.jpg/120px-Cassida_viridis_20050518_394.jpg
+Schildkäfer,Grüner Schildkäfer,Cassida viridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cassida.viridis.couple.jpg/120px-Cassida.viridis.couple.jpg
+Schildkäfer,Schwarzer Stachelkäfer,Hispa atra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hispa_atra_%28Chrysomelidae%29%2C_Ede%2C_the_Netherlands.jpg/120px-Hispa_atra_%28Chrysomelidae%29%2C_Ede%2C_the_Netherlands.jpg
+Blattkäfer,Chrysomelinae,Chrysomelinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Chrysolina.fastuosa.jpg/120px-Chrysolina.fastuosa.jpg
+Chrysomelinae,Kartoffelkäfer,Leptinotarsa decemlineata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Colorado_potato_beetle.jpg/120px-Colorado_potato_beetle.jpg
+Chrysomelinae,Himmelblauer Blattkäfer,Chrysolina coerulans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chrysolina_coerulans01.jpg/120px-Chrysolina_coerulans01.jpg
+Chrysomelinae,Tatzenkäfer,Timarcha tenebricosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Timarcha_01.jpg/120px-Timarcha_01.jpg
+Chrysomelinae,Gefleckter Weidenblattkäfer,Melasoma vigintipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Chrysomela_vigintipunctata_-_Lahntal_2011.ogv/100px--Chrysomela_vigintipunctata_-_Lahntal_2011.ogv.jpg
+Chrysomelinae,Gestreifter Raps-Blattkäfer,Entomoscelis adonidis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entomoscelis_adonidis_natur.jpg/120px-Entomoscelis_adonidis_natur.jpg
+Blattkäfer,Zirpkäfer,Criocerinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oulema_melanopus01.jpg/120px-Oulema_melanopus01.jpg
+Zirpkäfer,Gemeines Spargelhähnchen,Crioceris asparagi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Crioceris_asparagi_up.jpg/120px-Crioceris_asparagi_up.jpg
+Zirpkäfer,Lilienhähnchen,Lilioceris lilii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lilienhaenchen.jpg/120px-Lilienhaenchen.jpg
+Zirpkäfer,Rothalsiges Getreidehähnchen,Oulema melanopus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oulema_melanopus01.jpg/120px-Oulema_melanopus01.jpg
+Blattkäfer,Fallkäfer,Cryptocephalinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cryptocephalus_nitidus01.jpg/120px-Cryptocephalus_nitidus01.jpg
+Fallkäfer,Sechspunkt-Fallkäfer,Cryptocephalus sexpunctatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2023_04_29_Cryptocephalus_sexpunctatus_1.jpg/120px-2023_04_29_Cryptocephalus_sexpunctatus_1.jpg
+Fallkäfer,Ameisen-Sackkäfer,Clytra laeviuscula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Clytra_laeviuscula_2005.07.10_09.23.02.jpg/120px-Clytra_laeviuscula_2005.07.10_09.23.02.jpg
+Blattkäfer,Galerucinae,Galerucinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Baccharis_leaf_beetle.jpg/120px-Baccharis_leaf_beetle.jpg
+Galerucinae,Seerosenblattkäfer,Galerucella nymphaeae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Galerucella_nymphaeae_1.jpg/120px-Galerucella_nymphaeae_1.jpg
+Galerucinae,Blauer Erlenblattkäfer,Agelastica alni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Agelastica_alni.jpeg/120px-Agelastica_alni.jpeg
+Galerucinae,Westlicher Maiswurzelbohrer,Diabrotica virgifera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Diabrotica_virgifera_side.jpg/120px-Diabrotica_virgifera_side.jpg
+Galerucinae,Grosser Rapserdfloh,Psylliodes chrysocephala,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cabbage-stem_Flea_Beetle_%2837130910672%29.jpg/120px-Cabbage-stem_Flea_Beetle_%2837130910672%29.jpg
+Galerucinae,Gefleckter Pfeilgiftkäfer,Diamphidia nigroornata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Diamphidia_nigroornata%2C_adult%2C_Namibia%2C_fg04.jpg/120px-Diamphidia_nigroornata%2C_adult%2C_Namibia%2C_fg04.jpg
+Cucujiformia,Curculionoidea,Curculionoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Byctiscus_betulae_m.jpg/120px-Byctiscus_betulae_m.jpg
+Curculionoidea,Blattroller,Attelabidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Apoderus_coryli.jpg/120px-Apoderus_coryli.jpg
+Blattroller,Rebenstecher,Byctiscus betulae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Byctiscus_betulae_female_up.jpg/120px-Byctiscus_betulae_female_up.jpg
+Blattroller,Haselblattroller,Apoderus coryli,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Apoderus_coryli.jpg/120px-Apoderus_coryli.jpg
+Blattroller,Eichenblattroller,Attelabus nitens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Attelabus_nitens_natur.jpg/120px-Attelabus_nitens_natur.jpg
+Blattroller,Rotbrauner Apfelfruchtstecher,Coenorhinus aequatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Caenorhinus_aequatus_bl.jpg/120px-Caenorhinus_aequatus_bl.jpg
+Blattroller,Birnenfruchtstecher,Rhynchites giganteus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Rhynchites_gitanteus_natur.JPG/120px-Rhynchites_gitanteus_natur.JPG
+Blattroller,Giraffenhalskäfer,Trachelophorus giraffa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Trachelophorus_giraffa_male_01.jpg/120px-Trachelophorus_giraffa_male_01.jpg
+Blattroller,Cycnotrachelus longicollis,Cycnotrachelus longicollis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Giraffe_Weevil_Apoderus_Longicollis.jpg/120px-Giraffe_Weevil_Apoderus_Longicollis.jpg
+Curculionoidea,Langkäfer,Brentidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Weevil_wynaad.jpg/120px-Weevil_wynaad.jpg
+Langkäfer,Brennnessel-Spitzmausrüssler,Taeniapion urticarium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Taeniapion_urticarium01.jpg/120px-Taeniapion_urticarium01.jpg
+Langkäfer,Halligflieder-Spitzmaus-Rüsselkäfer,Pseudaplemonus limonii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Pseudaplemonus_limonii_%28Kirby%2C_1808%29_%287446704030%29.png/120px-Pseudaplemonus_limonii_%28Kirby%2C_1808%29_%287446704030%29.png
+Langkäfer,Krummrüssliger Stockrosen-Spitzmausrüssler,Alocentron curvirostre,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Alocentron_curvirostre_up.jpg/120px-Alocentron_curvirostre_up.jpg
+Langkäfer,Hainbuchen-Spitzmausrüssler,Trichopterapion holosericeum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/2020_04_09_Trichopterapion_holosericeum.jpg/120px-2020_04_09_Trichopterapion_holosericeum.jpg
+Langkäfer,Zweifarbiges Malven-Spitzmäuschen,Malvapion malvae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Malvapion_malvae_an_Malva_sylvestris.jpg/120px-Malvapion_malvae_an_Malva_sylvestris.jpg
+Curculionoidea,Breitrüssler,Anthribidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Platyrhinus_resinosus_natur.jpg/120px-Platyrhinus_resinosus_natur.jpg
+Breitrüssler,Weissschnauzen-Breitrüssler,Dissoleucas niveirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dissoleucas_niveirostris2.jpg/120px-Dissoleucas_niveirostris2.jpg
+Breitrüssler,Grosser Breitrüssler,Platyrhinus resinosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Platyrhinus_resinosus_natur.jpg/120px-Platyrhinus_resinosus_natur.jpg
+Breitrüssler,Langfühler-Breitrüssler,Platystomos albinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Platystomos_albinus_2_males.jpg/120px-Platystomos_albinus_2_males.jpg
+Curculionoidea,Rüsselkäfer,Curculionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Curculio3.jpg/120px-Curculio3.jpg
+Rüsselkäfer,Ceutorhynchinae,Ceutorhynchinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Parethelcus_pollinarius%2C_Flint%2C_North_Wales%2C_May_2017_%2836236049822%29.jpg/120px-Parethelcus_pollinarius%2C_Flint%2C_North_Wales%2C_May_2017_%2836236049822%29.jpg
+Ceutorhynchinae,Gefleckter Brennnesselrüssler,Nedyus quadrimaculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nedyus_quadrimaculata%2C_Deeside_Industrial_Estate%2C_North_Wales%2C_June_2011_%2818288611156%29.jpg/120px-Nedyus_quadrimaculata%2C_Deeside_Industrial_Estate%2C_North_Wales%2C_June_2011_%2818288611156%29.jpg
+Ceutorhynchinae,Gekörnter Nesselrüssler,Parethelcus pollinarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Parethelcus_pollinarius_natur.jpg/120px-Parethelcus_pollinarius_natur.jpg
+Ceutorhynchinae,Kohlschotenrüssler,Ceutorhynchus assimilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ceutorhynchus_assimilis_%282007-05-13%29.jpg/120px-Ceutorhynchus_assimilis_%282007-05-13%29.jpg
+Rüsselkäfer,Lixinae,Lixinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lixus_iridis.jpg/120px-Lixus_iridis.jpg
+Lixinae,Gefurchter Steppenrüssler,Coniocleonus nigrosuturatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coniocleonus_nigrosuturatus_bl2.jpg/120px-Coniocleonus_nigrosuturatus_bl2.jpg
+Lixinae,Grosser Distelrüssler,Larinus sturnus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_05_13_Larinus_sturnus.jpg/120px-2019_05_13_Larinus_sturnus.jpg
+Lixinae,Schierlingsrüssler,Lixus iridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lixus_iridis_IMG_3978_%28Nemo5576%29.jpg/120px-Lixus_iridis_IMG_3978_%28Nemo5576%29.jpg
+Rüsselkäfer,Cossoninae,Cossoninae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cossonus_linearis_above.jpg/120px-Cossonus_linearis_above.jpg
+Cossoninae,Gemeiner Faulholzrüssler,Cossonus linearis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cossonus_linearis_above.jpg/120px-Cossonus_linearis_above.jpg
+Cossoninae,Grubenholzkäfer,Hexarthrum exiguum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Hexarthrum.culinaris.jpg/120px-Hexarthrum.culinaris.jpg
+Rüsselkäfer,Entiminae,Entiminae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deciduous-process.png/120px-Deciduous-process.png
+Entiminae,Gerippter Kielhalsrüssler,Tropiphorus elevatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tropiphorus-elevatus-06-fws.jpg/120px-Tropiphorus-elevatus-06-fws.jpg
+Entiminae,Gewöhnlicher Dreimakelrüssler,Graptus triguttatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Graptus_triguttatus_up.JPG/120px-Graptus_triguttatus_up.JPG
+Entiminae,Gemeiner Graurüssler,Brachyderes incanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Brachyderes_incanus.jpg/120px-Brachyderes_incanus.jpg
+Entiminae,Rauer Dickmaulrüssler,Otiorhynchus raucus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Otiorhynchus_raucus_03.JPG/120px-Otiorhynchus_raucus_03.JPG
+Rüsselkäfer,Dryophthorinae,Dryophthorinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sitophilus_oryzae_%28Linn%C3%A9%2C_1763%29_%283546202126%29.jpg/120px-Sitophilus_oryzae_%28Linn%C3%A9%2C_1763%29_%283546202126%29.jpg
+Dryophthorinae,Sitophilus,Sitophilus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sitophilus.granarius.jpg/120px-Sitophilus.granarius.jpg
+Sitophilus,Kornkäfer,Sitophilus granarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sitophilus.granarius.jpg/120px-Sitophilus.granarius.jpg
+Sitophilus,Reiskäfer,Sitophilus oryzae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sitophilus.oryzae.7438.jpg/120px-Sitophilus.oryzae.7438.jpg
+Dryophthorinae,Lieschgrasrüssler,Sphenophorus striatopunctatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sphenophorus_striatopunctatus_side.JPG/120px-Sphenophorus_striatopunctatus_side.JPG
+Rüsselkäfer,Hyperinae,Hyperinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%D0%A7%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%B6%D0%B8%D1%82%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D1%86%D0%B8%D0%BA%D0%BB%D1%83_%D1%82%D0%B0%D0%BC%D0%B0%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%B2%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D0%BA%D0%B0_%28Coniatus_%28Bagoides%29_splendidulus_Fabricius%2C_1781%29.jpg/120px-%D0%A7%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%B6%D0%B8%D1%82%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D1%86%D0%B8%D0%BA%D0%BB%D1%83_%D1%82%D0%B0%D0%BC%D0%B0%D1%80%D0%B8%D0%BA%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%B2%D0%B3%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D0%BA%D0%B0_%28Coniatus_%28Bagoides%29_splendidulus_Fabricius%2C_1781%29.jpg
+Hyperinae,Nordischer Kokonrüssler,Limobius borealis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Limobius_borealis_%28Paykull%2C_1792%29_%2810857866073%29.png/120px-Limobius_borealis_%28Paykull%2C_1792%29_%2810857866073%29.png
+Hyperinae,Luzerne-Kokonrüssler,Hypera postica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hypera_postica_P1400594a.jpg/120px-Hypera_postica_P1400594a.jpg
+Rüsselkäfer,Molytinae,Molytinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/XN_Hylobius_abietis_01.jpg/120px-XN_Hylobius_abietis_01.jpg
+Molytinae,Echter Kiefernrüssler,Pissodes pini,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Pissodes_pini.jpg/120px-Pissodes_pini.jpg
+Molytinae,Möhrenrüssler,Liparus coronatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Liparus_coronatus_%28Goeze%2C_1777%29_%2811067232474%29.png/120px-Liparus_coronatus_%28Goeze%2C_1777%29_%2811067232474%29.png
+Molytinae,Elefantenrüsselkäfer,Orthorhinus cylindrirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Elephant_Weevil.jpg/120px-Elephant_Weevil.jpg
+Rüsselkäfer,Curculioninae,Curculioninae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dorytomus_melanophthalmus%2C_Gronant_dunes%2C_North_Wales%2C_Sept_2015_%2821033395533%29.jpg/120px-Dorytomus_melanophthalmus%2C_Gronant_dunes%2C_North_Wales%2C_Sept_2015_%2821033395533%29.jpg
+Curculioninae,Eichelbohrer,Curculio glandium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Curculio3.jpg/120px-Curculio3.jpg
+Curculioninae,Erdbeerblütenstecher,Anthonomus rubi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Anthonomus.rubi.jpg/120px-Anthonomus.rubi.jpg
+Curculioninae,Weissschildiger Braunwurzschaber,Cionus scrophulariae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cionus_scrophulariae_front.JPG/120px-Cionus_scrophulariae_front.JPG
+Curculioninae,Haselnussbohrer,Curculio nucum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flickr_-_Lukjonis_-_Bug_-_Curculio_nucum.jpg/120px-Flickr_-_Lukjonis_-_Bug_-_Curculio_nucum.jpg
+Rüsselkäfer,Borkenkäfer,Scolytinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Trypophloeus_binodulus_%28Ratzeburg%2C_1837%29_Syn.-_Trypophloeus_asperatus_Gyllenhal%2C_1813%3B_Cryphalus_asperatus_%28Gyllenhal%2C_1813%29%3B_Cryphalus_abietis_%28Gyllenhal%2C_1813%29_%2815336255321%29.png/120px-thumbnail.png
+Borkenkäfer,Buchdrucker,Ips typographus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ips_typographus_%28female%29.jpg/120px-Ips_typographus_%28female%29.jpg
+Borkenkäfer,Kupferstecher,Pityogenes chalcographus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/01_Pityogenes_calcographus_40fach_Imagines_von_rechts.jpg/120px-01_Pityogenes_calcographus_40fach_Imagines_von_rechts.jpg
+Borkenkäfer,Eichensplintkäfer,Scolytus intricatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/01d_Scolytus_intricatus_M%C3%A4nnchen_von_oben_20fach.jpg/120px-01d_Scolytus_intricatus_M%C3%A4nnchen_von_oben_20fach.jpg
+Borkenkäfer,Gestreifter Nutzholzborkenkäfer,Trypodendron lineatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg/120px-0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg
+Borkenkäfer,Gekörnter Fichtenborkenkäfer,Cryphalus abietis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png/120px-Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png
+Borkenkäfer,Bunter Eschenbastkäfer,Leperisinus varius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leperisinus_fraxini_side.JPG/120px-Leperisinus_fraxini_side.JPG
 Sechsfüsser,Sackkiefler,Entognatha,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/120px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
