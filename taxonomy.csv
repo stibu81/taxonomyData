@@ -653,7 +653,7 @@ Ameisenjungfern,Geflecktflüglige Ameisenjungfer,Euroleon nostras,Art,https://up
 Ameisenjungfern,Riesen-Ameisenjungfer,Palpares libelluloides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fourmilion.jpg/120px-Fourmilion.jpg
 Netzflügler,Fadenhafte,Nemopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg/120px-Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg
 Fadenhafte,Schwalbenschwanzhaft,Nemoptera sinuata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nemoptera_sinuata_Nazilli.jpg/120px-Nemoptera_sinuata_Nazilli.jpg
-Neuflügler,Käfer,Coleoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
+Eumetabola,Käfer,Coleoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
 Käfer,Adephaga,Adephaga,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
 Adephaga,Schwimmkäfer,Dytiscidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dytiscidae.png/120px-Dytiscidae.png
 Schwimmkäfer,Gelbrandkäfer,Dytiscus marginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dytiscus_marginalis_male-female.png/120px-Dytiscus_marginalis_male-female.png
@@ -1059,6 +1059,11 @@ Borkenkäfer,Eichensplintkäfer,Scolytus intricatus,Art,https://upload.wikimedia
 Borkenkäfer,Gestreifter Nutzholzborkenkäfer,Trypodendron lineatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg/120px-0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg
 Borkenkäfer,Gekörnter Fichtenborkenkäfer,Cryphalus abietis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png/120px-Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png
 Borkenkäfer,Bunter Eschenbastkäfer,Leperisinus varius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leperisinus_fraxini_side.JPG/120px-Leperisinus_fraxini_side.JPG
+Eumetabola,Fächerflügler,Strepsiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stylops_melittae_f2.JPG/120px-Stylops_melittae_f2.JPG
+Fächerflügler,Stylops melittae,Stylops melittae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stylops_melittae_f1.jpg/120px-Stylops_melittae_f1.jpg
+Fächerflügler,Xenos vesparum,Xenos vesparum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Xenos_vesparum_in_Polistes_dominulaXenos_vesparum.jpg/120px-Xenos_vesparum_in_Polistes_dominulaXenos_vesparum.jpg
+Fächerflügler,Elenchus koebelei,Elenchus koebelei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Elenchus_koebelei.jpg/120px-Elenchus_koebelei.jpg
+Fächerflügler,Caenocholax fenyesi,Caenocholax fenyesi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Caenocholax_fenyesi.jpg/120px-Caenocholax_fenyesi.jpg
 Sechsfüsser,Sackkiefler,Entognatha,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/120px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
