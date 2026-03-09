@@ -13,7 +13,7 @@ plot_taxonomy(taxonomy,
               highlight = c(),
               expand_rank = c("Gattung", "Art"),
               show_images = TRUE,
-              image_size = 200
+              image_size = "200"
               )
 
 
