@@ -2053,11 +2053,12 @@ Biber,Castor,Castor,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb
 Castor,Europäischer Biber,Castor fiber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Beaver_pho34.jpg/100px-Beaver_pho34.jpg
 Castor,Kanadischer Biber,Castor canadensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Castor_canadensis.jpg/100px-Castor_canadensis.jpg
 Biberverwandte,Taschenratten,Geomyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pocket-Gopher_Ano-Nuevo-SP.jpg/100px-Pocket-Gopher_Ano-Nuevo-SP.jpg
-Euarchontoglires,Riesengleiter (O),Dermoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kaguaani_02.jpg/100px-Kaguaani_02.jpg
+Euarchontoglires,Primatomorpha,Primatomorpha,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ring_tailed_lemurs.jpg/120px-Ring_tailed_lemurs.jpg
+Primatomorpha,Riesengleiter (O),Dermoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kaguaani_02.jpg/100px-Kaguaani_02.jpg
 Riesengleiter (O),Riesengleiter,Cynocephalidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kaguaani_02.jpg/100px-Kaguaani_02.jpg
 Riesengleiter,Philippinen-Gleitflieger,Cynocephalus volans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flying_Lemur_%26_Baby%2C_Bohol.jpg/100px-Flying_Lemur_%26_Baby%2C_Bohol.jpg
 Riesengleiter,Malaien-Gleitflieger,Galeopterus variegatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Galeopterus_variegatus_-_Malaien-Gleitflieger_196210846.jpg/100px-Galeopterus_variegatus_-_Malaien-Gleitflieger_196210846.jpg
-Euarchontoglires,Primaten,Primates,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/500px_photo_%28188689961%29.jpeg/100px-500px_photo_%28188689961%29.jpeg
+Primatomorpha,Primaten,Primates,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/500px_photo_%28188689961%29.jpeg/100px-500px_photo_%28188689961%29.jpeg
 Primaten,Feuchtnasenprimaten,Strepsirrhini,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suborder_Strepsirrhini.jpg/100px-Suborder_Strepsirrhini.jpg
 Feuchtnasenprimaten,Daubentoniidae,Daubentoniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/100px-Wild_aye_aye.jpg
 Daubentoniidae,Fingertier,Daubentonia madagascariensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wild_aye_aye.jpg/100px-Wild_aye_aye.jpg
@@ -2228,7 +2229,8 @@ Chlamyphoridae,Zwerggürteltier,Zaedyus pichiy,Art,https://upload.wikimedia.org/
 Chlamyphoridae,Borstengürteltiere,Chaetophractus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Chaetophractus_vellerosus3.jpg/100px-Chaetophractus_vellerosus3.jpg
 Chlamyphoridae,Nacktschwanzgürteltiere,Cabassous,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Reserva_Guaycolec_Formosa.jpg/100px-Reserva_Guaycolec_Formosa.jpg
 Chlamyphoridae,Kugelgürteltiere,Tolypeutes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Southern_Three_Banded_Armadillo_001-2.jpg/100px-Southern_Three_Banded_Armadillo_001-2.jpg
-Sauropsiden,Vögel,Aves,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Crested_Tern_Tasmania_%28edit%29.jpg/100px-Crested_Tern_Tasmania_%28edit%29.jpg
+Sauropsiden,Archosauria,Archosauria,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Archosaurs_recent.jpg/120px-Archosaurs_recent.jpg
+Archosauria,Vögel,Aves,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Crested_Tern_Tasmania_%28edit%29.jpg/100px-Crested_Tern_Tasmania_%28edit%29.jpg
 Vögel,Neukiefervögel,Neognathae,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/100px-Neognathae.jpg
 Neukiefervögel,Galloanserae,Galloanserae,Überordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Galloanserae.jpg/100px-Galloanserae.jpg
 Galloanserae,Hühnervögel,Galliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Orrtuppen.jpg/100px-Orrtuppen.jpg
@@ -2705,6 +2707,24 @@ Urkiefervögel,Casuariiformes,Casuariiformes,Ordnung,https://upload.wikimedia.or
 Casuariiformes,Casuariidae,Casuariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Southern_Cassowary_7071.jpg/100px-Southern_Cassowary_7071.jpg
 Casuariidae,Helmkasuar,Casuarius casuarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Southern_Cassowary_7071.jpg/100px-Southern_Cassowary_7071.jpg
 Casuariidae,Grosser Emu,Dromaius novaehollandiae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Emu_1_-_Tidbinbilla.jpg/100px-Emu_1_-_Tidbinbilla.jpg
+Archosauria,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
+Krokodile,Echte Krokodile,Crocodylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crocodile_in_Kachikali_kevinzim.jpg/100px-Crocodile_in_Kachikali_kevinzim.jpg
+Echte Krokodile,Crocodylus,Crocodylus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilkrokodile.jpg/100px-Nilkrokodile.jpg
+Crocodylus,Leistenkrokodil,Crocodylus porosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg/100px-SaltwaterCrocodile%28%27Maximo%27%29.jpg
+Crocodylus,Nilkrokodil,Crocodylus niloticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nilecroc100.jpg/100px-Nilecroc100.jpg
+Crocodylus,Sumpfkrokodil,Crocodylus palustris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marsh_Crocodiles_basking_in_the_sun.JPG/100px-Marsh_Crocodiles_basking_in_the_sun.JPG
+Crocodylus,Australien-Krokodil,Crocodylus johnstoni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Australia_Cairns_18.jpg/100px-Australia_Cairns_18.jpg
+Echte Krokodile,Stumpfkrokodil,Osteolaemus tatraspis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bristol.zoo.westafrican.dwarf.croc.arp.jpg/100px-Bristol.zoo.westafrican.dwarf.croc.arp.jpg
+Krokodile,Alligatoren,Alligatoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alligator_sinensis_specimen.jpg/100px-Alligator_sinensis_specimen.jpg
+Alligatoren,Echte Alligatoren,Alligator,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brookfield_zoo_fg06.jpg/100px-Brookfield_zoo_fg06.jpg
+Echte Alligatoren,Mississippi-Alligator,Alligator mississippiensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alligator.jpg/100px-Alligator.jpg
+Echte Alligatoren,China-Alligator,Alligator sinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2011_China-Alligator_0491.JPG/100px-2011_China-Alligator_0491.JPG
+Alligatoren,Echte Kaimane,Caiman,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spectacled_Caiman.JPG/100px-Spectacled_Caiman.JPG
+Echte Kaimane,Krokodilkaiman,Caiman crocodilus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spectacled_Caiman.JPG/100px-Spectacled_Caiman.JPG
+Echte Kaimane,Brillenkaiman,Caiman yacare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yacare_caiman_%28Caiman_yacare%29_2.jpg/100px-Yacare_caiman_%28Caiman_yacare%29_2.jpg
+Echte Kaimane,Breitschnauzenkaiman,Caiman latirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Caiman_latirostris_%28AU%29-top-front.JPG/100px-Caiman_latirostris_%28AU%29-top-front.JPG
+Krokodile,Gaviale,Gavialidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
+Gaviale,Gangesgavial,Gavialis gangeticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
 Sauropsiden,Schuppenkriechtiere,Squamata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Squamata-01.jpg/100px-Squamata-01.jpg
 Schuppenkriechtiere,Toxicofera,Toxicofera,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Mexican-Beaded-Lizard.jpg/100px-Mexican-Beaded-Lizard.jpg
 Toxicofera,Schlangen,Serpentes,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Snakes_Diversity.jpg/100px-Snakes_Diversity.jpg
@@ -2930,24 +2950,6 @@ Pelomedusenschildkröten,Starrbrust-Pelomedusen,Pelomedusa,Gattung,https://uploa
 Pelomedusenschildkröten,Okavango-Pelomeduse,Pelusios bechuanicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pelusios_bechuanicus_186795164.jpg/100px-Pelusios_bechuanicus_186795164.jpg
 Halswender-Schildkröten,Podocnemididae,Podocnemididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tortuga-arrau.jpg/100px-Tortuga-arrau.jpg
 Podocnemididae,Terekay-Schienenschildkröte,Podocnemis unifilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Podocnemis_unifilis.jpg/100px-Podocnemis_unifilis.jpg
-Sauropsiden,Krokodile,Crocodylia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crocodilia_collage.jpg/100px-Crocodilia_collage.jpg
-Krokodile,Echte Krokodile,Crocodylidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Crocodile_in_Kachikali_kevinzim.jpg/100px-Crocodile_in_Kachikali_kevinzim.jpg
-Echte Krokodile,Crocodylus,Crocodylus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nilkrokodile.jpg/100px-Nilkrokodile.jpg
-Crocodylus,Leistenkrokodil,Crocodylus porosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/SaltwaterCrocodile%28%27Maximo%27%29.jpg/100px-SaltwaterCrocodile%28%27Maximo%27%29.jpg
-Crocodylus,Nilkrokodil,Crocodylus niloticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nilecroc100.jpg/100px-Nilecroc100.jpg
-Crocodylus,Sumpfkrokodil,Crocodylus palustris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marsh_Crocodiles_basking_in_the_sun.JPG/100px-Marsh_Crocodiles_basking_in_the_sun.JPG
-Crocodylus,Australien-Krokodil,Crocodylus johnstoni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Australia_Cairns_18.jpg/100px-Australia_Cairns_18.jpg
-Echte Krokodile,Stumpfkrokodil,Osteolaemus tatraspis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bristol.zoo.westafrican.dwarf.croc.arp.jpg/100px-Bristol.zoo.westafrican.dwarf.croc.arp.jpg
-Krokodile,Alligatoren,Alligatoridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Alligator_sinensis_specimen.jpg/100px-Alligator_sinensis_specimen.jpg
-Alligatoren,Echte Alligatoren,Alligator,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brookfield_zoo_fg06.jpg/100px-Brookfield_zoo_fg06.jpg
-Echte Alligatoren,Mississippi-Alligator,Alligator mississippiensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alligator.jpg/100px-Alligator.jpg
-Echte Alligatoren,China-Alligator,Alligator sinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2011_China-Alligator_0491.JPG/100px-2011_China-Alligator_0491.JPG
-Alligatoren,Echte Kaimane,Caiman,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spectacled_Caiman.JPG/100px-Spectacled_Caiman.JPG
-Echte Kaimane,Krokodilkaiman,Caiman crocodilus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Spectacled_Caiman.JPG/100px-Spectacled_Caiman.JPG
-Echte Kaimane,Brillenkaiman,Caiman yacare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Yacare_caiman_%28Caiman_yacare%29_2.jpg/100px-Yacare_caiman_%28Caiman_yacare%29_2.jpg
-Echte Kaimane,Breitschnauzenkaiman,Caiman latirostris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Caiman_latirostris_%28AU%29-top-front.JPG/100px-Caiman_latirostris_%28AU%29-top-front.JPG
-Krokodile,Gaviale,Gavialidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
-Gaviale,Gangesgavial,Gavialis gangeticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Indian_Gharial_Crocodile_Digon3.JPG/100px-Indian_Gharial_Crocodile_Digon3.JPG
 Landwirbeltiere,Amphibien,Lissamphibia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bufo_periglenes1.jpg/100px-Bufo_periglenes1.jpg
 Amphibien,Schwanzlurche,Caudata,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Salamandra_salamandra_MHNT_1_%28cropped%29.jpg/100px-Salamandra_salamandra_MHNT_1_%28cropped%29.jpg
 Schwanzlurche,Riesensalamander,Cryptobranchidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Andrias_japonicus_cropped.jpg/100px-Andrias_japonicus_cropped.jpg
