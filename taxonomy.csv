@@ -669,7 +669,7 @@ Adephaga,Schwimmkäfer,Dytiscidae,Familie,https://upload.wikimedia.org/wikipedia
 Schwimmkäfer,Gelbrandkäfer,Dytiscus marginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dytiscus_marginalis_male-female.png/120px-Dytiscus_marginalis_male-female.png
 Schwimmkäfer,Schmalbindiger Breitflügel-Tauchkäfer,Graphoderus bilineatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Graphoderus_bilineatus_SLO.jpg/120px-Graphoderus_bilineatus_SLO.jpg
 Schwimmkäfer,Glatter Kugelschwimmer,Hyphydrus ovatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg/120px-Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg
-Schwimmkäfer,Gaukler,Cybister lateralimarginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Moderne_Gauklerin.jpg/120px-Moderne_Gauklerin.jpg
+Schwimmkäfer,Gaukler,Cybister lateralimarginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cybister_lateralimarginalis_(DeGeer%2C_1774)_male.jpg/120px-Cybister_lateralimarginalis_(DeGeer%2C_1774)_male.jpg
 Adephaga,Laufkäfer,Carabidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carabus_auratus.jpg/120px-Carabus_auratus.jpg
 Laufkäfer,Carabinae,Carabinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Carabus_glabratus.jpg/120px-Carabus_glabratus.jpg
 Carabinae,Echte Laufkäfer,Carabus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
@@ -701,6 +701,10 @@ Bombardierkäfer,Schwarzer Bombardierkäfer,Aptinus bombarda,Art,https://upload.
 Bombardierkäfer,Kleiner Bombardierkäfer,Brachinus explodens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Brachinus-explodens-01-fws.jpg/120px-Brachinus-explodens-01-fws.jpg
 Laufkäfer,Licininae,Licininae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Badister_P1390160a.jpg/120px-Badister_P1390160a.jpg
 Licininae,Gelbrand-Grünkäfer,Chlaeniellus vestitus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chlaeniellus_vestitus_up.jpg/120px-Chlaeniellus_vestitus_up.jpg
+Adephaga,Taumelkäfer,Gyrinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gyrinus_substriatus_Stephens%2C_1828_(3968701087)_(2).jpg/120px-Gyrinus_substriatus_Stephens%2C_1828_(3968701087)_(2).jpg
+Taumelkäfer,Behaarter Taumelkäfer,Orectochilus villosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Orectochilus_villosus_(O.F.Mueller%2C_1776).jpg/120px-Orectochilus_villosus_(O.F.Mueller%2C_1776).jpg
+Taumelkäfer,Gemeiner Taumelkäfer,Gyrinus substriatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gyrinus.substriatus.-.lindsey.jpg/120px-Gyrinus.substriatus.-.lindsey.jpg
+Taumelkäfer,Aulonogyrus concinnus,Aulonogyrus concinnus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aulonogyrus_concinnus_(Klug%2C_1834)_(16780197377).png/120px-Aulonogyrus_concinnus_(Klug%2C_1834)_(16780197377).png
 Käfer,Polyphaga,Polyphaga,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Timarcha_01.jpg/120px-Timarcha_01.jpg
 Polyphaga,Staphyliniformia,Staphyliniformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Staphylinus.olens.jpg/120px-Staphylinus.olens.jpg
 Staphyliniformia,Aaskäfer,Silphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nicrophorus_vespilloides_wiki.jpg/120px-Nicrophorus_vespilloides_wiki.jpg
@@ -870,6 +874,7 @@ Coccinellini,Vierzehnpunkt-Marienkäfer,Propylea quatuordecimpunctata,Art,https:
 Coccinellini,Zweipunkt-Marienkäfer,Adalia bipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Adalia_bipunctata01.jpg/120px-Adalia_bipunctata01.jpg
 Coccinellini,Sechzehnpunkt-Marienkäfer,Tytthaspis sedecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tytthaspis_sedecimpunctata01.jpg/120px-Tytthaspis_sedecimpunctata01.jpg
 Coccinellini,Zweiundzwanzigpunkt-Marienkäfer,Psyllobora vigintiduopunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Psyllobora.vigintiduopunctata.6920.jpg/120px-Psyllobora.vigintiduopunctata.6920.jpg
+Coccinellini,Augenmarienkäfer,Anatis ocellata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Anatis_ocellata10.jpg/120px-Anatis_ocellata10.jpg
 Marienkäfer,Zwergmarienkäfer,Scymnini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stethorus_punctillum.jpg/120px-Stethorus_punctillum.jpg
 Zwergmarienkäfer,Schwarzer Kugelmarienkäfer,Stethorus punctillum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stethorus_pusillus.jpg/120px-Stethorus_pusillus.jpg
 Zwergmarienkäfer,Bogen-Zwergmarienkäfer,Clitostethus arcuatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Clitostethus_arcuatus.jpg/120px-Clitostethus_arcuatus.jpg
