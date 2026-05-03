@@ -2752,7 +2752,9 @@ Rollschlangen,Korallenrollschlange,Anilius scytale,Art,https://upload.wikimedia.
 Echte Schlangen,Boaartige,Booidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EpicratesCenchriaCenchria1.jpg/100px-EpicratesCenchriaCenchria1.jpg
 Boaartige,Boas,Boidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EpicratesCenchriaCenchria1.jpg/100px-EpicratesCenchriaCenchria1.jpg
 Boas,Abgottschlange,Boa constrictor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Columbian_Red_Tail_Boa_%28Boa_constrictor_constrictor%29_%2810642424253%29.jpg/100px-Columbian_Red_Tail_Boa_%28Boa_constrictor_constrictor%29_%2810642424253%29.jpg
-Boas,Grosse Anakonda,Eunectes murinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sucuri_verde.jpg/100px-Sucuri_verde.jpg
+Boas,Anakondas,Eunectes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda_jaune_34.JPG/120px-Anaconda_jaune_34.JPG
+Anakondas,Grosse Anakonda,Eunectes murinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sucuri_verde.jpg/100px-Sucuri_verde.jpg
+Anakondas,Gelbe Anakonda,Eunectes notaeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda_jaune_34.JPG/120px-Anaconda_jaune_34.JPG
 Boas,Hundskopfboa,Corallus hortulanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Peru-2006macaw2_245.jpg/100px-Peru-2006macaw2_245.jpg
 Echte Schlangen,Pythonartige,Pythonoidea,Überfamilie,not_found
 Pythonartige,Pythons,Pythonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baumpython.jpg/100px-Baumpython.jpg
@@ -2760,12 +2762,14 @@ Pythons,Eigentliche Pythons,Pyhton,Gattung,https://upload.wikimedia.org/wikipedi
 Eigentliche Pythons,Heller Tigerpython,Python molurus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik_jain_dahod_python.JPG/100px-Pratik_jain_dahod_python.JPG
 Eigentliche Pythons,Dunkler Tigerpython,Python bivittatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Python_bivittatus%2C_Burmese_python_%28juvenile%29_-_Kaeng_Krachan_National_Park_%2826928549504%29.jpg/100px-Python_bivittatus%2C_Burmese_python_%28juvenile%29_-_Kaeng_Krachan_National_Park_%2826928549504%29.jpg
 Eigentliche Pythons,Königspython,Python regius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Python_regius_070731_a.jpg/100px-Python_regius_070731_a.jpg
+Eigentliche Pythons,Nördlicher Felsenpython,Python sebae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Adult_Female_Python_sebae.jpg/120px-Adult_Female_Python_sebae.jpg
 Pythons,Rautenpythons,Morelia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Mviridis_Sorong.jpg/100px-Mviridis_Sorong.jpg
 Rautenpythons,Grüner Baumpython,Morelia viridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Gruene_baumpythoncele4.jpg/100px-Gruene_baumpythoncele4.jpg
 Pythons,Amethystpythons,Simalia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/High-Yellow_Sorong_Amethystine_Scrub_Python_%28Morelia_amethistina%29.jpg/120px-High-Yellow_Sorong_Amethystine_Scrub_Python_%28Morelia_amethistina%29.jpg
 Amethystpythons,Boelen-Python,Simalia boeleni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adult_pair_of_Morelia_boeleni.jpg/100px-Adult_pair_of_Morelia_boeleni.jpg
 Pythons,Südpythons,Antaresia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1_0_Antaresia_maculosa.jpg/100px-1_0_Antaresia_maculosa.jpg
 Südpythons,Fleckenpython,Antaresia maculosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Antaresia_maculosa.jpg/100px-Antaresia_maculosa.jpg
+Pythons,Netzpython,Malayopython reticulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg/120px-Python_reticulatus_%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD-2.jpg
 Pythonartige,Erdschlangen,Xenopeltidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Xenopeltis.JPG/100px-Xenopeltis.JPG
 Erdschlangen,Regenbogen-Schlange,Xenopeltis unicolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Xenopeltis.JPG/100px-Xenopeltis.JPG
 Echte Schlangen,Vipern,Viperidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Cerastes_cerastes_001.jpg/100px-Cerastes_cerastes_001.jpg
@@ -2776,6 +2780,7 @@ Klapperschlangen,Diamant-Klapperschlange,Crotalus adamanteus,Art,https://upload.
 Klapperschlangen,Seitenwinder-Klapperschlange,Crotalus cerastes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Crotalus_cerastes_mesquite_springs_CA-2.jpg/100px-Crotalus_cerastes_mesquite_springs_CA-2.jpg
 Grubenottern,Greifschwanz-Lanzenotter,Bothriechis schlegelii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bothriechis_schlegelii_%28La_Selva_Biological_Station%29.jpg/100px-Bothriechis_schlegelii_%28La_Selva_Biological_Station%29.jpg
 Grubenottern,Grossaugen-Bambusotter,Trimeresurus macrops,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Trimeresurus_macrops%2C_Large-eyed_pit_viper.jpg/100px-Trimeresurus_macrops%2C_Large-eyed_pit_viper.jpg
+Grubenottern,Südamerikanischer Buschmeister,Lachesis muta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lachesis_muta_muta.jpg/120px-Lachesis_muta_muta.jpg
 Vipern,Echte Vipern,Viperinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vipera_berus_%28Marek_Szczepanek%29.jpg/100px-Vipera_berus_%28Marek_Szczepanek%29.jpg
 Echte Vipern,Nashornviper,Bitis nasicornis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bitis_nasicornis.jpg/100px-Bitis_nasicornis.jpg
 Echte Vipern,Wüsten-Hornviper,Cerastes cerastes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hornviper_Cerastes_cerastes.jpg/100px-Hornviper_Cerastes_cerastes.jpg
@@ -2803,17 +2808,47 @@ Giftnattern,Plattschwanz-Seeschlangen,Laticaudinae,Unterfamilie,https://upload.w
 Plattschwanz-Seeschlangen,Gewöhnlicher Plattschwanz,Laticauda laticaudata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mactan_-_panoramio_-_%EF%BC%A4%EF%BC%A1%EF%BC%B6%EF%BC%A9%EF%BC%A4_%2817%29.jpg/100px-Mactan_-_panoramio_-_%EF%BC%A4%EF%BC%A1%EF%BC%B6%EF%BC%A9%EF%BC%A4_%2817%29.jpg
 Elapoidea,Pseudoxyrhophiidae,Pseudoxyrhophiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Madagascarophis_colubrinus.jpg/100px-Madagascarophis_colubrinus.jpg
 Pseudoxyrhophiidae,Blattnasennattern,Langaha,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Langaha_madagascariensis.jpg/100px-Langaha_madagascariensis.jpg
-Echte Schlangen,Colubroidea,Colubroidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Couleuvre_collier_62.JPG/100px-Couleuvre_collier_62.JPG
-Colubroidea,Nattern,Colubridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Couleuvre_collier_62.JPG/100px-Couleuvre_collier_62.JPG
+Echte Schlangen,Nattern,Colubridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Couleuvre_collier_62.JPG/100px-Couleuvre_collier_62.JPG
 Nattern,Wassernattern,Natricinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/20120815_Junge_Ringelnatter_in_einem_Wasserloch.jpg/100px-20120815_Junge_Ringelnatter_in_einem_Wasserloch.jpg
 Wassernattern,Europäische Wassernattern,Natrix,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Grass_Snake_%28Natrix_natrix_helvetica%29_after_a_copious_meal_%2814175223381%29.jpg/100px-Grass_Snake_%28Natrix_natrix_helvetica%29_after_a_copious_meal_%2814175223381%29.jpg
 Europäische Wassernattern,Ringelnatter,Natrix natrix,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2017.07.17.-21-Tiefer_See_oder_Grubensee-Storkow_%28Mark%29--Ringelnatter.jpg/100px-2017.07.17.-21-Tiefer_See_oder_Grubensee-Storkow_%28Mark%29--Ringelnatter.jpg
 Europäische Wassernattern,Vipernatter,Natrix maura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Natrix_maura.jpg/100px-Natrix_maura.jpg
 Europäische Wassernattern,Würfelnatter,Natrix tesselata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Natrix_tessellata_Rheinland-Pfalz_01.jpg/100px-Natrix_tessellata_Rheinland-Pfalz_01.jpg
+Wassernattern,Strumpfbandnattern,Thamnophis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Thamnophis_elegans_terrestris_002.jpg/120px-Thamnophis_elegans_terrestris_002.jpg
+Strumpfbandnattern,Bergstrumpfbandnatter,Thamnophis elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Thamnophis_elegans_terrestris.jpg/120px-Thamnophis_elegans_terrestris.jpg
+Strumpfbandnattern,Westliche Bändernatter,Thamnophis proximus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Thamnophis_proximus_194832279.jpg/120px-Thamnophis_proximus_194832279.jpg
+Strumpfbandnattern,Gewöhnliche Strumpfbandnatter,Thamnophis sirtalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg/120px-Thamnophis_sirtalis_sirtalis_Wooster.jpg
+Wassernattern,Tigernatter,Rhabdophis tigrinus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rhabdophis_tigrinus_44794541.jpg/120px-Rhabdophis_tigrinus_44794541.jpg
+Wassernattern,Gewöhnliche Fischnatter,Fowlea piscator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fowlea_piscator_146129823.jpg/120px-Fowlea_piscator_146129823.jpg
 Nattern,Eigentliche Nattern,Colubrinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/CoronellaAustriaca2.jpg/100px-CoronellaAustriaca2.jpg
+Eigentliche Nattern,Zornnattern,Coluber,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Coluber_constrictor_Schwarznatter_fg01.jpg/120px-Coluber_constrictor_Schwarznatter_fg01.jpg
+Zornnattern,Schwarznatter,Coluber constrictor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Coluber_constrictorPCCP20030612-1115B.jpg/120px-Coluber_constrictorPCCP20030612-1115B.jpg
+Zornnattern,Pfeilnatter,Dolichophis jugularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Coluber_jugularis.jpg/120px-Coluber_jugularis.jpg
+Zornnattern,Schlanknatter,Platyceps najadum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Benny_Trapp_Schlanknatter_Platyceps_najadum.JPG/120px-Benny_Trapp_Schlanknatter_Platyceps_najadum.JPG
 Eigentliche Nattern,Schlingnatter,Coronella austriaca,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/CoronellaAustriaca3.jpg/100px-CoronellaAustriaca3.jpg
 Eigentliche Nattern,Gelbgrüne Zornnatter,Hierophis viridiflavus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Western_Whip_Snake_%28Hierophis_viridiflavus%29_female_%28Found_by_Jean_NICOLAS%29_%2814062814522%29.jpg/100px-Western_Whip_Snake_%28Hierophis_viridiflavus%29_female_%28Found_by_Jean_NICOLAS%29_%2814062814522%29.jpg
 Eigentliche Nattern,Äskulapnatter,Zamenis longissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zamenis_longissimus.jpg/100px-Zamenis_longissimus.jpg
+Eigentliche Nattern,Spitzkopfnatter,Gonyosoma oxycephalum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Gonyo1.JPG/120px-Gonyo1.JPG
+Eigentliche Nattern,Amerikanische Kletternattern,Pantherophis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kornnatter.jpg/120px-Kornnatter.jpg
+Amerikanische Kletternattern,Kornnatter,Pantherophis guttatis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kornnatter.jpg/120px-Kornnatter.jpg
+Amerikanische Kletternattern,Erdnatter,Pantherophis obsoletus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pantherophis_obsoletusPCCA20050508-7264B.jpg/120px-Pantherophis_obsoletusPCCA20050508-7264B.jpg
+Eigentliche Nattern,Gewöhnliche Eierschlange,Dasypeltis scabra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Eierschlange_frisst_Zwergwachtelei.jpg/120px-Eierschlange_frisst_Zwergwachtelei.jpg
+Eigentliche Nattern,Königsnattern,Lampropeltis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Serpent_roi_bandes_grises_01.JPG/120px-Serpent_roi_bandes_grises_01.JPG
+Königsnattern,Graugebänderte Königsnatter,Lampropeltis alterna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Serpent_roi_bandes_grises_01.JPG/120px-Serpent_roi_bandes_grises_01.JPG
+Königsnattern,Rote Königsnatter,Lampropeltis elapsoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lampropeltis_elapsoides.jpg/120px-Lampropeltis_elapsoides.jpg
+Königsnattern,Gefleckte Königsnatter,Lampropeltis holbrooki,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Speckled_King_Snake_%28Lampropeltis_getula_holbrooki%29_%2826289894531%29.jpg/120px-Speckled_King_Snake_%28Lampropeltis_getula_holbrooki%29_%2826289894531%29.jpg
+Königsnattern,Berg-Königsnatter,Lampropeltis pyromelana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lampropeltis_pyromelana_-_Flickr_-_aspidoscelis.jpg/120px-Lampropeltis_pyromelana_-_Flickr_-_aspidoscelis.jpg
+Königsnattern,Dreiecksnatter,Lampropeltis triangulum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Lampropeltis_triangulum_annulata_CDC.png/120px-Lampropeltis_triangulum_annulata_CDC.png
+Eigentliche Nattern,Hühnerfresser,Spilotes pullatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Spilotes_pullatus_por_Luan_Alves_Chaves_02.jpg/120px-Spilotes_pullatus_por_Luan_Alves_Chaves_02.jpg
+Nattern,Ahaetullinae,Ahaetullinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ahaetulla_prasina%2C_Oriental_whipsnake_-_Kaeng_Krachan_National_Park_%2815895767306%29.jpg/120px-Ahaetulla_prasina%2C_Oriental_whipsnake_-_Kaeng_Krachan_National_Park_%2815895767306%29.jpg
+Ahaetullinae,Peitschennattern,Ahaetulla,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ahaetulla_fronticincta_1.jpg/120px-Ahaetulla_fronticincta_1.jpg
+Peitschennattern,Gefleckte Peitschennatter,Ahaetulla fasciolata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Speckle-headed_Vine_Snake_%28Ahaetulla_fasciolata%29_%288741964890%29.jpg/120px-Speckle-headed_Vine_Snake_%28Ahaetulla_fasciolata%29_%288741964890%29.jpg
+Peitschennattern,Nasen-Peitschennatter,Ahaetulla nasuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Davidraju_Vine_snake.jpg/120px-Davidraju_Vine_snake.jpg
+Peitschennattern,Grüne Peitschennatter,Ahaetulla prasina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ahaetulla_prasina%2C_oriental_whipsnake_-_Kaeng_Krachan_National_Park_%2815895767306%29.jpg/120px-Ahaetulla_prasina%2C_oriental_whipsnake_-_Kaeng_Krachan_National_Park_%2815895767306%29.jpg
+Ahaetullinae,Schmuckbaumnattern,Chrysopelea,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Chrysopelea_ornata.jpg/120px-Chrysopelea_ornata.jpg
+Schmuckbaumnattern,Goldschlange,Chrysopelea ornata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/AB127_-_Chrysopelea_ornata.JPG/120px-AB127_-_Chrysopelea_ornata.JPG
+Schmuckbaumnattern,Schmuckbaumnatter,Chrysopelea paradisi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chrysopelea_paradisi%2C_Paradise_tree_snake_-_Kaeng_Krachan_National_Park_%2840913315223%29.jpg/120px-Chrysopelea_paradisi%2C_Paradise_tree_snake_-_Kaeng_Krachan_National_Park_%2840913315223%29.jpg
+Ahaetullinae,Gepunktete Bronzenatter,Dendrelaphis punctulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Common_tree_snake_%28Dendrelaphis_punctulatus%29_Daintree_4.jpg/120px-Common_tree_snake_%28Dendrelaphis_punctulatus%29_Daintree_4.jpg
 Toxicofera,Schleichenartige,Anguimorpha,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Anguis_fragilis_%28curled_up%29.jpg/100px-Anguis_fragilis_%28curled_up%29.jpg
 Schleichenartige,Krustenechsen,Helodermatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gila-Krustenechse_in_Arizona.jpg/100px-Gila-Krustenechse_in_Arizona.jpg
 Krustenechsen,Gila-Krustenechse,Heloderma suspectum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Reticulate_Gila_Monster.jpg/100px-Reticulate_Gila_Monster.jpg
