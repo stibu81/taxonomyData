@@ -854,7 +854,7 @@ Jagdkäfer,Kleinkopf-Flachkäfer,Thymalus limbatus,Art,https://upload.wikimedia.
 Jagdkäfer,Rotrandiger Flachkäfer,Peltis ferruginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ostoma_ferruginea_eol2.jpg/120px-Ostoma_ferruginea_eol2.jpg
 Cucujiformia,Cucujoidea,Cucujoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Reitter-1911-plate098.png/120px-Reitter-1911-plate098.png
 Cucujoidea,Marienkäfer,Coccinellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ladybird.jpg/120px-Ladybird.jpg
-Marienkäfer,Coccidulini,Coccidulini,Tribus,not_found
+Marienkäfer,Coccidulini,Coccidulini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cranophorus_notatulus.jpg/120px-Cranophorus_notatulus.jpg
 Coccidulini,Einfarbiger Marienkäfer,Rhyzobius litura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rhyzobius_litura.jpg/120px-Rhyzobius_litura.jpg
 Coccidulini,Glänzender Schlankmarienkäfer,Coccidula rufa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Coccidula_rufa.jpg/120px-Coccidula_rufa.jpg
 Marienkäfer,Coccinellini,Coccinellini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Phrynocaria_perfida.jpg/120px-Phrynocaria_perfida.jpg
@@ -1836,7 +1836,7 @@ Schwielensohler,Kamele,Camelidae,Familie,https://upload.wikimedia.org/wikipedia/
 Kamele,Altweltkamele,Camelus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Camelus_dromedarius_in_Singapore_Zoo.JPG/100px-Camelus_dromedarius_in_Singapore_Zoo.JPG
 Altweltkamele,Dromedar,Camelus dromedarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Camelcalf-feeding.jpg/100px-Camelcalf-feeding.jpg
 Altweltkamele,Trampeltier,Camelus bactrianus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/2011_Trampeltier_1528.JPG/100px-2011_Trampeltier_1528.JPG
-Kamele,Lamas,Lama,Gattung,not_found
+Kamele,Lamas,Lama,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tibetian_Wheel.svg/120px-Tibetian_Wheel.svg.png
 Lamas,Lama,Lama glama,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Lloyd_the_Llama.jpg/100px-Lloyd_the_Llama.jpg
 Lamas,Guanako,Lama guanicoe,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Guanaco_09.24.jpg/100px-Guanaco_09.24.jpg
 Kamele,Vicugna,Vicugna,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Llama%2C_peru%2C_machu_picchu.jpg/120px-Llama%2C_peru%2C_machu_picchu.jpg
@@ -2916,7 +2916,7 @@ Meeresschildkröten,Echte Karettschildkröte,Eretmochelys imbricata,Art,https://
 Meeresschildkröten,Unechte Karettschildkröte,Caretta caretta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Caretta_caretta_060417w2.jpg/100px-Caretta_caretta_060417w2.jpg
 Chelonioidea,Lederschildkröten,Dermochelyidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg/100px-Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg
 Lederschildkröten,Lederschildkröte,Dermochelys coriacea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg/100px-Leatherback_sea_turtle_on_the_beach_Tinglar_%285839996429%29.jpg
-Halsberger-Schildkröten,Chelydroidea,Chelydroidea,Überfamilie,not_found
+Halsberger-Schildkröten,Chelydroidea,Chelydroidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sternotherus_odoratus.jpg/120px-Sternotherus_odoratus.jpg
 Chelydroidea,Alligatorschildkröten,Chelydridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/100px-Alligator_snapping_turtle.jpg
 Alligatorschildkröten,Schnappschildkröte,Chelydra serpentina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Chelydra_serpentina_PP_06.jpg/100px-Chelydra_serpentina_PP_06.jpg
 Alligatorschildkröten,Geierschildkröte,Macrochelys temminckii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alligator_snapping_turtle.jpg/100px-Alligator_snapping_turtle.jpg
