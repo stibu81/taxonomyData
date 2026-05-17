@@ -869,7 +869,9 @@ Coccinellini,Licht-Marienkäfer,Calvia decemguttata,Art,https://upload.wikimedia
 Coccinellini,Nadelbaum-Marienkäfer,Aphidecta obliterata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Aphidecta_obliterata02.jpg/120px-Aphidecta_obliterata02.jpg
 Coccinellini,Neunzehnpunkt-Marienkäfer,Anisosticta novemdecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Anisosticta_novemdecimpunctata01.jpg/120px-Anisosticta_novemdecimpunctata01.jpg
 Coccinellini,Trockenrasen-Marienkäfer,Coccinula quatuordecimpustulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Escaravello._Bastavales%2C_Bri%C3%B3n%2C_Galiza_1.jpg/120px-Escaravello._Bastavales%2C_Bri%C3%B3n%2C_Galiza_1.jpg
-Coccinellini,Vierpunkt-Marienkäfer,Harmonia quadripunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonia_quadripunctata01.jpg/120px-Harmonia_quadripunctata01.jpg
+Coccinellini,Harmonia,Harmonia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Polynices_Eriphyle_Louvre_G442.jpg/120px-Polynices_Eriphyle_Louvre_G442.jpg
+Harmonia,Vierpunkt-Marienkäfer,Harmonia quadripunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Harmonia_quadripunctata01.jpg/120px-Harmonia_quadripunctata01.jpg
+Harmonia,Asiatischer Marienkäfer,Harmonia axyridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Asian_lady_beetle-%28Harmonia-axyridis%29.jpg/120px-Asian_lady_beetle-%28Harmonia-axyridis%29.jpg
 Coccinellini,Vierzehnpunkt-Marienkäfer,Propylea quatuordecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Propylea_quatuordecimpunctata_beentree.jpg/120px-Propylea_quatuordecimpunctata_beentree.jpg
 Coccinellini,Zweipunkt-Marienkäfer,Adalia bipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Adalia_bipunctata01.jpg/120px-Adalia_bipunctata01.jpg
 Coccinellini,Sechzehnpunkt-Marienkäfer,Tytthaspis sedecimpunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Tytthaspis_sedecimpunctata01.jpg/120px-Tytthaspis_sedecimpunctata01.jpg
@@ -945,6 +947,7 @@ Cerambycinae,Dunkelschenkliger Kurzdeckenbock,Molorchus minor,Art,https://upload
 Cerambycinae,Schmaldeckenbock,Callimus angulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2019_04_29_Callimus_angulatus2.jpg/120px-2019_04_29_Callimus_angulatus2.jpg
 Cerambycinae,Grosser Eichenbock,Cerambyx cerdo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cerambyx_cerdo_male_b_090703.jpg/120px-Cerambyx_cerdo_male_b_090703.jpg
 Cerambycinae,Purpurbock,Purpuricenus kaehleri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Purpuricenus_kaehleri_natur.jpg/120px-Purpuricenus_kaehleri_natur.jpg
+Cerambycinae,Dunkler Zierbock,Anaglyptus mysticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Anaglyptus_mysticus_upside.jpg/120px-Anaglyptus_mysticus_upside.jpg
 Bockkäfer,Weberböcke,Lamiinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Acanthocinus_griseus_female_up.jpg/120px-Acanthocinus_griseus_female_up.jpg
 Weberböcke,Einfarbiger Langhornbock,Monochamus sutor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monochamus_sutor_male_up.JPG/120px-Monochamus_sutor_male_up.JPG
 Weberböcke,Zimmermannsbock,Acanthocinus aedilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AcanthocinusAedilis.jpg/120px-AcanthocinusAedilis.jpg
@@ -997,7 +1000,12 @@ Schildkäfer,Grüner Schildkäfer,Cassida viridis,Art,https://upload.wikimedia.o
 Schildkäfer,Schwarzer Stachelkäfer,Hispa atra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hispa_atra_%28Chrysomelidae%29%2C_Ede%2C_the_Netherlands.jpg/120px-Hispa_atra_%28Chrysomelidae%29%2C_Ede%2C_the_Netherlands.jpg
 Blattkäfer,Chrysomelinae,Chrysomelinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Chrysolina.fastuosa.jpg/120px-Chrysolina.fastuosa.jpg
 Chrysomelinae,Kartoffelkäfer,Leptinotarsa decemlineata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Colorado_potato_beetle.jpg/120px-Colorado_potato_beetle.jpg
-Chrysomelinae,Himmelblauer Blattkäfer,Chrysolina coerulans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chrysolina_coerulans01.jpg/120px-Chrysolina_coerulans01.jpg
+Chrysomelinae,Chrysolina,Chrysolina,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chrysolina_polita01.jpg/120px-Chrysolina_polita01.jpg
+Chrysolina,Prächtiger Blattkäfer,Chrysolina fastuosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dlochrysa_fastuosa_2006.06.19_10.36.34-p6190045.jpg/120px-Dlochrysa_fastuosa_2006.06.19_10.36.34-p6190045.jpg
+Chrysolina,Geglätteter Blattkäfer,Chrysolina polita,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chrysolina_polita%2C_North_Wales%2C_June_2010_2_-_Flickr_-_janetgraham84.jpg/120px-Chrysolina_polita%2C_North_Wales%2C_June_2010_2_-_Flickr_-_janetgraham84.jpg
+Chrysolina,Rotsaum-Blattkäfer,Chrysolina sanguinolenta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chrysolina_sanguinolenta_-_El_Torno_-_C%C3%A1ceres_Spain_002.JPG/120px-Chrysolina_sanguinolenta_-_El_Torno_-_C%C3%A1ceres_Spain_002.JPG
+Chrysolina,Johanniskraut-Blattkäfer,Chrysolina varians,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/20916_09_06_Kaefer_gruen1.jpg/120px-20916_09_06_Kaefer_gruen1.jpg
+Chrysolina,Himmelblauer Blattkäfer,Chrysolina coerulans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chrysolina_coerulans01.jpg/120px-Chrysolina_coerulans01.jpg
 Chrysomelinae,Tatzenkäfer,Timarcha tenebricosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Timarcha_01.jpg/120px-Timarcha_01.jpg
 Chrysomelinae,Gefleckter Weidenblattkäfer,Melasoma vigintipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Chrysomela_vigintipunctata_-_Lahntal_2011.ogv/100px--Chrysomela_vigintipunctata_-_Lahntal_2011.ogv.jpg
 Chrysomelinae,Gestreifter Raps-Blattkäfer,Entomoscelis adonidis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Entomoscelis_adonidis_natur.jpg/120px-Entomoscelis_adonidis_natur.jpg
