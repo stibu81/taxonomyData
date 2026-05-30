@@ -1781,7 +1781,9 @@ Erebidae,Trägspinner,Lymantriinae,Unterfamilie,https://upload.wikimedia.org/wik
 Trägspinner,Schwarzes L,Arctornis l-nigrum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Arctornis_L-nigrum01.jpg/120px-Arctornis_L-nigrum01.jpg
 Trägspinner,Pappelspinner,Leucoma salicis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Leucoma_salicis1.JPG/120px-Leucoma_salicis1.JPG
 Trägspinner,Nonne,Lymantria monacha,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Lymantria_monacha_Buchstein01.JPG/120px-Lymantria_monacha_Buchstein01.JPG
-Trägspinner,Schwan,Euproctis similis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euproctis_similis-02_%28xndr%29.jpg/120px-Euproctis_similis-02_%28xndr%29.jpg
+Trägspinner,Euproctis,Euproctis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Euproctis_chrysorrhoea_%28Linnaeus%2C_1758%29.jpg/120px-Euproctis_chrysorrhoea_%28Linnaeus%2C_1758%29.jpg
+Euproctis,Schwan,Euproctis similis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euproctis_similis-02_%28xndr%29.jpg/120px-Euproctis_similis-02_%28xndr%29.jpg
+Euproctis,Goldafter,Euproctis chrysorrhoea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Euproctis_chrysorrhoea_%28Linnaeus%2C_1758%29.jpg/120px-Euproctis_chrysorrhoea_%28Linnaeus%2C_1758%29.jpg
 Trägspinner,Buchen-Streckfuss,Calliteara pudibunda,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Calliteara_pudibunda3.jpg/120px-Calliteara_pudibunda3.jpg
 Trägspinner,Trauerspinner,Penthophera morio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Penthophera_morio_-_Trauerspinner%2C_Imago_110425956.jpg/120px-Penthophera_morio_-_Trauerspinner%2C_Imago_110425956.jpg
 Erebidae,Bogenlininen-Spannereule,Herminia grisealis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Herminia_grisealis01.jpg/120px-Herminia_grisealis01.jpg
@@ -1850,6 +1852,12 @@ Xyleninae,Dunkle Knötericheule,Dypterygia scabriuscula,Art,https://upload.wikim
 Xyleninae,Mondfleck-Herbsteule,Omphaloscelis lunosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Omphaloscelis_lunosa01.jpg/120px-Omphaloscelis_lunosa01.jpg
 Xyleninae,Chi-Eule,Antitype chi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Antitype_chi_-_top_%28aka%29.jpg/120px-Antitype_chi_-_top_%28aka%29.jpg
 Xyleninae,Grüneule,Calamia tridens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Calamia_tridens_1_beentree.jpg/120px-Calamia_tridens_1_beentree.jpg
+Eumetabola,Schnabelfliegen,Mecoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panorpa_germanica-pjt.2.jpg/120px-Panorpa_germanica-pjt.2.jpg
+Schnabelfliegen,Skorpionsfliegen,Panorpidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Skorpionfliege.jpg/120px-Skorpionfliege.jpg
+Skorpionsfliegen,Gemeine Skorpionsfliege,Panorpa communis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Panorpa_communis_V.jpg/120px-Panorpa_communis_V.jpg
+Skorpionsfliegen,Deutsche Skorpionsfliege,Panorpa germanica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Panorpa_germanica-pjt.jpg/120px-Panorpa_germanica-pjt.jpg
+Schnabelfliegen,Winterhafte,Boreidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boreus_hyemalis_female.jpg/120px-Boreus_hyemalis_female.jpg
+Winterhafte,Winterhaft,Boreus hyemalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boreus_hyemalis_female1.jpg/120px-Boreus_hyemalis_female1.jpg
 Sechsfüsser,Sackkiefler,Entognatha,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/120px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
