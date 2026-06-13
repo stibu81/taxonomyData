@@ -574,17 +574,23 @@ Schildwanzen,Harlekinwanze,Odontotarsus purpureolineatus,Art,https://upload.wiki
 Pentatomomorpha,Kugelwanzen,Plataspididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Megacopta_cribraria.jpg/120px-Megacopta_cribraria.jpg
 Kugelwanzen,Kugelwanze,Coptosoma scutellatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Coptosoma_scutellatum_in_Lithuania.jpg/120px-Coptosoma_scutellatum_in_Lithuania.jpg
 Pentatomomorpha,Baumwanzen,Pentatomidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Palomena_prasina_-_top_%28aka%29.jpg/120px-Palomena_prasina_-_top_%28aka%29.jpg
-Baumwanzen,Grünse Stinkwanze,Palomena prasina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Palomena_prasina_-_top_%28aka%29.jpg/120px-Palomena_prasina_-_top_%28aka%29.jpg
-Baumwanzen,Streifenwanze,Graphosoma italicum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Graphosoma_italicum_-_Kulna.jpg/120px-Graphosoma_italicum_-_Kulna.jpg
-Baumwanzen,Purpur-Fruchtwanze,Carpocoris purpureipennis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carpocoris_purpureipennis_-_Kulna.jpg/120px-Carpocoris_purpureipennis_-_Kulna.jpg
-Baumwanzen,Waldwächter,Arma custos,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Arma_custos_Bucher_Forst_29_12_frei_gimp_b_110820.jpg/120px-Arma_custos_Bucher_Forst_29_12_frei_gimp_b_110820.jpg
-Baumwanzen,Wacholderling,Chlorochroa juniperina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chlorochroa_juniperina.jpg/120px-Chlorochroa_juniperina.jpg
-Baumwanzen,Dunkler Dickwanst,Eysarcoris venustissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pentatomidae_-_Eysarcoris_venustissimus.JPG/120px-Pentatomidae_-_Eysarcoris_venustissimus.JPG
-Baumwanzen,Offener Lorch,Holcostethus sphacelatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2018_09_24_Holcostethus_sphacelatus.jpg/120px-2018_09_24_Holcostethus_sphacelatus.jpg
-Baumwanzen,Rotbeinige Baumwanze,Pentatoma rufipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pentatoma_rufipes_at_a_cherry_leaf.jpg/120px-Pentatoma_rufipes_at_a_cherry_leaf.jpg
-Baumwanzen,Silberperlenwanze,Jalla dumosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/P1150137_Jalla_dumosa.jpg/120px-P1150137_Jalla_dumosa.jpg
-Baumwanzen,Zierliche Gemüsewanze,Eurydema dominulus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eurydema_dominulus_bl.jpg/120px-Eurydema_dominulus_bl.jpg
-Baumwanzen,Blaugrüne Baumwanze,Zicrona caerulea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zicrona_caerulea01.jpg/120px-Zicrona_caerulea01.jpg
+Baumwanzen,Pentatominae,Pentatominae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Harlequin_Bug_adult_and_nymph.jpg/120px-Harlequin_Bug_adult_and_nymph.jpg
+Pentatominae,Grüne Stinkwanze,Palomena prasina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Palomena_prasina_-_top_%28aka%29.jpg/120px-Palomena_prasina_-_top_%28aka%29.jpg
+Pentatominae,Purpur-Fruchtwanze,Carpocoris purpureipennis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carpocoris_purpureipennis_-_Kulna.jpg/120px-Carpocoris_purpureipennis_-_Kulna.jpg
+Pentatominae,Wacholderling,Chlorochroa juniperina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chlorochroa_juniperina.jpg/120px-Chlorochroa_juniperina.jpg
+Pentatominae,Dunkler Dickwanst,Eysarcoris venustissimus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pentatomidae_-_Eysarcoris_venustissimus.JPG/120px-Pentatomidae_-_Eysarcoris_venustissimus.JPG
+Pentatominae,Offener Lorch,Holcostethus sphacelatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/2018_09_24_Holcostethus_sphacelatus.jpg/120px-2018_09_24_Holcostethus_sphacelatus.jpg
+Pentatominae,Rotbeinige Baumwanze,Pentatoma rufipes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Pentatoma_rufipes_at_a_cherry_leaf.jpg/120px-Pentatoma_rufipes_at_a_cherry_leaf.jpg
+Pentatominae,Zierliche Gemüsewanze,Eurydema dominulus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Eurydema_dominulus_bl.jpg/120px-Eurydema_dominulus_bl.jpg
+Pentatominae,Graue Gartenwanze,Rhaphigaster nebulosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rhaphigaster.nebulosa.6903.jpg/120px-Rhaphigaster.nebulosa.6903.jpg
+Pentatominae,Marmorierte Baumwanze,Halyomorpha halys,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg/120px-Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg
+Baumwanzen,Podopinae,Podopinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hainich_fg09.jpg/120px-Hainich_fg09.jpg
+Podopinae,Ankerwanze,Ancyrosoma leucogrammes,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg/120px-%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg
+Podopinae,Streifenwanze,Graphosoma italicum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Graphosoma_italicum_-_Kulna.jpg/120px-Graphosoma_italicum_-_Kulna.jpg
+Baumwanzen,Asopinae,Asopinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Picromerus_bidens_%28Pentatomidae_sp.%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/120px-Picromerus_bidens_%28Pentatomidae_sp.%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg
+Asopinae,Waldwächter,Arma custos,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Arma_custos_Bucher_Forst_29_12_frei_gimp_b_110820.jpg/120px-Arma_custos_Bucher_Forst_29_12_frei_gimp_b_110820.jpg
+Asopinae,Silberperlenwanze,Jalla dumosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/P1150137_Jalla_dumosa.jpg/120px-P1150137_Jalla_dumosa.jpg
+Asopinae,Blaugrüne Baumwanze,Zicrona caerulea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zicrona_caerulea01.jpg/120px-Zicrona_caerulea01.jpg
 Pentatomomorpha,Bodenwanzen,Lygaeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lygaeus_equestris01.jpg/120px-Lygaeus_equestris01.jpg
 Bodenwanzen,Ritterwanze,Lygaeus equestris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lygaeus_equestris01.jpg/120px-Lygaeus_equestris01.jpg
 Bodenwanzen,Schwalbenwurzwanze,Tropidothorax leucopterus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lygaeidae_-_Tropidothorax_leucopterus.JPG/120px-Lygaeidae_-_Tropidothorax_leucopterus.JPG
