@@ -1886,6 +1886,67 @@ Ischnopsyllidae,Hufeisennasenfloh,Rhinolophopsylla unipectinata,Art,not_found
 Flöhe,Hystrichopsyllidae,Hystrichopsyllidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/British_Entomologycutted_Plate114.png/120px-British_Entomologycutted_Plate114.png
 Hystrichopsyllidae,Maulwurfsfloh,Hystrichopsylla talpae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/British_Entomologycutted_Plate114.png/120px-British_Entomologycutted_Plate114.png
 Hystrichopsyllidae,Spitzmausfloh,Palaeopsylla soricis,Art,not_found
+Eumetabola,Zweiflügler,Diptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calliphora_spec.jpg/120px-Calliphora_spec.jpg
+Zweiflügler,Mücken,Nematocera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aedes_aegypti.jpg/120px-Aedes_aegypti.jpg
+Mücken,Steckmückenartige,Culicomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AnophelesGambiaemosquito.jpg/120px-AnophelesGambiaemosquito.jpg
+Steckmückenartige,Steckmücken,Culicidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aedes_aegypti_biting_human.jpg/120px-Aedes_aegypti_biting_human.jpg
+Steckmücken,Aedes,Aedes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aedes_aegypti_biting_human.jpg/120px-Aedes_aegypti_biting_human.jpg
+Aedes,Gelbfiebermücke,Aedes aegypti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aedes_aegypti_CDC-Gathany.jpg/120px-Aedes_aegypti_CDC-Gathany.jpg
+Aedes,Asiatische Tigermücke,Aedes albopictus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CDC-Gathany-Aedes-albopictus-1.jpg/120px-CDC-Gathany-Aedes-albopictus-1.jpg
+Aedes,Asiatische Buschmücke,Asiatische Buschmücke,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/CDC_7887_Ochlerotatus_japonicus.jpg/120px-CDC_7887_Ochlerotatus_japonicus.jpg
+Aedes,Koreanische Buschmücke,Aedes koreicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Aedes_koreicus_02.jpg/120px-Aedes_koreicus_02.jpg
+Steckmücken,Gemeine Stechmücke,Culex pipiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Culex_pipiens_Pete_DeVries.jpg/120px-Culex_pipiens_Pete_DeVries.jpg
+Steckmücken,Ringelmücke,Culiseta annulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Culiseta_annulata_1.JPG/120px-Culiseta_annulata_1.JPG
+Steckmückenartige,Kriebelmücken,Simuliidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/2021_10_16_Simuliidae_sp_w.jpg/120px-2021_10_16_Simuliidae_sp_w.jpg
+Steckmückenartige,Gnitzen,Ceratopogonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BitingMidge.jpg/120px-BitingMidge.jpg
+Steckmückenartige,Zuckmücken,Chironomidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chironomus_plumosus01.jpg/120px-Chironomus_plumosus01.jpg
+Zuckmücken,Belgica antarctica,Belgica antarctica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgica_antarctica_mating.jpg/120px-Belgica_antarctica_mating.jpg
+Zuckmücken,Chironomus plumosus,Chironomus plumosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Chironomus_plumosus01.jpg/120px-Chironomus_plumosus01.jpg
+Zuckmücken,Microtendipes pedellus,Microtendipes pedellus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tendipes_pedellus_01.JPG/120px-Tendipes_pedellus_01.JPG
+Mücken,Bibionomorpha,Bibionomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%28MHNT%29_Bibio_marci.jpg/120px-%28MHNT%29_Bibio_marci.jpg
+Bibionomorpha,Haarmücken,Bibionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penthetria_funebris_-_2016-05-04.webm/120px--Penthetria_funebris_-_2016-05-04.webm.jpg
+Haarmücken,Bibio,Bibio,Gattung,not_found
+Bibio,Märzfliege,Bibio marci,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Haarmuecke-JR-T3-7661-7777-2024-04-14.jpg/120px-Haarmuecke-JR-T3-7661-7777-2024-04-14.jpg
+Bibio,Johannis-Haarmücke,Bibio johannis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2017_04_14_Bibio_johannis.jpg/120px-2017_04_14_Bibio_johannis.jpg
+Bibio,Gartenhaarmücke,Bibio hortulanus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bibio_hortulanus01.jpg/120px-Bibio_hortulanus01.jpg
+Haarmücken,Dunkelflügelige Haarmücke,Dilophus febrilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2018_05_02_Dilophus_febrilis.jpg/120px-2018_05_02_Dilophus_febrilis.jpg
+Bibionomorpha,Gallmücken,Cecidomyiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fagus_sylvatica_gall2_ies.jpg/120px-Fagus_sylvatica_gall2_ies.jpg
+Gallmücken,Buchengallmücke,Mikiola fagi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Buchengallm%C3%BCcke2.jpg/120px-Buchengallm%C3%BCcke2.jpg
+Gallmücken,Kohlschotenmücke,Dasineura brassicae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dasineura_brassicae_adult_%2824562493456%29.jpg/120px-Dasineura_brassicae_adult_%2824562493456%29.jpg
+Gallmücken,Möhrengallmücke,Kiefferia pericarpiicola,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kiefferia_pericarpiicola_1.jpg/120px-Kiefferia_pericarpiicola_1.jpg
+Gallmücken,Himbeergallmücke,Lasioptera rubi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lasioptera.rubi.-.lindsey.jpg/120px-Lasioptera.rubi.-.lindsey.jpg
+Gallmücken,Hessenfliege,Mayetiola destructor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hessian_Fly.jpg/120px-Hessian_Fly.jpg
+Bibionomorpha,Pilzmücken,Mycetophilidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mycetophila.fungorum.jpg/120px-Mycetophila.fungorum.jpg
+Pilzmücken,Exechia concinna,Exechia concinna,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Exechia_concinna01.jpg/120px-Exechia_concinna01.jpg
+Bibionomorpha,Trauermücken,Sciaridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sciaridae_P1160441a.jpg/120px-Sciaridae_P1160441a.jpg
+Trauermücken,Ctenosciara alexanderkoenigi,Ctenosciara alexanderkoenigi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ctenenosciara_alexanderkoenigi%2C_habitus.jpg/120px-Ctenenosciara_alexanderkoenigi%2C_habitus.jpg
+Trauermücken,Sciara analis,Sciara analis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Sciara.analis.jpg/120px-Sciara.analis.jpg
+Mücken,Psychodomorpha,Psychodomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Clogmia_Albipunctata_or_moth_fly.jpg/120px-Clogmia_Albipunctata_or_moth_fly.jpg
+Psychodomorpha,Schmetterlingsmücken,Psychodidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Psychodidae.jpg/120px-Psychodidae.jpg
+Schmetterlingsmücken,Sandmücken,Phlebotominae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Phlebotomus_pappatasi_bloodmeal_continue2.jpg/120px-Phlebotomus_pappatasi_bloodmeal_continue2.jpg
+Schmetterlingsmücken,Abortfliege,Psychoda grisescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Psychoda.grisescens.jpg/120px-Psychoda.grisescens.jpg
+Schmetterlingsmücken,Clogmia albipunctata,Clogmia albipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kleinfluegler-Mallorca-01.jpg/120px-Kleinfluegler-Mallorca-01.jpg
+Psychodomorpha,Dungmücken,Scatopsidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flies_on_Leucanthemum_vulgare.JPG/120px-Flies_on_Leucanthemum_vulgare.JPG
+Dungmücken,Scatopse notata,Scatopse notata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Europ%C3%A4ischenZweifl%C3%BCgeligen1790TafXXVI.jpg/120px-Europ%C3%A4ischenZweifl%C3%BCgeligen1790TafXXVI.jpg
+Dungmücken,Reichertella geniculata,Reichertella geniculata,Art,not_found
+Psychodomorpha,Fenstermücken,Anisopodidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sylvicola_fenestralis01.jpg/120px-Sylvicola_fenestralis01.jpg
+Fenstermücken,Sylvicola fenestralis,Sylvicola fenestralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sylvicola_fenestralis01.jpg/120px-Sylvicola_fenestralis01.jpg
+Mücken,Tipulomorpha,Tipulomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cranefly.1web.jpg/120px-Cranefly.1web.jpg
+Tipulomorpha,Schnaken,Tipulidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Schnakenpaarung.jpg/120px-Schnakenpaarung.jpg
+Schnaken,Schwarze Kammschnake,Tanyptera atrata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Schnake_5490.jpg/120px-Schnake_5490.jpg
+Schnaken,Tipula,Tipula,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tipula.luna.male.jpg/120px-Tipula.luna.male.jpg
+Tipula,Riesenschnake,Tipula maxima,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tipula_maxima-20080710-02.jpg/120px-Tipula_maxima-20080710-02.jpg
+Tipula,Kohlschnake,Tipula oleracea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tipula_oleracea1.jpg/120px-Tipula_oleracea1.jpg
+Tipula,Wiesenschnake,Tipula paludosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tipula_paludosa7.jpg/120px-Tipula_paludosa7.jpg
+Schnaken,Krähenschnaken,Nephrotoma,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20180615-IMG_4653-Kr%C3%A4henSchnake_Nahaufnahme.JPG/120px-20180615-IMG_4653-Kr%C3%A4henSchnake_Nahaufnahme.JPG
+Krähenschnaken,Gefleckte Wiesenschnake,Nephrotoma appendiculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nephrotoma_appendiculata_male_%2843245046114%29.jpg/120px-Nephrotoma_appendiculata_male_%2843245046114%29.jpg
+Krähenschnaken,Gelbbindige Schnake,Nephrotoma crocata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Nephrotoma_crocata.jpg/120px-Nephrotoma_crocata.jpg
+Schnaken,Geschmückte Kammschnake,Ctenophora ornata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ctenophora_ornata%2C_Kammschnake.jpg/120px-Ctenophora_ornata%2C_Kammschnake.jpg
+Tipulomorpha,Stelzmücken,Limoniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Epiphragma_ocellare01.jpg/120px-Epiphragma_ocellare01.jpg
+Stelzmücken,Gemeine Höhlenstelzmücke,Limonia nubeculosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Limonia_nubeculosa%2C_North_Wales%2C_May_2014_%2817143821499%29.jpg/120px-Limonia_nubeculosa%2C_North_Wales%2C_May_2014_%2817143821499%29.jpg
+Tipulomorpha,Wintermücken,Trichoceridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Trichocera_hiemalis.jpg/120px-Trichocera_hiemalis.jpg
+Wintermücken,Trichocera hiemalis,Trichocera hiemalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Trichocera_hiemalis.jpg/120px-Trichocera_hiemalis.jpg
+Zweiflügler,Fliegen,Brachycera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fly_close.jpg/120px-Fly_close.jpg
 Sechsfüsser,Sackkiefler,Entognatha,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Protura_specimen_%28Acerentomon_species%29_micrograph.jpg/120px-Protura_specimen_%28Acerentomon_species%29_micrograph.jpg
 Gliederfüsser,Kieferklauenträger,Chelicerata,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Marpissa_muscosa_front_%28aka%29.jpg/120px-Marpissa_muscosa_front_%28aka%29.jpg
 Kieferklauenträger,Asselspinnen,Pycnogonida,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pycnogonid.jpg/120px-Pycnogonid.jpg
