@@ -634,7 +634,8 @@ Adelgidae,Grüne Fichtengallenlaus,Sacchiphantes viridis,Art,https://upload.wiki
 Adelgidae,Kleine Fichtengallenlaus,Adelges laricis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adelges_laricis_1_bialowieza_beentree.jpg/120px-Adelges_laricis_1_bialowieza_beentree.jpg
 Adelgidae,Douglasienwolllaus,Gilletteella cooleyi,Art,not_found
 Adelgidae,Weisstannentrieblaus,Dreyfusia nordmannianae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dreyfusia_nordmannianae_a1_%281%29.jpg/120px-Dreyfusia_nordmannianae_a1_%281%29.jpg
-Eumetabola,Netzflüglerartige,Neuropteroidea,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Libelloides_coccajus_210505.jpg/120px-Libelloides_coccajus_210505.jpg
+Eumetabola,Holometabole Insekten,Holometabola,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Honigbiene_makro.jpg/120px-Honigbiene_makro.jpg
+Holometabole Insekten,Netzflüglerartige,Neuropteroidea,ohne Rang,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Libelloides_coccajus_210505.jpg/120px-Libelloides_coccajus_210505.jpg
 Netzflüglerartige,Kamelhalsfliegen,Raphidioptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kamelhalsfliege_Phaeostigma_major.jpg/120px-Kamelhalsfliege_Phaeostigma_major.jpg
 Kamelhalsfliegen,Markante Kamelhalsfliege,Phaeostigma notata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Phaeostigma.notata.Commanster.jpg/120px-Phaeostigma.notata.Commanster.jpg
 Kamelhalsfliegen,Schwarzhalsige Kamelhalsfliege,Venustoraphidia nigricollis,Art,not_found
@@ -669,7 +670,7 @@ Ameisenjungfern,Geflecktflüglige Ameisenjungfer,Euroleon nostras,Art,https://up
 Ameisenjungfern,Riesen-Ameisenjungfer,Palpares libelluloides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Fourmilion.jpg/120px-Fourmilion.jpg
 Netzflügler,Fadenhafte,Nemopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg/120px-Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg
 Fadenhafte,Schwalbenschwanzhaft,Nemoptera sinuata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nemoptera_sinuata_Nazilli.jpg/120px-Nemoptera_sinuata_Nazilli.jpg
-Eumetabola,Käfer,Coleoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
+Holometabole Insekten,Käfer,Coleoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
 Käfer,Adephaga,Adephaga,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
 Adephaga,Schwimmkäfer,Dytiscidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dytiscidae.png/120px-Dytiscidae.png
 Schwimmkäfer,Gelbrandkäfer,Dytiscus marginalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dytiscus_marginalis_male-female.png/120px-Dytiscus_marginalis_male-female.png
@@ -730,6 +731,7 @@ Kurzflügler,Gewürfelter Raubkäfer,Ontholestes tessellatus,Art,https://upload.
 Kurzflügler,Roter Bunträuber,Oxyporus rufus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oxyporus_rufus_up.JPG/120px-Oxyporus_rufus_up.JPG
 Kurzflügler,Pilz-Kahnkäfer,Scaphisoma agaricinum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Scaphisoma_agaricinum_natur.jpg/120px-Scaphisoma_agaricinum_natur.jpg
 Kurzflügler,Uferkurzflügler,Paederus littoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Paederus_littoralis01.jpg/120px-Paederus_littoralis01.jpg
+Kurzflügler,Paederidus ruficollis,Paederidus ruficollis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paederidus-ruficollis-05-fws.jpg/120px-Paederidus-ruficollis-05-fws.jpg
 Kurzflügler,Hornissenkäfer,Quedius dilatatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Velleius-dilatatus.jpg/120px-Velleius-dilatatus.jpg
 Kurzflügler,Hellbrauner Kurzflügler,Manda mandibularis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Manda_mandibularis_%28Gyllenhal%2C_1827%29_%2823214557714%29.png/120px-Manda_mandibularis_%28Gyllenhal%2C_1827%29_%2823214557714%29.png
 Polyphaga,Scarabaeiformia,Scarabaeiformia,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lucanus_cervus.jpg/120px-Lucanus_cervus.jpg
@@ -808,6 +810,7 @@ Schnellkäfer,Mausgrauer Schnellkäfer,Agrypnus murinus,Art,https://upload.wikim
 Schnellkäfer,Blutroter Schnellkäfer,Ampedus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ampedus_sanguineus3.jpg/120px-Ampedus_sanguineus3.jpg
 Schnellkäfer,Purpurroter Schnellkäfer,Anostirus purpureus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Anostirus_purpureus_cross.JPG/120px-Anostirus_purpureus_cross.JPG
 Schnellkäfer,Glanzschnellkäfer,Selatosomus aeneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Selatosomus_aeneus_bl.JPG/120px-Selatosomus_aeneus_bl.JPG
+Schnellkäfer,Schwarzer Rauhaarschnellkäfer,Hemicrepidius niger,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hemicrepidius.niger.jpg/120px-Hemicrepidius.niger.jpg
 Elateriformia,Rotdeckenkäfer,Lycidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dictyoptera_aurora1.jpg/120px-Dictyoptera_aurora1.jpg
 Rotdeckenkäfer,Scharlachroter Netzkäfer,Dictyoptera aurora,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Dictyoptera_aurora1.jpg/120px-Dictyoptera_aurora1.jpg
 Rotdeckenkäfer,Rüssel-Rotdeckenkäfer,Lygistopterus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lygistopterus_sanguineus_up.JPG/120px-Lygistopterus_sanguineus_up.JPG
@@ -1089,12 +1092,12 @@ Borkenkäfer,Eichensplintkäfer,Scolytus intricatus,Art,https://upload.wikimedia
 Borkenkäfer,Gestreifter Nutzholzborkenkäfer,Trypodendron lineatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg/120px-0_Trypodendron_lineatum_Weibchen_20fach_von_rechts_und_oben.jpg
 Borkenkäfer,Gekörnter Fichtenborkenkäfer,Cryphalus abietis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png/120px-Cryphalus_abietis_%28Ratzeburg%2C_1837%29.png
 Borkenkäfer,Bunter Eschenbastkäfer,Leperisinus varius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Leperisinus_fraxini_side.JPG/120px-Leperisinus_fraxini_side.JPG
-Eumetabola,Fächerflügler,Strepsiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stylops_melittae_f2.JPG/120px-Stylops_melittae_f2.JPG
+Holometabole Insekten,Fächerflügler,Strepsiptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Stylops_melittae_f2.JPG/120px-Stylops_melittae_f2.JPG
 Fächerflügler,Stylops melittae,Stylops melittae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Stylops_melittae_f1.jpg/120px-Stylops_melittae_f1.jpg
 Fächerflügler,Xenos vesparum,Xenos vesparum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Xenos_vesparum_in_Polistes_dominulaXenos_vesparum.jpg/120px-Xenos_vesparum_in_Polistes_dominulaXenos_vesparum.jpg
 Fächerflügler,Elenchus koebelei,Elenchus koebelei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Elenchus_koebelei.jpg/120px-Elenchus_koebelei.jpg
 Fächerflügler,Caenocholax fenyesi,Caenocholax fenyesi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Caenocholax_fenyesi.jpg/120px-Caenocholax_fenyesi.jpg
-Eumetabola,Hautflügler,Hymenoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apis_mellifera_2013_Zurich_2.jpg/120px-Apis_mellifera_2013_Zurich_2.jpg
+Holometabole Insekten,Hautflügler,Hymenoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apis_mellifera_2013_Zurich_2.jpg/120px-Apis_mellifera_2013_Zurich_2.jpg
 Hautflügler,Blattwespenartige,Tenthredinoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/XN_Tenthredo_mesomela.jpg/120px-XN_Tenthredo_mesomela.jpg
 Blattwespenartige,Bürstenhornblattwespen,Argidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Arge_humeralis_wiki.jpg/120px-Arge_humeralis_wiki.jpg
 Bürstenhornblattwespen,Rosenbürstenhornwespe,Arge ochropus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Argidae_-_Arge_ochropus.jpg/120px-Argidae_-_Arge_ochropus.jpg
@@ -1361,11 +1364,11 @@ Wespenbienen,Gegürtete Wespenbiene,Nomada succincta,Art,https://upload.wikimedi
 Nomadinae,Filzbienen,Epeolus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Epeolus_cruciger%2C_Ddol%2C_North_Wales%2C_July_2016_4_%2831106011563%29.jpg/120px-Epeolus_cruciger%2C_Ddol%2C_North_Wales%2C_July_2016_4_%2831106011563%29.jpg
 Nomadinae,Kraftbienen,Biastes,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Biastes_brevicornis_male.jpg/120px-Biastes_brevicornis_male.jpg
 Nomadinae,Kurzhornbienen,Pasites,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pasites_maculatus%2C_f%2C_pakistan%2C_side_2014-11-02-01.50.40_ZS_PMax_%2815603629237%29.jpg/120px-Pasites_maculatus%2C_f%2C_pakistan%2C_side_2014-11-02-01.50.40_ZS_PMax_%2815603629237%29.jpg
-Eumetabola,Köcherfliegen,Trichoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glyphotaelius_pellucidus-pjt.jpg/120px-Glyphotaelius_pellucidus-pjt.jpg
+Holometabole Insekten,Köcherfliegen,Trichoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Glyphotaelius_pellucidus-pjt.jpg/120px-Glyphotaelius_pellucidus-pjt.jpg
 Köcherfliegen,Waldköcherfliege,Enoicyla pusilla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/2018_10_27_Enoicyla_pusilla2.jpg/120px-2018_10_27_Enoicyla_pusilla2.jpg
 Köcherfliegen,Grosse Teichköcherfliege,Phryganea grandis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Phryganea_grandis_%289314025286%29.jpg/120px-Phryganea_grandis_%289314025286%29.jpg
 Köcherfliegen,Gebänderte Flussköcherfliege,Rhyacophila fasciata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rhyacophila.fasciata.couple.jpg/120px-Rhyacophila.fasciata.couple.jpg
-Eumetabola,Schmetterlinge,Lepidoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ratzeburg_Waldverderbnis_Tafel_54_%28noisy_background%29.jpg/120px-Ratzeburg_Waldverderbnis_Tafel_54_%28noisy_background%29.jpg
+Holometabole Insekten,Schmetterlinge,Lepidoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ratzeburg_Waldverderbnis_Tafel_54_%28noisy_background%29.jpg/120px-Ratzeburg_Waldverderbnis_Tafel_54_%28noisy_background%29.jpg
 Schmetterlinge,Zeugloptera,Zeugloptera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Micropterix.aureatella.jpg/120px-Micropterix.aureatella.jpg
 Zeugloptera,Urmotten,Micropterigidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Micropterix.aureatella.jpg/120px-Micropterix.aureatella.jpg
 Urmotten,Bergwiesen-Urfalter,Micropterix allionella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropterigidae_-_Micropterix_allionella-001.JPG/120px-Micropterigidae_-_Micropterix_allionella-001.JPG
@@ -1859,13 +1862,13 @@ Xyleninae,Dunkle Knötericheule,Dypterygia scabriuscula,Art,https://upload.wikim
 Xyleninae,Mondfleck-Herbsteule,Omphaloscelis lunosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Omphaloscelis_lunosa01.jpg/120px-Omphaloscelis_lunosa01.jpg
 Xyleninae,Chi-Eule,Antitype chi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Antitype_chi_-_top_%28aka%29.jpg/120px-Antitype_chi_-_top_%28aka%29.jpg
 Xyleninae,Grüneule,Calamia tridens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Calamia_tridens_1_beentree.jpg/120px-Calamia_tridens_1_beentree.jpg
-Eumetabola,Schnabelfliegen,Mecoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panorpa_germanica-pjt.2.jpg/120px-Panorpa_germanica-pjt.2.jpg
+Holometabole Insekten,Schnabelfliegen,Mecoptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Panorpa_germanica-pjt.2.jpg/120px-Panorpa_germanica-pjt.2.jpg
 Schnabelfliegen,Skorpionsfliegen,Panorpidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Skorpionfliege.jpg/120px-Skorpionfliege.jpg
 Skorpionsfliegen,Gemeine Skorpionsfliege,Panorpa communis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Panorpa_communis_V.jpg/120px-Panorpa_communis_V.jpg
 Skorpionsfliegen,Deutsche Skorpionsfliege,Panorpa germanica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Panorpa_germanica-pjt.jpg/120px-Panorpa_germanica-pjt.jpg
 Schnabelfliegen,Winterhafte,Boreidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boreus_hyemalis_female.jpg/120px-Boreus_hyemalis_female.jpg
 Winterhafte,Winterhaft,Boreus hyemalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boreus_hyemalis_female1.jpg/120px-Boreus_hyemalis_female1.jpg
-Eumetabola,Flöhe,Siphonaptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ctenocephalides_felis_female_ZSM.jpg/120px-Ctenocephalides_felis_female_ZSM.jpg
+Holometabole Insekten,Flöhe,Siphonaptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ctenocephalides_felis_female_ZSM.jpg/120px-Ctenocephalides_felis_female_ZSM.jpg
 Flöhe,Pulicidae,Pulicidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ctenocephalides_felis_female_ZSM.jpg/120px-Ctenocephalides_felis_female_ZSM.jpg
 Pulicidae,Igelfloh,Archaeopsylla erinacei,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Archaeopsylla_erinacei_erinacei_%28NHMUK_010177316%29.jpg/120px-Archaeopsylla_erinacei_erinacei_%28NHMUK_010177316%29.jpg
 Pulicidae,Ctenocephalides,Ctenocephalides,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ctenocephalides-canis.jpg/120px-Ctenocephalides-canis.jpg
@@ -1886,7 +1889,7 @@ Ischnopsyllidae,Hufeisennasenfloh,Rhinolophopsylla unipectinata,Art,not_found
 Flöhe,Hystrichopsyllidae,Hystrichopsyllidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/British_Entomologycutted_Plate114.png/120px-British_Entomologycutted_Plate114.png
 Hystrichopsyllidae,Maulwurfsfloh,Hystrichopsylla talpae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/British_Entomologycutted_Plate114.png/120px-British_Entomologycutted_Plate114.png
 Hystrichopsyllidae,Spitzmausfloh,Palaeopsylla soricis,Art,not_found
-Eumetabola,Zweiflügler,Diptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calliphora_spec.jpg/120px-Calliphora_spec.jpg
+Holometabole Insekten,Zweiflügler,Diptera,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calliphora_spec.jpg/120px-Calliphora_spec.jpg
 Zweiflügler,Mücken,Nematocera,Unterordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aedes_aegypti.jpg/120px-Aedes_aegypti.jpg
 Mücken,Steckmückenartige,Culicomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/AnophelesGambiaemosquito.jpg/120px-AnophelesGambiaemosquito.jpg
 Steckmückenartige,Steckmücken,Culicidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Aedes_aegypti_biting_human.jpg/120px-Aedes_aegypti_biting_human.jpg
