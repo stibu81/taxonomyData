@@ -165,9 +165,17 @@ Krabben,Majoidea,Majoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/co
 Majoidea,Grosse Seespinne,Maja squinado,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Maja_squinado.jpg/120px-Maja_squinado.jpg
 Majoidea,Japanische Riesenkrabbe,Macrocheira kaempferi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Japanische_Riesenkrabbe_Deutsches_Meeresmuseum_Stralsund.jpg/120px-Japanische_Riesenkrabbe_Deutsches_Meeresmuseum_Stralsund.jpg
 Krabben,Portunoidea,Portunoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
-Portunoidea,Blaukrabbe,Callinectes sapidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg/120px-The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg
-Portunoidea,Grosse Pazifische Schwimmkrabbe,Portunus pelagicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
-Portunoidea,Gemeine Strandkrabbe,Carcinus maenas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Common_shore_crab_1.JPG/120px-Common_shore_crab_1.JPG
+Portunoidea,Schwimmkrabben,Portunidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
+Schwimmkrabben,Geriffelte Mangrovenkrabbe,Scylla serrata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Scylla_serrata_by_OpenCage.jpg/120px-Scylla_serrata_by_OpenCage.jpg
+Schwimmkrabben,Portunus,Portunus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Portunus_trituberculatus.jpg/120px-Portunus_trituberculatus.jpg
+Portunus,Gazami-Krabbe,Portunus trituberculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Portunus_trituberculatus.jpg/120px-Portunus_trituberculatus.jpg
+Portunus,Blaukrabbe,Callinectes sapidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg/120px-The_Childrens_Museum_of_Indianapolis_-_Atlantic_blue_crab.jpg
+Schwimmkrabben,Grosse Pazifische Schwimmkrabbe,Portunus pelagicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Portunus_pelagicus_male.jpg/120px-Portunus_pelagicus_male.jpg
+Portunoidea,Carcinidae,Carcinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Carcinus_maenas.jpg/120px-Carcinus_maenas.jpg
+Carcinidae,Gemeine Strandkrabbe,Carcinus maenas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Common_shore_crab_1.JPG/120px-Common_shore_crab_1.JPG
+Portunoidea,Polybiidae,Polybiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bathynectes_longispina.jpg/120px-Bathynectes_longispina.jpg
+Polybiidae,Samtkrabbe,Necora puber,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Etrille%28Necora%29.jpg/120px-Etrille%28Necora%29.jpg
+Polybiidae,Ruderkrabbe,Polybius depurator,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Liocarcinus_depurator.jpg/120px-Liocarcinus_depurator.jpg
 Krabben,Potamidae,Potamidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Potamon_fluviatile02.jpg/120px-Potamon_fluviatile02.jpg
 Potamidae,Gemeine Flusskrabbe,Potamon fluviatile,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Potamon_fluviatile02.jpg/120px-Potamon_fluviatile02.jpg
 Krabben,Pseudocarcinidae,Pseudocarcinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cua_Tasmania.jpg/120px-Cua_Tasmania.jpg
@@ -2259,6 +2267,9 @@ Radnetzspinnen,Kugelspinnen,Theridiidae,Familie,https://upload.wikimedia.org/wik
 Kugelspinnen,Fettspinnen,Steatoda,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
 Fettspinnen,Gewöhnliche Fettspinne,Steatoda bipunctata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
 Fettspinnen,Falsche Schwarze Witwe,Steatoda paykulliana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/False_Widow_Spider_%28Steatoda_paykulliana%29_%2814373246443%29.jpg/120px-False_Widow_Spider_%28Steatoda_paykulliana%29_%2814373246443%29.jpg
+Kugelspinnen,Mondspinnen,Parasteatoda,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Achae_tepid.JPG/120px-Achae_tepid.JPG
+Mondspinnen,Gewächshaussipnne,Parasteatoda tepidariorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg/120px-Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg
+Mondspinnen,Gewöhnliche Mondspinne,Parasteatoda lunata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Achaearanea_lunata_w_080516.jpg/120px-Achaearanea_lunata_w_080516.jpg
 Kugelspinnen,Echte Witwen,Latrodectus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latrodectus_tridecimguttatus.jpg/120px-Latrodectus_tridecimguttatus.jpg
 Echte Witwen,Europäische Schwarze Witwe,Latrodectus tredecimguttatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Latrodectus_tredecimguttatus_habitus.JPG/120px-Latrodectus_tredecimguttatus_habitus.JPG
 Echte Witwen,Rotrückenspinne,Latrodectus hasselti,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Redback_frontal_view.jpg/120px-Redback_frontal_view.jpg
