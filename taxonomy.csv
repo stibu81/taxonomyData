@@ -1272,7 +1272,10 @@ Grabwespen,Sphecidae,Sphecidae,Familie,https://upload.wikimedia.org/wikipedia/co
 Sphecidae,Gemeine Sandwespe,Ammophila sabulosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Graafwesp.jpg/120px-Graafwesp.jpg
 Sphecidae,Stahlblauer Grillenjäger,Isodontia mexicana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Isodontia_mexicana-pjt2.jpg/120px-Isodontia_mexicana-pjt2.jpg
 Sphecidae,Behaarte Kurzstiel-Sandwespe,Podalonia hirsuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Podalonia_hirsuta_-_femelle_%2843%2C_France%29_01.jpg/120px-Podalonia_hirsuta_-_femelle_%2843%2C_France%29_01.jpg
-Sphecidae,Orientalische Mauerwespe,Sceliphron curvatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sceliphron_curvatum-pjt6.jpg/120px-Sceliphron_curvatum-pjt6.jpg
+Sphecidae,Sceliphron,Sceliphron,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Sceliphron_curvatum-pjt2.jpg/120px-Sceliphron_curvatum-pjt2.jpg
+Sceliphron,Orientalische Mauerwespe,Sceliphron curvatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sceliphron_curvatum-pjt6.jpg/120px-Sceliphron_curvatum-pjt6.jpg
+Sceliphron,Amerikanische Mauerwespe,Sceliphron caementarium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2025_06_23_Sceliphron_caementarium_w2.jpg/120px-2025_06_23_Sceliphron_caementarium_w2.jpg
+Sceliphron,Mauerspinnentöter,Sceliphron destillatorium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sceliphron_destillatorium.jpg/120px-Sceliphron_destillatorium.jpg
 Sphecidae,Heuschreckensandwespe,Sphex funerarius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sphex_funerarius-pjt.jpg/120px-Sphex_funerarius-pjt.jpg
 Grabwespen,Crabronidae,Crabronidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cerceris_fg01.jpg/120px-Cerceris_fg01.jpg
 Crabronidae,Sandknotenwespe,Cerceris arenaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cerceris_arenaria_%28Crabronidae%29_-_%28imago%29%2C_Molenhoek%2C_the_Netherlands.jpg/120px-Cerceris_arenaria_%28Crabronidae%29_-_%28imago%29%2C_Molenhoek%2C_the_Netherlands.jpg
@@ -2001,32 +2004,43 @@ Tabanomorpha,Wurmlöwen,Vermileonidae,Familie,https://upload.wikimedia.org/wikip
 Wurmlöwen,Vermileo vermileo,Vermileo vermileo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Vermileo_vermileo_above_1.jpg/120px-Vermileo_vermileo_above_1.jpg
 Fliegen,Muscomorpha,Muscomorpha,Teilordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dioctria_linearis_-_side_%28aka%29.jpg/120px-Dioctria_linearis_-_side_%28aka%29.jpg
 Muscomorpha,Aschiza,Aschiza,Sektion,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Syrphid.jpg/120px-Syrphid.jpg
-Aschiza,Schwebefliegen,Syrphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Episyrphus_balteatus_on_flower_%282%29.jpg/120px-Episyrphus_balteatus_on_flower_%282%29.jpg
-Schwebefliegen,Syrphinae,Syrphinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flower_fly_on_yucca.jpg/120px-Flower_fly_on_yucca.jpg
-Syrphinae,Gemeine Schattenschwebfliege,Baccha elongata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baccha_elongata-pjt1.jpg/120px-Baccha_elongata-pjt1.jpg
-Syrphinae,Gemeine Wespenschwebefliege,Chrysotoxum cautum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chrysotoxum.cautum.jpg/120px-Chrysotoxum.cautum.jpg
-Syrphinae,Gestreifte Waldschwebefliege,Dasysyrphus albostriatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dasysyrphus_albostriatus_%28female%29_-_Flickr_-_S._Rae_%281%29.jpg/120px-Dasysyrphus_albostriatus_%28female%29_-_Flickr_-_S._Rae_%281%29.jpg
-Syrphinae,Hainschwebefliege,Episyrphus balteatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Episyrphus_balteatus_male_-_top_%28aka%29.jpg/120px-Episyrphus_balteatus_male_-_top_%28aka%29.jpg
-Syrphinae,Mondfleckschwebefliege,Eupeodes lapponicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2021_02_21_Eupeodes_lapponicus1.jpg/120px-2021_02_21_Eupeodes_lapponicus1.jpg
-Syrphinae,Blaue Breitbandschwebefliege,Leucozona glaucius,Art,not_found
-Syrphinae,Späte Frühlingsschwebefliege,Meliscaeva cinctella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Meliscaeva_cinctella03.jpg/120px-Meliscaeva_cinctella03.jpg
-Syrphinae,Späte Grossstrinschwebefliege,Scaeva pyrastri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hoverfly_December_2007-1.jpg/120px-Hoverfly_December_2007-1.jpg
-Syrphinae,Dunkle Blattlausschwebefliege,Parasyrphus lineolus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parasyrphus_lineolus.jpg/120px-Parasyrphus_lineolus.jpg
-Syrphinae,Gewöhnliche Langbauchschwebefliege,Sphaerophoria scripta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%28MHNT%29_Sphaerophoria_scripta_on_Achillea_millefolium.jpg/120px-%28MHNT%29_Sphaerophoria_scripta_on_Achillea_millefolium.jpg
-Syrphinae,Grosse Schwebefliege,Syrphus ribesii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hoverfly_December_2007-4.jpg/120px-Hoverfly_December_2007-4.jpg
-Schwebefliegen,Eristalinae,Eristalinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Volucella_zonaria_MHNT.jpg/120px-Volucella_zonaria_MHNT.jpg
-Eristalinae,Bunte Erzschwebfliege,Cheilosia illustrata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cheilosia_illustrata.jpg/120px-Cheilosia_illustrata.jpg
-Eristalinae,Totenkopfschwebefliege,Myathropa florea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Myathropa_florea%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles.jpg/120px-Myathropa_florea%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles.jpg
-Eristalinae,Mistbiene,Eristalis tenax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eristalis_tenax-pjt2.jpg/120px-Eristalis_tenax-pjt2.jpg
-Eristalinae,Gemeine Sumpfschwebefliege,Helophilus pendulus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Helophilus_Pendulus.jpg/120px-Helophilus_Pendulus.jpg
-Eristalinae,Gemeine Schnauzenschwebefliege,Rhingia campestris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gemeine_Schnauzenschwebfliege_%28Rhingia_campestris%29%2C_Warchetal_bei_B%C3%BCllingen%2C_Ostbelgien%2C_10.05.2015_%2817741390735%29.jpg/120px-Gemeine_Schnauzenschwebfliege_%28Rhingia_campestris%29%2C_Warchetal_bei_B%C3%BCllingen%2C_Ostbelgien%2C_10.05.2015_%2817741390735%29.jpg
-Eristalinae,Grosse Torf-Schwebefliege,Sericomyia silentis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sericomyia.silentis.male.jpg/120px-Sericomyia.silentis.male.jpg
-Eristalinae,Kleine Mistbiene,Syritta pipiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Syritta_pipiens.jpg/120px-Syritta_pipiens.jpg
-Eristalinae,Volucella,Volucella,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Volucella_liquida%2C_Assif_M%27Goun%2C_Haut_Atlas_Central%2C_Maroc_%2848457151396%29.jpg/120px-Volucella_liquida%2C_Assif_M%27Goun%2C_Haut_Atlas_Central%2C_Maroc_%2848457151396%29.jpg
-Volucella,Hummel-Waldschwebefliege,Volucella bombylans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Volucella.bombylans.1.jpg/120px-Volucella.bombylans.1.jpg
-Volucella,Gebänderte Waldschwebefliege,Volucella inanis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Volucella_inanis_fg1.jpg/120px-Volucella_inanis_fg1.jpg
-Volucella,Gemeine Waldschwebefliege,Volucella pellucens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Volucella_pellucens6.jpg/120px-Volucella_pellucens6.jpg
-Volucella,Hornissen-Schwebefliege,Volucella zonaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Volucella_zonaria-pjt3.jpg/120px-Volucella_zonaria-pjt3.jpg
+Aschiza,Schwebfliegen,Syrphidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Episyrphus_balteatus_on_flower_%282%29.jpg/120px-Episyrphus_balteatus_on_flower_%282%29.jpg
+Schwebfliegen,Syrphinae,Syrphinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flower_fly_on_yucca.jpg/120px-Flower_fly_on_yucca.jpg
+Syrphinae,Bacchini,Bacchini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Baccha.elongata.-.lindsey.jpg/120px-Baccha.elongata.-.lindsey.jpg
+Bacchini,Gemeine Schattenschwebfliege,Baccha elongata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Baccha_elongata-pjt1.jpg/120px-Baccha_elongata-pjt1.jpg
+Bacchini,Matte Schwarzkopfschwebfliege,Melanostoma scalare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2016_09_20_Diptera1B.jpg/120px-2016_09_20_Diptera1B.jpg
+Syrphinae,Syrphini,Syrphini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gro%C3%9Fe_Schwebfliege.jpg/120px-Gro%C3%9Fe_Schwebfliege.jpg
+Syrphini,Gemeine Wespenschwebfliege,Chrysotoxum cautum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chrysotoxum.cautum.jpg/120px-Chrysotoxum.cautum.jpg
+Syrphini,Gestreifte Waldschwebfliege,Dasysyrphus albostriatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dasysyrphus_albostriatus_%28female%29_-_Flickr_-_S._Rae_%281%29.jpg/120px-Dasysyrphus_albostriatus_%28female%29_-_Flickr_-_S._Rae_%281%29.jpg
+Syrphini,Hainschwebfliege,Episyrphus balteatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Episyrphus_balteatus_male_-_top_%28aka%29.jpg/120px-Episyrphus_balteatus_male_-_top_%28aka%29.jpg
+Syrphini,Mondfleckschwebfliege,Eupeodes lapponicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2021_02_21_Eupeodes_lapponicus1.jpg/120px-2021_02_21_Eupeodes_lapponicus1.jpg
+Syrphini,Blaue Breitbandschwebfliege,Leucozona glaucia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ischyrosyrphus_glaucius_02.jpg/120px-Ischyrosyrphus_glaucius_02.jpg
+Syrphini,Späte Frühlingsschwebfliege,Meliscaeva cinctella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Meliscaeva_cinctella03.jpg/120px-Meliscaeva_cinctella03.jpg
+Syrphini,Halbmondschwebfliege,Scaeva pyrastri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hoverfly_December_2007-1.jpg/120px-Hoverfly_December_2007-1.jpg
+Syrphini,Dunkle Blattlausschwebfliege,Parasyrphus lineolus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Parasyrphus_lineolus.jpg/120px-Parasyrphus_lineolus.jpg
+Syrphini,Gewöhnliche Langbauchschwebfliege,Sphaerophoria scripta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/%28MHNT%29_Sphaerophoria_scripta_on_Achillea_millefolium.jpg/120px-%28MHNT%29_Sphaerophoria_scripta_on_Achillea_millefolium.jpg
+Syrphini,Grosse Schwebfliege,Syrphus ribesii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hoverfly_December_2007-4.jpg/120px-Hoverfly_December_2007-4.jpg
+Schwebfliegen,Eristalinae,Eristalinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Volucella_zonaria_MHNT.jpg/120px-Volucella_zonaria_MHNT.jpg
+Eristalinae,Rhingiini,Rhingiini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rhingia_campestris_02.JPG/120px-Rhingia_campestris_02.JPG
+Rhingiini,Bunte Erzschwebfliege,Cheilosia illustrata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cheilosia_illustrata.jpg/120px-Cheilosia_illustrata.jpg
+Rhingiini,Gemeine Schnauzenschwebfliege,Rhingia campestris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gemeine_Schnauzenschwebfliege_%28Rhingia_campestris%29%2C_Warchetal_bei_B%C3%BCllingen%2C_Ostbelgien%2C_10.05.2015_%2817741390735%29.jpg/120px-Gemeine_Schnauzenschwebfliege_%28Rhingia_campestris%29%2C_Warchetal_bei_B%C3%BCllingen%2C_Ostbelgien%2C_10.05.2015_%2817741390735%29.jpg
+Eristalinae,Eristalini,Eristalini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Eristalis_November_2007-2.jpg/120px-Eristalis_November_2007-2.jpg
+Eristalini,Totenkopfschwebfliege,Myathropa florea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Myathropa_florea%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles.jpg/120px-Myathropa_florea%2C_Parc_de_Woluw%C3%A9%2C_Bruxelles.jpg
+Eristalini,Mistbiene,Eristalis tenax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Eristalis_tenax-pjt2.jpg/120px-Eristalis_tenax-pjt2.jpg
+Eristalini,Gemeine Sumpfschwebfliege,Helophilus pendulus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Helophilus_Pendulus.jpg/120px-Helophilus_Pendulus.jpg
+Eristalini,Helle Teichrandschwebfliege,Parhelophilus frutetorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Parhelophilus_frutetorum_-_Tiergarten_Sch%C3%B6nbrunn_2.jpg/120px-Parhelophilus_frutetorum_-_Tiergarten_Sch%C3%B6nbrunn_2.jpg
+Eristalinae,Sericomyiini,Sericomyiini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Arctophila_superbiens_%28fem%29.jpg/120px-Arctophila_superbiens_%28fem%29.jpg
+Sericomyiini,Grosse Torf-Schwebfliege,Sericomyia silentis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sericomyia.silentis.male.jpg/120px-Sericomyia.silentis.male.jpg
+Eristalinae,Milesiini,Milesiini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Maggia_fg34.jpg/120px-Maggia_fg34.jpg
+Milesiini,Kleine Mistbiene,Syritta pipiens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Syritta_pipiens.jpg/120px-Syritta_pipiens.jpg
+Milesiini,Hummel-Moderholzschwebfliege,Temnostoma bombylans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Temnostoma_Bombylans_female.jpg/120px-Temnostoma_Bombylans_female.jpg
+Milesiini,Goldhaar-Langbauchschwebfliege,Xylota sylvarum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Diptera-Syrphidae-Xylota-sylvarum-201208160110.JPG/120px-Diptera-Syrphidae-Xylota-sylvarum-201208160110.JPG
+Eristalinae,Volucellini,Volucellini,Tribus,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Copestylum_haagei.jpg/120px-Copestylum_haagei.jpg
+Volucellini,Volucella,Volucella,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Volucella_liquida%2C_Assif_M%27Goun%2C_Haut_Atlas_Central%2C_Maroc_%2848457151396%29.jpg/120px-Volucella_liquida%2C_Assif_M%27Goun%2C_Haut_Atlas_Central%2C_Maroc_%2848457151396%29.jpg
+Volucella,Hummel-Waldschwebfliege,Volucella bombylans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Volucella.bombylans.1.jpg/120px-Volucella.bombylans.1.jpg
+Volucella,Gebänderte Waldschwebfliege,Volucella inanis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Volucella_inanis_fg1.jpg/120px-Volucella_inanis_fg1.jpg
+Volucella,Gemeine Waldschwebfliege,Volucella pellucens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Volucella_pellucens6.jpg/120px-Volucella_pellucens6.jpg
+Volucella,Hornissenschwebfliege,Volucella zonaria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Volucella_zonaria-pjt3.jpg/120px-Volucella_zonaria-pjt3.jpg
 Muscomorpha,Schizophora,Schizophora,Sektion,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Marsh_fly01.jpg/120px-Marsh_fly01.jpg
 Schizophora,Acalyptratae,Acalyptratae,Untersektion,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Marsh_fly01.jpg/120px-Marsh_fly01.jpg
 Acalyptratae,Blasenkopffliegen,Conopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Conops_quadrifasciatus_-_top_%28aka%29.jpg/120px-Conops_quadrifasciatus_-_top_%28aka%29.jpg
@@ -4126,6 +4140,26 @@ Knochenhechtartige,Knochenhechte,Lepisosteidae,Familie,https://upload.wikimedia.
 Knochenhechte,Alligatorhecht,Atractosteus spatula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Atractosteus_spatula_2.jpg/100px-Atractosteus_spatula_2.jpg
 Knochenhechte,Gefleckter Knochenhecht,Lepisosteus oculatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lepisosteus_oculatus_03.jpg/100px-Lepisosteus_oculatus_03.jpg
 Neuflosser,Echte Knochenfische,Teleostei,Teilklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kardinalbarsch_%28Pterapogon_kauderni%29_01.jpg/100px-Kardinalbarsch_%28Pterapogon_kauderni%29_01.jpg
+Echte Knochenfische,Knochenzünglerähnliche,Osteoglossomorpha,Überkohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Scleropages_leichardti1.JPG/120px-Scleropages_leichardti1.JPG
+Knochenzünglerähnliche,Knochenzünglerartige,Osteoglossiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Osteoglossum_bicirrhosum.JPG/120px-Osteoglossum_bicirrhosum.JPG
+Knochenzünglerartige,Knochenzüngler,Osteoglossidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Red_Arowana034.JPG/120px-Red_Arowana034.JPG
+Knochenzüngler,Silbergabelbart,Osteoglossum bicirrhosum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Osteoglossum_bicirrhosum.JPG/120px-Osteoglossum_bicirrhosum.JPG
+Knochenzüngler,Asiatischer Gabelbart,Scleropages formosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honglongyu3.jpg/120px-Honglongyu3.jpg
+Knochenzünglerartige,Altwelt-Messerfische,Notopteridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xenomystus_nigri_2.JPG/120px-Xenomystus_nigri_2.JPG
+Altwelt-Messerfische,Tausenddollarfisch,Chitala ornata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chitala_ornata_%28Zoo_Brno%2C_Czech_Republic%29.jpg/120px-Chitala_ornata_%28Zoo_Brno%2C_Czech_Republic%29.jpg
+Altwelt-Messerfische,Afrikanischer Fähnchen-Messerfisch,Papyrocranus afer,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Papyrocronus_afer.jpg/120px-Papyrocronus_afer.jpg
+Altwelt-Messerfische,Afrikanischer Messerfisch,Xenomystus nigri,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Xenomystus_nigri_53146309.jpg/120px-Xenomystus_nigri_53146309.jpg
+Knochenzünglerartige,Nilhechte,Mormyridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MormyrusJury.jpg/120px-MormyrusJury.jpg
+Nilhechte,Elefantenrüsselfisch,Gnathonemus petersii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Elefantenr%C3%BCsselfisch.jpg/120px-Elefantenr%C3%BCsselfisch.jpg
+Nilhechte,Riesen-Nilhecht,Mormyrops anguilloides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Mormyrops_anguilloides.jpg/120px-Mormyrops_anguilloides.jpg
+Nilhechte,Ibis-Nilhecht,Campylomormyrus numenius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Campylomormyrus_numenius.jpg/120px-Campylomormyrus_numenius.jpg
+Knochenzünglerartige,Gymnarchidae,Gymnarchidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gymnarchus_niloticus005.JPG/120px-Gymnarchus_niloticus005.JPG
+Gymnarchidae,Grossnilhecht,Gymnarchus niloticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gymnarchus_niloticus005.JPG/120px-Gymnarchus_niloticus005.JPG
+Knochenzünglerähnliche,Hiodontiformes,Hiodontiformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hiodon_woodruffi_01.jpg/120px-Hiodon_woodruffi_01.jpg
+Hiodontiformes,Hiodontidae,Hiodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hiodon_tergisus_NOAA.jpg/120px-Hiodon_tergisus_NOAA.jpg
+Hiodontidae,Mondaugen,Hiodon,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hiodon_tergisus_NOAA.jpg/120px-Hiodon_tergisus_NOAA.jpg
+Mondaugen,Goldauge,Hiodon alosoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Goldeye_Hiodon_alosoides.jpg/120px-Goldeye_Hiodon_alosoides.jpg
+Mondaugen,Mondauge,Hiodon tergisus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hiodon_tergisus_311027851.jpg/120px-Hiodon_tergisus_311027851.jpg
 Echte Knochenfische,Elopomorpha,Elopomorpha,Kohorte,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Echidna_nebulosa_by_NPS.jpg/100px-Echidna_nebulosa_by_NPS.jpg
 Elopomorpha,Aalartige,Anguilliformes,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anguilla-anguilla_1.jpg/100px-Anguilla-anguilla_1.jpg
 Aalartige,Pelikanaale,Eurypharyngidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Eurypharynx.jpg/100px-Eurypharynx.jpg
