@@ -3,6 +3,8 @@
 
 library(simpleTaxonomy)
 
+# get Wikipedia image urls #####
+
 # store your Wikipedia contact data in a file called "contact".
 # It should contain two lines with language code and username, e.g.
 # de
@@ -12,6 +14,8 @@ contact <- if (file.exists("contact")) {
 }
 taxonomy <- enrich_taxonomy_with_images("taxonomy.csv", contact = contact)
 
+
+# create a taxonomy plot #####
 
 taxonomy <- read_taxonomy("taxonomy.csv")
 plot_taxonomy(taxonomy,
@@ -25,3 +29,12 @@ plot_taxonomy(taxonomy,
               )
 
 
+# run the shiny app #####
+
+run_brave <- function(url) system(paste("brave", url, "&"))
+run_floorp <- function(url) system(paste("floorp", url, "&"))
+run_taxonomy("taxonomy.csv", 
+             root = "Lebewesen",
+             expand_ranks = c("Domäne", "Reich", "Gattung", "Art"),
+             image_size = "250",
+             launch_browser = run_floorp)
