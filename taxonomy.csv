@@ -4520,7 +4520,7 @@ Anarhichas,Blauer Seewolf,Anarhichas denticulatus,Art,https://upload.wikimedia.o
 Anarhichas,Gestreifter Seewolf,Anarhichas lupus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Akvariet_i_Bergen16.jpg/100px-Akvariet_i_Bergen16.jpg
 Seewölfe,Pazifischer Seewolf,Anarrhichtys ocellatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Wolf_eel.png/100px-Wolf_eel.png
 Barschartige,Panzergroppen,Algonidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/100px-Agonus_cataphractus.jpg
-Panzergroppen,Steinpicker,Agonus cataphractus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/100px-Agonus_cataphractus.jpg
+Panzergroppen,Steinpicker (Fisch),Agonus cataphractus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/100px-Agonus_cataphractus.jpg
 Barschartige,Groppen,Kottidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CottusGobioSpreadingFins.JPG/120px-CottusGobioSpreadingFins.JPG
 Groppen,Groppe,Kottus gobio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/CottusGobioSpreadingFins.JPG/120px-CottusGobioSpreadingFins.JPG
 Barschartige,Dickkopf-Groppen,Psychrolutidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Psychrolutes_phrictus_1.jpg/120px-Psychrolutes_phrictus_1.jpg
@@ -4658,7 +4658,381 @@ Käferschnecken,Cryptoconchus porosus,Cryptoconchus porosus,Art,https://upload.w
 Käferschnecken,Liolophura sinensis,Liolophura sinensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Liolophura_sinensis.jpg/120px-Liolophura_sinensis.jpg
 Weichtiere,Schalenweichtiere,Conchifera,Unterstamm,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Helix_pomatia_2021_G3.jpg/120px-Helix_pomatia_2021_G3.jpg
 Schalenweichtiere,Einschaler,Monoplacophora,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pilina_unguis.jpg/120px-Pilina_unguis.jpg
+Einschaler,Neopilina galatheae,Neopilina galatheae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Neopilina.jpg/120px-Neopilina.jpg
+Einschaler,Veleropilina oligotropha,Veleropilina oligotropha,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veleropilina_oligotropha.jpg/120px-Veleropilina_oligotropha.jpg
 Schalenweichtiere,Schnecken,Gastropoda,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Helix_pomatia_002.JPG/120px-Helix_pomatia_002.JPG
+Schnecken,Patellogastropoda,Patellogastropoda,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Napfschnecke3.jpg/120px-Napfschnecke3.jpg
+Patellogastropoda,Gemeine Napfschnecke,Patella vulgata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Napfschnecken_Galizien2005.jpg/120px-Napfschnecken_Galizien2005.jpg
+Patellogastropoda,Jungfräuliche Napfschnecke,Tectura virginea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Acmaea_virginea_%28Sowerby%29.jpg/120px-Acmaea_virginea_%28Sowerby%29.jpg
+Patellogastropoda,Schildkrötenschnecke,Testudinalia testudinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Testudinalia_testudinalis_01.jpg/120px-Testudinalia_testudinalis_01.jpg
+Schnecken,Vetigastropoda,Vetigastropoda,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tegula_pulligo.jpg/120px-Tegula_pulligo.jpg
+Vetigastropoda,Schlitzschnecken,Fissurellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fissurella_volcano.jpg/120px-Fissurella_volcano.jpg
+Schlitzschnecken,Grosse Kalifornische Schlüssellochschnecke,Megathura crenulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Megathura_crenulata.jpg/120px-Megathura_crenulata.jpg
+Schlitzschnecken,Diodora elizabethae,Diodora elizabethae,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Diodora_elizabethae_001.jpg/120px-Diodora_elizabethae_001.jpg
+Schlitzschnecken,Emarginula paivana,Emarginula paivana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Emarginula_paivana_%28MNHN-IM-2000-4818%29.jpeg/120px-Emarginula_paivana_%28MNHN-IM-2000-4818%29.jpeg
+Schlitzschnecken,Fissurella volcano,Fissurella volcano,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fissurella_volcano.jpg/120px-Fissurella_volcano.jpg
+Vetigastropoda,Kreiselschnecken,Trochidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tegula_pulligo.jpg/120px-Tegula_pulligo.jpg
+Kreiselschnecken,Graue Kreiselschnecke,Steromphala cineraria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gibbula_cineraria_%285041775210%29.jpg/120px-Gibbula_cineraria_%285041775210%29.jpg
+Kreiselschnecken,Würfelturbanschnecke,Phorcus turbinatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Phorcus_turbinatus_01.JPG/120px-Phorcus_turbinatus_01.JPG
+Vetigastropoda,Turbanschnecken,Turbinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lithopoma_gibberosa_2.jpg/120px-Lithopoma_gibberosa_2.jpg
+Turbanschnecken,Guildfordia yoka,Guildfordia yoka,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Turbinidae_-_Guildfordia_yoka.JPG/120px-Turbinidae_-_Guildfordia_yoka.JPG
+Turbanschnecken,Turbo petholatus,Turbo petholatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Turbo_petholatus_Voavah.JPG/120px-Turbo_petholatus_Voavah.JPG
+Vetigastropoda,Haliotidae,Haliotidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LivingAbalone.JPG/120px-LivingAbalone.JPG
+Haliotidae,Seeohren,Haliotis,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LivingAbalone.JPG/120px-LivingAbalone.JPG
+Seeohren,Grünes Seeohr,Haliotis tuberculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Haliotis_tuberculata_coccinea.jpg/120px-Haliotis_tuberculata_coccinea.jpg
+Seeohren,Rotes Seeohr,Haliotis rufescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/AbaloneOutside.jpg/120px-AbaloneOutside.jpg
+Seeohren,Schwarzlippen-Abalone,Haliotis rubra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Blacklip_abalone.jpg/120px-Blacklip_abalone.jpg
+Schnecken,Caenogastropoda,Caenogastropoda,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Triton-eating-sea-cushion.jpg/120px-Triton-eating-sea-cushion.jpg
+Caenogastropoda,Littorinimorpha,Littorinimorpha,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Different_cowries.jpg/120px-Different_cowries.jpg
+Littorinimorpha,Tonnoidea,Tonnoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Phalium_bandatum.jpg/120px-Phalium_bandatum.jpg
+Tonnoidea,Tritonschnecken,Ranellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Triton-eating-sea-cushion.jpg/120px-Triton-eating-sea-cushion.jpg
+Tritonschnecken,Tritonshörner,Charonia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Charonia_variegata.JPG/120px-Charonia_variegata.JPG
+Tritonshörner,Atlantische Tritonschnecke,Charonia variegata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Charonia_variegata.JPG/120px-Charonia_variegata.JPG
+Tritonshörner,Tritonshorn,Charonia tritonis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Charonia_tritonis_in_Guam.jpg/120px-Charonia_tritonis_in_Guam.jpg
+Tritonshörner,Knotentragende Tritonschnecke,Charonia lampas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Charonia_lampas_nodifera_20_a.jpg/120px-Charonia_lampas_nodifera_20_a.jpg
+Tonnoidea,Froschschnecken,Bursidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bursa_granularis_R%C3%A9union.jpg/120px-Bursa_granularis_R%C3%A9union.jpg
+Froschschnecken,Riesenfroschschnecke,Tutufa bubo,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bursa_bubo_and_sea_stars.JPG/120px-Bursa_bubo_and_sea_stars.JPG
+Froschschnecken,Warzige Froschschnecke,Bursa bufonia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Bursa_bufonia_R%C3%A9union.jpg/120px-Bursa_bufonia_R%C3%A9union.jpg
+Froschschnecken,Krötenschnecke,Bufonaria rana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bufonaria_rana_01.JPG/120px-Bufonaria_rana_01.JPG
+Froschschnecken,Rötliche Froschschnecke,Tutufa rubeta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tutufa_rubeta_2010_G1.jpg/120px-Tutufa_rubeta_2010_G1.jpg
+Littorinimorpha,Calyptraeidae,Calyptraeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Crepidula_fornicata.JPG/120px-Crepidula_fornicata.JPG
+Calyptraeidae,Amerikanische Pantoffelschnecke,Crepidula fornicata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Crepidula_fornicata_01.JPG/120px-Crepidula_fornicata_01.JPG
+Tonnoidea,Helmschnecken,Cassidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cassidae_sp.jpg/120px-Cassidae_sp.jpg
+Helmschnecken,Doppelfurchige Helmschnecke,Semicassis bisulcata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Semicassis_bisulcata_booleyi_01.JPG/120px-Semicassis_bisulcata_booleyi_01.JPG
+Helmschnecken,Königshelmschnecke,Cassis tuberosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Cassis_tuberosa.png/120px-Cassis_tuberosa.png
+Helmschnecken,Rote Helmschnecke,Cypraecassis rufa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Cypraecassis_rufa.jpg/120px-Cypraecassis_rufa.jpg
+Helmschnecken,Karierte Helmschnecke,Phalium areola,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Phalium_areola_01.JPG/120px-Phalium_areola_01.JPG
+Helmschnecken,Igel-Helmschnecke,Casmaria erinaceus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Casmaria_erinaceus_01.JPG/120px-Casmaria_erinaceus_01.JPG
+Tonnoidea,Tonnenschnecken,Tonnidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tonna_tankervillii.JPG/120px-Tonna_tankervillii.JPG
+Tonnenschnecken,Grosse Tonnenschnecke,Tonna galea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tonna_Galea%2C_held_in_hand%2C_showing_shell_and_foot%2C_Astir_Beach%2C_Vouliagmeni%2C_Attika%2C_Greece.jpg/120px-Tonna_Galea%2C_held_in_hand%2C_showing_shell_and_foot%2C_Astir_Beach%2C_Vouliagmeni%2C_Attika%2C_Greece.jpg
+Tonnenschnecken,Eudolium crosseanum,Eudolium crosseanum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Eudolium_crosseanum_Barbados.jpg/120px-Eudolium_crosseanum_Barbados.jpg
+Littorinimorpha,Rissoschnecken,Rissoidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rissoina_crassa_003.jpg/120px-Rissoina_crassa_003.jpg
+Rissoschnecken,Dünnschalige Rissoa,Rissoa membranacea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Rissoa_membranacea_-_Detail.jpg/120px-Rissoa_membranacea_-_Detail.jpg
+Rissoschnecken,Spitze Kleinschnecke,Onoba aculeus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Onoba_aculeus_01.jpg/120px-Onoba_aculeus_01.jpg
+Littorinimorpha,Cypraeoidea,Cypraeoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Egg_Cowrie_%28Ovula_Ovum%29.jpg/120px-Egg_Cowrie_%28Ovula_Ovum%29.jpg
+Cypraeoidea,Eischnecken,Ovulidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cyphoma_gibbosum_%28living%29_2.jpg/120px-Cyphoma_gibbosum_%28living%29_2.jpg
+Eischnecken,Flamingozunge,Cyphoma gibbosum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cyphoma_gibbosum_%28living%29_2.jpg/120px-Cyphoma_gibbosum_%28living%29_2.jpg
+Eischnecken,Offene Spelzenschnecke,Simnia spelta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Simnia_spelta_%28Linnaeus%2C_1758%29_1.jpg/120px-Simnia_spelta_%28Linnaeus%2C_1758%29_1.jpg
+Eischnecken,Rotes Vogelei,Pseudosimnia carnea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pseudosimnia_carnea_002.jpg/120px-Pseudosimnia_carnea_002.jpg
+Cypraeoidea,Kaurischnecken,Cypraeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cypraeaannulus.jpg/120px-Cypraeaannulus.jpg
+Kaurischnecken,Tiger-Kauri,Cypraea tigris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cypraea_tigris_%28Tiger_cowrie%29.jpg/120px-Cypraea_tigris_%28Tiger_cowrie%29.jpg
+Kaurischnecken,Kaurischnecke,Monetaria moneta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cypraeaannulus.jpg/120px-Cypraeaannulus.jpg
+Kaurischnecken,Isabellas Kauri,Luria isabella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luria_isabella_01.JPG/120px-Luria_isabella_01.JPG
+Littorinimorpha,Triviidae,Triviidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cuncha_GFDL_Galicia8.jpg/120px-Cuncha_GFDL_Galicia8.jpg
+Triviidae,Europäische Kauri,Trivia monacha,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Spotted_cowrie.jpg/120px-Spotted_cowrie.jpg
+Littorinimorpha,Stromboidea,Stromboidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Strombidae.JPG/120px-Strombidae.JPG
+Stromboidea,Flügelschnecken,Strombidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Living_Lobatus_gigas.jpg/120px-Living_Lobatus_gigas.jpg
+Flügelschnecken,Grosse Fechterschnecke,Aliger gigas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Queen_Conch_%28Lobatus_gigas%29.jpg/120px-Queen_Conch_%28Lobatus_gigas%29.jpg
+Flügelschnecken,Rote Fechterschnecke,Strombus pugilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Strombus_pugilis_01.JPG/120px-Strombus_pugilis_01.JPG
+Flügelschnecken,Skorpions-Flügelschnecke,Lambis scorpius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lambis_scorpius_indomaris_01.JPG/120px-Lambis_scorpius_indomaris_01.JPG
+Flügelschnecken,Grosser Bootshaken,Harpago chiragra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Harpago_chiragra_01.JPG/120px-Harpago_chiragra_01.JPG
+Flügelschnecken,Hunds-Flügelschnecke,Laevistrombus canarium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Laevistrombus_canarium_canarium_01.JPG/120px-Laevistrombus_canarium_canarium_01.JPG
+Flügelschnecken,Titanostrombus goliath,Titanostrombus goliath,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Strombus_goliath_-_2016.jpg/120px-Strombus_goliath_-_2016.jpg
+Flügelschnecken,Persische Flügelschnecke,Conomurex persicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Conomurex_persicus_01.jpg/120px-Conomurex_persicus_01.jpg
+Stromboidea,Aporrhaidae,Aporrhaidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aporrhais_pespelecani_8_cropped.jpg/120px-Aporrhais_pespelecani_8_cropped.jpg
+Aporrhaidae,Pelikanfuss,Aporrhais pespelecani,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aporrhais_pespelecani_000.JPG/120px-Aporrhais_pespelecani_000.JPG
+Littorinimorpha,Littorinoidea,Littorinoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tudorella_sulcata_shell.jpg/120px-Tudorella_sulcata_shell.jpg
+Littorinoidea,Strandschnecken,Littorinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Littorina_littorea_001.jpg/120px-Littorina_littorea_001.jpg
+Strandschnecken,Grosse Strandschnecke,Littorina littorea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Littorina_littorea_001.jpg/120px-Littorina_littorea_001.jpg
+Strandschnecken,Gebänderte Grübchenschnecke,Lacuna vincta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lacuna_vincta_%28YPM_IZ_031874%29.jpeg/120px-Lacuna_vincta_%28YPM_IZ_031874%29.jpeg
+Strandschnecken,Flache Strandschnecke,Littorina obtusata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Littorina_obtusata_01.jpg/120px-Littorina_obtusata_01.jpg
+Littorinoidea,Landdeckelschnecken,Pomatiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pomatiasidae_-_Pomatias_elegans-000.JPG/120px-Pomatiasidae_-_Pomatias_elegans-000.JPG
+Landdeckelschnecken,Schöne Landdeckelschnecke,Pomatias elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pomatias_elegans.jpg/120px-Pomatias_elegans.jpg
+Littorinimorpha,Hufschnecken,Hipponicidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hipponix_antiquatus_%28white_hoof_snail%29_%28San_Salvador_Island%2C_Bahamas%29_2_%2816003468958%29.jpg/120px-Hipponix_antiquatus_%28white_hoof_snail%29_%28San_Salvador_Island%2C_Bahamas%29_2_%2816003468958%29.jpg
+Hufschnecken,Weisse Hufschnecke,Hipponix antiquatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hipponix_antiquatus_01.JPG/120px-Hipponix_antiquatus_01.JPG
+Littorinimorpha,Mützenschnecken,Capulidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Capulus_ungaricus_001.jpg/120px-Capulus_ungaricus_001.jpg
+Mützenschnecken,Ungarnkappe,Capulus ungaricus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Capulus_ungaricus_01.jpg/120px-Capulus_ungaricus_01.jpg
+Caenogastropoda,Cerithioidea,Cerithioidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Turritellidae.jpg/120px-Turritellidae.jpg
+Cerithioidea,Nadelschnecken,Cerithiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rhinoclavis_sinensis.jpg/120px-Rhinoclavis_sinensis.jpg
+Nadelschnecken,Gewöhnliche Nadelschnecke,Thericium vulgatum,Art,not_found
+Cerithioidea,Turmschnecken,Turritellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Turritellidae.jpg/120px-Turritellidae.jpg
+Turmschnecken,Gemeine Turmschnecke,Turritellinella tricarinata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Turritella_communis_01.JPG/120px-Turritella_communis_01.JPG
+Turmschnecken,Westindische Wurmschnecke,Vermicularia spirata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Vermicularia_spirata_01.jpg/120px-Vermicularia_spirata_01.jpg
+Cerithioidea,Schwarzdeckelschnecken,Melanopsidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Melanopsis_praemorsa_buccinoidea_A_MRKVICKA.JPG/120px-Melanopsis_praemorsa_buccinoidea_A_MRKVICKA.JPG
+Schwarzdeckelschnecken,Gefleckte Kronenschnecke,Esperiana esperi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Esperiana_esperi_A_MRKVICKA.JPG/120px-Esperiana_esperi_A_MRKVICKA.JPG
+Schwarzdeckelschnecken,Kurze Kronenschnecke,Holandriana holandrii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Holandriana_holandri1_A_MRKVICKA.JPG/120px-Holandriana_holandri1_A_MRKVICKA.JPG
+Schwarzdeckelschnecken,Thermen-Pechschnecke,Microcolpia daudebartii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Esperiana_daudebarti_daudebarti_A_MRKVICKA.JPG/120px-Esperiana_daudebarti_daudebarti_A_MRKVICKA.JPG
+Cerithioidea,Kronenschnecken,Thiaridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Melanoides_tuberculata_01.jpg/120px-Melanoides_tuberculata_01.jpg
+Kronenschnecken,Nadel-Kronenschnecke,Melanoides tuberculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Melanoides_tuberculata_01.jpg/120px-Melanoides_tuberculata_01.jpg
+Caenogastropoda,Wendeltreppenschnecken,Epitoniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epitonium_scalare_shell.jpg/120px-Epitonium_scalare_shell.jpg
+Wendeltreppenschnecken,Lamellen-Wendeltreppe,Gyroscala commutata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gyroscala_lamellosa_Linosa_0286.JPG/120px-Gyroscala_lamellosa_Linosa_0286.JPG
+Wendeltreppenschnecken,Epitonium,Epitonium,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epitonium_scalare_shell.jpg/120px-Epitonium_scalare_shell.jpg
+Epitonium,Echte Wendeltreppe,Epitonium scalare,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Epitonium_scalare_shell.jpg/120px-Epitonium_scalare_shell.jpg
+Epitonium,Gemeine Wendeltreppe,Epitonium clathrus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Epitonium_clathrus_01.JPG/120px-Epitonium_clathrus_01.JPG
+Wendeltreppenschnecken,Veilchenschnecke,Janthina janthina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Violet_snail_Janthina_sp.png/100px-Violet_snail_Janthina_sp.pn2
+Caenogastropoda,Architaenioglossa,Architaenioglossa,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Pomacea.jpg/120px-Pomacea.jpg
+Architaenioglossa,Apfelschnecken,Ampullariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Pomacea_bridgesii_MdE_1.jpg/120px-Pomacea_bridgesii_MdE_1.jpg
+Apfelschnecken,Gefurchte Apfelschnecke,Pomacea canaliculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Pomacea_canaliculata1.jpg/120px-Pomacea_canaliculata1.jpg
+Architaenioglossa,Sumpfdeckelschnecken,Viviparidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Viviparus_contectus01pl.jpg/120px-Viviparus_contectus01pl.jpg
+Sumpfdeckelschnecken,Viviparus,Viviparus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Viviparus_contectus01pl.jpg/120px-Viviparus_contectus01pl.jpg
+Viviparus,Donau-Sumpfdeckelschnecke,Viviparus acerosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Viviparus_acerosus.jpg/120px-Viviparus_acerosus.jpg
+Viviparus,Stumpfe Sumpfdeckelschnecke,Viviparus viviparus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/ViviparusViviparus.JPG/120px-ViviparusViviparus.JPG
+Viviparus,Spitze Sumpfdeckelschnecke,Viviparus contectus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Viviparus_contectus_01.JPG/120px-Viviparus_contectus_01.JPG
+Viviparus,Italienische Sumpfdeckelschnecke,Viviparus ater,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Viviparus_ater_01.JPG/120px-Viviparus_ater_01.JPG
+Sumpfdeckelschnecken,Genoppte Pianoschnecke,Taia naticoides,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Taia_naticoides_01.JPG/120px-Taia_naticoides_01.JPG
+Architaenioglossa,Schnauzenschnecken,Bithyniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bithynia_tentaculata.jpg/120px-Bithynia_tentaculata.jpg
+Schnauzenschnecken,Gemeine Schnauzenschnecke,Bithynia tentaculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bithynia_tentaculata.jpg/120px-Bithynia_tentaculata.jpg
+Architaenioglossa,Walddeckelschnecken,Cochlostomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cochlostoma_septemspirale.jpg/120px-Cochlostoma_septemspirale.jpg
+Walddeckelschnecken,Kleine Walddeckelschnecke,Cochlostoma septemspirale,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cochlostoma_septemspirale_-_Wagner_1897_pl2.png/120px-Cochlostoma_septemspirale_-_Wagner_1897_pl2.png
+Walddeckelschnecken,Striolata striolata,Striolata striolata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Striolata_striolata.jpg/120px-Striolata_striolata.jpg
+Architaenioglossa,Mulmnadeln,Aciculidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Platyla_polita.jpg/120px-Platyla_polita.jpg
+Mulmnadeln,Glatte Mulmnadel,Platyla polita,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Platyla_polita.jpg/120px-Platyla_polita.jpg
+Mulmnadeln,Gestreifte Mulmnadel,Acicula lineata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Acicula-lineata_01.jpg/120px-Acicula-lineata_01.jpg
+Caenogastropoda,Neuschnecken,Neogastropoda,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Conus-geographicus.jpg/120px-Conus-geographicus.jpg
+Neuschnecken,Stachelschnecken,Muricidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Chicoreus_palmarosae.jpg/120px-Chicoreus_palmarosae.jpg
+Stachelschnecken,Nordische Purpurschnecke,Nucella lapillus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nucella_lapillus.jpg/120px-Nucella_lapillus.jpg
+Stachelschnecken,Stumpfe Stachelschnecke,Hexaplex trunculus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Hexaplex-trunculus-Purpurschnecke.jpg/120px-Hexaplex-trunculus-Purpurschnecke.jpg
+Stachelschnecken,Rotmundige Steinschnecke,Stramonita haemastoma,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stramonita_haemastoma_01.JPG/120px-Stramonita_haemastoma_01.JPG
+Stachelschnecken,Gerippte Purpurschnecke,Ocenebra erinaceus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ocenebra_erinaceus_01.jpg/120px-Ocenebra_erinaceus_01.jpg
+Stachelschnecken,Herkuleskeule,Bolinus brandaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bolinus_brandaris_01.jpg/120px-Bolinus_brandaris_01.jpg
+Stachelschnecken,Riesenstachelschnecke,Chicoreus ramosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chicoreus_ramosus_001.jpg/120px-Chicoreus_ramosus_001.jpg
+Stachelschnecken,Blainvilles Stachelschnecke,Muricopsis cristata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Muricopsis_cristata_01.JPG/120px-Muricopsis_cristata_01.JPG
+Neuschnecken,Spindelschnecken,Fasciolariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fusinus_monksae.jpg/120px-Fusinus_monksae.jpg
+Spindelschnecken,Trapez-Spindelschnecke,Pleuroploca trapezium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pleuroploca_trapezium_01.JPG/120px-Pleuroploca_trapezium_01.JPG
+Spindelschnecken,Grosse Pferdeschnecke,Triplofusus giganteus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pleuroploca_gigantea.jpg/120px-Pleuroploca_gigantea.jpg
+Spindelschnecken,Echte Tulpenschnecke,Fasciolaria tulipa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Fasciolaria_tulipa_2.jpg/120px-Fasciolaria_tulipa_2.jpg
+Neuschnecken,Schraubenschnecken,Terebridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Neoterebra_dislocata_01.jpg/120px-Neoterebra_dislocata_01.jpg
+Schraubenschnecken,Sandstrand-Schraubenschnecke,Hastula hectica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hastula_hectica_01.jpg/120px-Hastula_hectica_01.jpg
+Schraubenschnecken,Pfriemenschnecke,Terebra subulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Terebra_subulata_01.JPG/120px-Terebra_subulata_01.JPG
+Schraubenschnecken,Orange Schraubenschnecke,Oxymeris dimidiata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Oxymeris_dimidiata_01.JPG/120px-Oxymeris_dimidiata_01.JPG
+Neuschnecken,Hornschnecken,Buccinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Buccinum_undatum.jpg/120px-Buccinum_undatum.jpg
+Hornschnecken,Wellhornschnecke,Buccinum undatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Buccinum_undatum.jpg/120px-Buccinum_undatum.jpg
+Hornschnecken,Linksgewundenes Neptunhorn,Neptunea contraria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Neptunea_contraria_01.jpg/120px-Neptunea_contraria_01.jpg
+Neuschnecken,Busyconidae,Busyconidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fulguropsis_spirata_pahayokee_01.JPG/120px-Fulguropsis_spirata_pahayokee_01.JPG
+Busyconidae,Stachlige Feige,Busycon carica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Busycon_carica.jpg/120px-Busycon_carica.jpg
+Busyconidae,Bitzschnecke,Sinistrofulgur perversum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Busycon-contrarium.jpg/120px-Busycon-contrarium.jpg
+Neuschnecken,Reusenschnecken,Nassariidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nassarius_tiarula.jpg/120px-Nassarius_tiarula.jpg
+Reusenschnecken,Tritia,Tritia,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tritia_reticulata.jpg/120px-Tritia_reticulata.jpg
+Tritia,Netzreusenschnecke,Tritia reticulata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tritia_reticulata_MHNT.jpg/120px-Tritia_reticulata_MHNT.jpg
+Tritia,Dicklippige Reusenschnecke,Tritia incrassata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tritia_incrassata_01.jpg/120px-Tritia_incrassata_01.jpg
+Tritia,Nassa-Schlammschnecke,Tritia neritea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tritia_neritea_01.jpg/120px-Tritia_neritea_01.jpg
+Reusenschnecken,Raubturmdeckelschnecke,Clea helena,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Anentome_Helena_2010.jpg/120px-Anentome_Helena_2010.jpg
+Neuschnecken,Täubchenschnecken,Columbellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Columbellidae_-_Columbella_strombiformis.JPG/120px-Columbellidae_-_Columbella_strombiformis.JPG
+Täubchenschnecken,Schlichte Täubchenschnecke,Columbella rustica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Columbella_rustica_01.jpg/120px-Columbella_rustica_01.jpg
+Neuschnecken,Kegelschnecken,Conidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Conus_textilis_Brehms_Thierleben_1887_S_283.jpg/120px-Conus_textilis_Brehms_Thierleben_1887_S_283.jpg
+Kegelschnecken,Conus,Conus,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Reef1155_-_Flickr_-_NOAA_Photo_Library.jpg/120px-Reef1155_-_Flickr_-_NOAA_Photo_Library.jpg
+Conus,Mittelmeer-Konus,Conus ventricosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Lautoconus_ventricosus_01.JPG/120px-Lautoconus_ventricosus_01.JPG
+Conus,Textil-Kegelschnecke,Conus textile,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Textile_cone.JPG/120px-Textile_cone.JPG
+Conus,Purpur-Kegelschnecke,Conus purpurascens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Conus_purpurascens_1.jpg/120px-Conus_purpurascens_1.jpg
+Conus,Landkarten-Kegelschnecke,Conus geographus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Conus-geographicus.jpg/120px-Conus-geographicus.jpg
+Conus,Admiralskegel,Conus ammiralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cylinder_ammiralis_01.jpg/120px-Cylinder_ammiralis_01.jpg
+Conus,Efenbeinkegel,Conus eburneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Conus_eburneus_polyglotta.jpg/120px-Conus_eburneus_polyglotta.jpg
+Conus,Gehörnte Kegelschnecke,Conus granulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Conus_granulatus_1.jpg/120px-Conus_granulatus_1.jpg
+Conus,Generalskegel,Conus generalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Conus_generalis_1.jpg/120px-Conus_generalis_1.jpg
+Conus,Musikkegel,Conus musicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Conus_musicus_1.jpg/120px-Conus_musicus_1.jpg
+Conus,Karottenkegel,Conus daucus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Conus_daucus_1.jpg/120px-Conus_daucus_1.jpg
+Kegelschnecken,Centurionen-Kegel,Conasprella centurio,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Conus_centurio_1.jpg/120px-Conus_centurio_1.jpg
+Kegelschnecken,Kalifornische Kegelschnecke,Californiconus californicus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Conus_californicus.jpg/120px-Conus_californicus.jpg
+Schnecken,Verschiedenkiemer,Heterobranchia,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Heterobranchia_composite_03.jpg/120px-Heterobranchia_composite_03.jpg
+Verschiedenkiemer,Acteonimorpha,Acteonimorpha,ohne Rang,not_found
+Acteonimorpha,Rosenblatt-Blasenschnecke,Hydatina physis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hydatina_physis.png/120px-Hydatina_physis.png
+Acteonimorpha,Blasenschnecke,Micromelo undatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Micromelo_undatus_R%C3%A9union_2.JPG/120px-Micromelo_undatus_R%C3%A9union_2.JPG
+Verschiedenkiemer,Nacktkiemer,Nudibranchia,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Haeckel_Nudibranchia.jpg/120px-Haeckel_Nudibranchia.jpg
+Nacktkiemer,Aeolidioidea,Aeolidioidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Facelina_rubrovittata_%28Costa_A._1866%29.jpg/120px-Facelina_rubrovittata_%28Costa_A._1866%29.jpg
+Aeolidioidea,Wander-Fadenschnecke,Cratena peregrina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cratena_peregrina_%28Gmelin%2C_1791%29_1.jpg/120px-Cratena_peregrina_%28Gmelin%2C_1791%29_1.jpg
+Aeolidioidea,Drummonds Fadenschnecke,Facelina bostoniensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Facelina_bostoniensis.jpg/120px-Facelina_bostoniensis.jpg
+Aeolidioidea,Phidiana hiltoni,Phidiana hiltoni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Phidiana_hiltoni.jpg/120px-Phidiana_hiltoni.jpg
+Aeolidioidea,Blaue Ozeanschnecke,Glaucus atlanticus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Glaucus_atlanticus_1_cropped.jpg/120px-Glaucus_atlanticus_1_cropped.jpg
+Aeolidioidea,Breitwarzige Fadenschnecke,Aeolidia papillosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aeolidia_papillosa_2.jpg/120px-Aeolidia_papillosa_2.jpg
+Aeolidioidea,Cerberilla ambonensis,Cerberilla ambonensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cerberilla_ambonensis_nudibranch.jpg/120px-Cerberilla_ambonensis_nudibranch.jpg
+Aeolidioidea,Berghia coerulescens,Berghia coerulescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Berghia_coerulescens_%28Laurillard%2C_1830%29.jpg/120px-Berghia_coerulescens_%28Laurillard%2C_1830%29.jpg
+Nacktkiemer,Hörnchenschnecken,Polyceridae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Triopha_catalinae_1.jpg/120px-Triopha_catalinae_1.jpg
+Hörnchenschnecken,Polycera,Polycera,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Polycera-quadrilineata.jpg/120px-Polycera-quadrilineata.jpg
+Polycera,Gestreifte Hörnchenschnecke,Polycera quadrilineata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Polycera_quadrilineata_%28M%C3%BCller_O.F.%2C_1776%29%2C_Bugula_sp..jpg/120px-Polycera_quadrilineata_%28M%C3%BCller_O.F.%2C_1776%29%2C_Bugula_sp..jpg
+Polycera,Färöische Hörnchenschnecke,Polycera faeroensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Polycera-faeroensis.jpg/120px-Polycera-faeroensis.jpg
+Polycera,Eleganz-Neonsternschnecke,Polycera elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Greele01.jpg/120px-Greele01.jpg
+Hörnchenschnecken,Rotmeer-Sternschnecke,Nembrotha megalocera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nembrotha_megalocera.jpg/120px-Nembrotha_megalocera.jpg
+Hörnchenschnecken,Triopha maculata,Triopha maculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Nudibranch_in_tide_pools_17.JPG/120px-Nudibranch_in_tide_pools_17.JPG
+Hörnchenschnecken,Keulen-Neonsternschnecke,Limacia clavigera,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Limacia_clavigera-JR01.jpg/120px-Limacia_clavigera-JR01.jpg
+Hörnchenschnecken,Gefleckte Hörnchenschnecke,Palio dubia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Palio-dubia-5609.jpg/120px-Palio-dubia-5609.jpg
+Hörnchenschnecken,Pazifische Thecacera,Thecacera pacifica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thecacera_pacifica_%28Polyceridae_Nudibranch%29.jpg/120px-Thecacera_pacifica_%28Polyceridae_Nudibranch%29.jpg
+Hörnchenschnecken,Tambja verconis,Tambja verconis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tambja_verconis.jpg/120px-Tambja_verconis.jpg
+Nacktkiemer,Flabellinidae,Flabellinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flabellina_affinis_2.jpg/120px-Flabellina_affinis_2.jpg
+Flabellinidae,Violette Fadenschnecke,Flabellina affinis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Couple_of_Flabellina_affinis_with_eggs.JPG/120px-Couple_of_Flabellina_affinis_with_eggs.JPG
+Flabellinidae,Rotviolette Fadenschnecke,Edmundsella pedata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flabellina_pedata_nudibranch.jpg/120px-Flabellina_pedata_nudibranch.jpg
+Flabellinidae,Rotrückige Fadenschnecke,Coryphella verrucosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flabellina-verrucosa-873.jpg/120px-Flabellina-verrucosa-873.jpg
+Nacktkiemer,Sternschnecken,Doridoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Halgerda_batangas.jpg/120px-Halgerda_batangas.jpg
+Sternschnecken,Leoparden-Sternschnecke,Peltodoris atromaculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Discodoris_atromaculata.jpg/120px-Discodoris_atromaculata.jpg
+Sternschnecken,Warzige Sternschnecke,Archidoris pseudoargus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Archidoris_pseudoargus.JPG/120px-Archidoris_pseudoargus.JPG
+Sternschnecken,Graue Sternschnecke,Jorunna tomentosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BEP2_1174-1.jpg/120px-BEP2_1174-1.jpg
+Sternschnecken,Halgerda batangas,Halgerda batangas,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Halgerda_batangas_Bali_2.jpg/120px-Halgerda_batangas_Bali_2.jpg
+Sternschnecken,Felimare californiensis,Felimare californiensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Blue_Dorid.jpg/120px-Blue_Dorid.jpg
+Nacktkiemer,Dendronotoidea,Dendronotoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Dendronotus_albus.jpg/120px-Dendronotus_albus.jpg
+Dendronotoidea,Zottige Bäumchenschnecke,Dendronotus frondosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dendronotus_frondosus_110388215_%28cropped%29.jpg/120px-Dendronotus_frondosus_110388215_%28cropped%29.jpg
+Dendronotoidea,Cabangus regius,Cabangus regius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/B151825-1.jpg/120px-B151825-1.jpg
+Dendronotoidea,Grüne Melibe,Melibe viridis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Melibe_mirifica.jpg/120px-Melibe_mirifica.jpg
+Dendronotoidea,Schleierschnecke,Tethys fimbria,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tethys_fimbria_2.png/120px-Tethys_fimbria_2.png
+Nacktkiemer,Warzenschnecken,Phyllidiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Phyllidia.jpg/120px-Phyllidia.jpg
+Warzenschnecken,Warzenschnecke,Phyllidia varicosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Phyllidia.jpg/120px-Phyllidia.jpg
+Warzenschnecken,Reticulidia fungia,Reticulidia fungia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Reticulidia_fungia.jpg/120px-Reticulidia_fungia.jpg
+Nacktkiemer,Acanthodorididae,Acanthodorididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Acanthodoris_hudsoni.jpg/120px-Acanthodoris_hudsoni.jpg
+Acanthodorididae,Weichwarzige Sternschnecke,Acanthodoris pilosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Acanthodoris_pilosa.jpg/120px-Acanthodoris_pilosa.jpg
+Nacktkiemer,Chromodoridoidea,Chromodoridoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/ChromodorisGeminus.jpg/120px-ChromodorisGeminus.jpg
+Chromodoridoidea,Spanische Tänzerinnen,Hexabranchidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hexabranchus_sanguineus_1.jpg/120px-Hexabranchus_sanguineus_1.jpg
+Spanische Tänzerinnen,Spanische Tänzerin,Hexabranchus sanguineus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hexabranchus_sanguineus_129152954.jpg/120px-Hexabranchus_sanguineus_129152954.jpg
+Chromodoridoidea,Prachtsternschnecken,Chromodorididae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Glossodoris_atromarginata_1.jpg/120px-Glossodoris_atromarginata_1.jpg
+Prachtsternschnecken,Pyjama-Sternschnecke,Chromodoris quadricolor,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PikiWiki_Israel_37509_Nudibranch_on_sponge.jpg/120px-PikiWiki_Israel_37509_Nudibranch_on_sponge.jpg
+Prachtsternschnecken,Ring-Prachtsternschnecke,Goniobranchus annulatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ChromodorisAnnulataJI1.jpg/120px-ChromodorisAnnulataJI1.jpg
+Prachtsternschnecken,Prachtsternschnecke,Rudmania krohni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Chromodoris_krohni_4_%28V%C3%A9rany%2C_1846%29.jpg/120px-Chromodoris_krohni_4_%28V%C3%A9rany%2C_1846%29.jpg
+Prachtsternschnecken,Felimare picta,Felimare picta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hypselodoris_picta_on_SS_Rosslyn%2C_300412.JPG/120px-Hypselodoris_picta_on_SS_Rosslyn%2C_300412.JPG
+Nacktkiemer,Tritoniidae,Tritoniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tritonia_festiva.jpg/120px-Tritonia_festiva.jpg
+Tritoniidae,Grosse Tritonia,Tritonia hombergii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tritonia_hombergii.png/120px-Tritonia_hombergii.png
+Nacktkiemer,Janolidae,Janolidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Janolus_fuscus_4.jpg/120px-Janolus_fuscus_4.jpg
+Janolidae,Silberspitzen Nacktschnecke,Antiopella capensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Silvertip_nudibranch.jpg/120px-Silvertip_nudibranch.jpg
+Janolidae,Janolus savinkini,Janolus savinkini,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Janolus.jpg/120px-Janolus.jpg
+Verschiedenkiemer,Landlungenschnecken,Stylommatophora,Ordnung,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cepaea_nemoralis_-_2005.jpg/120px-Cepaea_nemoralis_-_2005.jpg
+Landlungenschnecken,Bernsteinschnecken,Succineidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Succinea_putris_2.jpg/120px-Succinea_putris_2.jpg
+Bernsteinschnecken,Gemeine Bernsteinschnecke,Succinea putris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Succinea_putris_2.jpg/120px-Succinea_putris_2.jpg
+Bernsteinschnecken,Schlanke Bernsteinschnecke,Oxyloma elegans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oxyloma_elegans.jpg/120px-Oxyloma_elegans.jpg
+Bernsteinschnecken,Kleine Bernsteinschnecke,Succinella oblonga,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Succinella_oblonga1.jpg/120px-Succinella_oblonga1.jpg
+Landlungenschnecken,Glattschnecken (F),Cochlicopidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cochlicopa_lubrica_2.png/120px-Cochlicopa_lubrica_2.png
+Glattschnecken (F),Glattschnecken,Cochlicopa,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cochlicopa_lubrica_2.png/120px-Cochlicopa_lubrica_2.png
+Glattschnecken,Gemeine Glattschnecke,Cochlicopa lubrica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cochlicopa_lubrica_2.png/120px-Cochlicopa_lubrica_2.png
+Glattschnecken,Kleine Glattschnecke,Cochlicopa lubricella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cochlicopa_lubricella_01.jpg/120px-Cochlicopa_lubricella_01.jpg
+Glattschnecken,Glänzende Glattschnecke,Cochlicopa nitens,Art,not_found
+Landlungenschnecken,Pupilloidea,Pupilloidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Vertigo_moulinsiana_2.jpg/120px-Vertigo_moulinsiana_2.jpg
+Pupilloidea,Vielfrassschnecken,Enidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ena_montana.jpg/120px-Ena_montana.jpg
+Vielfrassschnecken,Märzenschnecke,Zebrina detrita,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Zebrina_detrita2.jpg/120px-Zebrina_detrita2.jpg
+Vielfrassschnecken,Berg-Vielfrassschnecke,Ena montana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ena_montana.jpg/120px-Ena_montana.jpg
+Vielfrassschnecken,Kleine Vielfrassschnecke,Merdigera obscura,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Merdigera-obscura_01.jpg/120px-Merdigera-obscura_01.jpg
+Vielfrassschnecken,Varna-Turmschnecke,Leucomastus varnensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Leucomastus_varnensis_06.jpg/120px-Leucomastus_varnensis_06.jpg
+Vielfrassschnecken,Dreizahn-Vielfrassschnecke,Chondrula tridens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chondrula_tridens_%28O.F.M%C3%BCller%2C_1774%29_%285585857338%29.jpg/120px-Chondrula_tridens_%28O.F.M%C3%BCller%2C_1774%29_%285585857338%29.jpg
+Vielfrassschnecken,Vierzahn-Vielfrassschnecke,Jaminia quadridens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Jaminia-quadridens_01.jpg/120px-Jaminia-quadridens_01.jpg
+Pupilloidea,Puppenschnecken,Pupillidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pupilla_muscorum.jpg/120px-Pupilla_muscorum.jpg
+Puppenschnecken,Moos-Puppenschnecken,Pupilla muscorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pupilla_muscorum_2.png/120px-Pupilla_muscorum_2.png
+Pupilloidea,Kornschnecken,Chondrinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chondrina_avenacea_shell.jpg/120px-Chondrina_avenacea_shell.jpg
+Kornschnecken,Wulstige Kornschnecke,Granaria frumentum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Granaria_frumentum_01.JPG/120px-Granaria_frumentum_01.JPG
+Kornschnecken,Roggenkornschnecke,Abida secale,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Abida-secale_01.jpg/120px-Abida-secale_01.jpg
+Kornschnecken,Feingerippte Haferkornschnecke,Chondrina arcadica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chondrina_arcadica_01.jpg/120px-Chondrina_arcadica_01.jpg
+Kornschnecken,Puppen-Kornschnecke,Granopupa granum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Granopupa-granum_10.jpg/120px-Granopupa-granum_10.jpg
+Pupilloidea,Fässchenschnecken,Orculidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Orcula_dolium.jpg/120px-Orcula_dolium.jpg
+Fässchenschnecken,Kleine Fässchenschnecke,Sphyradium doliolum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Sphyradium-doliolum_04.jpg/120px-Sphyradium-doliolum_04.jpg
+Fässchenschnecken,Grosse Fässchenschnecke,Orcula dolium,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Orcula_dolium_01.JPG/120px-Orcula_dolium_01.JPG
+Pupilloidea,Pyramidenschnecken,Pyramidulidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pyramidula_rupestris_shell.jpg/120px-Pyramidula_rupestris_shell.jpg
+Pyramidenschnecken,Felsen-Pyramidenschnecke,Pyramidula pusilla,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pyramidula_rupestris_01.jpg/120px-Pyramidula_rupestris_01.jpg
+Pupilloidea,Grassschnecken,Valloniidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Acanthinula_aculeata.jpg/120px-Acanthinula_aculeata.jpg
+Grassschnecken,Glatte Grassschnecke,Vallonia pulchella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vallonia_pulchella_shell_2.jpg/120px-Vallonia_pulchella_shell_2.jpg
+Grassschnecken,Stachelige Streuschnecke,Acanthinula aculeata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Acanthinula_aculeata_02.jpg/120px-Acanthinula_aculeata_02.jpg
+Grassschnecken,Bienenkörbchen,Spermodea lamellata,Art,not_found
+Pupilloidea,Windelschnecken,Vertiginidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vertigo_moulinsiana.jpg/120px-Vertigo_moulinsiana.jpg
+Windelschnecken,Gemeine Windelschnecke,Vertigo pygmaea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vertigo_pygmaea_shell_2.jpg/120px-Vertigo_pygmaea_shell_2.jpg
+Windelschnecken,Helle Zylinderwindelschnecke,Truncatellina claustralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Truncatellina-claustralis_03.jpg/120px-Truncatellina-claustralis_03.jpg
+Landlungenschnecken,Schliessmundschnecken,Clausiliidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Montenegrina-cattaroensis_01.jpg/120px-Montenegrina-cattaroensis_01.jpg
+Schliessmundschnecken,Gemeine Schliessmundschnecke,Alinda biplicata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Alinda_biplicata_01.jpg/120px-Alinda_biplicata_01.jpg
+Schliessmundschnecken,Glatte Schliessmundschnecke,Cochlodina laminata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SchneckeWoblitz06.jpg/120px-SchneckeWoblitz06.jpg
+Schliessmundschnecken,Simplon-Schliessmundschnecke,Charpentieria dyodon,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Charpentieria_dyodon.jpg/120px-Charpentieria_dyodon.jpg
+Schliessmundschnecken,Zweizähnige Schliessmundschnecke,Clausilia bidentata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Clausiliidae_-_Clausilia_bidentata_crenulata-5.JPG/120px-Clausiliidae_-_Clausilia_bidentata_crenulata-5.JPG
+Landlungenschnecken,Grosse Achatschnecken,Achatinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achatina.jpg/120px-Achatina.jpg
+Grosse Achatschnecken,Grosse Achatschnecke,Lissachatina fulica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Snail_in_Ubud%2C_Bali%2C_2010_%281%29.jpg/120px-Snail_in_Ubud%2C_Bali%2C_2010_%281%29.jpg
+Grosse Achatschnecken,Stumpfschnecke,Rumina decollata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Rumina_decollata_0106.JPG/120px-Rumina_decollata_0106.JPG
+Grosse Achatschnecken,Echte Achatschnecke,Achatina achatina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Achatina.jpg/120px-Achatina.jpg
+Landlungenschnecken,Helicoidea,Helicoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bradybaena_similaris_60096358.jpg/120px-Bradybaena_similaris_60096358.jpg
+Helicoidea,Schnirkelschnecken,Helicidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Grapevinesnail_01.jpg/120px-Grapevinesnail_01.jpg
+Schnirkelschnecken,Ariantinae,Ariantinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Arianta_arbustorum_Rax.jpg/120px-Arianta_arbustorum_Rax.jpg
+Ariantinae,Gefleckte Schnirkelschnecke,Arianta arbustorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20190730_Arianta_arbustorum_01.jpg/120px-20190730_Arianta_arbustorum_01.jpg
+Ariantinae,Steinpicker (Schnecke),Helicigona lapicida,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Agonus_cataphractus.jpg/120px-Agonus_cataphractus.jpg
+Ariantinae,Maskenschnecke,Isognomostoma isognomostomos,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Isognomostoma_isognomostomos.jpg/120px-Isognomostoma_isognomostomos.jpg
+Ariantinae,Grosse Felsenschnecke,Chilostoma cingulatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Chilostoma_cingulatum_baldense_01.jpg/120px-Chilostoma_cingulatum_baldense_01.jpg
+Schnirkelschnecken,Helicinae,Helicinae,Unterfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Helicinae_representatives_%28cropped%29.jpg/120px-Helicinae_representatives_%28cropped%29.jpg
+Helicinae,Bänderschnecken,Cepaea,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cepaea_nemoralis_active_pair_on_tree_trunk.jpg/120px-Cepaea_nemoralis_active_pair_on_tree_trunk.jpg
+Bänderschnecken,Garten-Bänderschnecke,Cepaea hortensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Snail-WA_edit02.jpg/120px-Snail-WA_edit02.jpg
+Bänderschnecken,Hain-Bänderschnecke,Cepaea nemoralis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cepaea_nemoralis_%28Mad_Max%29.jpg/120px-Cepaea_nemoralis_%28Mad_Max%29.jpg
+Helicinae,Gerippter Bäderschnecke,Caucasotachea vindobonensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cepaea_vindobonensis1.jpg/120px-Cepaea_vindobonensis1.jpg
+Helicinae,Helix,Helix,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helix_diagram-de.png/120px-Helix_diagram-de.png
+Helix,Gestreifte Weinbergschnecke,Helix lucorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Helix_lucorum2.jpg/120px-Helix_lucorum2.jpg
+Helix,Weinbergschnecke,Helix pomatia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Helix_pomatia_002.JPG/120px-Helix_pomatia_002.JPG
+Helix,Podolische Weinbergschnecke,Helix lutescens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Slimak_lutescens.jpg/120px-Slimak_lutescens.jpg
+Helicinae,Grunzschnecke,Cantareus apertus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cantareus_apertus_02.jpg/120px-Cantareus_apertus_02.jpg
+Helicinae,Gefleckte Weinbergschnecke,Cornu aspersum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cornu_aspersum_locomotion_IMG_3693.jpg/120px-Cornu_aspersum_locomotion_IMG_3693.jpg
+Helicinae,Schwarzmund-Feldschnecke,Otala lactea,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Otala_lactea_01.JPG/120px-Otala_lactea_01.JPG
+Helicinae,Mittelmeer-Sandschnecke,Theba pisana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Theba_pisana_0109.JPG/120px-Theba_pisana_0109.JPG
+Helicinae,Divertikelschnecke,Eobania vermiculata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Eobania_vermiculata_0111.JPG/120px-Eobania_vermiculata_0111.JPG
+Helicoidea,Strauchschnecken,Camaenidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fruticicola_fruticum.jpg/120px-Fruticicola_fruticum.jpg
+Strauchschnecken,Genabelte Strauchschnecke,Fruticicola fruticum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Fruticicola_fruticum.jpg/120px-Fruticicola_fruticum.jpg
+Helicoidea,Riemenschnecken,Helicodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Helicodonta_obvoluta.jpg/120px-Helicodonta_obvoluta.jpg
+Riemenschnecken,Riemenschnecke,Helicodonta obvoluta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Helicodonta_obvoluta_01.JPG/120px-Helicodonta_obvoluta_01.JPG
+Riemenschnecken,Küssende Inselschnecke,Lindholmiola lens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Lindholmiola_lens_01.JPG/120px-Lindholmiola_lens_01.JPG
+Helicoidea,Laubschnecken,Hygromiidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trochulus_hispidus_live.jpg/120px-Trochulus_hispidus_live.jpg
+Laubschnecken,Gemeine Haarschnecke,Trochulus hispidus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Trochulus_hispidus_live.jpg/120px-Trochulus_hispidus_live.jpg
+Laubschnecken,Kantige Laubschnecke,Hygromia cinctella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hygromia_cinctella1.jpg/120px-Hygromia_cinctella1.jpg
+Laubschnecken,Rötliche Laubschnecke,Monachoides incarnatus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Monachoides_incarnatus.jpg/120px-Monachoides_incarnatus.jpg
+Laubschnecken,Ufer-Laubschnecke,Pseudotrichia rubiginosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pseudotrichia_rubiginosa2.jpg/120px-Pseudotrichia_rubiginosa2.jpg
+Laubschnecken,Grosse Laubschnecke,Euomphalia strigella,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Euomphalia_strigella.jpg/120px-Euomphalia_strigella.jpg
+Laubschnecken,Kartäuserschnecke,Monacha cartusiana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kart%C3%A4userschnecke_%28Monacha_cartusiana%29.jpg/120px-Kart%C3%A4userschnecke_%28Monacha_cartusiana%29.jpg
+Landlungenschnecken,Gastrodontoidea,Gastrodontoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zonitoides_arboreus.jpg/120px-Zonitoides_arboreus.jpg
+Gastrodontoidea,Dolchschnecken,Gastrodontidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Zonitoides_nitidus1pl.jpg/120px-Zonitoides_nitidus1pl.jpg
+Dolchschnecken,Gewächshaus-Dolchschnecke,Zonitoides arboreus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zonitoides_arboreus.jpg/120px-Zonitoides_arboreus.jpg
+Dolchschnecken,Rötliche Glanzschnecke,Aegopinella nitidula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Aegopinella_nitidula.png/120px-Aegopinella_nitidula.png
+Gastrodontoidea,Glanzschnecken,Oxychilidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Oxychilus_draparnaudi_2.jpg/120px-Oxychilus_draparnaudi_2.jpg
+Glanzschnecken,Grosse Glanzschnecke,Oxychilus draparnaudi,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oxychilus_draparnaudi.jpg/120px-Oxychilus_draparnaudi.jpg
+Glanzschnecken,Glatte Glanzschnecke,Morlina glabra,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Oxychilus-glaber_03.jpg/120px-Oxychilus-glaber_03.jpg
+Glanzschnecken,Kleine Daudebardie,Daudebardia brevipes,Art,not_found
+Gastrodontoidea,Kristallschnecken,Pristilomatidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hawaiia_minuscula_shell.jpg/120px-Hawaiia_minuscula_shell.jpg
+Kristallschnecken,Falsche Scheibchenschnecke,Hawaiia minuscula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hawaiia_minuscula_shell.jpg/120px-Hawaiia_minuscula_shell.jpg
+Kristallschnecken,Gemeine Kristallschnecke,Vitrea crystallina,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vitrea_crystallina_01.jpg/120px-Vitrea_crystallina_01.jpg
+Landlungenschnecken,Parmacelloidea,Parmacelloidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tandonia_budapestensis.jpg/120px-Tandonia_budapestensis.jpg
+Parmacelloidea,Mantelschnegel,Parmacellidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cryptella_canariensis.jpg/120px-Cryptella_canariensis.jpg
+Mantelschnegel,Cryptella canariensis,Cryptella canariensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cryptella_canariensis.jpg/120px-Cryptella_canariensis.jpg
+Mantelschnegel,Parmacella valenciennii,Parmacella valenciennii,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Parmacella_valenciennii.jpg/120px-Parmacella_valenciennii.jpg
+Parmacelloidea,Kielschnegel,Milacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tandonia_budapestensis.jpg/120px-Tandonia_budapestensis.jpg
+Kielschnegel,Dunkler Kielschnegel,Milax gagates,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Milax_gagates.jpg/120px-Milax_gagates.jpg
+Kielschnegel,Boden-Kielschnegel,Tandonia budapestensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tandonia_budapestensis.jpg/120px-Tandonia_budapestensis.jpg
+Landlungenschnecken,Limacoidea,Limacoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Limax_cinereoniger.JPG/120px-Limax_cinereoniger.JPG
+Limacoidea,Schnegel,Limacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Limax_cinereoniger.JPG/120px-Limax_cinereoniger.JPG
+Schnegel,Limax,Limax,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Leopard_Slug_Somerville_MA.jpeg/120px-Leopard_Slug_Somerville_MA.jpeg
+Limax,Tigerschnegel,Limax maximus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/LimaxMaximus.jpg/120px-LimaxMaximus.jpg
+Limax,Schwarzer Schnegel,Limax cinereoniger,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Limax_cinereoniger_05.jpg/120px-Limax_cinereoniger_05.jpg
+Schnegel,Bierschnegel,Limacus flavus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Salyangoz.JPG/120px-Salyangoz.JPG
+Schnegel,Gewächshausschnegel,Ambigolimax valentianus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lehmannia_valentiana_2011_NYC.JPG/120px-Lehmannia_valentiana_2011_NYC.JPG
+Schnegel,Baumschnegel,Lehmannia marginata,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lehmannia.marginata.-.lindsey.jpg/120px-Lehmannia.marginata.-.lindsey.jpg
+Schnegel,Blauschnegel,Bielzia coerulans,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bielzia_coerulans_Atemloch.JPG/120px-Bielzia_coerulans_Atemloch.JPG
+Schnegel,Pilzschnegel,Malacolimax tenellus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Malacolimax.tenellus.jpg/120px-Malacolimax.tenellus.jpg
+Limacoidea,Ackerschnecken,Agriolimacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Deroceras_praecox.jpg/120px-Deroceras_praecox.jpg
+Ackerschnecken,Genetzte Ackerschnecke,Deroceras reticulatum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Deroceras_reticulatum.png/120px-Deroceras_reticulatum.png
+Ackerschnecken,Mittelschnegel,Mesolimax brauni,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mesolimax_brauni_112909624.jpg/120px-Mesolimax_brauni_112909624.jpg
+Limacoidea,Wurmschnegel,Boettgerillidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boettgerilla_pallens_2.jpg/120px-Boettgerilla_pallens_2.jpg
+Wurmschnegel,Wurmnacktschnecke,Boettgerilla pallens,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boettgerilla_pallens_2.jpg/120px-Boettgerilla_pallens_2.jpg
+Limacoidea,Glasschnecken,Vitrinidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eucobresia_diaphana.jpg/120px-Eucobresia_diaphana.jpg
+Glasschnecken,Ohrförmige Glasschnecke,Eucobresia diaphana,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eucobresia_diaphana.jpg/120px-Eucobresia_diaphana.jpg
+Glasschnecken,Weitmündige Glasschnecke,Semilimax semilimax,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Semilimax_semilimax_01.jpg/120px-Semilimax_semilimax_01.jpg
+Glasschnecken,Kugelige Glasschnecke,Vitrina pellucida,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vitrina_pellucida_01.jpg/120px-Vitrina_pellucida_01.jpg
+Glasschnecken,Kurze Glasschnecke,Vitrinobrachium breve,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Vitrinobrachium-breve_01.jpg/120px-Vitrinobrachium-breve_01.jpg
+Glasschnecken,Grosse Glasschnecke,Phenacolimax major,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Phenacolimax-major_01.jpg/120px-Phenacolimax-major_01.jpg
+Landlungenschnecken,Arionoidea,Arionoidea,Überfamilie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Somesortofslug.jpg/120px-Somesortofslug.jpg
+Arionoidea,Wegschnecken,Arionidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arion_vulgaris_3.jpg/120px-Arion_vulgaris_3.jpg
+Wegschnecken,Arion,Arion,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flute-player_dolphin_Alcesti_Group_MAN.jpg/120px-Flute-player_dolphin_Alcesti_Group_MAN.jpg
+Arion,Schwarze Wegschnecke,Arion ater,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Black_slug.jpg/120px-Black_slug.jpg
+Arion,Rote Wegschnecke,Arion rufus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nacktschnecke_01_KMJ.jpg/120px-Nacktschnecke_01_KMJ.jpg
+Arion,Spanische Wegschnecke,Arion vulgaris,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arion_vulgaris_3.jpg/120px-Arion_vulgaris_3.jpg
+Arion,Graue Wegschnecke,Arion circumscriptus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arion.circumscriptus.jpg/120px-Arion.circumscriptus.jpg
+Arion,Alpen-Wegschnecke,Arion obesoductus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Arion_obesoductus.jpg/120px-Arion_obesoductus.jpg
+Arion,Gemeine Wegschnecke,Arion distinctus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Arion_distinctus_1.jpg/120px-Arion_distinctus_1.jpg
+Arion,Garten-Wegschnecke,Arion hortensis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arion_hortensis.jpg/120px-Arion_hortensis.jpg
+Arion,Kleine Wegschnecke,Arion intermedius,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arion.intermedius.-.lindsey.jpg/120px-Arion.intermedius.-.lindsey.jpg
+Arion,Braune Wegschnecke,Arion fuscus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Arion_subfuscus.jpg/120px-Arion_subfuscus.jpg
+Wegschnecken,Gelbgefleckte Wegschnecke,Geomalacus maculosus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geomalacus_maculosus_8.jpg/120px-Geomalacus_maculosus_8.jpg
+Arionoidea,Ariolimacidae,Ariolimacidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Somesortofslug.jpg/120px-Somesortofslug.jpg
+Ariolimacidae,Bananenschnecken,Ariolimax,Gattung,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Somesortofslug.jpg/120px-Somesortofslug.jpg
+Verschiedenkiemer,Süsswasserlungenschnecken,Hygrophila,Ordnung,not_found
+Süsswasserlungenschnecken,Schlammschnecken,Lymnaeidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Water_snail_Rex_2.jpg/120px-Water_snail_Rex_2.jpg
+Schlammschnecken,Spitzschlammschnecke,Lymnaea stagnalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Water_snail_Rex_2.jpg/120px-Water_snail_Rex_2.jpg
+Schlammschnecken,Gemeine Schlammschnecke,Ampullaceana balthica,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Radix_balthica_01.JPG/120px-Radix_balthica_01.JPG
+Schlammschnecken,Ohrschlammschnecke,Radix auricularia,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Radix_auricularia_auricularia_01.JPG/120px-Radix_auricularia_auricularia_01.JPG
+Schlammschnecken,Kleine Sumpfschnecke,Galba truncatula,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Galba_truncatula_2.jpg/120px-Galba_truncatula_2.jpg
+Schlammschnecken,Mantelschnecke,Myxas glutinosa,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Myxas_glutinosa.jpg/120px-Myxas_glutinosa.jpg
+Süsswasserlungenschnecken,Blasenschnecken,Physidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Blasenschnecke.jpg/120px-Blasenschnecke.jpg
+Blasenschnecken,Spitze Blasenschnecke,Physella acuta,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blasenschnecke_01.jpg/120px-Blasenschnecke_01.jpg
+Blasenschnecken,Moosblasenschnecke,Aplexa hypnorum,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Aplexa_hypnorum_A_MRKVICKA.JPG/120px-Aplexa_hypnorum_A_MRKVICKA.JPG
+Blasenschnecken,Quellblasenschnecke,Physa fontinalis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Physa_fontinalis.jpg/120px-Physa_fontinalis.jpg
+Süsswasserlungenschnecken,Tellerschnecken,Planorbidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Planorbarius_corneus_01.jpg/120px-Planorbarius_corneus_01.jpg
+Tellerschnecken,Posthornschnecke,Planorbarius corneus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/120px-Planorbarius_corneus_%28Great_Ramshorn_Snail%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg
+Tellerschnecken,Gemeine Tellerschnecke,Planorbis planorbis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Planorbis_planorbis_001.JPG/120px-Planorbis_planorbis_001.JPG
+Tellerschnecken,Flussmützenschnecke,Ancylus fluviatilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AF_40002_D_Ancylus_fluviatilis_b.jpg/120px-AF_40002_D_Ancylus_fluviatilis_b.jpg
+Tellerschnecken,Scharfe Tellerschnecke,Anisus vortex,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Anisus_vortex.jpg/120px-Anisus_vortex.jpg
+Tellerschnecken,Amerikanisches Posthörnchen,Gyraulus parvus,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gyraulus_parvus_0780_%2838386108562%29.jpg/120px-Gyraulus_parvus_0780_%2838386108562%29.jpg
+Schnecken,Neritimorpha,Neritimorpha,Unterklasse,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Neritimorpha_composite_02.jpg/120px-Neritimorpha_composite_02.jpg
+Neritimorpha,Kahnschnecken,Neritidae,Familie,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neritina-natalensis.jpg/120px-Neritina-natalensis.jpg
+Kahnschnecken,Gemeine Kahnschnecke,Theodoxus fluviatilis,Art,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Theodoxus_fluviatilis_3.png/120px-Theodoxus_fluviatilis_3.png
 Schalenweichtiere,Kopffüsser,Cephalopoda,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Octopus_macropus_-_The_Coral_Kingdom_Collection.jpg/120px-Octopus_macropus_-_The_Coral_Kingdom_Collection.jpg
 Schalenweichtiere,Kahnfüsser,Scaphopoda,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Antalis_vulgaris.jpg/120px-Antalis_vulgaris.jpg
 Schalenweichtiere,Muscheln,Bivalvia,Klasse,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bivalvia.jpg/120px-Bivalvia.jpg
