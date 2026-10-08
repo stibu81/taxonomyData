@@ -2471,32 +2471,33 @@ Kieferklauenträger,Spinnentiere,Arachnida,Klasse,,,,https://upload.wikimedia.or
 Spinnentiere,Milben,Acari,Unterklasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Peacock_mite%2C_Tuckerella_sp.jpg/120px-Peacock_mite%2C_Tuckerella_sp.jpg
 Milben,Trombidiformes,Trombidiformes,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Trombidium_holosericeum_%28aka%29.jpg/120px-Trombidium_holosericeum_%28aka%29.jpg
 Trombidiformes,Gallmilben,Eriophyidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Eriophyes_tilae_tilae_detail.JPG/120px-Eriophyes_tilae_tilae_detail.JPG
-Gallmilben,Ahorn-Gallmilbe,Aceria macrorhynchus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg/120px-Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg
+Gallmilben,Ahorn-Gallmilbe,Aceria macrorhyncha,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg/120px-Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg
 Gallmilben,Apfelrostmilbe,Aculus schlechtendali,Art,,,,not_found
-Gallmilben,Lindengallmilbe,Eriophyes tiliae,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Galle_Lindengallmilbe_Eriophyes_tiliae.JPG/120px-Galle_Lindengallmilbe_Eriophyes_tiliae.JPG
-Trombidiformes,Rote Samtmilbe,Trombidium holosericeum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trombidium_holosericeum_LC0127.jpg/120px-Trombidium_holosericeum_LC0127.jpg
+Gallmilben,Lindengallmilbe,Eriophyes tiliae,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Galle_Lindengallmilbe_Eriophyes_tiliae.JPG/120px-Galle_Lindengallmilbe_Eriophyes_tiliae.JPG
+Trombidiformes,Rote Samtmilbe,Trombidium holosericeum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trombidium_holosericeum_LC0127.jpg/120px-Trombidium_holosericeum_LC0127.jpg
 Milben,Mesostigmata,Mesostigmata,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Varroa_destructor%2C_1_2019-09-06-19.12.07_ZS_PMax_UDR_%2848697155713%29.jpg/120px-Varroa_destructor%2C_1_2019-09-06-19.12.07_ZS_PMax_UDR_%2848697155713%29.jpg
-Mesostigmata,Varroamilbe,Varroa destructor,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Varroamilbe.jpg/120px-Varroamilbe.jpg
+Mesostigmata,Varroamilbe,Varroa destructor,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Varroamilbe.jpg/120px-Varroamilbe.jpg
 Mesostigmata,Gemeine Käfermilbe,Parasitus coleoptratum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruhland%2C_Grenzstr.%2C_Kompostgrube_am_Wald_hinter_Hausnr._3%2C_Waldmistk%C3%A4fer_mit_Milben%2C_Fr%C3%BChling%2C_01.jpg/120px-Ruhland%2C_Grenzstr.%2C_Kompostgrube_am_Wald_hinter_Hausnr._3%2C_Waldmistk%C3%A4fer_mit_Milben%2C_Fr%C3%BChling%2C_01.jpg
 Milben,Sarcoptiformes,Sarcoptiformes,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
 Sarcoptiformes,Hausstaubmilben,Dermatophagoides,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/House_Dust_Mite.jpg/120px-House_Dust_Mite.jpg
 Sarcoptiformes,Grabmilben,Sarcoptes,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
 Grabmilben,Milzbrand-Milbe,Sarcoptes anthracis,Art,,,,not_found
-Grabmilben,Krätzemilbe,Sarcoptes scabiei,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
+Grabmilben,Krätzemilbe,Sarcoptes scabiei,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sarcoptes_scabei_2.jpg/120px-Sarcoptes_scabei_2.jpg
 Milben,Zecken,Ixodida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
 Zecken,Lederzecken,Argasidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Argas_reflexus.jpg/120px-Argas_reflexus.jpg
 Lederzecken,Taubenzecke,Argas reflexus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Argas_reflexus.jpg/120px-Argas_reflexus.jpg
+Lederzecken,Kurzbeinige Fledermauszecke,Carios vespertilionis,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Carios_vespertilionis_455580254.jpg/120px-Carios_vespertilionis_455580254.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Zecken,Schildzecken,Ixodidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
 Schildzecken,Ixodes,Ixodes,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ixodus_ricinus_5x.jpg/120px-Ixodus_ricinus_5x.jpg
-Ixodes,Gemeiner Holzbock,Ixodes ricinus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ixodes_ricinus_on_dry_grass.jpg/120px-Ixodes_ricinus_on_dry_grass.jpg
-Ixodes,Hirschzecke,Ixodes scapularis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Adult_deer_tick.jpg/120px-Adult_deer_tick.jpg
-Ixodes,Igelzecke,Ixodes hexagonus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
+Ixodes,Gemeiner Holzbock,Ixodes ricinus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ixodes_ricinus_on_dry_grass.jpg/120px-Ixodes_ricinus_on_dry_grass.jpg
+Ixodes,Hirschzecke,Ixodes scapularis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Adult_deer_tick.jpg/120px-Adult_deer_tick.jpg
+Ixodes,Igelzecke,Ixodes hexagonus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ixodes_hexagonus_%28aka%29.jpg/120px-Ixodes_hexagonus_%28aka%29.jpg
 Ixodes,Fuchszecke,Ixodes canisuga,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ixodes_canisuga_109056782.jpg/120px-Ixodes_canisuga_109056782.jpg
 Schildzecken,Buntzecken,Dermacentor,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dermacentor_reticulatus_M_070825.jpg/120px-Dermacentor_reticulatus_M_070825.jpg
-Buntzecken,Schafzecken,Dermacentor marginatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dermacentor_marginatus.JPG/120px-Dermacentor_marginatus.JPG
-Buntzecken,Wiesenzecke,Dermacentor reticulatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dermacentor_reticulatus_M_070825.jpg/120px-Dermacentor_reticulatus_M_070825.jpg
+Buntzecken,Schafzecke,Dermacentor marginatus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dermacentor_marginatus.JPG/120px-Dermacentor_marginatus.JPG
+Buntzecken,Wiesenzecke,Dermacentor reticulatus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dermacentor_reticulatus_M_070825.jpg/120px-Dermacentor_reticulatus_M_070825.jpg
 Schildzecken,Lone-Star-Zecke,Amblyomma americanum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amblyomma_americanum_tick.jpg/120px-Amblyomma_americanum_tick.jpg
-Schildzecken,Braune Hundezecke,Rhipicephalus sanguineus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhipicephalus_sanguineus.jpg/120px-Rhipicephalus_sanguineus.jpg
+Schildzecken,Braune Hundezecke,Rhipicephalus sanguineus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhipicephalus_sanguineus.jpg/120px-Rhipicephalus_sanguineus.jpg
 Spinnentiere,Webspinnen,Araneae,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Spiders_Diversity.jpg/120px-Spiders_Diversity.jpg
 Webspinnen,Vogelspinnenartige,Mygalomorphae,Unterordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Psalmopoeus_irminia_2.jpg/120px-Psalmopoeus_irminia_2.jpg
 Vogelspinnenartige,Röhrenvogelspinnen,Hexathelidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Female_Banded_tunnelweb_spider_%28Hexathele_hochstetteri%29_-_%281%29.jpg/120px-Female_Banded_tunnelweb_spider_%28Hexathele_hochstetteri%29_-_%281%29.jpg
@@ -2523,74 +2524,87 @@ Poecilotheriinae,Blaue Ornament-Vogelspinne,Poecilotheria metallica,Art,,,,https
 Poecilotheriinae,Tigervogelspinne,Poecilotheria regalis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spiders_Genova_-_Poecilotheria_regalis_2.jpg/120px-Spiders_Genova_-_Poecilotheria_regalis_2.jpg
 Vogelspinnenartige,Tapezierspinnen,Atypidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sphodros_rufipes.JPG/120px-Sphodros_rufipes.JPG
 Tapezierspinnen,Atypus,Atypus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Atypus_karschi.jpg/120px-Atypus_karschi.jpg
-Atypus,Gemeine Tapezierspinne,Atypus affinis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Atypus_affinis.jpg/120px-Atypus_affinis.jpg
-Atypus,Pechschwarze Tapezierspinne,Atypus piceus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Atypus_piceus_side.JPG/120px-Atypus_piceus_side.JPG
+Atypus,Gemeine Tapezierspinne,Atypus affinis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Atypus_affinis.jpg/120px-Atypus_affinis.jpg
+Atypus,Pechschwarze Tapezierspinne,Atypus piceus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Atypus_piceus_side.JPG/120px-Atypus_piceus_side.JPG
 Vogelspinnenartige,Eigentliche Falltürspinnen,Ctenizidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Stasimopus_fg01.jpg/120px-Stasimopus_fg01.jpg
 Eigentliche Falltürspinnen,Cteniza sauvagesi,Cteniza sauvagesi,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Corsican_Trapdoor_Spider_%28Cteniza_sauvagesi%29_%2816586173944%29.jpg/120px-Corsican_Trapdoor_Spider_%28Cteniza_sauvagesi%29_%2816586173944%29.jpg
 Webspinnen,Echte Webspinnen,Araneomorphae,Unterordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Salticus_scenicus_with_a_fly_V.jpg/120px-Salticus_scenicus_with_a_fly_V.jpg
 Echte Webspinnen,Entelegynae,Entelegynae,Teilordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Clubiona_corticalis_Wb_080504.jpg/120px-Clubiona_corticalis_Wb_080504.jpg
 Entelegynae,Trichterspinnen,Agelenidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Trichterspinne_Nahaufnahme.jpg/120px-Trichterspinne_Nahaufnahme.jpg
+Trichterspinnen,Bunte Spaltentrichterspinne,Tetrix denticulata,Art,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Textrix_denticulata_090804.jpg/120px-Textrix_denticulata_090804.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Trichterspinnen,Kleine Winkelspinnen,Tegenaria,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Winkelpinne.jpg/120px-Winkelpinne.jpg
-Kleine Winkelspinnen,Hauswinkelspinne,Tegenaria domestica,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tegenaria_domestica-f.jpg/120px-Tegenaria_domestica-f.jpg
-Kleine Winkelspinnen,Rostrote Winkelspinne,Tegenaria ferruginea,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Malthonica_ferruginea%2C_bonte_trechterspin.jpg/120px-Malthonica_ferruginea%2C_bonte_trechterspin.jpg
-Kleine Winkelspinnen,Mauerwinkelspinne,Tegenaria parietina,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edn_tegenaria_parietina_D1150.jpg/120px-Edn_tegenaria_parietina_D1150.jpg
+Kleine Winkelspinnen,Kleine Hauswinkelspinne,Tegenaria domestica,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tegenaria_domestica-f.jpg/120px-Tegenaria_domestica-f.jpg
+Kleine Winkelspinnen,Rostrote Winkelspinne,Tegenaria ferruginea,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Malthonica_ferruginea%2C_bonte_trechterspin.jpg/120px-Malthonica_ferruginea%2C_bonte_trechterspin.jpg
+Kleine Winkelspinnen,Mauerwinkelspinne,Tegenaria parietina,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Edn_tegenaria_parietina_D1150.jpg/120px-Edn_tegenaria_parietina_D1150.jpg
 Trichterspinnen,Bodentrichterspinnen,Coelotes,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coelotes_atropos_female_dorsal.jpg/120px-Coelotes_atropos_female_dorsal.jpg
 Bodentrichterspinnen,Westliche Bodentrichterspinne,Coelotes atropos,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Coelotes_atropos_female_dorsal.jpg/120px-Coelotes_atropos_female_dorsal.jpg
-Bodentrichterspinnen,Gewöhnliche Bodentrichterspinne,Coelotes terrestris,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erdfinsterspinne_Coelotes_terrestris.jpg/120px-Erdfinsterspinne_Coelotes_terrestris.jpg
-Trichterspinnen,Feldwinkelspinne,Eratigena agrestis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tegenaria_agrestis_070903.jpg/120px-Tegenaria_agrestis_070903.jpg
-Trichterspinnen,Labyrinthspinne,Agelena labyrinthica,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg/120px-Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg
+Bodentrichterspinnen,Gewöhnliche Bodentrichterspinne,Coelotes terrestris,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Erdfinsterspinne_Coelotes_terrestris.jpg/120px-Erdfinsterspinne_Coelotes_terrestris.jpg
+Trichterspinnen,Winkelspinnen,Eratigena,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Eratigena_agrestis_-_Julien_Tchilinguirian_-_588837678.jpeg/120px-Eratigena_agrestis_-_Julien_Tchilinguirian_-_588837678.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Winkelspinnen,Grosse Hauswinkelspinne,Eratigena atrica,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Focus_stacked_spider.jpg/120px-Focus_stacked_spider.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Winkelspinnen,Feldwinkelspinne,Eratigena agrestis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tegenaria_agrestis_070903.jpg/120px-Tegenaria_agrestis_070903.jpg
+Trichterspinnen,Grosse Labyrinthspinne,Agelena labyrinthica,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg/120px-Labyrinth_spider_%28Agelena_labyrinthica%29_female_in_web_funnel.jpg
 Entelegynae,Radnetzspinnen,Araneoidea,Überfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AaurantiaQtr.jpg/120px-AaurantiaQtr.jpg
 Radnetzspinnen,Echte Radnetzspinnen,Araneidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kreuzspinne1.jpg/120px-Kreuzspinne1.jpg
 Echte Radnetzspinnen,Kreuzspinnen,Araneus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Araneus_diadematus%2C_Livorno_1.JPG/120px-Araneus_diadematus%2C_Livorno_1.JPG
-Kreuzspinnen,Gartenkreuzspinne,Araneus diadematus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Araneus_diadematus_7.jpg/120px-Araneus_diadematus_7.jpg
-Kreuzspinnen,Vierfleckkreuzspinne,Araneus quadratus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Araneus_quadratus_070825.jpg/120px-Araneus_quadratus_070825.jpg
-Kreuzspinnen,Marmorierte Kreuzspinne,Araneus marmoreus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Marbled_Orb_Weaver.jpg/120px-Marbled_Orb_Weaver.jpg
+Kreuzspinnen,Gartenkreuzspinne,Araneus diadematus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Araneus_diadematus_7.jpg/120px-Araneus_diadematus_7.jpg
+Kreuzspinnen,Vierfleckkreuzspinne,Araneus quadratus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Araneus_quadratus_070825.jpg/120px-Araneus_quadratus_070825.jpg
+Kreuzspinnen,Marmorierte Kreuzspinne,Araneus marmoreus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Marbled_Orb_Weaver.jpg/120px-Marbled_Orb_Weaver.jpg
 Kreuzspinnen,Riesenkreuzspinne,Araneus grossus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Araneus.grossus.8068.jpg/120px-Araneus.grossus.8068.jpg
-Echte Radnetzspinnen,Wespenspinne,Argiope bruennichi,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Argiope_bruennichi_08Oct10.jpg/120px-Argiope_bruennichi_08Oct10.jpg
+Kreuzspinnen,Mittelmeer-Kreuzspinne,Araneus circe,Art,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Croat_fg014.jpg/120px-Croat_fg014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Echte Radnetzspinnen,Wespenspinne,Argiope bruennichi,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Argiope_bruennichi_08Oct10.jpg/120px-Argiope_bruennichi_08Oct10.jpg
 Echte Radnetzspinnen,Kürbisspinnen,Araniella,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Araniella_cucurbitina_II.jpg/120px-Araniella_cucurbitina_II.jpg
-Kürbisspinnen,Kürbisspinne,Araniella cucurbitina,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Araniella_cucurbitina_II.jpg/120px-Araniella_cucurbitina_II.jpg
-Kürbisspinnen,Rote Kürbisspinne,Araniella displicata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Araniella_displicata_female_1.jpg/120px-Araniella_displicata_female_1.jpg
-Kürbisspinnen,Verkannte Kürbisspinne,Araniella opisthographa,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Araniella_opisthographa_m_080514.jpg/120px-Araniella_opisthographa_m_080514.jpg
+Kürbisspinnen,Gewöhnliche Kürbisspinne,Araniella cucurbitina,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Araniella_cucurbitina_II.jpg/120px-Araniella_cucurbitina_II.jpg
+Kürbisspinnen,Wipfel-Kürbisspinne,Araniella alpica,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Araniella_alpica_82318184.jpg/120px-Araniella_alpica_82318184.jpg
+Kürbisspinnen,Rote Kürbisspinne,Araniella displicata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Araniella_displicata_female_1.jpg/120px-Araniella_displicata_female_1.jpg
+Kürbisspinnen,Verkannte Kürbisspinne,Araniella opisthographa,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Araniella_opisthographa_m_080514.jpg/120px-Araniella_opisthographa_m_080514.jpg
 Echte Radnetzspinnen,Gasteracantha cancriformis,Gasteracantha cancriformis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gasteracantha_cancriformis_2.jpg/120px-Gasteracantha_cancriformis_2.jpg
-Echte Radnetzspinnen,Schilfradspinne,Larinioides cornutus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larinioides_cornutus_2006-07-05.jpg/120px-Larinioides_cornutus_2006-07-05.jpg
-Echte Radnetzspinnen,Eichblatt-Radspinne,Aculepeira ceropegia,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Araneus_ceropegius_fg01.jpg/120px-Araneus_ceropegius_fg01.jpg
+Echte Radnetzspinnen,Feuchtkreuzspinnen,Larinioides,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Larinioides_cornutus_2006-07-05.jpg/120px-Larinioides_cornutus_2006-07-05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Feuchtkreuzspinnen,Brückenkreuzspinne,Larinioides sclopetarius,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Larinioides_sclopetarius_WP_070910.jpg/120px-Larinioides_sclopetarius_WP_070910.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Feuchtkreuzspinnen,Heckenkreuzspinne,Larinioides patagiatus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Furrow_Orbweaver_-_Larinioides_patagiatus%2C_Vaseux_Lake_Provincial_Park%2C_Okanagan_Falls%2C_British_Columbia.jpg/120px-Furrow_Orbweaver_-_Larinioides_patagiatus%2C_Vaseux_Lake_Provincial_Park%2C_Okanagan_Falls%2C_British_Columbia.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Feuchtkreuzspinnen,Gewöhnliche Schilfradspinne,Larinioides cornutus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Larinioides_cornutus_2006-07-05.jpg/120px-Larinioides_cornutus_2006-07-05.jpg
+Echte Radnetzspinnen,Eichblatt-Radspinne,Aculepeira ceropegia,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Araneus_ceropegius_fg01.jpg/120px-Araneus_ceropegius_fg01.jpg
 Radnetzspinnen,Kugelspinnen,Theridiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
 Kugelspinnen,Fettspinnen,Steatoda,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
-Fettspinnen,Gewöhnliche Fettspinne,Steatoda bipunctata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
+Fettspinnen,Dreiecks-Fettspinne,Steatoda triangulosa,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Steatoda_triangulosa_5314.jpg/120px-Steatoda_triangulosa_5314.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Fettspinnen,Gewöhnliche Fettspinne,Steatoda bipunctata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Steatoda_bipunctata_female_%28aka%29.jpg/120px-Steatoda_bipunctata_female_%28aka%29.jpg
 Fettspinnen,Falsche Schwarze Witwe,Steatoda paykulliana,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/False_Widow_Spider_%28Steatoda_paykulliana%29_%2814373246443%29.jpg/120px-False_Widow_Spider_%28Steatoda_paykulliana%29_%2814373246443%29.jpg
 Kugelspinnen,Mondspinnen,Parasteatoda,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Achae_tepid.JPG/120px-Achae_tepid.JPG
-Mondspinnen,Gewächshaussipnne,Parasteatoda tepidariorum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg/120px-Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg
-Mondspinnen,Gewöhnliche Mondspinne,Parasteatoda lunata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Achaearanea_lunata_w_080516.jpg/120px-Achaearanea_lunata_w_080516.jpg
+Mondspinnen,Gewächshaussipnne,Parasteatoda tepidariorum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg/120px-Common_House_Spider_-_Parasteatoda_tepidariorum%2C_Woodbridge%2C_Virginia_-_16193579875.jpg
+Mondspinnen,Gewöhnliche Mondspinne,Parasteatoda lunata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Achaearanea_lunata_w_080516.jpg/120px-Achaearanea_lunata_w_080516.jpg
 Kugelspinnen,Echte Witwen,Latrodectus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Latrodectus_tridecimguttatus.jpg/120px-Latrodectus_tridecimguttatus.jpg
 Echte Witwen,Europäische Schwarze Witwe,Latrodectus tredecimguttatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Latrodectus_tredecimguttatus_habitus.JPG/120px-Latrodectus_tredecimguttatus_habitus.JPG
 Echte Witwen,Rotrückenspinne,Latrodectus hasselti,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Redback_frontal_view.jpg/120px-Redback_frontal_view.jpg
 Kugelspinnen,Diebsspinnen,Argyrodes,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Argyrodes_flavescens_1.jpg/120px-Argyrodes_flavescens_1.jpg
 Diebsspinnen,Diebsspinne,Argyrodes argyrodes,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Argyrodes_argyrodes_1.jpg/120px-Argyrodes_argyrodes_1.jpg
-Kugelspinnen,Gewöhnliche Ovalspinne,Enoplognatha ovata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%28MHNT%29_Enoplognatha_ovata_on_Daucus_carota.jpg/120px-%28MHNT%29_Enoplognatha_ovata_on_Daucus_carota.jpg
+Kugelspinnen,Gemeine Kugelspinne,Enoplognatha ovata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/%28MHNT%29_Enoplognatha_ovata_on_Daucus_carota.jpg/120px-%28MHNT%29_Enoplognatha_ovata_on_Daucus_carota.jpg
 Radnetzspinnen,Streckerspinnen,Tetragnathidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Metellina_mengei_%28aka%29.jpg/120px-Metellina_mengei_%28aka%29.jpg
-Streckerspinnen,Gemeine Streckerspinne,Tetragnatha extensa,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tetragnatha.extensa.female.jpg/120px-Tetragnatha.extensa.female.jpg
+Streckerspinnen,Gemeine Streckerspinne,Tetragnatha extensa,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tetragnatha.extensa.female.jpg/120px-Tetragnatha.extensa.female.jpg
+Streckerspinnen,Höhlenradnetzspinne,Meta menardi,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/H%C3%B6hlenkreuzspinne-meta-menardi.jpg/120px-H%C3%B6hlenkreuzspinne-meta-menardi.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Streckerspinnen,Herbstspinne,Metellina segmentata,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Metellina_segmentata_070820.jpg/120px-Metellina_segmentata_070820.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Radnetzspinnen,Baldachinspinnen,Linyphiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Linyphia_triangularis_W_070903.jpg/120px-Linyphia_triangularis_W_070903.jpg
 Baldachinspinnen,Schwarze Glücksspinne,Erigone atra,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Erigone_atra_male.jpg/120px-Erigone_atra_male.jpg
-Baldachinspinnen,Gemeine Baldachinspinne,Linyphia triangularis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Linyphia_triangularis_W_070831.jpg/120px-Linyphia_triangularis_W_070831.jpg
+Baldachinspinnen,Gemeine Baldachinspinne,Linyphia triangularis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Linyphia_triangularis_W_070831.jpg/120px-Linyphia_triangularis_W_070831.jpg
 Baldachinspinnen,Grosser Erdweber,Bathyphantes approximatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bathyphantes_approximatus.jpg/120px-Bathyphantes_approximatus.jpg
 Baldachinspinnen,Kellerzartweber,Megalepthyphantes nebulosus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Megalepthyphantes_nebulosus.jpg/120px-Megalepthyphantes_nebulosus.jpg
 Baldachinspinnen,Neriene,Neriene,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Neriene.clathrata.jpg/120px-Neriene.clathrata.jpg
 Neriene,Schwarzweisser Grossweber,Neriene emphana,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Neriene.emphana.female.jpg/120px-Neriene.emphana.female.jpg
-Neriene,Zackenbandgrossweber,Neriene peltata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neriene.peltata.male.jpg/120px-Neriene.peltata.male.jpg
-Neriene,Weissrandiger Grossweber,Neriene radiata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Neriene_radiata_P1020711a.jpg/120px-Neriene_radiata_P1020711a.jpg
+Neriene,Zackenbandgrossweber,Neriene peltata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neriene.peltata.male.jpg/120px-Neriene.peltata.male.jpg
+Neriene,Weissrandiger Grossweber,Neriene radiata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Neriene_radiata_P1020711a.jpg/120px-Neriene_radiata_P1020711a.jpg
+Baldachinspinnen,Rindenweber,Drapetisca socialis,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Drapetisca_socialisi_01.JPG/120px-Drapetisca_socialisi_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Baldachinspinnen,Hohes Ballonköpfchen,Pelecopsis elongata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pelecopsis_elongata_451620896.jpg/120px-Pelecopsis_elongata_451620896.jpg
 Radnetzspinnen,Seidenspinnen (F),Nephilidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nephila_inaurata_dsc07682.jpg/120px-Nephila_inaurata_dsc07682.jpg
 Seidenspinnen (F),Seidenspinnen,Nephila,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seidenspinne_gattung_nephila.jpg/120px-Seidenspinne_gattung_nephila.jpg
 Seidenspinnen (F),Goldene Seidenspinne,Trichonephila clavipes,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/DirkvdM_Nephila_clavipes.jpg/120px-DirkvdM_Nephila_clavipes.jpg
 Entelegynae,Dornfingerspinnen,Cheiracanthiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cheiracanthium.eutittha.female.-.tanikawa.jpg/120px-Cheiracanthium.eutittha.female.-.tanikawa.jpg
 Dornfingerspinnen,Echte Dornfinger,Cheiracanthium,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cheiracanthium_punctorium_070916.jpg/120px-Cheiracanthium_punctorium_070916.jpg
-Echte Dornfinger,Ammen-Dornfinger,Cheiracanthium punctorium,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cheiracanthium_punctorium_W_070920.jpg/120px-Cheiracanthium_punctorium_W_070920.jpg
-Echte Dornfinger,Grüne Dornfinger,Cheiracanthium virescens,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cheiracanthium_virescens_female.jpg/120px-Cheiracanthium_virescens_female.jpg
-Echte Dornfinger,Hausdornfinger,Cheiracanthium mildei,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheiracanthium_mildei.jpg/120px-Cheiracanthium_mildei.jpg
+Echte Dornfinger,Ammen-Dornfinger,Cheiracanthium punctorium,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cheiracanthium_punctorium_W_070920.jpg/120px-Cheiracanthium_punctorium_W_070920.jpg
+Echte Dornfinger,Grüne Dornfinger,Cheiracanthium virescens,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Cheiracanthium_virescens_female.jpg/120px-Cheiracanthium_virescens_female.jpg
+Echte Dornfinger,Hausdornfinger,Cheiracanthium mildei,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cheiracanthium_mildei.jpg/120px-Cheiracanthium_mildei.jpg
 Echte Dornfinger,Heidedornfinger,Cheiracanthium erraticum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cheiracanthium_erraticum_%2817532093203%29.jpg/120px-Cheiracanthium_erraticum_%2817532093203%29.jpg
 Entelegynae,Kräuselspinnen,Dictynidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nigma_walckenaeri_1.jpg/120px-Nigma_walckenaeri_1.jpg
-Kräuselspinnen,Gemeine Kräuselspinne,Dictyna arundinacea,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dictyna_arundinacea.jpg/120px-Dictyna_arundinacea.jpg
-Kräuselspinnen,Grüne Kräuselspinne,Nigma walckenaeri,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nigma_walckenaeri_1.jpg/120px-Nigma_walckenaeri_1.jpg
+Kräuselspinnen,Echte Mauerspinne,Brigittea civica,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ara%C3%B1a_de_pared_%28Dictyna_civica%29%2C_M%C3%BAnich%2C_Alemania%2C_2020-06-16%2C_DD_01-32_FS.jpg/120px-Ara%C3%B1a_de_pared_%28Dictyna_civica%29%2C_M%C3%BAnich%2C_Alemania%2C_2020-06-16%2C_DD_01-32_FS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Kräuselspinnen,Dolden-Heckenkräuselspinne,Dictyna arundinacea,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dictyna_arundinacea.jpg/120px-Dictyna_arundinacea.jpg
+Kräuselspinnen,Grüne Kräuselspinne,Nigma walckenaeri,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nigma_walckenaeri_1.jpg/120px-Nigma_walckenaeri_1.jpg
 Kräuselspinnen,Wasserspinne,Argyroneta aquatica,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Argyroteta_aquatica_M%C3%A4nnchen.jpg/120px-Argyroteta_aquatica_M%C3%A4nnchen.jpg
 Entelegynae,Wolfsspinnenartige,Lycosoidea,Überfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Wolf_spider_attack_position.jpg/120px-Wolf_spider_attack_position.jpg
 Wolfsspinnenartige,Wolfsspinnen,Lycosidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D0%BB_%D0%BF%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_2.jpg/120px-%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D0%BB_%D0%BF%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_2.jpg
@@ -2598,118 +2612,128 @@ Wolfsspinnen,Lycosa,Lycosa,Gattung,,,,https://upload.wikimedia.org/wikipedia/com
 Lycosa,Apulische Tarantel,Lycosa tarantula,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lycosa_tarantula_03_by-dpc.jpg/120px-Lycosa_tarantula_03_by-dpc.jpg
 Lycosa,Südrussische Tarantel,Lycosa singoriensis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D0%BB_%D0%BF%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9.jpg/120px-%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D0%BB_%D0%BF%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D1%80%D1%83%D1%81%D1%8C%D0%BA%D0%B8%D0%B9.jpg
 Wolfsspinnen,Hogna,Hogna,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hogna_radiata_%28AF%29-left_01.png/120px-Hogna_radiata_%28AF%29-left_01.png
-Hogna,Schwarzbäuchige Tarantel,Hogna radiata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/500px_photo_%2836086562%29.jpeg/120px-500px_photo_%2836086562%29.jpeg
+Hogna,Schwarzbäuchige Tarantel,Hogna radiata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/500px_photo_%2836086562%29.jpeg/120px-500px_photo_%2836086562%29.jpeg
 Hogna,Deserta-Tarantel,Hogna ingens,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hogna_ingens.jpg/120px-Hogna_ingens.jpg
-Wolfsspinnen,Trauerwolfsspinne,Pardosa lugubris,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pardosa_lugubris_%28Walckenaer%2C_1802%29.JPG/120px-Pardosa_lugubris_%28Walckenaer%2C_1802%29.JPG
+Wolfsspinnen,Laufwölfe,Pardosa,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/PardosaMilvina1.jpg/120px-PardosaMilvina1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Laufwölfe,Dunkle Wolfsspinne,Pardosa amentata,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Pardosa-amentata-dunkle-wolfspinne.jpg/120px-Pardosa-amentata-dunkle-wolfspinne.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Laufwölfe,Trauerwolfsspinne,Pardosa lugubris,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pardosa_lugubris_%28Walckenaer%2C_1802%29.JPG/120px-Pardosa_lugubris_%28Walckenaer%2C_1802%29.JPG
+Laufwölfe,Kieslaufwolf,Pardosa wagleri,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Pardosa_wagleri_Avisio.jpg/120px-Pardosa_wagleri_Avisio.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Wolfsspinnen,Wühlwölfe,Arctosa,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Arctosa_cinerea_fg01.jpg/120px-Arctosa_cinerea_fg01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Wühlwölfe,Leoparden-Wühlwolf,Arctosa leopardus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Arctosa_leopardus_1.JPG/120px-Arctosa_leopardus_1.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Wühlwölfe,Flussuferwolfspinne,Arctosa cinerea,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Arctosa_cinerea_fg01.jpg/120px-Arctosa_cinerea_fg01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Wolfsspinnen,Erdwolfspinne,Trochosa terricola,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Trochosa_terricola_05.JPG/120px-Trochosa_terricola_05.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Wolfsspinnen,Piratenspinne,Pirata piraticus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pirata.piraticus.female.with.egg.sac.jpg/120px-Pirata.piraticus.female.with.egg.sac.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Wolfsspinnenartige,Kräuseljagdspinnen,Zoropsidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoropsis_spinimana.jpg/120px-Zoropsis_spinimana.jpg
-Kräuseljagdspinnen,Nosferatu-Spinne,Zoropsis spinimana,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoropsis_spinimana.jpg/120px-Zoropsis_spinimana.jpg
+Kräuseljagdspinnen,Nosferatu-Spinne,Zoropsis spinimana,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoropsis_spinimana.jpg/120px-Zoropsis_spinimana.jpg
 Wolfsspinnenartige,Jagdspinnen,Pisauridae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pisaura_mirabilis_fg01.JPG/120px-Pisaura_mirabilis_fg01.JPG
-Jagdspinnen,Listspinne,Pisaura mirabilis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pisaura_mirabilis_03_%28MK%29.jpg/120px-Pisaura_mirabilis_03_%28MK%29.jpg
+Jagdspinnen,Listspinne,Pisaura mirabilis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pisaura_mirabilis_03_%28MK%29.jpg/120px-Pisaura_mirabilis_03_%28MK%29.jpg
 Jagdspinnen,Gerandete Jagdspinne,Dolomedes fimbriatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Gerandete_Jagdspinne_%28Dolomedes_fimbriatus%29.jpg/120px-Gerandete_Jagdspinne_%28Dolomedes_fimbriatus%29.jpg
 Entelegynae,Spinnenfresser,Mimetidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ero_aphana_female_side.jpg/120px-Ero_aphana_female_side.jpg
-Spinnenfresser,Grosser Spinnenfresser,Ero tuberculata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cf._Ero_tuberculata_%28FG%29_%2829877289544%29.jpg/120px-Cf._Ero_tuberculata_%28FG%29_%2829877289544%29.jpg
+Spinnenfresser,Grosser Spinnenfresser,Ero tuberculata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cf._Ero_tuberculata_%28FG%29_%2829877289544%29.jpg/120px-Cf._Ero_tuberculata_%28FG%29_%2829877289544%29.jpg
 Entelegynae,Springspinnen,Salticidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/PlatycryptusUndatusFemale.jpg/120px-PlatycryptusUndatusFemale.jpg
 Springspinnen,Zebraspringspinnen,Salticus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edwards_Salticus_scenicus_01.jpg/120px-Edwards_Salticus_scenicus_01.jpg
-Zebraspringspinnen,Mauer-Zebraspringspinne,Salticus scenicus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Salticus_scenicus_with_a_fly_V.jpg/120px-Salticus_scenicus_with_a_fly_V.jpg
-Zebraspringspinnen,Holz-Zebraspringspinne,Salticus cingulatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Salticus_cingulatus_Zabrze.jpg/120px-Salticus_cingulatus_Zabrze.jpg
-Springspinnen,Kupfrige Sonnenspringspinne,Heliophanus cupreus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heliophanus_cupreus.jpg/120px-Heliophanus_cupreus.jpg
-Springspinnen,Ameisenspringspinne,Myrmarachne formicaria,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Myrmarachne.formicaria.male.3.jpg/120px-Myrmarachne.formicaria.male.3.jpg
-Springspinnen,Goldaugenspringspinne,Philaeus chrysops,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Philaeus_chrysops.jpg/120px-Philaeus_chrysops.jpg
-Springspinnen,Wipfelspringer,Carrhotus xanthogramma,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carrhotus_xanthogramma_1.jpg/120px-Carrhotus_xanthogramma_1.jpg
+Zebraspringspinnen,Mauer-Zebraspringspinne,Salticus scenicus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Salticus_scenicus_with_a_fly_V.jpg/120px-Salticus_scenicus_with_a_fly_V.jpg
+Zebraspringspinnen,Holz-Zebraspringspinne,Salticus cingulatus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Salticus_cingulatus_Zabrze.jpg/120px-Salticus_cingulatus_Zabrze.jpg
+Springspinnen,Kupfrige Sonnenspringspinne,Heliophanus cupreus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Heliophanus_cupreus.jpg/120px-Heliophanus_cupreus.jpg
+Springspinnen,Ameisenspringspinne,Myrmarachne formicaria,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Myrmarachne.formicaria.male.3.jpg/120px-Myrmarachne.formicaria.male.3.jpg
+Springspinnen,Goldaugenspringspinne,Philaeus chrysops,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Philaeus_chrysops.jpg/120px-Philaeus_chrysops.jpg
+Springspinnen,Wipfelspringer,Carrhotus xanthogramma,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carrhotus_xanthogramma_1.jpg/120px-Carrhotus_xanthogramma_1.jpg
 Springspinnen,Evarcha,Evarcha,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Evarcha.albaria.1.opencage.jpg/120px-Evarcha.albaria.1.opencage.jpg
-Evarcha,Dunkler Sichelspringer,Evarcha arcuata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Evarcha_arcuata_Male_070916.jpg/120px-Evarcha_arcuata_Male_070916.jpg
-Evarcha,Bunter Sichelspringer,Evarcha falcata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Evarcha_falcata_male.jpg/120px-Evarcha_falcata_male.jpg
+Evarcha,Dunkler Sichelspringer,Evarcha arcuata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Evarcha_arcuata_Male_070916.jpg/120px-Evarcha_arcuata_Male_070916.jpg
+Evarcha,Bunter Sichelspringer,Evarcha falcata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Evarcha_falcata_male.jpg/120px-Evarcha_falcata_male.jpg
 Evarcha,Steppen-Sichelspringer,Evarcha michailovi,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Evarcha_michailovi_female_%28cropped%29.jpg/120px-Evarcha_michailovi_female_%28cropped%29.jpg
 Springspinnen,Echte Streckspringer,Marpissa,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Marpissa_muscosa_side_%28aka%29.jpg/120px-Marpissa_muscosa_side_%28aka%29.jpg
-Echte Streckspringer,Rindenspringspinne,Marpissa muscosa,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Marpissa_muscosa_4_Luc_Viatour.jpg/120px-Marpissa_muscosa_4_Luc_Viatour.jpg
-Echte Streckspringer,Goldband-Streckspringer,Marpissa pomatia,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Marpissa_pomatia.png/120px-Marpissa_pomatia.png
+Echte Streckspringer,Rindenspringspinne,Marpissa muscosa,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Marpissa_muscosa_4_Luc_Viatour.jpg/120px-Marpissa_muscosa_4_Luc_Viatour.jpg
+Echte Streckspringer,Goldband-Streckspringer,Marpissa pomatia,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Marpissa_pomatia.png/120px-Marpissa_pomatia.png
 Echte Streckspringer,Strahlenstreckspringer,Marpissa radiata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Marpissa_radiata_w_080712.jpg/120px-Marpissa_radiata_w_080712.jpg
 Springspinnen,Pfauenspinnen,Maratus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Maratus_mungaich_male.jpg/120px-Maratus_mungaich_male.jpg
 Pfauenspinnen,Maratus volans,Maratus volans,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MalePeacockSpider.jpg/120px-MalePeacockSpider.jpg
 Pfauenspinnen,Maratus pavonis,Maratus pavonis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Maratus_pavonis_Jean_and_Fred_Hort_3.jpg/120px-Maratus_pavonis_Jean_and_Fred_Hort_3.jpg
 Pfauenspinnen,Maratus nigromaculatus,Maratus nigromaculatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Maratus_nigromaculatus_%2814585680722%29.jpg/120px-Maratus_nigromaculatus_%2814585680722%29.jpg
-Springspinnen,Stachelarmer Pfeilspringer,Icius subinermis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Salt0004_Icius_subinermis_male.jpg/120px-Salt0004_Icius_subinermis_male.jpg
-Springspinnen,Gebänderte Bodenspringspinne,Phlegra fasciata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Phlegra_fasciata_04.JPG/120px-Phlegra_fasciata_04.JPG
-Springspinnen,Haarbeinige Pfauenspinne,Saltis barpipes,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Saitis_barbipes_MHNT_Male_Face2.jpg/120px-Saitis_barbipes_MHNT_Male_Face2.jpg
+Springspinnen,Stachelarmer Pfeilspringer,Icius subinermis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Salt0004_Icius_subinermis_male.jpg/120px-Salt0004_Icius_subinermis_male.jpg
+Springspinnen,Gebänderte Bodenspringspinne,Phlegra fasciata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Phlegra_fasciata_04.JPG/120px-Phlegra_fasciata_04.JPG
+Springspinnen,Haarbeinige Pfauenspinne,Saitis barbipes,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Saitis_barbipes_MHNT_Male_Face2.jpg/120px-Saitis_barbipes_MHNT_Male_Face2.jpg
 Entelegynae,Thomisoidea,Thomisoidea,Überfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crab_Spider_6299.jpg/120px-Crab_Spider_6299.jpg
 Thomisoidea,Krabbenspinnen,Thomisidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Xysticus.spec.6891.jpg/120px-Xysticus.spec.6891.jpg
-Krabbenspinnen,Veränderliche Krabbenspinne,Misumena vatia,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Misumena_vatia_female_Luc_Viatour_1.jpg/120px-Misumena_vatia_female_Luc_Viatour_1.jpg
-Krabbenspinnen,Grüne Krabbenspinne,Diaea dorsata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Diaea_dorsata_%28aka%29.jpg/120px-Diaea_dorsata_%28aka%29.jpg
-Krabbenspinnen,Blumenkrabbenspinne,Thomisus onustus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Thomisus_onustus.jpg/120px-Thomisus_onustus.jpg
-Krabbenspinnen,Südliche Glanz-Krabbenspinne,Synema globosum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Synema_globosum-pjt.jpg/120px-Synema_globosum-pjt.jpg
-Krabbenspinnen,Braune Krabbenspinne,Xysticus cristatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2013.05.18.-30-Kirschgartshaeuser_Schlaege_Mannheim-Braune-Krabbenspinne-Weibchen.jpg/120px-2013.05.18.-30-Kirschgartshaeuser_Schlaege_Mannheim-Braune-Krabbenspinne-Weibchen.jpg
+Krabbenspinnen,Veränderliche Krabbenspinne,Misumena vatia,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Misumena_vatia_female_Luc_Viatour_1.jpg/120px-Misumena_vatia_female_Luc_Viatour_1.jpg
+Krabbenspinnen,Grüne Krabbenspinne,Diaea dorsata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Diaea_dorsata_%28aka%29.jpg/120px-Diaea_dorsata_%28aka%29.jpg
+Krabbenspinnen,Gehöckerte Krabbenspinne,Thomisus onustus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Thomisus_onustus.jpg/120px-Thomisus_onustus.jpg
+Krabbenspinnen,Südliche Glanz-Krabbenspinne,Synema globosum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Synema_globosum-pjt.jpg/120px-Synema_globosum-pjt.jpg
+Krabbenspinnen,Baumkrabbenspinne,Xysticus lanio,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Xysticus_lanio_fg01.JPG/120px-Xysticus_lanio_fg01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Thomisoidea,Laufspinnen,Philodromidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Philodromus_cespitum_090801.jpg/120px-Philodromus_cespitum_090801.jpg
-Laufspinnen,Gewöhnlicher Flackstrecker,Philodromus cespitum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Philodromus_cespitum_090801.jpg/120px-Philodromus_cespitum_090801.jpg
-Laufspinnen,Silbergras-Herzfleckläufer,Thanatus formicinus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thanatus_formicinus_01.JPG/120px-Thanatus_formicinus_01.JPG
-Laufspinnen,Gewöhnlicher Halmstrecker,Tibellus oblongus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tibellus_oblongus_-_top_%28aka%29.jpg/120px-Tibellus_oblongus_-_top_%28aka%29.jpg
+Laufspinnen,Gewöhnlicher Flackstrecker,Philodromus cespitum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Philodromus_cespitum_090801.jpg/120px-Philodromus_cespitum_090801.jpg
+Laufspinnen,Silbergras-Herzfleckläufer,Thanatus formicinus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Thanatus_formicinus_01.JPG/120px-Thanatus_formicinus_01.JPG
+Laufspinnen,Gewöhnlicher Halmstrecker,Tibellus oblongus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tibellus_oblongus_-_top_%28aka%29.jpg/120px-Tibellus_oblongus_-_top_%28aka%29.jpg
 Entelegynae,Riesenkrabbenspinnen,Sparassidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Heteropoda_maxima.jpg/120px-Heteropoda_maxima.jpg
-Riesenkrabbenspinnen,Grüne Huschspinne,Micrommata virescens,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Micrommata_virescens_female.jpg/120px-Micrommata_virescens_female.jpg
+Riesenkrabbenspinnen,Grüne Huschspinne,Micrommata virescens,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Micrommata_virescens_female.jpg/120px-Micrommata_virescens_female.jpg
 Riesenkrabbenspinnen,Echte Riesenkrabbenspinnen,Heteropoda,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Heteropoda_maxima_1.jpg/120px-Heteropoda_maxima_1.jpg
 Echte Riesenkrabbenspinnen,Laotische Riesenkrabbenspinne,Heteropoda maxima,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Heteropoda_maxima_1.jpg/120px-Heteropoda_maxima_1.jpg
 Echte Riesenkrabbenspinnen,Heteropoda davidbowie,Heteropoda davidbowie,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/David_Bowie_spider.jpg/120px-David_Bowie_spider.jpg
 Echte Riesenkrabbenspinnen,Warmhaus-Riesenkrabbenspinne,Heteropoda venatoria,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Spider_%E0%B4%8E%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%95%E0%B4%BE%E0%B4%B2%E0%B4%BF_%E0%B4%85%E0%B4%A5%E0%B4%B5_%E0%B4%9A%E0%B4%BF%E0%B4%B2%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BF_b.jpg/120px-Spider_%E0%B4%8E%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%81%E0%B4%95%E0%B4%BE%E0%B4%B2%E0%B4%BF_%E0%B4%85%E0%B4%A5%E0%B4%B5_%E0%B4%9A%E0%B4%BF%E0%B4%B2%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%BF_b.jpg
-Riesenkrabbenspinnen,Braune Jägerspinne,Olios argelasius,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olios_argelasius_female.jpeg/120px-Olios_argelasius_female.jpeg
+Riesenkrabbenspinnen,Braune Jägerspinne,Olios argelasius,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Olios_argelasius_female.jpeg/120px-Olios_argelasius_female.jpeg
 Entelegynae,Röhrenspinnen,Eresidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Eresus_fg03.jpg/120px-Eresus_fg03.jpg
-Röhrenspinnen,Rote Röhrenspinne,Eresus kollari,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eresus_fg04.jpg/120px-Eresus_fg04.jpg
+Röhrenspinnen,Rote Röhrenspinne,Eresus kollari,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eresus_fg04.jpg/120px-Eresus_fg04.jpg
 Röhrenspinnen,Stegodyphus lineatus,Stegodyphus lineatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/S.lineatus.jpg/120px-S.lineatus.jpg
 Entelegynae,Sackspinnen,Clubionidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Clubiona_pallidula_w_080607.jpg/120px-Clubiona_pallidula_w_080607.jpg
 Sackspinnen,Eigentliche Sackspinnen,Clubiona,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Clubiona_pallidula_w_080607.jpg/120px-Clubiona_pallidula_w_080607.jpg
-Eigentliche Sackspinnen,Grosse Rindensackspinne,Clubiona corticalis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Clubiona_corticalis_Wb_080504.jpg/120px-Clubiona_corticalis_Wb_080504.jpg
+Eigentliche Sackspinnen,Kleine Rindensackspinne,Clubiona comta,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Clubiona_comta_female_March_2025.jpg/120px-Clubiona_comta_female_March_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Eigentliche Sackspinnen,Grosse Rindensackspinne,Clubiona corticalis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Clubiona_corticalis_Wb_080504.jpg/120px-Clubiona_corticalis_Wb_080504.jpg
 Eigentliche Sackspinnen,Blasse Sackspinne,Clubiona pallidula,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Clubiona_pallidula_w_080607.jpg/120px-Clubiona_pallidula_w_080607.jpg
 Eigentliche Sackspinnen,Sumpfsackspinne,Clubiona stagnatilis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Clubiona_stagnatilis.jpg/120px-Clubiona_stagnatilis.jpg
 Entelegynae,Plattbauchspinnen,Gnaphosidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Drassodes_lapidosus_01.JPG/120px-Drassodes_lapidosus_01.JPG
-Plattbauchspinnen,Gewöhnlicher Ameisendieb,Callilepis nocturna,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Callilepis_nocturna.jpg/120px-Callilepis_nocturna.jpg
-Plattbauchspinnen,Gewöhnliche Steinplattenspinne,Drassodes lapidosus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Drassodes_lapidosus_01.JPG/120px-Drassodes_lapidosus_01.JPG
+Plattbauchspinnen,Gewöhnlicher Ameisendieb,Callilepis nocturna,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Callilepis_nocturna.jpg/120px-Callilepis_nocturna.jpg
+Plattbauchspinnen,Gewöhnliche Steinplattenspinne,Drassodes lapidosus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Drassodes_lapidosus_01.JPG/120px-Drassodes_lapidosus_01.JPG
 Plattbauchspinnen,Grosse Alpenblattbauchspinne,Gnaphosa muscorum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gnaphosa_muscorum_female.jpg/120px-Gnaphosa_muscorum_female.jpg
-Plattbauchspinnen,Gewöhnliche Schillerspinne,Micaria pulicaria,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Micaria_pulicaria.jpg/120px-Micaria_pulicaria.jpg
-Plattbauchspinnen,Gefleckte Mausspinne,Scotophaeus scutulatus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Scotophaeus_scutulatus_female.jpg/120px-Scotophaeus_scutulatus_female.jpg
-Plattbauchspinnen,Gewöhnliche Stiefelspinne,Trachyzelotes pedestris,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2016_06_15_Spinne.jpg/120px-2016_06_15_Spinne.jpg
-Plattbauchspinnen,Gewöhnliche Schwarzspinne,Zelotes subterraneus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Zelotes_subterraneus_01.JPG/120px-Zelotes_subterraneus_01.JPG
+Plattbauchspinnen,Gewöhnliche Schillerspinne,Micaria pulicaria,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Micaria_pulicaria.jpg/120px-Micaria_pulicaria.jpg
+Plattbauchspinnen,Gefleckte Mausspinne,Scotophaeus scutulatus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Scotophaeus_scutulatus_female.jpg/120px-Scotophaeus_scutulatus_female.jpg
+Plattbauchspinnen,Gewöhnliche Stiefelspinne,Trachyzelotes pedestris,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2016_06_15_Spinne.jpg/120px-2016_06_15_Spinne.jpg
+Plattbauchspinnen,Gewöhnliche Schwarzspinne,Zelotes subterraneus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Zelotes_subterraneus_01.JPG/120px-Zelotes_subterraneus_01.JPG
 Echte Webspinnen,Haplogynae,Haplogynae,Teilordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Scytodes_thoracica_-_front_%28aka%29.jpg/120px-Scytodes_thoracica_-_front_%28aka%29.jpg
 Haplogynae,Zitterspinnen,Pholcidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gro%C3%9Fe_Zitterspinne_%28Pholcus_phalangioides%29.jpg/120px-Gro%C3%9Fe_Zitterspinne_%28Pholcus_phalangioides%29.jpg
 Zitterspinnen,Pholcus,Pholcus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gro%C3%9Fe_Zitterspinne_%28Pholcus_phalangioides%29.jpg/120px-Gro%C3%9Fe_Zitterspinne_%28Pholcus_phalangioides%29.jpg
-Pholcus,Grosse Zitterspinne,Pholcus phalangioides,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pholcus.phalangioides.6909.jpg/120px-Pholcus.phalangioides.6909.jpg
-Pholcus,Kleine Zitterspinne,Pholcus opilionoides,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pholcus_opilionoides.jpg/120px-Pholcus_opilionoides.jpg
-Zitterspinnen,Marmorzitterspinne,Holocnemus pluchei,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Holocnemus_Angoul%C3%AAme_France_ao%C3%BBt_2016_Lamiot_05.jpg/120px-Holocnemus_Angoul%C3%AAme_France_ao%C3%BBt_2016_Lamiot_05.jpg
+Pholcus,Grosse Zitterspinne,Pholcus phalangioides,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pholcus.phalangioides.6909.jpg/120px-Pholcus.phalangioides.6909.jpg
+Pholcus,Kleine Zitterspinne,Pholcus opilionoides,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pholcus_opilionoides.jpg/120px-Pholcus_opilionoides.jpg
+Zitterspinnen,Marmorzitterspinne,Holocnemus pluchei,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Holocnemus_Angoul%C3%AAme_France_ao%C3%BBt_2016_Lamiot_05.jpg/120px-Holocnemus_Angoul%C3%AAme_France_ao%C3%BBt_2016_Lamiot_05.jpg
 Haplogynae,Sechsaugenspinnen,Dysderidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dysdera_fg01.jpg/120px-Dysdera_fg01.jpg
-Sechsaugenspinnen,Grosser Asseljäger,Dysdera crocata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dysdera_crocata.jpg/120px-Dysdera_crocata.jpg
-Sechsaugenspinnen,Rindenlangfinger,Harpactea hombergi,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Harpactea_hombergi_Franconville.jpg/120px-Harpactea_hombergi_Franconville.jpg
+Sechsaugenspinnen,Grosser Asseljäger,Dysdera crocata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dysdera_crocata.jpg/120px-Dysdera_crocata.jpg
+Sechsaugenspinnen,Rindenlangfinger,Harpactea hombergi,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Harpactea_hombergi_Franconville.jpg/120px-Harpactea_hombergi_Franconville.jpg
 Haplogynae,Fischernetzspinnen,Segestriidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ara%C3%B1a_Mandaio.07-0-2006.jpg/120px-Ara%C3%B1a_Mandaio.07-0-2006.jpg
 Fischernetzspinnen,Echte Fischernetzspinnen,Segestria,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ara%C3%B1a_Mandaio_07-05-2006_05.jpg/120px-Ara%C3%B1a_Mandaio_07-05-2006_05.jpg
-Echte Fischernetzspinnen,Gewöhnliche Fischernetzspinne,Segestria senoculata,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Segestria_senoculata_05.JPG/120px-Segestria_senoculata_05.JPG
-Echte Fischernetzspinnen,Bayerische Fischernetzspinne,Segestria bavarica,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Segestria_bavarica.jpg/120px-Segestria_bavarica.jpg
-Echte Fischernetzspinnen,Mächtige Fischernetzspinne,Segestria florentina,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Spider_cutted.jpg/120px-Spider_cutted.jpg
+Echte Fischernetzspinnen,Gewöhnliche Fischernetzspinne,Segestria senoculata,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Segestria_senoculata_05.JPG/120px-Segestria_senoculata_05.JPG
+Echte Fischernetzspinnen,Bayerische Fischernetzspinne,Segestria bavarica,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Segestria_bavarica.jpg/120px-Segestria_bavarica.jpg
+Echte Fischernetzspinnen,Mächtige Fischernetzspinne,Segestria florentina,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Spider_cutted.jpg/120px-Spider_cutted.jpg
 Haplogynae,Speispinnen,Scytodidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scytodes_thoracica_%28aka%29.jpg/120px-Scytodes_thoracica_%28aka%29.jpg
-Speispinnen,Gewöhnliche Speispinne,Scytodes thoracica,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scytodes_thoracica_%28aka%29.jpg/120px-Scytodes_thoracica_%28aka%29.jpg
+Speispinnen,Gewöhnliche Speispinne,Scytodes thoracica,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scytodes_thoracica_%28aka%29.jpg/120px-Scytodes_thoracica_%28aka%29.jpg
 Spinnentiere,Geisselspinnen,Amblypygi,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Phrynus_mexicanus_%28Marshal_Hedin%29.jpg/120px-Phrynus_mexicanus_%28Marshal_Hedin%29.jpg
 Spinnentiere,Weberknechte,Opiliones,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Opiliones_harvestman.jpg/120px-Opiliones_harvestman.jpg
 Weberknechte,Schneider,Phalangiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Opiliones_harvestman.jpg/120px-Opiliones_harvestman.jpg
 Schneider,Opilio,Opilio,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Weberknecht_mit_lange_Kiefertaster.jpg/120px-Weberknecht_mit_lange_Kiefertaster.jpg
-Opilio,Wandkanker,Opilio parietinus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Opilio_parietinus_F_-_Limburg20130716_0117.jpg/120px-Opilio_parietinus_F_-_Limburg20130716_0117.jpg
-Opilio,Apenninenkanker,Opilio canestrinii,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Opilio_canestrinii_Ziano_04.jpg/120px-Opilio_canestrinii_Ziano_04.jpg
-Schneider,Hornweberknecht,Phalangium opilio,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Phalangium_opilio_bl.JPG/120px-Phalangium_opilio_bl.JPG
-Schneider,Höhlenlangbein,Amilenus aurantiacus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amilenus_aurantiacus_100933472.jpg/120px-Amilenus_aurantiacus_100933472.jpg
-Schneider,Gemeiner Gebirgsweberknecht,Mitopus morio,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mitopus_morio_female_Falzarego_02.jpg/120px-Mitopus_morio_female_Falzarego_02.jpg
+Opilio,Wandkanker,Opilio parietinus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Opilio_parietinus_F_-_Limburg20130716_0117.jpg/120px-Opilio_parietinus_F_-_Limburg20130716_0117.jpg
+Opilio,Apenninenkanker,Opilio canestrinii,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Opilio_canestrinii_Ziano_04.jpg/120px-Opilio_canestrinii_Ziano_04.jpg
+Schneider,Hornweberknecht,Phalangium opilio,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Phalangium_opilio_bl.JPG/120px-Phalangium_opilio_bl.JPG
+Schneider,Höhlenlangbein,Amilenus aurantiacus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Amilenus_aurantiacus_100933472.jpg/120px-Amilenus_aurantiacus_100933472.jpg
+Schneider,Gemeiner Gebirgsweberknecht,Mitopus morio,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mitopus_morio_female_Falzarego_02.jpg/120px-Mitopus_morio_female_Falzarego_02.jpg
 Weberknechte,Schneckenkanker (F),Ischyropsalididae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ischyropsalis-hellwigi-1204.jpg/120px-Ischyropsalis-hellwigi-1204.jpg
 Schneckenkanker (F),Schneckenkanker,Ischyropsalis hellwigii,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ischyropsalis-hellwigi-1204.jpg/120px-Ischyropsalis-hellwigi-1204.jpg
 Weberknechte,Brettkanker,Trogulidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Trogulus_tricarinatus.jpg/120px-Trogulus_tricarinatus.jpg
 Brettkanker,Variabler Brettkanker,Trogulus nepaeformis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Brettkanker_Trogulus_nepaeformis.jpg/120px-Brettkanker_Trogulus_nepaeformis.jpg
+Brettkanker,Westeuropäischer Krümelkanker,Anelasmocephalus cambridgei,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Anelasmocephalus_cambridgei.jpg/120px-Anelasmocephalus_cambridgei.jpg
 Weberknechte,Sclerosomatidae,Sclerosomatidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Opiliones_harvestman.jpg/120px-Opiliones_harvestman.jpg
-Sclerosomatidae,Ziegelrückenkanker,Leiobunum limbatum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leiobunum_limbatum_%2815137145428%29.jpg/120px-Leiobunum_limbatum_%2815137145428%29.jpg
+Sclerosomatidae,Ziegelrückenkanker,Leiobunum limbatum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leiobunum_limbatum_%2815137145428%29.jpg/120px-Leiobunum_limbatum_%2815137145428%29.jpg
 Spinnentiere,Pseudoskorpione,Pseudoscorpiones,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CheliferCancroides2.jpg/120px-CheliferCancroides2.jpg
-Pseudoskorpione,Bücherskorpion,Chelifer cancroides,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/CheliferCancroides1.jpg/120px-CheliferCancroides1.jpg
-Pseudoskorpione,Moosskorpione,Neobisium,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Neobisium_sp.jpg/120px-Neobisium_sp.jpg
+Pseudoskorpione,Bücherskorpion,Chelifer cancroides,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/CheliferCancroides1.jpg/120px-CheliferCancroides1.jpg
+Pseudoskorpione,Moosskorpion,Neobisium carcinoides,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Neobisium_sp.jpg/120px-Neobisium_sp.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Spinnentiere,Skorpione,Scorpiones,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Black_scorpion.jpg/120px-Black_scorpion.jpg
 Skorpione,Euscorpiidae,Euscorpiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Euscorpius_italicus.jpg/120px-Euscorpius_italicus.jpg
 Euscorpiidae,Alpenskorpione,Alpiscorpius,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Euscorpius_germanus.jpg/120px-Euscorpius_germanus.jpg
-Alpenskorpione,Deutscher Skorpion,Alpiscorpius germanus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Euscorpius_germanus.jpg/120px-Euscorpius_germanus.jpg
-Alpenskorpione,Alpiscorpius alpha,Alpiscorpius alpha,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/EuscorpiusAlpha.JPG/120px-EuscorpiusAlpha.JPG
+Alpenskorpione,Deutscher Skorpion,Alpiscorpius germanus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Euscorpius_germanus.jpg/120px-Euscorpius_germanus.jpg
+Alpenskorpione,Alpiscorpius alpha,Alpiscorpius alpha,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/EuscorpiusAlpha.JPG/120px-EuscorpiusAlpha.JPG
 Euscorpiidae,Euscorpius,Euscorpius,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Euscorpius_italicus.jpg/120px-Euscorpius_italicus.jpg
-Euscorpius,Italienischer Skorpion,Euscorpius italicus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Euscorpius_italicus.jpg/120px-Euscorpius_italicus.jpg
+Euscorpius,Italienischer Skorpion,Euscorpius italicus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Euscorpius_italicus.jpg/120px-Euscorpius_italicus.jpg
 Euscorpius,Karpatenskorpion,Euscorpius carpathicus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Euscorpius_carpathicus.JPG/120px-Euscorpius_carpathicus.JPG
 Skorpione,Scorpionidae,Scorpionidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Emporer_scorpion.jpg/120px-Emporer_scorpion.jpg
 Scorpionidae,Kaiserskorpion,Pandinus imperator,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Pandinus_imperator_2.jpg/120px-Pandinus_imperator_2.jpg
-Scorpionidae,Scorpio,Scorpio,Gattung,,,,not_found
+Scorpionidae,Scorpio,Scorpio,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Scorpio_palmatus.jpg/120px-Scorpio_palmatus.jpg
 Scorpionidae,Schwarzer Laos-Skorpion,Heterometrus laoticus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Asian_forest_scorpion_in_Khao_Yai_National_Park.JPG/120px-Asian_forest_scorpion_in_Khao_Yai_National_Park.JPG
 Skorpione,Buthidae,Buthidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mesobuthus_martensii_%28283%29.jpg/120px-Mesobuthus_martensii_%28283%29.jpg
 Buthidae,Südafrikanischer Dickschwanzskorpion,Parabuthus transvaalicus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Parabuthus_transvaalicus_%28male%29.jpg/120px-Parabuthus_transvaalicus_%28male%29.jpg
@@ -2745,7 +2769,7 @@ Cylindroiulus,Gemeinder Feldschnurfüsser,Cylindroiulus caeruleocinctus,Art,,TRU
 Schnurfüsser,Sandschnurfüsser,Ommatoiulus sabulosus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MyriopodaWoblitz03.jpg/120px-MyriopodaWoblitz03.jpg
 Schnurfüsser,Schwarzer Schnurfüsser,Tachypodoiulus niger,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tachypodoiulus_niger_1.jpg/120px-Tachypodoiulus_niger_1.jpg
 Schnurfüsser,Gemeiner Dunkler Schnurfüsser,Julus scandinavius,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Julus_scandinavius_%2826559571281%29.jpg/120px-Julus_scandinavius_%2826559571281%29.jpg
-Schnurfüsser,Messerschwanz-Schnurfüsser,Allajulus nitidus,Art,,,,not_found
+Schnurfüsser,Messerschwanz-Schnurfüsser,Allajulus nitidus,Art,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Allajulus_nitidus.jpg/129px-Allajulus_nitidus.jpg
 Schnurfüsser (O),Fadenfüsser,Blaniulidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Spotted_snake_millipede_Blaniulus_guttulatus.jpg/120px-Spotted_snake_millipede_Blaniulus_guttulatus.jpg
 Fadenfüsser,Tüpfeltausendfuss,Blaniulus guttulatus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Spotted_snake_millipede_Blaniulus_guttulatus.jpg/120px-Spotted_snake_millipede_Blaniulus_guttulatus.jpg
 Fadenfüsser,Kielaugen-Schnurfüsser,Proteroiulus fuscus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Proteroiulus_fuscus_01_2.jpg/120px-Proteroiulus_fuscus_01_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
