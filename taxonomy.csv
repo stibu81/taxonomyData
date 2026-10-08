@@ -107,11 +107,13 @@ Gliederfüsser,Krebstiere,Crustacea,Unterstamm,,,,https://upload.wikimedia.org/w
 Krebstiere,Kiemenfusskrebse,Branchiopoda,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LepidurusApus.jpg/120px-LepidurusApus.jpg
 Kiemenfusskrebse,Kiemenfüsser,Anostraca,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Artemia_salina_3.jpg/120px-Artemia_salina_3.jpg
 Kiemenfüsser,Salinenkrebs,Artemia salina,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Artemia_salina_2.jpg/120px-Artemia_salina_2.jpg
+Kiemenfüsser,Frühlingskiemenfuss,Eubranchipus grubii,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/EubranchipusGrubii1.jpg/120px-EubranchipusGrubii1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Kiemenfusskrebse,Rückenschaler,Notostraca,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LepidurusApus.jpg/120px-LepidurusApus.jpg
 Rückenschaler,Triops,Triops,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Triops_longicaudatus.jpg/120px-Triops_longicaudatus.jpg
 Kiemenfusskrebse,Krallenschwänze,Onychura,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Daphnia_spec.jpg/120px-Daphnia_spec.jpg
 Krallenschwänze,Grosser Wasserfloh,Daphnia magna,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Daphnia_magna_asexual.jpg/120px-Daphnia_magna_asexual.jpg
 Krallenschwänze,Kristall-Wasserfloh,Sida crystallina,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bosmina_i_Sida_crystallina.jpg/120px-Bosmina_i_Sida_crystallina.jpg
+Krallenschwänze,Weiher-Rüsselkrebs,Bosmina longirostris,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bosmina_longirostris_194724541.jpg/120px-Bosmina_longirostris_194724541.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Krebstiere,Höhere Krebse,Malacostraca,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lobster_300.jpg/120px-Lobster_300.jpg
 Höhere Krebse,Zehnfusskrebse,Decapoda,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cancer_bellianus_Johnston_1861_stuffed_museum_La_Rochelle.jpg/120px-Cancer_bellianus_Johnston_1861_stuffed_museum_La_Rochelle.jpg
 Zehnfusskrebse,Dendrobranchiata,Dendrobranchiata,Unterordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Penaeus_monodon.jpg/120px-Penaeus_monodon.jpg
@@ -142,10 +144,12 @@ Einsiedlerkrebse,Rechtshändige Einsiedlerkrebse,Paguridae,Familie,,,,https://up
 Rechtshändige Einsiedlerkrebse,Gemeiner Einsiedlerkrebs,Pagurus bernhardus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pagurus_bernhardus.jpg/120px-Pagurus_bernhardus.jpg
 Pleocyemata,Grosskrebse,Astacidea,Teilordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BogavanteSpainTarifa.JPG/120px-BogavanteSpainTarifa.JPG
 Grosskrebse,Flusskrebse,Astacoidea,Überfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ecrevisse_pattes_rouges.jpg/120px-Ecrevisse_pattes_rouges.jpg
-Flusskrebse,Edelkrebs,Astacus astacus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astacus_astacus_male.jpg/120px-Astacus_astacus_male.jpg
-Flusskrebse,Steinkrebs,Austropotamobius torrentium,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Steinkrebs1.jpg/120px-Steinkrebs1.jpg
-Flusskrebse,Roter Amerikanischer Sumpfkrebs,Procambarus clarkii,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Procambarus_clarkii.jpg/120px-Procambarus_clarkii.jpg?download
+Flusskrebse,Edelkrebs,Astacus astacus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astacus_astacus_male.jpg/120px-Astacus_astacus_male.jpg
+Flusskrebse,Steinkrebs,Austropotamobius torrentium,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Steinkrebs1.jpg/120px-Steinkrebs1.jpg
+Flusskrebse,Roter Amerikanischer Sumpfkrebs,Procambarus clarkii,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Procambarus_clarkii.jpg/120px-Procambarus_clarkii.jpg?download
 Flusskrebse,Blauer Floridakrebs,Procambarus alleni,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Blauer_Floridakrebs_B007.jpg/120px-Blauer_Floridakrebs_B007.jpg
+Flusskrebse,Signalkrebs,Pacifastacus leniusculus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Signal_crayfish_female_Pacifastacus_leniusculus.JPG/120px-Signal_crayfish_female_Pacifastacus_leniusculus.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Flusskrebse,Kamberkrebs,Faxonius limosus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kamberkrebs_spiny-cheek_crayfish_Orconectes_limosus_male.jpg/120px-Kamberkrebs_spiny-cheek_crayfish_Orconectes_limosus_male.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Grosskrebse,Hummerartige,Nephropidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Metanephrops_japonicus_edit.jpg/120px-Metanephrops_japonicus_edit.jpg
 Hummerartige,Hummer,Homarus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/120px-KreeftbijDenOsse.jpg
 Hummer,Europäischer Hummer,Homarus gammarus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KreeftbijDenOsse.jpg/120px-KreeftbijDenOsse.jpg
@@ -224,21 +228,28 @@ Asseln,Flabellifera,Flabellifera,Unterordnung,,,,https://upload.wikimedia.org/wi
 Flabellifera,Riesenasseln,Bathynomus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Giant_isopod.jpg/120px-Giant_isopod.jpg
 Asseln,Landasseln,Oniscidea,Unterordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oniscus_asellus_-_female_side_2_%28aka%29.jpg/120px-Oniscus_asellus_-_female_side_2_%28aka%29.jpg
 Landasseln,Zwergasseln,Trichoniscidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Trichoniscus_pusillus.jpg/120px-Trichoniscus_pusillus.jpg
-Zwergasseln,Ufer-Assel,Hyloniscus riparius,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg/120px-Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg
+Zwergasseln,Ufer-Assel,Hyloniscus riparius,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg/120px-Hyloniscus_riparius_%2810.3897-zookeys.801.21894%29_Figure_5_%28cropped%29.jpg
 Landasseln,Rollasseln,Armadillidiidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Woodlouse_poster.jpg/120px-Woodlouse_poster.jpg
 Rollasseln,Armadillidium,Armadillidium,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Armadillidium_pictum_69914400.jpg/120px-Armadillidium_pictum_69914400.jpg
-Armadillidium,Gemeine Rollassel,Armadillidium vulgare,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg/120px-Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg
-Armadillidium,Wechselfärbige Rollassel,Armadillidium versicolor,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Armadillidium_versicolor01.jpg/120px-Armadillidium_versicolor01.jpg
+Armadillidium,Gemeine Rollassel,Armadillidium vulgare,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg/120px-Common_Pill_Woodlouse_%28Armadillidium_vulgare%29_-_Guelph%2C_Ontario_01.jpg
+Armadillidium,Wechselfärbige Rollassel,Armadillidium versicolor,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Armadillidium_versicolor01.jpg/120px-Armadillidium_versicolor01.jpg
 Landasseln,Kellerasseln,Porcellionidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porcellio-scaber-29-04-2008-083.jpg/120px-Porcellio-scaber-29-04-2008-083.jpg
 Kellerasseln,Porcellio,Porcellio,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porcellio-scaber-29-04-2008-083.jpg/120px-Porcellio-scaber-29-04-2008-083.jpg
-Porcellio,Kellerassel,Porcellio scaber,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Porcellio_scaber_180421322.jpg/120px-Porcellio_scaber_180421322.jpg
+Porcellio,Kellerassel,Porcellio scaber,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Porcellio_scaber_180421322.jpg/120px-Porcellio_scaber_180421322.jpg
 Porcellio,Flinke Kellerassel,Porcellio laevis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Porcellio_laevis_Rufino_cropped.jpg/120px-Porcellio_laevis_Rufino_cropped.jpg
-Porcellio,Dornfühlerassel,Porcellio spinicornis,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg/120px-Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg
+Porcellio,Schwarzkopfassel,Porcellio spinicornis,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg/120px-Brickwork_Woodlouse_%28Porcellio_spinicornis%29_-_B%C3%A6rum%2C_Norway_2021-05-08.jpg
+Landasseln,Mauerasseln,Oniscidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Oniscus_asellus_-_female_side_2_%28aka%29.jpg/120px-Oniscus_asellus_-_female_side_2_%28aka%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Mauerasseln,Mauerassel,Oniscus asellus,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Oniscus_asellus_Furlbachtal01.jpg/120px-Oniscus_asellus_Furlbachtal01.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Landasseln,Philosciidae,Philosciidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Philoscia_muscorum_Manchester.jpg/120px-Philoscia_muscorum_Manchester.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Philosciidae,Moosassel,Philoscia muscorum,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Common_striped_woodlouse_%28Philoscia_muscorum%29_Ipswich%2C_UK.jpg/120px-Common_striped_woodlouse_%28Philoscia_muscorum%29_Ipswich%2C_UK.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Landasseln,Platyarthridae,Platyarthridae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Platyarthrus_hoffmannseggii.JPG/120px-Platyarthrus_hoffmannseggii.JPG
-Platyarthridae,Ameisenassel,Platyarthrus hoffmansseggii,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Platyarthrus_hoffmannseggii.JPG/120px-Platyarthrus_hoffmannseggii.JPG
+Platyarthridae,Ameisenassel,Platyarthrus hoffmansseggii,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Platyarthrus_hoffmannseggii.JPG/120px-Platyarthrus_hoffmannseggii.JPG
 Höhere Krebse,Flohkrebse,Amphipoda,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Amphipodredkils.jpg/120px-Amphipodredkils.jpg
-Flohkrebse,Grosser Höckerflohkrebs,Dikerogammarus villosus,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dikerogammarus_villosus_%288740859563%29.jpg/120px-Dikerogammarus_villosus_%288740859563%29.jpg
-Flohkrebse,Bachflohkrebs,Gammarus fossarum,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg/120px-Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg
+Flohkrebse,Grosser Höckerflohkrebs,Dikerogammarus villosus,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dikerogammarus_villosus_%288740859563%29.jpg/120px-Dikerogammarus_villosus_%288740859563%29.jpg
+Flohkrebse,Gammarus,Gammarus,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Gammarus_pulex_14875940_%28cropped%29.jpg/120px-Gammarus_pulex_14875940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Gammarus,Flussflohkrebs,Gammarus roeselii,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Gammarus_roeselii.jpg/120px-Gammarus_roeselii.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Gammarus,Bachflohkrebs,Gammarus fossarum,Art,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg/120px-Gammarus_fossarum_Podkomorsk%C3%A9_lesy.jpg
+Gammarus,Gewöhnlicher Flohkrebs,Gammarus pulex,Art,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Rivulogammarus_pulex.jpg/120px-Rivulogammarus_pulex.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Flohkrebse,Schlickkrebs,Corophium volutator,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Friedrichskoog_Wattenmeer_Schlickkrebse_August-2010_SL275046.JPG/120px-Friedrichskoog_Wattenmeer_Schlickkrebse_August-2010_SL275046.JPG
 Flohkrebse,Strandfloh,Talitrus saltator,Art,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Talitrus_saltator_2c.jpg/120px-Talitrus_saltator_2c.jpg
 Höhere Krebse,Fangschreckenkrebse,Stomatopoda,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/OdontodactylusScyllarus2.jpg/120px-OdontodactylusScyllarus2.jpg
