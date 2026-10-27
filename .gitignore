@@ -3,5 +3,6 @@
 .RData
 .Ruserdata
 
-# don't commit the contact data
+# don't commit the contact and inat data
 contact
+inat
