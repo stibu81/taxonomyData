@@ -47,7 +47,7 @@ Ophiurida,Olivgrüner Schlangenstern,Ophiarachna incrassata,Art,,FALSE,FALSE,htt
 Ophiurida,Gebänderter Schlangenstern,Ophiolepis superba,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ophiolepis_superba_1.JPG/120px-Ophiolepis_superba_1.JPG
 Ophiurida,Zerbrechlicher Schlangenstern,Ophiothrix fragilis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ophiothrix-fragilis_4338.jpg/120px-Ophiothrix-fragilis_4338.jpg
 Ophiurida,Langarmiger Schlangenstern,Amphiodia occidentalis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Long-armed_Brittle_Star_%28Amphiodia_occidentalis%29.jpg/100px-Long-armed_Brittle_Star_%28Amphiodia_occidentalis%29.jpg
-Schlangensterne,Phyrynophiurida,Phyrynophiurida,Ordnung,,,,not_found
+Schlangensterne,Phyrynophiurida,Phyrynophiurida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Astrophyton_muricatum_211218_a.jpg/120px-Astrophyton_muricatum_211218_a.jpg
 Phyrynophiurida,Gorgonenhäupter,Gorgonocephalidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Gorgeucnemis.jpeg/120px-Gorgeucnemis.jpeg
 Gorgonenhäupter,Astrophyton muricatum,Astrophyton muricatum,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Astrophyton_muricatum_211218_a.jpg/120px-Astrophyton_muricatum_211218_a.jpg
 Stachelhäuter,Seewalzen,Holothuroidea,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Synapta_maculata_%26_Holothuria_leucospilota.jpg/120px-Synapta_maculata_%26_Holothuria_leucospilota.jpg
@@ -77,7 +77,7 @@ Lederseeigel,Rotmeer-Feuerseeigel,Asthenosoma marisrubri,Art,,FALSE,FALSE,https:
 Seeigel,Diadematoida,Diadematoida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Diademseeigel.jpg/120px-Diademseeigel.jpg
 Diadematoida,Diademseeigel,Diadematidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Diadema_setosum_2228x2252.png/120px-Diadema_setosum_2228x2252.png
 Diademseeigel,Roter Diademseeigel,Astropyga radiata,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Astropyga_radiata_group.JPG/120px-Astropyga_radiata_group.JPG
-Diademseeigel,Diadema,Diadema,Gattung,,,,not_found
+Diademseeigel,Diadema,Diadema,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Diadema_antillarum_Flower_Garden_Banks.jpg/120px-Diadema_antillarum_Flower_Garden_Banks.jpg
 Diadema,Atlantischer Diademseeigel,Diadema antillarum,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Diadema_antillarum_Flower_Garden_Banks.jpg/120px-Diadema_antillarum_Flower_Garden_Banks.jpg
 Diadema,Gewöhnlicher Diademseeigel,Diadema setosum,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Diadema_setosum_Oman.JPG/120px-Diadema_setosum_Oman.JPG
 Diademseeigel,Kalmar-Diademseeigel,Echinothrix calamaris,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/SeaDSC01286.JPG/100px-SeaDSC01286.JPG
@@ -214,7 +214,7 @@ Süsswassergarnelen,Rückenstrichgarnele,Neocaridina davidi,Art,,FALSE,FALSE,htt
 Caridea,Felsen- und Partnergarnelen,Palaemonidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Spotted_cleaner_shrimp.jpg/120px-Spotted_cleaner_shrimp.jpg
 Felsen- und Partnergarnelen,Harlekingarnele,Hymenocera picta,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Hymenocera_picta.jpg/120px-Hymenocera_picta.jpg
 Felsen- und Partnergarnelen,Rosenberggarnele,Macrobrachium rosenbergii,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Machrobrachium_rosenbergii.jpg/120px-Machrobrachium_rosenbergii.jpg
-Felsen- und Partnergarnelen,Felsengarnelen,Palaemon,Gattung,,,,not_found
+Felsen- und Partnergarnelen,Felsengarnelen,Palaemon,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palaemon_elegans1.jpg/120px-Palaemon_elegans1.jpg
 Felsengarnelen,Kleine Felsengarnele,Palaemon elegans,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palaemon_elegans1.jpg/120px-Palaemon_elegans1.jpg
 Felsengarnelen,Ostseegarnele,Palaemon adspersus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ostseekrabbe_%28Leander_adspessus%29.jpg/120px-Ostseekrabbe_%28Leander_adspessus%29.jpg
 Felsengarnelen,Sägegarnele,Palaemon serratus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Palaemon_serratus_gsm.jpg/120px-Palaemon_serratus_gsm.jpg
@@ -373,7 +373,7 @@ Empusidae,Teufelsblume,Idolomantis diabolica,Art,,FALSE,FALSE,https://upload.wik
 Empusidae,Kleine Teufelsblume,Blepharopsis mendica,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Blepharopsis_mendica.jpg/120px-Blepharopsis_mendica.jpg
 Empusidae,Wandelnde Geige,Gongylus gongylodes,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/..._mantis_--_Gongylus_gongylodes_%286188831702%29.jpg/120px-..._mantis_--_Gongylus_gongylodes_%286188831702%29.jpg
 Polyneoptera,Schaben,Blattodea,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gromphadorhina_portentosa_%28outside%29.jpg/120px-Gromphadorhina_portentosa_%28outside%29.jpg
-Schaben,Blaberoidea,Blaberoidea,Überfamilie,,TRUE,,not_found
+Schaben,Blaberoidea,Blaberoidea,Überfamilie,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Rochaina_mexicana.jpg/120px-Rochaina_mexicana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Blaberoidea,Deutsche Schabe,Blattella germanica,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blatella_germanica_p1160206.jpg/120px-Blatella_germanica_p1160206.jpg
 Blaberoidea,Dunkle Waldschabe,Ectobius sylvestris,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ectobius_sylvestris_202243519.jpg/120px-Ectobius_sylvestris_202243519.jpg
 Blaberoidea,Tanger-Waldschabe,Planuncus tingitanus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Planuncus_tingitanus_s.l._MHNT_Adult_female.jpg/120px-Planuncus_tingitanus_s.l._MHNT_Adult_female.jpg
@@ -811,7 +811,7 @@ Schnabelkerfe,Wanzen,Heteroptera,Unterordnung,,TRUE,TRUE,https://upload.wikimedi
 Wanzen,Gerromorpha,Gerromorpha,Teilordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/HydrometraStagnorum.jpg/120px-HydrometraStagnorum.jpg
 Gerromorpha,Wasserläufer,Gerridae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wasserl%C3%A4ufer_bei_der_Paarung_crop.jpg/120px-Wasserl%C3%A4ufer_bei_der_Paarung_crop.jpg
 Wasserläufer,Gemeiner Wasserläufer,Gerris lacustris,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gerris.lacustris.couple.jpg/120px-Gerris.lacustris.couple.jpg
-Wasserläufer,Aquarius,Aquarius,Gattung,,TRUE,TRUE,not_found
+Wasserläufer,Aquarius,Aquarius,Gattung,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Water_strider_DSCN2815.w2.a2.jpg/120px-Water_strider_DSCN2815.w2.a2.jpg
 Aquarius,Flussläufer,Aquarius paludum,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Water_strider_DSCN2815.w2.a2.jpg/120px-Water_strider_DSCN2815.w2.a2.jpg
 Aquarius,Schwarzrückiger Flussläufer,Aquarius najas,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bug_September_2010-1.jpg/120px-Bug_September_2010-1.jpg
 Wasserläufer,Meerwasserläufer,Halobates,Gattung,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Halobates_keyanus.jpg/120px-Halobates_keyanus.jpg
@@ -835,13 +835,13 @@ Wasserwanzen,Grundwanzen,Aphelocheiridae,Familie,,,,https://upload.wikimedia.org
 Grundwanzen,Grundwanze,Aphelocheirus aestivalis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aphelocheirus_aestivalis.jpg/120px-Aphelocheirus_aestivalis.jpg
 Wasserwanzen,Ruderwanzen,Corixidae,Familie,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sigara.jpg/120px-Sigara.jpg
 Ruderwanzen,Grosse Ruderwanze,Corixa punctata,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/CorixaPunctata.JPG/120px-CorixaPunctata.JPG
-Ruderwanzen,Gelbe Wasserzikade,Sigara lateralis,Art,,TRUE,FALSE,not_found
+Ruderwanzen,Gelbe Wasserzikade,Sigara lateralis,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Sigara_%28Vermicorixa%29_lateralis_%28Leach_1817%29_%E2%99%82.jpg/500px-Sigara_%28Vermicorixa%29_lateralis_%28Leach_1817%29_%E2%99%82.jpg
 Wanzen,Leptopodomorpha,Leptopodomorpha,Teilordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chartoscirta.cocksii.jpg/120px-Chartoscirta.cocksii.jpg
 Leptopodomorpha,Steinläuferwanzen,Leptopodidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Valleriola_assouanensis_-_2016-01-26.webm/100px--Valleriola_assouanensis_-_2016-01-26.webm.jpg
 Steinläuferwanzen,Steinbruchwanze,Leptopus marmoratus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Leptopus_marmoratus.jpg/120px-Leptopus_marmoratus.jpg
 Leptopodomorpha,Uferwanzen,Saldidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Saldula.saltatoria.jpg/120px-Saldula.saltatoria.jpg
 Uferwanzen,Gemeiner Hüpferling,Saldula saltatoria,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saldula.saltatoria2.jpg/120px-Saldula.saltatoria2.jpg
-Uferwanzen,Gürtel-Troll,Chartoscirta cincta,Art,,TRUE,FALSE,not_found
+Uferwanzen,Gürtel-Troll,Chartoscirta cincta,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chartoscirta_cincta_%2849599112303%29.jpg/500px-Chartoscirta_cincta_%2849599112303%29.jpg
 Uferwanzen,Geröll-Hüpferling,Macrosaldula scotica,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Macrosaldula.scotica1.jpg/120px-Macrosaldula.scotica1.jpg
 Wanzen,Cimicomorpha,Cimicomorpha,Teilordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Deraeocoris.ruber.jpg/120px-Deraeocoris.ruber.jpg
 Cimicomorpha,Plattwanzen,Cimicidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cimex_dissimilis.jpg/120px-Cimex_dissimilis.jpg
@@ -917,7 +917,7 @@ Carpocorini,Offener Lorch,Holcostethus sphacelatus,Art,,TRUE,FALSE,https://uploa
 Carpocorini,Holcogaster fibulata,Holcogaster fibulata,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/2025_06_02_Holcogaster_fibulata.jpg/120px-2025_06_02_Holcogaster_fibulata.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Carpocorini,Frühlings-Baumwanze,Peribalus strictus,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2018_09_19_Peribalus_strictus.jpg/120px-2018_09_19_Peribalus_strictus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Carpocorini,Kleine Sichelfleck-Baumwanze,Staria lunata,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Staria_lunata_-_Flickr_-_gailhampshire_%281%29.jpg/120px-Staria_lunata_-_Flickr_-_gailhampshire_%281%29.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-Carpocorini,Korbblütlerwanze,Antheminia lunulata,Art,,FALSE,FALSE,not_found
+Carpocorini,Korbblütlerwanze,Antheminia lunulata,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Antheminia_lunulata.jpg/500px-Antheminia_lunulata.jpg
 Pentatominae,Eysarcorini,Eysarcorini,Tribus,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Eysarcorini,Stagonomus,Stagonomus,Gattung,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Pentatomidae_-_Eysarcoris_venustissimus-000.JPG/120px-Pentatomidae_-_Eysarcoris_venustissimus-000.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Stagonomus,Schillerwanze,Stagonomus venustissimus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pentatomidae_-_Eysarcoris_venustissimus.JPG/120px-Pentatomidae_-_Eysarcoris_venustissimus.JPG
@@ -932,14 +932,13 @@ Eurydema,Zierliche Gemüsewanze,Eurydema dominulus,Art,,TRUE,FALSE,https://uploa
 Eurydema,Kohlwanze,Eurydema oleracea,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/IMG_0741_pluskwiak.jpg/120px-IMG_0741_pluskwiak.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Eurydema,Schwarzrückige Gemüsewanze,Eurydema ornata,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Eurydema_ornat-ZK3_17645_c_wc.jpg/120px-Eurydema_ornat-ZK3_17645_c_wc.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Eurydema,Grosse Gemüsewanze,Eurydema ventralis,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pentatomidae_-_Eurydema_ventralis.JPG/120px-Pentatomidae_-_Eurydema_ventralis.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-Eurydema,Gebirgs-Gemüsewanze,Eurydema rotundicollis,Art,,TRUE,FALSE,not_found
 Pentatominae,Cappaeini,Cappaeini,Tribus,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Cappaeini,Marmorierte Baumwanze,Halyomorpha halys,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg/120px-Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg
 Baumwanzen,Podopinae,Podopinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hainich_fg09.jpg/120px-Hainich_fg09.jpg
 Podopinae,Hakenwanze,Podops inunctus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2021_06_03_Podops_inunctus.jpg/120px-2021_06_03_Podops_inunctus.jpg
 Podopinae,Ankerwanze,Ancyrosoma leucogrammes,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg/120px-%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg
 Podopinae,Streifenwanze,Graphosoma italicum,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Graphosoma_italicum_-_Kulna.jpg/120px-Graphosoma_italicum_-_Kulna.jpg
-Podopinae,Schwarzkümmel-Baumwanze,Ventocoris rusticus,Art,,FALSE,FALSE,not_found
+Podopinae,Schwarzkümmel-Baumwanze,Ventocoris rusticus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ventocoris_rusticus_8287813.jpg/500px-Ventocoris_rusticus_8287813.jpg
 Podopinae,Gelblabkraut-Baumwanze,Vilpianus galii,Art,,FALSE,FALSE,not_found
 Baumwanzen,Asopinae,Asopinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Picromerus_bidens_%28Pentatomidae_sp.%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg/120px-Picromerus_bidens_%28Pentatomidae_sp.%29%2C_Elst_%28Gld%29%2C_the_Netherlands.jpg
 Asopinae,Zweizähnige Dornwanze,Picromerus bidens,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pluskwiak_on_a_leaf.jpg/120px-Pluskwiak_on_a_leaf.jpg
@@ -984,10 +983,10 @@ Röhrenblattläuse,Mehlige Apfelblattlaus,Dysaphis plantaginea,Art,,FALSE,FALSE,
 Blattläuse,Rindenläuse,Lachninae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cinara.spec.090.jpg/120px-Cinara.spec.090.jpg
 Rindenläuse,Grosse Weidenblattlaus,Tuberolachnus salignus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2023_10_17_Tuberolachnus_salignus.jpg/120px-2023_10_17_Tuberolachnus_salignus.jpg
 Rindenläuse,Eichenrindenlaus,Lachnus roboris,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/British_Entomology_Volume_7_%28John_Curtis%29_Plate_576.jpg/120px-British_Entomology_Volume_7_%28John_Curtis%29_Plate_576.jpg
-Rindenläuse,Kiefernrindenlaus,Cinara pini,Art,,FALSE,FALSE,not_found
+Rindenläuse,Kiefernrindenlaus,Cinara pini,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Cinara_pini_5_beentree.jpg/500px-Cinara_pini_5_beentree.jpg
 Blattläuse,Blasenläuse,Pemphigidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Wooly_aphidson_jasmine_plant.jpg/120px-Wooly_aphidson_jasmine_plant.jpg
 Blasenläuse,Spiralgallenlaus,Pemphigus spyrothecae,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Pemphigus_spirothecae_20050831_498.jpg/120px-Pemphigus_spirothecae_20050831_498.jpg
-Blattläuse,Zierläuse,Callaphididae,Familie,,TRUE,,not_found
+Blattläuse,Zierläuse,Callaphididae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phyllaphis_fagi_1-2.jpg/120px-Phyllaphis_fagi_1-2.jpg
 Zierläuse,Buchenblattlaus,Phyllaphis fagi,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Phyllaphis_fagi_1-2.jpg/120px-Phyllaphis_fagi_1-2.jpg
 Blattläuse,Adelgidae,Adelgidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Adelges_tsugae_5395118.jpg/120px-Adelges_tsugae_5395118.jpg
 Adelgidae,Grüne Fichtengallenlaus,Adelges viridis,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Galle_Gr%C3%BCne_Fichtengallenlaus_Adelges_viridis.JPG/120px-Galle_Gr%C3%BCne_Fichtengallenlaus_Adelges_viridis.JPG
@@ -997,7 +996,7 @@ Eumetabola,Holometabole Insekten,Holometabola,ohne Rang,,TRUE,TRUE,https://uploa
 Holometabole Insekten,Netzflüglerartige,Neuropteroidea,ohne Rang,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Libelloides_coccajus_210505.jpg/120px-Libelloides_coccajus_210505.jpg
 Netzflüglerartige,Kamelhalsfliegen,Raphidioptera,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kamelhalsfliege_Phaeostigma_major.jpg/120px-Kamelhalsfliege_Phaeostigma_major.jpg
 Kamelhalsfliegen,Markante Kamelhalsfliege,Phaeostigma notata,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Phaeostigma.notata.Commanster.jpg/120px-Phaeostigma.notata.Commanster.jpg
-Kamelhalsfliegen,Schwarzhalsige Kamelhalsfliege,Venustoraphidia nigricollis,Art,,TRUE,FALSE,not_found
+Kamelhalsfliegen,Schwarzhalsige Kamelhalsfliege,Venustoraphidia nigricollis,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Venustoraphidia_nigricollis_250422.jpg/500px-Venustoraphidia_nigricollis_250422.jpg
 Netzflüglerartige,Grossflügler,Megaloptera,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sialis_lutaria_larva_%28aka%29.jpg/120px-Sialis_lutaria_larva_%28aka%29.jpg
 Grossflügler,Gemeine Schlammfliege,Sialis lutaria,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sialis_lutaria02.jpg/120px-Sialis_lutaria02.jpg
 Netzflüglerartige,Netzflügler,Neuroptera,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chrysopa_perla01.jpg/120px-Chrysopa_perla01.jpg
@@ -1011,8 +1010,8 @@ Netzflügler,Taghafte,Hemerobiidae,Familie,,TRUE,,https://upload.wikimedia.org/w
 Taghafte,Totes Blatt (Netzflügler),Drepanepteryx phalaenoides,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Totes_Blatt_Schmetterlingstramete.jpg/120px-Totes_Blatt_Schmetterlingstramete.jpg
 Taghafte,Gemeiner Taghaft,Hemerobius humulinus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brown_Lacewing_%2829709548302%29.jpg/120px-Brown_Lacewing_%2829709548302%29.jpg
 Taghafte,Brauner Taghaft,Micromus angulatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%28MHNT%29_Micromus_angulatus_on_Daucus_carota.jpg/120px-%28MHNT%29_Micromus_angulatus_on_Daucus_carota.jpg
-Taghafte,Nerviger Taghaft,Wesmaelius nervosus,Art,,FALSE,FALSE,not_found
-Taghafte,Zwergiger Taghaft,Sympherobius pygmaeus,Art,,TRUE,FALSE,not_found
+Taghafte,Nerviger Taghaft,Wesmaelius nervosus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Wesmaelius_nervosus01.jpg/500px-Wesmaelius_nervosus01.jpg
+Taghafte,Zwergiger Taghaft,Sympherobius pygmaeus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sympherobius_pygmaeus.jpg/500px-Sympherobius_pygmaeus.jpg
 Netzflügler,Fanghafte,Mantispidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mantispa_styriaca01.jpg/120px-Mantispa_styriaca01.jpg
 Fanghafte,Steirischer Fanghaft,Mantispa styriaca,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mantispa_styriaca01.jpg/120px-Mantispa_styriaca01.jpg
 Fanghafte,Verwechselter Fanghaft,Mantispa aphavexelte,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mantispa_aphavexelte_Greece.jpg/120px-Mantispa_aphavexelte_Greece.jpg
@@ -1258,7 +1257,7 @@ Marienkäfer,Zwergmarienkäfer,Scymnini,Tribus,,,,https://upload.wikimedia.org/w
 Zwergmarienkäfer,Schwarzer Kugelmarienkäfer,Stethorus pusillus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stethorus_pusillus.jpg/120px-Stethorus_pusillus.jpg
 Zwergmarienkäfer,Bogen-Zwergmarienkäfer,Clitostethus arcuatus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Clitostethus_arcuatus.jpg/120px-Clitostethus_arcuatus.jpg
 Zwergmarienkäfer,Schrägbinden-Zwergmarienkäfer,Scymnus subvillosus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Scymnus_subvillosus2.jpg/120px-Scymnus_subvillosus2.jpg
-Marienkäfer,Chilocorini,Chilocorini,Tribus,,TRUE,,not_found
+Marienkäfer,Chilocorini,Chilocorini,Tribus,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Exochomus_quadripustulatus01.jpg/120px-Exochomus_quadripustulatus01.jpg
 Chilocorini,Rainfarn-Marienkäfer,Platynaspis luteorubra,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Platynaspis_luteorubra2.jpg/120px-Platynaspis_luteorubra2.jpg
 Chilocorini,Vierfleckiger Kugelmarienkäfer,Exochomus quadripustulatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Exochomus_quadripustulatus01.jpg/120px-Exochomus_quadripustulatus01.jpg
 Chilocorini,Nierenfleckiger Kugelmarienkäfer,Chilocorus renipustulatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Chilocorus_renipustulatus.jpg/120px-Chilocorus_renipustulatus.jpg
@@ -1276,7 +1275,7 @@ Glanzkäfer,Grosser Eichensaftflusskäfer,Soronia grisea,Art,,FALSE,FALSE,https:
 Cucujoidea,Stäublingskäfer,Endomychidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Endomychus_coccineus_couple.jpg/120px-Endomychus_coccineus_couple.jpg
 Stäublingskäfer,Scharlachroter Stäublingskäfer,Endomychus coccineus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Endomychus_coccineus_couple.jpg/120px-Endomychus_coccineus_couple.jpg
 Stäublingskäfer,Kreuzbinden-Pilzkäfer,Mycetina cruciata,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mycetina_cruciata_natur.jpg/120px-Mycetina_cruciata_natur.jpg
-Stäublingskäfer,Behaarter Stäublingskäfer,Mycetaea subterranea,Art,,TRUE,FALSE,not_found
+Stäublingskäfer,Behaarter Stäublingskäfer,Mycetaea subterranea,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Mycetaea_subterranea.jpg/500px-Mycetaea_subterranea.jpg
 Cucujiformia,Tenebrionoidea,Tenebrionoidea,Überfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Synchroa_punctata_larva.jpg/120px-Synchroa_punctata_larva.jpg
 Tenebrionoidea,Fächerkäfer,Ripiphoridae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rhipiphorus_diadasiae_male.jpg/120px-Rhipiphorus_diadasiae_male.jpg
 Fächerkäfer,Ptilophorus dufouri,Ptilophorus dufouri,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ptilophorus_dufouri.JPG/120px-Ptilophorus_dufouri.JPG
@@ -1436,7 +1435,7 @@ Entiminae,Gewöhnlicher Dreimakelrüssler,Graptus triguttatus,Art,,FALSE,FALSE,h
 Entiminae,Gemeiner Graurüssler,Brachyderes incanus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Brachyderes_incanus.jpg/120px-Brachyderes_incanus.jpg
 Entiminae,Rauer Dickmaulrüssler,Otiorhynchus raucus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Otiorhynchus_raucus_03.JPG/120px-Otiorhynchus_raucus_03.JPG
 Entiminae,Seidiger Glanzrüssler,Polydrusus formosus,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Polydrusus_formosus_female_%2822180366512%29.jpg/120px-Polydrusus_formosus_female_%2822180366512%29.jpg
-Entiminae,Rotklee-Blattrandrüssler,Sitona obsoletus,Art,,TRUE,TRUE,not_found
+Entiminae,Rotklee-Blattrandrüssler,Sitona obsoletus,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Sitona_obsoletus_01.JPG/500px-Sitona_obsoletus_01.JPG
 Rüsselkäfer,Dryophthorinae,Dryophthorinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sitophilus_oryzae_%28Linn%C3%A9%2C_1763%29_%283546202126%29.jpg/120px-Sitophilus_oryzae_%28Linn%C3%A9%2C_1763%29_%283546202126%29.jpg
 Dryophthorinae,Sitophilus,Sitophilus,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sitophilus.granarius.jpg/120px-Sitophilus.granarius.jpg
 Sitophilus,Kornkäfer,Sitophilus granarius,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sitophilus.granarius.jpg/120px-Sitophilus.granarius.jpg
@@ -1584,7 +1583,7 @@ Ameisen,Knotenameisen,Myrmicinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedi
 Knotenameisen,Myrmica,Myrmica,Gattung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Myrmica-rubra-workers.jpg/120px-Myrmica-rubra-workers.jpg
 Myrmica,Waldknotenameisen,Myrmica ruginodis,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Myrmica.ruginodis.-.lindsey.jpg/120px-Myrmica.ruginodis.-.lindsey.jpg
 Myrmica,Rote Gartenameise,Myrmica rubra,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Myrmica-rubra-workers.jpg/120px-Myrmica-rubra-workers.jpg
-Knotenameisen,Atta,Atta,Gattung,,FALSE,FALSE,not_found
+Knotenameisen,Atta vollenweideri,Atta vollenweideri,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Atta_vollenweideri_casent0173819_profile_1.jpg/120px-Atta_vollenweideri_casent0173819_profile_1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Knotenameisen,Pharaoameise,Monomorium pharaonis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Monomorium_pharaonis_casent0173986_profile_1.jpg/120px-Monomorium_pharaonis_casent0173986_profile_1.jpg
 Knotenameisen,Grosse Knotenameise,Manica rubida,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Manica_rubida.jpg/120px-Manica_rubida.jpg
 Knotenameisen,Rote Feuerameise,Solenopsis invicta,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Solenopsis_invicta_312619812.jpg/120px-Solenopsis_invicta_312619812.jpg
@@ -1626,7 +1625,7 @@ Kurzkopfwespen,Gemeine Wespe,Vespula vulgaris,Art,,TRUE,FALSE,https://upload.wik
 Kurzkopfwespen,Deutsche Wespe,Vespula germanica,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/European_wasp_white_bg.jpg/120px-European_wasp_white_bg.jpg
 Feldwespen,Dolchwespen,Scoliidae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Scolia_nobilitata_tricincta.jpg/120px-Scolia_nobilitata_tricincta.jpg
 Dolchwespen,Gelbstirnige Dolchwepse,Regiscolia maculata,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Scolia_maculata1.jpg/120px-Scolia_maculata1.jpg
-Dolchwespen,Scolia,Scolia,Gattung,,TRUE,TRUE,not_found
+Dolchwespen,Scolia,Scolia,Gattung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Scolia_hirta.JPG/120px-Scolia_hirta.JPG
 Scolia,Borstige Dolchwespe,Scolia hirta,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Scolia_hirta.JPG/120px-Scolia_hirta.JPG
 Scolia,Sechsfleckige Dolchwespe,Scolia sexmaculata,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Scolia_sexmaculata_217621117.jpg/120px-Scolia_sexmaculata_217621117.jpg
 Stechimmen,Bienen und Grabwespen,Apoidea,Überfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%28MHNT%29_Colletes_hederae_on_Hederae_inflorescence.jpg/120px-%28MHNT%29_Colletes_hederae_on_Hederae_inflorescence.jpg
@@ -1921,7 +1920,7 @@ Papilio,Papilio androgeus,Papilio androgeus,Art,,FALSE,FALSE,https://upload.wiki
 Papilio,Königs-Schwalbenschwanz,Papilio thoas,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Papilio_thoas.jpg/120px-Papilio_thoas.jpg
 Papilio,Papilio pilumnus,Papilio pilumnus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Papilio_pilumnus_5287270.jpg/120px-Papilio_pilumnus_5287270.jpg
 Papilio,Japanischer Schwalbenschwanz,Papilio xuthus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Papilio_xuthus_223112759.jpg/120px-Papilio_xuthus_223112759.jpg
-Schwalbenschwänze,Graphium,Graphium,Gattung,,,,not_found
+Schwalbenschwänze,Graphium,Graphium,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tailed_Green_Jay.jpg/120px-Tailed_Green_Jay.jpg
 Graphium,Graphium agamemnon,Graphium agamemnon,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tailed_Green_Jay.jpg/120px-Tailed_Green_Jay.jpg
 Graphium,Graphium agetes,Graphium agetes,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Four-bar_swordtail_butterfly_01.jpg/120px-Four-bar_swordtail_butterfly_01.jpg
 Graphium,Graphium cloanthus,Graphium cloanthus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Open_wing_mud-puddling_position_of_Graphium_cloanthus_%28Westwood%2C1841%29_-_Glassy_Bluebottle.jpg/120px-Open_wing_mud-puddling_position_of_Graphium_cloanthus_%28Westwood%2C1841%29_-_Glassy_Bluebottle.jpg
@@ -1936,7 +1935,7 @@ Leguminosenweisslinge,Senfweissling,Leptidea sinapis,Art,,TRUE,FALSE,https://upl
 Weisslinge,Echte Weisslinge,Pierinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Butterfly_May_2008-3a.jpg/120px-Butterfly_May_2008-3a.jpg
 Echte Weisslinge,Baum-Weissling,Aporia crataegi,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Baumwei%C3%9Fling_%28Aporia_crataegi%29.jpg/120px-Baumwei%C3%9Fling_%28Aporia_crataegi%29.jpg
 Echte Weisslinge,Aurorafalter,Anthocharis cardamines,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Anthocharis-cardamines-280405-1.jpg/120px-Anthocharis-cardamines-280405-1.jpg
-Echte Weisslinge,Pieris,Pieris,Gattung,,TRUE,TRUE,not_found
+Echte Weisslinge,Pieris,Pieris,Gattung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gro%C3%9Fer_Kohlwei%C3%9Fling.jpg/120px-Gro%C3%9Fer_Kohlwei%C3%9Fling.jpg
 Pieris,Kleiner Kohlweissling,Pieris rapae,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pieris.rapae.6834.jpg/120px-Pieris.rapae.6834.jpg
 Pieris,Grosser Kohlweissling,Pieris brassicae,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gro%C3%9Fer_Kohlwei%C3%9Fling.jpg/120px-Gro%C3%9Fer_Kohlwei%C3%9Fling.jpg
 Pieris,Grünader-Weissling,Pieris napi,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pieris_napi_LC0176.jpg/120px-Pieris_napi_LC0176.jpg
@@ -1990,7 +1989,7 @@ Passionsblumenfalter,Zebrafalter,Heliconius charithonia,Art,,FALSE,FALSE,https:/
 Passionsblumenfalter,Fackel,Dryas iulia,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Julia-heliconian-butterfly.jpg/120px-Julia-heliconian-butterfly.jpg
 Passionsblumenfalter,Dryadula phaetusa,Dryadula phaetusa,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dryadula-phaetusa-butterfly.jpg/120px-Dryadula-phaetusa-butterfly.jpg
 Edelfalter,Fleckenfalter,Nymphalinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Papillon_feuille_MHNT.jpg/120px-Papillon_feuille_MHNT.jpg
-Fleckenfalter,Vanessa,Vanessa,Gattung,,TRUE,TRUE,not_found
+Fleckenfalter,Vanessa,Vanessa,Gattung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Distelfalter-JR-A40-613-2009-05-24.jpg/120px-Distelfalter-JR-A40-613-2009-05-24.jpg
 Vanessa,Admiral,Vanessa atalanta,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/VanessaAtalanta_Closeup.jpg/120px-VanessaAtalanta_Closeup.jpg
 Vanessa,Indischer Admiral,Vanessa indica,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vanessa_indica-Silent_Valley-2016-08-14-001.jpg/120px-Vanessa_indica-Silent_Valley-2016-08-14-001.jpg
 Vanessa,Kanarischer Admiral,Vanessa vulcania,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Vanessa_Vulcania_%284457181296%29.jpg/120px-Vanessa_Vulcania_%284457181296%29.jpg
@@ -2300,7 +2299,7 @@ Zuckmücken,Chironomus plumosus,Chironomus plumosus,Art,,FALSE,FALSE,https://upl
 Zuckmücken,Microtendipes pedellus,Microtendipes pedellus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tendipes_pedellus_01.JPG/120px-Tendipes_pedellus_01.JPG
 Mücken,Bibionomorpha,Bibionomorpha,Teilordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%28MHNT%29_Bibio_marci.jpg/120px-%28MHNT%29_Bibio_marci.jpg
 Bibionomorpha,Haarmücken,Bibionidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penthetria_funebris_-_2016-05-04.webm/120px--Penthetria_funebris_-_2016-05-04.webm.jpg
-Haarmücken,Bibio,Bibio,Gattung,,TRUE,,not_found
+Haarmücken,Bibio,Bibio,Gattung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2017_04_14_Bibio_johannis.jpg/120px-2017_04_14_Bibio_johannis.jpg
 Bibio,Märzfliege,Bibio marci,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Haarmuecke-JR-T3-7661-7777-2024-04-14.jpg/120px-Haarmuecke-JR-T3-7661-7777-2024-04-14.jpg
 Bibio,Johannis-Haarmücke,Bibio johannis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2017_04_14_Bibio_johannis.jpg/120px-2017_04_14_Bibio_johannis.jpg
 Bibio,Gartenhaarmücke,Bibio hortulanus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bibio_hortulanus01.jpg/120px-Bibio_hortulanus01.jpg
@@ -2584,7 +2583,7 @@ Trombidiformes,Gallmilben,Eriophyidae,Familie,,TRUE,TRUE,https://upload.wikimedi
 Gallmilben,Ahorn-Gallmilbe,Aceria macrorhyncha,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg/120px-Sycamore_leaf_with_galls_and_tar_spot_fungus_-_geograph.org.uk_-_919089.jpg
 Gallmilben,Apfelrostmilbe,Aculus schlechtendali,Art,,FALSE,FALSE,not_found
 Gallmilben,Lindengallmilbe,Eriophyes tiliae,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Galle_Lindengallmilbe_Eriophyes_tiliae.JPG/120px-Galle_Lindengallmilbe_Eriophyes_tiliae.JPG
-Gallmilben,Nelkenwurzblatt-Gallmilbe,Cecidophyes nudus,Art,,TRUE,TRUE,not_found
+Gallmilben,Nelkenwurzblatt-Gallmilbe,Cecidophyes nudus,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Cecidophyes_nudus.jpg/500px-Cecidophyes_nudus.jpg
 Trombidiformes,Rote Samtmilbe,Trombidium holosericeum,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trombidium_holosericeum_LC0127.jpg/120px-Trombidium_holosericeum_LC0127.jpg
 Milben,Mesostigmata,Mesostigmata,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Varroa_destructor%2C_1_2019-09-06-19.12.07_ZS_PMax_UDR_%2848697155713%29.jpg/120px-Varroa_destructor%2C_1_2019-09-06-19.12.07_ZS_PMax_UDR_%2848697155713%29.jpg
 Mesostigmata,Varroamilbe,Varroa destructor,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Varroamilbe.jpg/120px-Varroamilbe.jpg
@@ -4059,13 +4058,13 @@ Kleiber (F),Kleiber,Sitta europaea,Art,,TRUE,FALSE,https://upload.wikimedia.org/
 Muscicapida,Zaunkönige,Troglodytidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hauszaunkoenig.jpg/100px-Hauszaunkoenig.jpg
 Zaunkönige,Zaunkönig,Troglodytes troglodytes,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Eurasian-Wren-Troglodytes-troglodytes.jpg/100px-Eurasian-Wren-Troglodytes-troglodytes.jpg
 Muscicapida,Stare,Sturnidae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Acridotheres_tristis1.jpg/100px-Acridotheres_tristis1.jpg
-Stare,Graculinae,Graculinae,Unterfamilie,,,,not_found
+Stare,Graculinae,Graculinae,Unterfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beo-2a.jpg/100px-Beo-2a.jpg
 Graculinae,Braunkopf-Trugbaumläufer,Rhabdornis inornatus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/7577_Stripe-breasted_Rhabdornis_1_1847385412_cropped.png/120px-7577_Stripe-breasted_Rhabdornis_1_1847385412_cropped.png
 Graculinae,Papuaatzel,Mino dumontii,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Yellow-faced_Myna.jpg/120px-Yellow-faced_Myna.jpg
 Graculinae,Bergbeo,Gracula religiosa,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Beo-2a.jpg/100px-Beo-2a.jpg
 Graculinae,Schmalschnabelstar,Scissirostrum dubium,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Grosbeak_Starling%2C_Pinasungkulan%2C_North_Sulawesi%2C_Indonesia_0A2A5992_%28cropped%29.jpg/120px-Grosbeak_Starling%2C_Pinasungkulan%2C_North_Sulawesi%2C_Indonesia_0A2A5992_%28cropped%29.jpg
 Graculinae,Rarotonga-Star,Aplonis cinerascens,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Rarotonga_Starling_imported_from_iNaturalist_photo_109929360_on_21_April_2022.jpg/120px-Rarotonga_Starling_imported_from_iNaturalist_photo_109929360_on_21_April_2022.jpg
-Stare,Sturninae,Sturninae,Unterfamilie,,TRUE,TRUE,not_found
+Stare,Sturninae,Sturninae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/100px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg
 Sturninae,Sturnus,Sturnus,Gattung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Star_Sturnus_vulgaris.jpg/120px-Star_Sturnus_vulgaris.jpg
 Sturnus,Star,Sturnus vulgaris,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg/100px-Sturnus_vulgaris_2_%28Marek_Szczepanek%29.jpg
 Sturnus,Einfarbstar,Sturnus unicolor,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Estornino_Negro._Casa_de_Campo._Madrid..jpg/120px-Estornino_Negro._Casa_de_Campo._Madrid..jpg
@@ -4190,7 +4189,7 @@ Boas,Anakondas,Eunectes,Gattung,,,,https://upload.wikimedia.org/wikipedia/common
 Anakondas,Grosse Anakonda,Eunectes murinus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sucuri_verde.jpg/100px-Sucuri_verde.jpg
 Anakondas,Gelbe Anakonda,Eunectes notaeus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anaconda_jaune_34.JPG/120px-Anaconda_jaune_34.JPG
 Boas,Hundskopfboa,Corallus hortulana,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Peru-2006macaw2_245.jpg/100px-Peru-2006macaw2_245.jpg
-Echte Schlangen,Pythonartige,Pythonoidea,Überfamilie,,,,not_found
+Echte Schlangen,Pythonartige,Pythonoidea,Überfamilie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Python_regius_070731_a.jpg/100px-Python_regius_070731_a.jpg
 Pythonartige,Pythons,Pythonidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baumpython.jpg/100px-Baumpython.jpg
 Pythons,Eigentliche Pythons,Pyhton,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Python_royal_35.JPG/100px-Python_royal_35.JPG
 Eigentliche Pythons,Heller Tigerpython,Python molurus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pratik_jain_dahod_python.JPG/100px-Pratik_jain_dahod_python.JPG
@@ -4326,7 +4325,7 @@ Bartagamen,Zwergbartagame,Pogona henrylawsoni,Art,,FALSE,FALSE,https://upload.wi
 Bartagamen,Streifenköpfige Bartagame,Pogona vitticeps,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pogona_vitticeps.JPG/120px-Pogona_vitticeps.JPG
 Leguanartige,Chamäleons,Chamaeleonidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cam%C3%A9l%C3%A9on_Madagascar_02.jpg/100px-Cam%C3%A9l%C3%A9on_Madagascar_02.jpg
 Chamäleons,Kurzhorn-Chamäleon,Calumma brevicorne,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Calumma_brevicorne_Seite.jpg/100px-Calumma_brevicorne_Seite.jpg
-Chamäleons,Chamaelo,Chamaeleo,Gattung,,,,not_found
+Chamäleons,Chamaelo,Chamaeleo,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Chamaelio_calyptratus.jpg/120px-Chamaelio_calyptratus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Chamaelo,Basiliskenchamäleon,Chamaeleo africanus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Benny_Trapp_Chamaeleo_africanus_kletterndes_Weibchen.jpg/100px-Benny_Trapp_Chamaeleo_africanus_kletterndes_Weibchen.jpg
 Chamaelo,Gewöhnliches Chamäleon,Chamaeleo chamaeleon,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gew%C3%B6hnliches_Cham%C3%A4leon.jpg/100px-Gew%C3%B6hnliches_Cham%C3%A4leon.jpg
 Chamäleons,Furcifer,Furcifer,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Chamaeleo_pardalis_050725_02w.jpg/100px-Chamaeleo_pardalis_050725_02w.jpg
@@ -5377,7 +5376,7 @@ Conus,Karottenkegel,Conus daucus,Art,,FALSE,FALSE,https://upload.wikimedia.org/w
 Kegelschnecken,Centurionen-Kegel,Conasprella centurio,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Conus_centurio_1.jpg/120px-Conus_centurio_1.jpg
 Kegelschnecken,Kalifornische Kegelschnecke,Californiconus californicus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Conus_californicus.jpg/120px-Conus_californicus.jpg
 Schnecken,Verschiedenkiemer,Heterobranchia,Unterklasse,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Heterobranchia_composite_03.jpg/120px-Heterobranchia_composite_03.jpg
-Verschiedenkiemer,Acteonimorpha,Acteonimorpha,ohne Rang,,,,not_found
+Verschiedenkiemer,Acteonimorpha,Acteonimorpha,ohne Rang,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Micromelo_undatus_R%C3%A9union_2.JPG/120px-Micromelo_undatus_R%C3%A9union_2.JPG
 Acteonimorpha,Rosenblatt-Blasenschnecke,Hydatina physis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hydatina_physis.png/120px-Hydatina_physis.png
 Acteonimorpha,Blasenschnecke,Micromelo undatus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Micromelo_undatus_R%C3%A9union_2.JPG/120px-Micromelo_undatus_R%C3%A9union_2.JPG
 Verschiedenkiemer,Nacktkiemer,Nudibranchia,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Haeckel_Nudibranchia.jpg/120px-Haeckel_Nudibranchia.jpg
@@ -5466,7 +5465,7 @@ Pyramidenschnecken,Felsen-Pyramidenschnecke,Pyramidula pusilla,Art,,TRUE,FALSE,h
 Pupilloidea,Grasschnecken,Valloniidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Acanthinula_aculeata.jpg/120px-Acanthinula_aculeata.jpg
 Grasschnecken,Glatte Grasschnecke,Vallonia pulchella,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vallonia_pulchella_shell_2.jpg/120px-Vallonia_pulchella_shell_2.jpg
 Grasschnecken,Stachelige Streuschnecke,Acanthinula aculeata,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Acanthinula_aculeata_02.jpg/120px-Acanthinula_aculeata_02.jpg
-Grasschnecken,Bienenkörbchen,Spermodea lamellata,Art,,FALSE,FALSE,not_found
+Grasschnecken,Bienenkörbchen,Spermodea lamellata,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Spermodea_lamellata.jpg/500px-Spermodea_lamellata.jpg
 Pupilloidea,Windelschnecken,Vertiginidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vertigo_moulinsiana.jpg/120px-Vertigo_moulinsiana.jpg
 Windelschnecken,Gemeine Windelschnecke,Vertigo pygmaea,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vertigo_pygmaea_shell_2.jpg/120px-Vertigo_pygmaea_shell_2.jpg
 Windelschnecken,Helle Zylinderwindelschnecke,Truncatellina claustralis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Truncatellina-claustralis_03.jpg/120px-Truncatellina-claustralis_03.jpg
@@ -5520,7 +5519,7 @@ Dolchschnecken,Glänzende Dolchschnecke,Zonitoides nitidus,Art,,TRUE,FALSE,https
 Gastrodontoidea,Glanzschnecken,Oxychilidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Oxychilus_draparnaudi_2.jpg/120px-Oxychilus_draparnaudi_2.jpg
 Glanzschnecken,Grosse Glanzschnecke,Oxychilus draparnaudi,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Oxychilus_draparnaudi.jpg/120px-Oxychilus_draparnaudi.jpg
 Glanzschnecken,Glatte Glanzschnecke,Morlina glabra,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Oxychilus-glaber_03.jpg/120px-Oxychilus-glaber_03.jpg
-Glanzschnecken,Kleine Daudebardie,Daudebardia brevipes,Art,,FALSE,FALSE,not_found
+Glanzschnecken,Kleine Daudebardie,Daudebardia brevipes,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Daudebardia-brevipes_02.jpg/500px-Daudebardia-brevipes_02.jpg
 Gastrodontoidea,Kristallschnecken,Pristilomatidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hawaiia_minuscula_shell.jpg/120px-Hawaiia_minuscula_shell.jpg
 Kristallschnecken,Falsche Scheibchenschnecke,Hawaiia minuscula,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Hawaiia_minuscula_shell.jpg/120px-Hawaiia_minuscula_shell.jpg
 Kristallschnecken,Gemeine Kristallschnecke,Vitrea crystallina,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vitrea_crystallina_01.jpg/120px-Vitrea_crystallina_01.jpg
@@ -5567,7 +5566,7 @@ Arion,Braune Wegschnecke,Arion fuscus,Art,,FALSE,FALSE,https://upload.wikimedia.
 Wegschnecken,Gelbgefleckte Wegschnecke,Geomalacus maculosus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Geomalacus_maculosus_8.jpg/120px-Geomalacus_maculosus_8.jpg
 Arionoidea,Ariolimacidae,Ariolimacidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Somesortofslug.jpg/120px-Somesortofslug.jpg
 Ariolimacidae,Bananenschnecken,Ariolimax,Gattung,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Somesortofslug.jpg/120px-Somesortofslug.jpg
-Verschiedenkiemer,Süsswasserlungenschnecken,Hygrophila,Ordnung,,TRUE,TRUE,not_found
+Verschiedenkiemer,Süsswasserlungenschnecken,Hygrophila,Ordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blasenschnecke_01.jpg/120px-Blasenschnecke_01.jpg
 Süsswasserlungenschnecken,Schlammschnecken,Lymnaeidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Water_snail_Rex_2.jpg/120px-Water_snail_Rex_2.jpg
 Schlammschnecken,Spitzschlammschnecke,Lymnaea stagnalis,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Water_snail_Rex_2.jpg/120px-Water_snail_Rex_2.jpg
 Schlammschnecken,Gemeine Schlammschnecke,Ampullaceana balthica,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Radix_balthica_01.JPG/120px-Radix_balthica_01.JPG
@@ -5688,7 +5687,7 @@ Mytilus,Pazifische Miesmuschel,Mytilus trossulus,Art,,FALSE,FALSE,https://upload
 Miesmuscheln,Grünschalmuschel,Perna canaliculus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_Lipped_Mussel_%28314300764%29.jpg/120px-Green_Lipped_Mussel_%28314300764%29.jpg
 Miesmuscheln,Steindattel,Lithophaga lithophaga,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lithophaga.JPG/120px-Lithophaga.JPG
 Miesmuscheln,Marmorierte Bohnenmuschel,Musculus subpictus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Naturalis_Biodiversity_Center_-_RMNH.MOL.316792_-_Musculus_subpictus_%28Cantraine%2C_1835%29.png/120px-Naturalis_Biodiversity_Center_-_RMNH.MOL.316792_-_Musculus_subpictus_%28Cantraine%2C_1835%29.png
-Mytilida,Modiolidae,Modiolidae,Familie,,,,not_found
+Mytilida,Modiolidae,Modiolidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Modiolus_modiolus_001.jpg/120px-Modiolus_modiolus_001.jpg
 Modiolidae,Pferdemuschel,Modiolus modiolus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Modiolus_modiolus_001.jpg/120px-Modiolus_modiolus_001.jpg
 Pteriomorphia,Ostreida,Ostreida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Crassostrea_gigas_p1040848.jpg/120px-Crassostrea_gigas_p1040848.jpg
 Ostreida,Austern,Ostreidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Crassostrea_gigas_p1040847.jpg/120px-Crassostrea_gigas_p1040847.jpg
@@ -5717,7 +5716,7 @@ Kammmuscheln,Tiger-Kammmuschel,Palliolum tigerinum,Art,,FALSE,FALSE,https://uplo
 Kammmuscheln,Siebenstrahlige Kammmuschel,Pseudamussium peslutrae,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Naturalis_Biodiversity_Center_-_RMNH.MOL.322550_-_Pseudamussium_peslutrae_%28Linnaeus%2C_1771%29.png/120px-Naturalis_Biodiversity_Center_-_RMNH.MOL.322550_-_Pseudamussium_peslutrae_%28Linnaeus%2C_1771%29.png
 Kammmuscheln,Kleine Pilgermuschel,Aequipecten opercularis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aequipecten_opercularis_MHNT_CON_2003_1171_de_Roquemaurel.jpg/120px-Aequipecten_opercularis_MHNT_CON_2003_1171_de_Roquemaurel.jpg
 Kammmuscheln,Zickzack-Kammmuschel,Euvola ziczac,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Naturalis_Biodiversity_Center_-_ZMA.MOLL.12279_1_-_Euvola_ziczac_%28Linnaeus%2C_1758%29_-_Pectinidae_-_Mollusc_shell.jpeg/120px-Naturalis_Biodiversity_Center_-_ZMA.MOLL.12279_1_-_Euvola_ziczac_%28Linnaeus%2C_1758%29_-_Pectinidae_-_Mollusc_shell.jpeg
-Kammmuscheln,Pecten,Pecten,Gattung,,,,not_found
+Kammmuscheln,Pecten,Pecten,Gattung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30457%29.jpg/120px-Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30457%29.jpg
 Pecten,Grosse Pilgermuschel,Pecten maximus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30457%29.jpg/120px-Coquille_Saint-Jacques_%28Pecten_maximus%29_en_rade_de_Brest_%28Ifremer_00644-75660_-_30457%29.jpg
 Pecten,Mittelmeer-Pilgermuschel,Pecten jacobaeus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pecten_jacobaeus_von_aussen.jpg/120px-Pecten_jacobaeus_von_aussen.jpg
 Kammmuscheln,Bunte Kammmuschel,Mimachlamys varia,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mimachlamys_varia.jpg/120px-Mimachlamys_varia.jpg
@@ -5742,7 +5741,7 @@ Ensis,Amerikanische Scheidenmuschel,Ensis leei,Art,,FALSE,FALSE,https://thumb.wi
 Ensis,Gerade Schwertmuschel,Ensis siliqua,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Ensis_siliqua-H.jpg/120px-Ensis_siliqua-H.jpg
 Pharidae,Taschenmessermuschel,Pharus legumen,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Pharus_legumen.jpg/120px-Pharus_legumen.jpg
 Pharidae,Durchscheinende Scheidenmuschel,Phaxas pellucidus,Art,,FALSE,FALSE,not_found
-Pharidae,Sonnenstrahl-Scheidenmuschel,Siliqua radiata,Art,,FALSE,FALSE,not_found
+Pharidae,Sonnenstrahl-Scheidenmuschel,Siliqua radiata,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Siliqua_radiata_02.jpg/500px-Siliqua_radiata_02.jpg
 Adapedonta,Scheidenmuscheln,Solenidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Solen_marginatus_2.jpg/120px-Solen_marginatus_2.jpg
 Scheidenmuscheln,Gemeine Scheidenmuschel,Solen marginatus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Solen_marginatus_2.jpg/120px-Solen_marginatus_2.jpg
 Heteroconchia,Cardiida,Cardiida,Ordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cerastoderma_lamarcki.jpg/120px-Cerastoderma_lamarcki.jpg
@@ -5785,7 +5784,7 @@ Bohrmuscheln,Weisse Bohrmuschel,Barnea candida,Art,,FALSE,FALSE,https://thumb.wi
 Bohrmuscheln,Krause Bohrmuschel,Zirfaea crispata,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Zirfaea_crispata-Nl.jpg/120px-Zirfaea_crispata-Nl.jpg
 Myida,Schiffsbohrmuscheln,Teredinidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Shipworm.jpg/120px-Shipworm.jpg
 Schiffsbohrmuscheln,Schiffsbohrwurm,Teredo navalis,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Shipworm.jpg/120px-Shipworm.jpg
-Heteroconchia,Sphaeriida,Sphaeriida,Ordnung,,TRUE,,not_found
+Heteroconchia,Sphaeriida,Sphaeriida,Ordnung,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pisidium_amnicum.jpg/120px-Pisidium_amnicum.jpg
 Sphaeriida,Kugelmuscheln,Sphaeriidae,Familie,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Sphaerium_corneum_%2831759625101%29.jpg/120px-Sphaerium_corneum_%2831759625101%29.jpg
 Kugelmuscheln,Gemeine Kugelmuschel,Sphaerium corneum,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Sphaerium_corneum_%2831759625101%29.jpg/120px-Sphaerium_corneum_%2831759625101%29.jpg
 Kugelmuscheln,Grosse Erbsenmuschel,Pisidium amnicum,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pisidium_amnicum.jpg/120px-Pisidium_amnicum.jpg
@@ -5843,7 +5842,7 @@ Zylinderrosen,Vielarmige Köcheranemone,Pachycerianthus multiplicatus,Art,,FALSE
 Sechsstrahlige Blumentiere,Seeanemonen,Actiniaria,Ordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Urticina_piscivora_1.jpg/120px-Urticina_piscivora_1.jpg
 Seeanemonen,Anenthemonae,Anenthemonae,Unterordnung,,,,not_found
 Anenthemonae,Wurmanemone,Scolanthus callimorphus,Art,,FALSE,FALSE,not_found
-Anenthemonae,Edwardsianthus pudicus,Edwardsianthus pudicus,Art,,FALSE,FALSE,not_found
+Anenthemonae,Edwardsianthus pudicus,Edwardsianthus pudicus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/An%C3%A9mona_%28Edwardsianthus_pudicus%29%2C_Nosy_Be%2C_Madagascar%2C_2025-09-20%2C_DD_112.jpg/500px-An%C3%A9mona_%28Edwardsianthus_pudicus%29%2C_Nosy_Be%2C_Madagascar%2C_2025-09-20%2C_DD_112.jpg
 Seeanemonen,Enthemonae,Enthemonae,Unterordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Sea_Loch_Anemone.jpg/120px-Sea_Loch_Anemone.jpg
 Enthemonae,Actiniidae,Actiniidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Actinia_equina_%28Boulogne-sur-Mer%29.jpg/120px-Actinia_equina_%28Boulogne-sur-Mer%29.jpg
 Actiniidae,Anthopleura,Anthopleura,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Anthopleura_xanthogrammica_1.jpg/120px-Anthopleura_xanthogrammica_1.jpg
@@ -6206,11 +6205,11 @@ Freilebende Borstenwürmer,Grüner Seeringelwurm,Alitta virens,Art,,FALSE,FALSE,
 Freilebende Borstenwürmer,Ringkieferwurm,Leodice torquata,Art,,FALSE,FALSE,not_found
 Borstenwürmer,Sesshafte Borstenwürmer,Sedentaria,Unterklasse,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/A_monograph_of_the_British_marine_annelids_1922_Plate_CXIV.jpg/120px-A_monograph_of_the_British_marine_annelids_1922_Plate_CXIV.jpg
 Sesshafte Borstenwürmer,Federwürmer,Sabellidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sabella_spallanzanii_2.jpg/120px-Sabella_spallanzanii_2.jpg
-Federwürmer,Sabella,Sabella,Gattung,,,,not_found
+Federwürmer,Sabella,Sabella,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Schraubensabelle_gozo.jpg/120px-Schraubensabelle_gozo.jpg
 Sabella,Pfauenfederwurm,Sabella pavonina,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Lpfauenr%C3%B6hrenwurm.jpg/120px-Lpfauenr%C3%B6hrenwurm.jpg
 Sabella,Schraubensabelle,Sabella spallanzanii,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Schraubensabelle_gozo.jpg/120px-Schraubensabelle_gozo.jpg
 Federwürmer,Schlicksabelle,Myxicola infundibulum,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Myxicola_infundibulum_feeding_tentacles.jpg/120px-Myxicola_infundibulum_feeding_tentacles.jpg
-Federwürmer,Marias Röhrenwurm,Bispira mariae,Art,,FALSE,FALSE,not_found
+Federwürmer,Marias Röhrenwurm,Bispira mariae,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Bispira_mariae_Lo_Bianco%2C_1893_%28Phylum_Annelida%2C_classe_Polychaeta%29.jpg/500px-Bispira_mariae_Lo_Bianco%2C_1893_%28Phylum_Annelida%2C_classe_Polychaeta%29.jpg
 Sesshafte Borstenwürmer,Kalkröhrenwürmer,Serpulidae,Familie,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Spirobranchus_giganteus_%28Blue_and_peach_chrstmas_tree_worms%29.jpg/120px-Spirobranchus_giganteus_%28Blue_and_peach_chrstmas_tree_worms%29.jpg
 Kalkröhrenwürmer,Bunter Spiralröhrenwurm,Spirobranchus giganteus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Christmastreeworm_Nick_Hobgood.jpg/120px-Christmastreeworm_Nick_Hobgood.jpg
 Kalkröhrenwürmer,Glatter Kalkröhrenwurm,Protula tubularia,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kalkwurm.JPG/120px-Kalkwurm.JPG
