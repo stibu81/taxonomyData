@@ -2,7 +2,12 @@ parent,name,scientific,rank,extinct,local,observed,image_url
 ,Lebewesen,,Lebewesen,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Lebewesen,Eukaryoten,Eukaryota,Domäne,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eukaryota_diversity_2.jpg/100px-Eukaryota_diversity_2.jpg
 Eukaryoten,Tiere,Animalia,Reich,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Animal_diversity.png/100px-Animal_diversity.png
-Tiere,Stachelhäuter,Echinodermata,Stamm,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Echinodermata.png/120px-Echinodermata.png
+Tiere,Zweiseitentiere,Bilateria,ohne Rang,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Animal_diversity_October_2007_with_Trilobite.jpg/120px-Animal_diversity_October_2007_with_Trilobite.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Zweiseitentiere,Urmünder,Protostomia,ohne Rang,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Protostomes.png/120px-Protostomes.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Urmünder,Lophotrochozoen,Lophotrochozoa,Überstamm,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Nautilus_shell.jpg/120px-Nautilus_shell.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Urmünder,Häutungstiere,Ecdysozoa,Überstamm,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Cicada_shedding.jpg/120px-Cicada_shedding.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Zweiseitentiere,Neumünder,Deuterostomia,ohne Rang,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Deuterostomes.png/120px-Deuterostomes.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Neumünder,Stachelhäuter,Echinodermata,Stamm,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Echinodermata.png/120px-Echinodermata.png
 Stachelhäuter,Seelilien und Haarsterne,Crinoidea,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Crinoid_in_West_Rota_caldera_%28expl0043_5114735036%29.jpg/120px-Crinoid_in_West_Rota_caldera_%28expl0043_5114735036%29.jpg
 Seelilien und Haarsterne,Haarsterne,Comatulida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Comanthia_schlegeli_%28Feather_star%29.jpg/120px-Comanthia_schlegeli_%28Feather_star%29.jpg
 Haarsterne,Mittelmeer-Haarstern,Antedon mediterranea,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Antedon_mediterranea.jpg/120px-Antedon_mediterranea.jpg
@@ -102,7 +107,7 @@ Seeigel,Cidaroida,Cidaroida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/co
 Cidaroida,Lanzenseeigel,Cidaridae,Familie,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Eucidaris_tribuloides_%28Slate-pencil_Urchin%29.jpg/120px-Eucidaris_tribuloides_%28Slate-pencil_Urchin%29.jpg
 Seeigel,Arbacioida,Arbacioida,Ordnung,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arbacia_lixula.JPG/120px-Arbacia_lixula.JPG
 Arbacioida,Schwarzer Seeigel,Arbacia lixula,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Arbacia_lixula_am_Mittelmeer.jpg/120px-Arbacia_lixula_am_Mittelmeer.jpg
-Tiere,Gliederfüsser,Arthropoda,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arthropoda.jpg/120px-Arthropoda.jpg
+Häutungstiere,Gliederfüsser,Arthropoda,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Arthropoda.jpg/120px-Arthropoda.jpg
 Gliederfüsser,Krebstiere,Crustacea,Unterstamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Crustacea.jpg/120px-Crustacea.jpg
 Krebstiere,Kiemenfusskrebse,Branchiopoda,Klasse,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/LepidurusApus.jpg/120px-LepidurusApus.jpg
 Kiemenfusskrebse,Kiemenfüsser,Anostraca,Ordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Artemia_salina_3.jpg/120px-Artemia_salina_3.jpg
@@ -2919,7 +2924,7 @@ Doppelfüsser,Bandfüsser,Polydesmida,Ordnung,,TRUE,,https://upload.wikimedia.or
 Bandfüsser,Gewächshaus-Tausendfüsser,Oxidus gracilis,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Oxidusgracilis.png/120px-Oxidusgracilis.png
 Bandfüsser,Schweizer Bandfüsser,Propolydesmus helveticus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Polydesmus_helveticus-_Fauna_Bavarica.png/120px-Polydesmus_helveticus-_Fauna_Bavarica.png
 Bandfüsser,Rotbrauner Bandfüsser,Polydesmus angustus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2014.09.20.-6-Kaefertaler_Wald-Mannheim--Tausendfuesser-Polydesmus_angustus.jpg/120px-2014.09.20.-6-Kaefertaler_Wald-Mannheim--Tausendfuesser-Polydesmus_angustus.jpg
-Tiere,Chordatiere,Chordata,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
+Neumünder,Chordatiere,Chordata,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pristella_tetra1.jpg/100px-Pristella_tetra1.jpg
 Chordatiere,Schädellose,Cephalochordata,Unterstamm,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
 Schädellose,Leptocardii,Leptocardii,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
 Leptocardii,Lanzettfischchen,Branchiostomatidae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Branchiostoma_lanceolatum.jpg/120px-Branchiostoma_lanceolatum.jpg
@@ -5191,7 +5196,7 @@ Arothron,Schwarzflecken-Kugelfisch,Arothron nigropunctatus,Art,,FALSE,FALSE,http
 Kugelfische,Grüner Kugelfisch,Dichotomyctere nigroviridis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tetraodon_nigroviridis_%28Wroclaw_zoo%29.JPG/120px-Tetraodon_nigroviridis_%28Wroclaw_zoo%29.JPG
 Kugelfische,Zwerg-Kugelfisch,Carinotetraodon travancoricus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Carinotetraodon_travancoricus_1.JPG/120px-Carinotetraodon_travancoricus_1.JPG
 Kugelfische,Goldringel-Kugelfisch,Tetraodon mbu,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Goldringel-Kugelfisch.JPG/120px-Goldringel-Kugelfisch.JPG
-Tiere,Weichtiere,Mollusca,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mollusca_diversity.jpg/120px-Mollusca_diversity.jpg
+Lophotrochozoen,Weichtiere,Mollusca,Stamm,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mollusca_diversity.jpg/120px-Mollusca_diversity.jpg
 Weichtiere,Stachelweichtiere,Aculifera,Unterstamm,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Chiton.jpg/120px-Chiton.jpg
 Stachelweichtiere,Schildfüsser,Caudofoveata,Klasse,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chaetoderma_nitidulum.jpg/120px-Chaetoderma_nitidulum.jpg
 Schildfüsser,Chaetoderma,Chaetoderma,Gattung,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chaetoderma_nitidulum.jpg/120px-Chaetoderma_nitidulum.jpg
@@ -6042,7 +6047,7 @@ Nuda,Beroida,Beroida,Ordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/th
 Beroida,Beroe,Beroe,Gattung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Beroe_cucumis.jpeg/120px-Beroe_cucumis.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Beroe,Helm-Rippenqualle,Beroe ovata,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Beroe_ovata.jpg/120px-Beroe_ovata.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Beroe,Melonenqualle,Beroe cucumis,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Beroe_cucumis.jpeg/120px-Beroe_cucumis.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-Tiere,Rädertierchen,Rotifera,Stamm,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Keratella_cochlearis.jpg/120px-Keratella_cochlearis.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Urmünder,Rädertierchen,Rotifera,Stamm,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Keratella_cochlearis.jpg/120px-Keratella_cochlearis.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Rädertierchen,Monogononta,Monogononta,Unterklasse,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Polyarthra_EPA.jpg/120px-Polyarthra_EPA.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Monogononta,Drachen-Rädertierchen,Synchaeta,Gattung,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/de/thumb/4/47/Synchaeta1.jpg/120px-Synchaeta1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Monogononta,Kellicottia,Kellicottia,Gattung,,,,https://thumb.wikimedia.org/wikipedia/de/thumb/d/d0/Kellicottia_longispina.jpg/120px-Kellicottia_longispina.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
@@ -6119,7 +6124,7 @@ Kalkschwämme,Leucosolenida,Leucosolenida,Ordnung,,,,https://thumb.wikimedia.org
 Leucosolenida,Traubiger Röhrenkalkschwamm,Leucosolenia botryoides,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Leucosolenia_botryoides_43980050.jpg/500px-Leucosolenia_botryoides_43980050.jpg
 Schwämme,Glasschwämme,Hexactinellida,Klasse,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Glassspongefoundatadepthofabout1500ftonLopheliareefs.jpg/120px-Glassspongefoundatadepthofabout1500ftonLopheliareefs.jpg
 Glasschwämme,Giesskannenschwamm,Euplectella aspergillum,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Venus_Flower_Basket.jpg/120px-Venus_Flower_Basket.jpg
-Tiere,Moostierchen,Bryozoa,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Haeckel_Bryozoa.jpg/120px-Haeckel_Bryozoa.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Lophotrochozoen,Moostierchen,Bryozoa,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Haeckel_Bryozoa.jpg/120px-Haeckel_Bryozoa.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Moostierchen,Kreiswirbler,Gymnolaemata,Klasse,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Reteporella_grimaldii.jpg/120px-Reteporella_grimaldii.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Kreiswirbler,Cheilostomatida,Cheilostomatida,Ordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Cheilostome_Serpulid_Cape_Cod.JPG/120px-Cheilostome_Serpulid_Cape_Cod.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Cheilostomatida,Flustrina,Flustrina,Unterordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Flustra_foliacea.jpg/120px-Flustra_foliacea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
@@ -6149,7 +6154,7 @@ Moostierchen,Engmünder,Stenolaemata,Klasse,,,,https://thumb.wikimedia.org/wikip
 Engmünder,Korallen-Moostierchen,Patinella radiata,Art,,FALSE,FALSE,not_found
 Engmünder,Verwachsenes Moostierchen,Frondipora verrucosa,Art,,FALSE,FALSE,not_found
 Engmünder,Stacheliges Moostierchen,Crisia eburnea,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Crisia_eburnea_%28YPM_IZ_090999%29.jpeg/500px-Crisia_eburnea_%28YPM_IZ_090999%29.jpeg
-Tiere,Ringelwürmer,Annelida,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/20060131_earthworm_hits_dirt.jpg/120px-20060131_earthworm_hits_dirt.jpg
+Lophotrochozoen,Ringelwürmer,Annelida,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/20060131_earthworm_hits_dirt.jpg/120px-20060131_earthworm_hits_dirt.jpg
 Ringelwürmer,Gürtelwürmer,Clitellata,Klasse,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Regenwurm1.jpg/120px-Regenwurm1.jpg
 Gürtelwürmer,Egel,Hirudinea,Unterklasse,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/HaemopisSanguisuga.jpg/120px-HaemopisSanguisuga.jpg
 Egel,Rüssellose Egel,Arhynchobdellida,Ordnung,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Americobdella.jpg/120px-Americobdella.jpg
@@ -6233,7 +6238,7 @@ Chaetopteridae,Glasröhrenwurm,Spiochaetopterus costarum,Art,,FALSE,FALSE,https:
 Ringelwürmer,Spritzwürmer,Sipuncula,Ordnung,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Golfingia.jpg/120px-Golfingia.jpg
 Spritzwürmer,Gemeiner Spritzwurm,Sipunculus nudus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sipunculus_nudus.jpeg/120px-Sipunculus_nudus.jpeg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Spritzwürmer,Phascolosoma agassizii,Phascolosoma agassizii,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Phascolosoma_agassizii_124088.jpg/500px-Phascolosoma_agassizii_124088.jpg
-Tiere,Plattwürmer,Platyhelminthes,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Bedford%27s_Flatworm.jpg/120px-Bedford%27s_Flatworm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Urmünder,Plattwürmer,Platyhelminthes,Stamm,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Bedford%27s_Flatworm.jpg/120px-Bedford%27s_Flatworm.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Plattwürmer,Bandwürmer,Cestoda,Klasse,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Taenia_saginataL.jpg/120px-Taenia_saginataL.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Bandwürmer,Fischbandwurm,Diphyllobothrium latum,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bothriocephalus_latus.jpg/500px-Bothriocephalus_latus.jpg
 Bandwürmer,Fuchsbandwurm,Echinococcus multilocularis,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Echinococcus-multilocularis-adult.jpg/120px-Echinococcus-multilocularis-adult.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
@@ -6269,7 +6274,7 @@ Landplanarien,Neuseeland-Plattwurm,Arthurdendyus triangulatus,Art,,FALSE,FALSE,h
 Landplanarien,Caenoplana coerulea,Caenoplana coerulea,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Caenoplana_coerulea.jpg/120px-Caenoplana_coerulea.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Landplanarien,Obama ladislavii,Obama ladislavii,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Obama_ladislavii_on_rock.jpg/120px-Obama_ladislavii_on_rock.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Landplanarien,Polycladus gayi,Polycladus gayi,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Polycladus_gayi.jpg/120px-Polycladus_gayi.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-Tiere,Bärtierchen,Tardigrada,Stamm,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png/120px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Häutungstiere,Bärtierchen,Tardigrada,Stamm,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png/120px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Bärtierchen,Eutardigrada,Eutardigrada,Klasse,,,,https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Waterbear.jpg/120px-Waterbear.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Eutardigrada,Hypsibius dujardini,Hypsibius dujardini,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hypsibiusdujardini.jpg/120px-Hypsibiusdujardini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Eutardigrada,Milnesium tardigradum,Milnesium tardigradum,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png/120px-SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
