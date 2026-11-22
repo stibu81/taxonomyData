@@ -290,9 +290,9 @@ Felsenspringer (UK),Felsenspringer,Lepismachilis y-signata,Art,,TRUE,FALSE,https
 Felsenspringer (UK),Petrobius maritimus,Petrobius maritimus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Petrobius_maritimus_2010-06-02.jpg/120px-Petrobius_maritimus_2010-06-02.jpg
 Insekten,Fischchen,Zygentoma,Unterklasse,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG/120px-Ctenolepisma_longicaudata_%28long-tailed_silverfish%29%2C_Mook%2C_the_Netherlands.JPG
 Fischchen,Silberfischchen,Lepisma saccharinum,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/LepismaSaccharina.jpg/120px-LepismaSaccharina.jpg
-Fischchen,Ctenolepisma,Ctenolepisma,Gattung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Silverfish_2007-2.jpg/120px-Silverfish_2007-2.jpg
+Fischchen,Ctenolepisma,Ctenolepisma,Gattung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Silverfish_2007-2.jpg/120px-Silverfish_2007-2.jpg
 Ctenolepisma,Papierfischchen,Ctenolepisma longicaudatum,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ZK3_16156_c-Ctenolepisma_longicaudata.jpg/120px-ZK3_16156_c-Ctenolepisma_longicaudata.jpg
-Ctenolepisma,Kammfischchen,Ctenolepisma lineatum,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ctenolepisma_lineata_pae.jpg/120px-Ctenolepisma_lineata_pae.jpg
+Ctenolepisma,Kammfischchen,Ctenolepisma lineatum,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ctenolepisma_lineata_pae.jpg/120px-Ctenolepisma_lineata_pae.jpg
 Ctenolepisma,Geisterfischchen,Ctenolepisma calvum,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ctenolepisma-calva-01.jpg/120px-Ctenolepisma-calva-01.jpg
 Fischchen,Ameisenfischchen,Atelura formicaria,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Atelura_formicaria.jpg/120px-Atelura_formicaria.jpg
 Fischchen,Ofenfischchen,Thermobia domestica,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ofenfischchen1.jpg/120px-Ofenfischchen1.jpg
@@ -777,9 +777,9 @@ Buckelzirpen,Dornzikade,Centrotus cornutus,Art,,TRUE,FALSE,https://upload.wikime
 Buckelzirpen,Büffelzikade,Stictocephala bisonia,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/(MHNT)_Stictocephala_bisonia.jpg/120px-(MHNT)_Stictocephala_bisonia.jpg
 Buckelzirpen,Ginsterzikade,Gargara genistae,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gargara.genistae.jpg/120px-Gargara.genistae.jpg
 Buckelzirpen,Umbonia crassicornis,Umbonia crassicornis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Umbonia_crassicornis_%28F._Membracidae%29_%282532975946%29.jpg/120px-Umbonia_crassicornis_%28F._Membracidae%29_%282532975946%29.jpg
-Rundkopfzikaden,Schaumzikaden,Aphrophoridae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aphrophora_major.jpg/120px-Aphrophora_major.jpg
+Rundkopfzikaden,Schaumzikaden,Aphrophoridae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aphrophora_major.jpg/120px-Aphrophora_major.jpg
 Schaumzikaden,Wiesenschaumzikade,Philaenus spumarius,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aphrophoridae_spec.02.jpg/120px-Aphrophoridae_spec.02.jpg
-Schaumzikaden,Erlenschaumzikade,Aphrophora alni,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Aphrophoraalni_Ausschnitt.jpg/120px-Aphrophoraalni_Ausschnitt.jpg
+Schaumzikaden,Erlenschaumzikade,Aphrophora alni,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Aphrophoraalni_Ausschnitt.jpg/120px-Aphrophoraalni_Ausschnitt.jpg
 Schaumzikaden,Grasschaumzikade,Neophilaenus lineatus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Neophilaenus_lineatus2.jpg/120px-Neophilaenus_lineatus2.jpg
 Schaumzikaden,Wanstschaumzikade,Lepyronia coleoptrata,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lepyronia_coleoptrata_02.JPG/120px-Lepyronia_coleoptrata_02.JPG
 Rundkopfzikaden,Zwergzikaden,Cicadellidae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cicada_spec.jpg/120px-Cicada_spec.jpg
@@ -848,7 +848,7 @@ Leptopodomorpha,Uferwanzen,Saldidae,Familie,,TRUE,,https://upload.wikimedia.org/
 Uferwanzen,Gemeiner Hüpferling,Saldula saltatoria,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Saldula.saltatoria2.jpg/120px-Saldula.saltatoria2.jpg
 Uferwanzen,Gürtel-Troll,Chartoscirta cincta,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Chartoscirta_cincta_%2849599112303%29.jpg/500px-Chartoscirta_cincta_%2849599112303%29.jpg
 Uferwanzen,Geröll-Hüpferling,Macrosaldula scotica,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Macrosaldula.scotica1.jpg/120px-Macrosaldula.scotica1.jpg
-Wanzen,Cimicomorpha,Cimicomorpha,Teilordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Deraeocoris.ruber.jpg/120px-Deraeocoris.ruber.jpg
+Wanzen,Cimicomorpha,Cimicomorpha,Teilordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Deraeocoris.ruber.jpg/120px-Deraeocoris.ruber.jpg
 Cimicomorpha,Plattwanzen,Cimicidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cimex_dissimilis.jpg/120px-Cimex_dissimilis.jpg
 Plattwanzen,Bettwanze,Cimex lectularius,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cimex_lectularius.jpg/120px-Cimex_lectularius.jpg
 Cimicomorpha,Weichwanzen,Miridae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lygus.pratensis.7006.jpg/120px-Lygus.pratensis.7006.jpg
@@ -870,9 +870,11 @@ Cimicomorpha,Sichelwanzen,Nabidae,Familie,,TRUE,,https://upload.wikimedia.org/wi
 Sichelwanzen,Prostemma guttula,Prostemma guttula,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Becho_Bastavales_Galicia_715.jpg/120px-Becho_Bastavales_Galicia_715.jpg
 Sichelwanzen,Baumsichelwanze,Himacerus apterus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Himacerus_apterus_324817474.jpg/120px-Himacerus_apterus_324817474.jpg
 Sichelwanzen,Gelbrand-Sichelwanze,Nabis flavomarginatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nabis_flavomarginatus_1.JPG/120px-Nabis_flavomarginatus_1.JPG
-Cimicomorpha,Raubwanzen,Reduviidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rhynocoris_iracundus.jpg/120px-Rhynocoris_iracundus.jpg
+Cimicomorpha,Raubwanzen,Reduviidae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rhynocoris_iracundus.jpg/120px-Rhynocoris_iracundus.jpg
 Raubwanzen,Staubwanze,Reduvius personatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Staubwanze_Reduvius_personatus_2.jpg/120px-Staubwanze_Reduvius_personatus_2.jpg
-Raubwanzen,Rote Mordwanze,Rhynocoris iracundus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rhynocoris_iracundus.jpg/120px-Rhynocoris_iracundus.jpg
+Raubwanzen,Rhynocoris,Rhynocoris,Gattung,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Assassin_bug_%28Rhynocoris_iracundus%29_with_bee_%28Apis_ssp%29_prey.jpg/120px-Assassin_bug_%28Rhynocoris_iracundus%29_with_bee_%28Apis_ssp%29_prey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Rhynocoris,Rote Mordwanze,Rhynocoris iracundus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rhynocoris_iracundus.jpg/120px-Rhynocoris_iracundus.jpg
+Rhynocoris,Geringelte Mordwanze,Rhynocoris annulatus,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Rhinocoris_annulatus_20060511_790.jpg/120px-Rhinocoris_annulatus_20060511_790.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Raubwanzen,Stechmückenartige Mückenraubwanze,Empicoris culiciformis,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2018_04_15_Empicoris_culiciformis3.jpg/120px-2018_04_15_Empicoris_culiciformis3.jpg
 Raubwanzen,Kurzflügelige Raubwanze,Coranus subapterus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Coranus_subapterus.jpg/120px-Coranus_subapterus.jpg
 Raubwanzen,Goedels Raubwanze,Nagusta goedelii,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nagusta_goedelii_graz_03.jpg/120px-Nagusta_goedelii_graz_03.jpg
@@ -939,6 +941,10 @@ Eurydema,Schwarzrückige Gemüsewanze,Eurydema ornata,Art,,TRUE,FALSE,https://th
 Eurydema,Grosse Gemüsewanze,Eurydema ventralis,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pentatomidae_-_Eurydema_ventralis.JPG/120px-Pentatomidae_-_Eurydema_ventralis.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Pentatominae,Cappaeini,Cappaeini,Tribus,,TRUE,,https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg/120px-Rotbeinige_Baumwanze_%28Pentatoma_rufipes%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Cappaeini,Marmorierte Baumwanze,Halyomorpha halys,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg/120px-Brown_Marmorated_Stink_Bug_-_Halyomorpha_halys%2C_C._F._Phelps_Wildlife_Management_Area%2C_Sumerduck%2C_Virginia%2C_April_8%2C_2021_%2851264388681%29.jpg
+Pentatominae,Aeliini,Aeliini,Tribus,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Aelia.acuminata.7330.jpg/120px-Aelia.acuminata.7330.jpg
+Aeliini,Aelia,Aelia,Gattung,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aelia_rostrata.jpg/500px-Aelia_rostrata.jpg
+Aelia,Getreidewanze,Aelia acuminata,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Aelia.acuminata.7330.jpg/120px-Aelia.acuminata.7330.jpg
+Aelia,Grosser Spitzling,Aelia rostrata,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aelia_rostrata.jpg/500px-Aelia_rostrata.jpg
 Baumwanzen,Podopinae,Podopinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hainich_fg09.jpg/120px-Hainich_fg09.jpg
 Podopinae,Hakenwanze,Podops inunctus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/2021_06_03_Podops_inunctus.jpg/120px-2021_06_03_Podops_inunctus.jpg
 Podopinae,Ankerwanze,Ancyrosoma leucogrammes,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg/120px-%28MHNT%29_Ancyrosoma_leucogrammes_on_Chaerophyllum_aureum.jpg
@@ -1034,13 +1040,13 @@ Ameisenjungfern,Riesen-Ameisenjungfer,Palpares libelluloides,Art,,FALSE,FALSE,ht
 Netzflügler,Fadenhafte,Nemopteridae,Familie,,,,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg/120px-Nemoptera_sp._MHNT.ZOO.2004.0.736.jpg
 Fadenhafte,Schwalbenschwanzhaft,Nemoptera sinuata,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nemoptera_sinuata_Nazilli.jpg/120px-Nemoptera_sinuata_Nazilli.jpg
 Holometabole Insekten,Käfer,Coleoptera,Ordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Anoplotrupes.stercorosus.jpg/120px-Anoplotrupes.stercorosus.jpg
-Käfer,Adephaga,Adephaga,Unterordnung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
+Käfer,Adephaga,Adephaga,Unterordnung,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
 Adephaga,Schwimmkäfer,Dytiscidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dytiscidae.png/120px-Dytiscidae.png
 Schwimmkäfer,Gelbrandkäfer,Dytiscus marginalis,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dytiscus_marginalis_male-female.png/120px-Dytiscus_marginalis_male-female.png
 Schwimmkäfer,Schmalbindiger Breitflügel-Tauchkäfer,Graphoderus bilineatus,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Graphoderus_bilineatus_SLO.jpg/120px-Graphoderus_bilineatus_SLO.jpg
 Schwimmkäfer,Glatter Kugelschwimmer,Hyphydrus ovatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg/120px-Hyphydrus_ovatus_%28Linn%C3%A9%2C_1761%29.jpg
 Schwimmkäfer,Gaukler (Käfer),Cybister lateralimarginalis,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Cybister_lateralimarginalis_(DeGeer%2C_1774)_male.jpg/120px-Cybister_lateralimarginalis_(DeGeer%2C_1774)_male.jpg
-Adephaga,Laufkäfer,Carabidae,Familie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carabus_auratus.jpg/120px-Carabus_auratus.jpg
+Adephaga,Laufkäfer,Carabidae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carabus_auratus.jpg/120px-Carabus_auratus.jpg
 Laufkäfer,Carabinae,Carabinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Carabus_glabratus.jpg/120px-Carabus_glabratus.jpg
 Carabinae,Grosslaufkäfer,Carabus,Gattung,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Laufk%C3%A4fer_Carabus_problematicus.jpg/120px-Laufk%C3%A4fer_Carabus_problematicus.jpg
 Grosslaufkäfer,Blauvioletter Waldlaufkäfer,Carabus problematicus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Carabus_problematicus_Herbst%2C_1786_%282971073187%29.jpg/120px-Carabus_problematicus_Herbst%2C_1786_%282971073187%29.jpg
@@ -1060,13 +1066,14 @@ Cicindela,Berg-Sandlaufkäfer,Cicindela sylvicola,Art,,TRUE,FALSE,https://upload
 Cicindela,Sechspunktiger Sandlaufkäfer,Cicindela sexguttata,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cicindela_sexguttata_Fabricius_1.jpg/120px-Cicindela_sexguttata_Fabricius_1.jpg
 Sandlaufkäfer,Deutscher Sandlaufkäfer,Cylindera germanica,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cylindera_germanica_side.JPG/120px-Cylindera_germanica_side.JPG
 Sandlaufkäfer,Manticora,Manticora,Gattung,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Monster_Tiger_Beetle_%28Manticora_scabra%29_male_%2811734886986%29.jpg/120px-Monster_Tiger_Beetle_%28Manticora_scabra%29_male_%2811734886986%29.jpg
-Laufkäfer,Harpalinae,Harpalinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IKAl_20100808_Abax_parallelepipedus.jpg/120px-IKAl_20100808_Abax_parallelepipedus.jpg
+Laufkäfer,Harpalinae,Harpalinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IKAl_20100808_Abax_parallelepipedus.jpg/120px-IKAl_20100808_Abax_parallelepipedus.jpg
 Harpalinae,Getreidelaufkäfer,Zabrus tenebrioides,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zabrus_tenebrionides_%28Goeze%2C_1777%29_%282935442808%29.jpg/120px-Zabrus_tenebrionides_%28Goeze%2C_1777%29_%282935442808%29.jpg
 Harpalinae,Mondflecklaufkäfer,Callistus lunatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Callistus_lunatus_up.jpg/120px-Callistus_lunatus_up.jpg
 Harpalinae,Sechspunktiger Putzläufer,Agonum sexpunctatum,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Agonum_sexpunctatum01.jpg/120px-Agonum_sexpunctatum01.jpg
 Harpalinae,Grosser Breitkäfer,Abax parallelepipedus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Abax.parallelepipedus.jpg/120px-Abax.parallelepipedus.jpg
 Harpalinae,Erzfarbener Kanalkäfer,Amara aenea,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Amara_aenea01.jpg/120px-Amara_aenea01.jpg
 Harpalinae,Vierfleck-Rindenläufer,Dromius quadrimaculatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dromius_quadrimaculatus_up.jpg/120px-Dromius_quadrimaculatus_up.jpg
+Harpalinae,Buntfarbener Putzläufer,Anchomenus dorsalis,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Anchomenus_dorsalis_01.JPG/120px-Anchomenus_dorsalis_01.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Laufkäfer,Bombardierkäfer,Brachininae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Brachinus_spPCCA20060328-2821B.jpg/120px-Brachinus_spPCCA20060328-2821B.jpg
 Bombardierkäfer,Schwarzer Bombardierkäfer,Aptinus bombarda,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aptinus.bombarda.-.calwer.05.16.jpg/120px-Aptinus.bombarda.-.calwer.05.16.jpg
 Bombardierkäfer,Kleiner Bombardierkäfer,Brachinus explodens,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Brachinus-explodens-01-fws.jpg/120px-Brachinus-explodens-01-fws.jpg
@@ -1394,9 +1401,14 @@ Blattkäfer,Zirpkäfer,Criocerinae,Unterfamilie,,TRUE,,https://upload.wikimedia.
 Zirpkäfer,Gemeines Spargelhähnchen,Crioceris asparagi,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Crioceris_asparagi_up.jpg/120px-Crioceris_asparagi_up.jpg
 Zirpkäfer,Lilienhähnchen,Lilioceris lilii,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lilienhaenchen.jpg/120px-Lilienhaenchen.jpg
 Zirpkäfer,Rothalsiges Getreidehähnchen,Oulema melanopus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oulema_melanopus01.jpg/120px-Oulema_melanopus01.jpg
-Blattkäfer,Fallkäfer,Cryptocephalinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cryptocephalus_nitidus01.jpg/120px-Cryptocephalus_nitidus01.jpg
-Fallkäfer,Sechspunkt-Fallkäfer,Cryptocephalus sexpunctatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2023_04_29_Cryptocephalus_sexpunctatus_1.jpg/120px-2023_04_29_Cryptocephalus_sexpunctatus_1.jpg
+Blattkäfer,Fallkäfer,Cryptocephalinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Cryptocephalus_nitidus01.jpg/120px-Cryptocephalus_nitidus01.jpg
+Fallkäfer,Cryptocephalus,Cryptocephalus,Gattung,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cryptocephalus_vittatus01.jpg/120px-Cryptocephalus_vittatus01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Cryptocephalus,Seidiger Fallkäfer,Cryptocephalus sericeus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Cryptocephalus_sericeus_back.JPG/120px-Cryptocephalus_sericeus_back.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Cryptocephalus,Querbindiger Fallkäfer,Cryptocephalus moraei,Art,,TRUE,TRUE,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2016_06_11_Kaefer1.jpg/120px-2016_06_11_Kaefer1.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Cryptocephalus,Zweipunktiger Fallkäfer,Cryptocephalus bipunctatus,Art,,TRUE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Cryptocephalus_bipunctatus_cross.JPG/120px-Cryptocephalus_bipunctatus_cross.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+Cryptocephalus,Sechspunkt-Fallkäfer,Cryptocephalus sexpunctatus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2023_04_29_Cryptocephalus_sexpunctatus_1.jpg/120px-2023_04_29_Cryptocephalus_sexpunctatus_1.jpg
 Fallkäfer,Ameisen-Sackkäfer,Clytra laeviuscula,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Clytra_laeviuscula_2005.07.10_09.23.02.jpg/120px-Clytra_laeviuscula_2005.07.10_09.23.02.jpg
+Fallkäfer,Hieroglyphen-Scheckenkäfer,Pachybrachis hieroglyphicus,Art,,FALSE,FALSE,https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2017_06_04_Pachybrachis_hieroglyphicus.jpg/120px-2017_06_04_Pachybrachis_hieroglyphicus.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 Blattkäfer,Galerucinae,Galerucinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Baccharis_leaf_beetle.jpg/120px-Baccharis_leaf_beetle.jpg
 Galerucinae,Seerosenblattkäfer,Galerucella nymphaeae,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Galerucella_nymphaeae_1.jpg/120px-Galerucella_nymphaeae_1.jpg
 Galerucinae,Blauer Erlenblattkäfer,Agelastica alni,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Agelastica_alni.jpeg/120px-Agelastica_alni.jpeg
@@ -1890,10 +1902,10 @@ Pyrginae,Urbanus proteus,Urbanus proteus,Art,,FALSE,FALSE,https://upload.wikimed
 Dickkopffalter,Heteropterinae,Heteropterinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Heteropterus.morpheus.2490.jpg/120px-Heteropterus.morpheus.2490.jpg
 Heteropterinae,Spiegelfleck-Dickkopffalter,Heteropterus morpheus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Heteropterus.morpheus.2490.jpg/120px-Heteropterus.morpheus.2490.jpg
 Heteropterinae,Schwarzfleckiger Golddickkopffalter,Carterocephalus silvicola,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Carterocephalus_silvicola.JPG/120px-Carterocephalus_silvicola.JPG
-Dickkopffalter,Hesperiinae,Hesperiinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hesperia_comma-01_%28xndr%29.jpg/120px-Hesperia_comma-01_%28xndr%29.jpg
+Dickkopffalter,Hesperiinae,Hesperiinae,Unterfamilie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hesperia_comma-01_%28xndr%29.jpg/120px-Hesperia_comma-01_%28xndr%29.jpg
 Hesperiinae,Schwarzkolbiger Braun-Dickkopffalter,Thymelicus lineola,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ochlodes_sylvanus_MichaD.jpg/120px-Ochlodes_sylvanus_MichaD.jpg
 Hesperiinae,Komma-Dickkopffalter,Hesperia comma,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hesperia_comma_-_Flickr_-_gailhampshire_%283_4%29.jpg/120px-Hesperia_comma_-_Flickr_-_gailhampshire_%283_4%29.jpg
-Hesperiinae,Rostfarbiger Dickkopffalter,Ochlodes sylvanus,Art,,TRUE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2014.06.27.-2-Kaefertaler_Wald-Mannheim--Rostfarbiger_Dickkopffalter-Maennchen.jpg/120px-2014.06.27.-2-Kaefertaler_Wald-Mannheim--Rostfarbiger_Dickkopffalter-Maennchen.jpg
+Hesperiinae,Rostfarbiger Dickkopffalter,Ochlodes sylvanus,Art,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2014.06.27.-2-Kaefertaler_Wald-Mannheim--Rostfarbiger_Dickkopffalter-Maennchen.jpg/120px-2014.06.27.-2-Kaefertaler_Wald-Mannheim--Rostfarbiger_Dickkopffalter-Maennchen.jpg
 Papilionoidea,Ritterfalter,Papilionidae,Familie,,TRUE,TRUE,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iphiclides_podalirius.jpg/120px-Iphiclides_podalirius.jpg
 Ritterfalter,Apollofalter und Osterluzeifalter,Parnassiinae,Unterfamilie,,TRUE,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Parnassius_phoebus2.jpg/120px-Parnassius_phoebus2.jpg
 Apollofalter und Osterluzeifalter,Spanischer Osterluzeifalter,Zerynthia rumina,Art,,FALSE,FALSE,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Zer_rum1.jpg/120px-Zer_rum1.jpg
